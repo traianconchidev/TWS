@@ -1,0 +1,24 @@
+[
+  {"n":"01","id":"luxe","category":"9 to 5 Luxe","sub":"Quiet authority, from desk to dinner.","hero":"img/hero_luxe.jpg","pieces":[
+    {"name":"Twill Single-Breasted Blazer","brand":"COS","price":"€179","img":"img/luxe_blazer.jpg","url":"https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/twill-single-breasted-blazer-dark-brown-1294894003"},
+    {"name":"Pleated Wide-Leg Trousers","brand":"COS","price":"€149","img":"img/luxe_trousers.jpg","url":"https://www.cos.com/en-ie/women/womenswear/suitsandtailoring/tailoredtrousers/product/pleated-wide-leg-trousers-black-1350852002"},
+    {"name":"Classic Leather Tote","brand":"COS","price":"€249","img":"img/luxe_tote.jpg","url":"https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"},
+    {"name":"The Twisted Earrings — gold","brand":"COS","img":"img/luxe_earrings.jpg","url":"https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/the-twisted-earrings-gold-1281848001"},
+    {"name":"Oval-Buckle Slim Leather Belt","brand":"COS","img":"img/luxe_belt.jpg","url":"https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-slim-leather-belt-black-1288136001"},
+    {"name":"Pointed Leather Ballet Flats","brand":"COS","img":"img/luxe_flats.jpg","url":"https://www.cos.com/en-ie/women/accessories/shoes/balletpumps/product/pointed-leather-ballet-flats-black-1194860001"}
+  ]},
+  {"n":"02","id":"offduty","category":"Off-Duty Casual","sub":"Ease that reads expensive.","hero":"img/hero_offduty.jpg","pieces":[
+    {"name":"Pure Cashmere Turtleneck","brand":"COS","price":"€200","img":"img/off_knit.jpg","url":"https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/cashmere/product/pure-cashmere-turtleneck-jumper-brown-1232653001"},
+    {"name":"Cropped Wide-Leg Denim","brand":"COS","price":"€89","img":"img/off_jeans.jpg","url":"https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/cropped-wide-leg-denim-trousers-ecru-1313780003"},
+    {"name":"Classic Leather Loafers","brand":"COS","price":"€110","img":"img/off_loafers.jpg","url":"https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"},
+    {"name":"Mini Folded Crossbody Shopper","brand":"COS","img":"img/off_bag.jpg","url":"https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001"},
+    {"name":"Stacked Mini Hoop Earrings — gold","brand":"COS","img":"img/off_earrings.jpg","url":"https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/stacked-mini-hoop-earrings-gold-1278006001"},
+    {"name":"Printed Silk Scarf","brand":"COS","price":"€99","img":"img/off_scarf.jpg","url":"https://www.cos.com/en-ie/women/accessories/hatsscarvesgloves/scarves/product/the-printed-silk-scarf-floral-1283915001"}
+  ]},
+  {"n":"03","id":"studio","category":"Studio Noir","sub":"For the evening that starts after the meeting ends.","hero":"img/hero_studio.jpg","pieces":[
+    {"name":"Scoop-Neck Satin Midi Dress","brand":"COS","price":"€99","img":"img/studio_dress.jpg","url":"https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/scoop-neck-satin-midi-dress-black-1329721002"},
+    {"name":"Strap-Detail Leather Pumps","brand":"COS","price":"€199","img":"img/studio_heels.jpg","url":"https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"},
+    {"name":"Envelope Clasp Pouch","brand":"COS","price":"€89","img":"img/studio_clutch.jpg","url":"https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"},
+    {"name":"Mismatched Knotted Earrings","brand":"COS","price":"€25","img":"img/studio_ear.jpg","url":"https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mismatched-knotted-earrings-gold-1345022001"}
+  ]}
+]
