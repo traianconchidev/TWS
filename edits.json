@@ -1,0 +1,15 @@
+[
+  {
+    "slug": "camel-ink",
+    "type": "palette",
+    "eyebrow": "Colour Story",
+    "title": "Camel & Ink",
+    "intro": "A quiet-luxury autumn palette: warm camel against deep ink. Soft, grounded, and endlessly wearable from desk to dinner.",
+    "hero": "https://d2ol7oe51mr4n9.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/a38afc92-4d11-494e-ac6b-595994ff6f78.png",
+    "swatches": [
+      { "name": "Camel", "hex": "#B79A74" },
+      { "name": "Ink", "hex": "#1B2327" }
+    ],
+    "lookIds": ["p07", "luxe"]
+  }
+]

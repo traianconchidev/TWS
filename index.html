@@ -1,0 +1,343 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="mitgo-verification" content="e42afc6e-94b1-41b6-b32c-7d409293bef4">
+<title>Timeless Wardrobe Studio — Quiet-Luxury Outfits, Shoppable</title>
+<meta name="description" content="Timeless Wardrobe Studio curates quiet-luxury outfits — every piece linked straight to the retailer. Shop the look: workwear, off-duty and evening edits.">
+<meta name="theme-color" content="#1B2327">
+<meta property="og:site_name" content="Timeless Wardrobe Studio">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Timeless Wardrobe Studio — Quiet-Luxury Outfits, Shoppable">
+<meta property="og:description" content="Curated quiet-luxury outfits, every piece linked to the retailer. Shop the look.">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://timelesswardrobestudio.com/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Montserrat:wght@300;400;500&display=swap">
+<style>
+  :root{
+    --ink:#1B2327; --bg:#F6F5F3; --accent:#C5B6A5; --camel:#B79A74;
+    --dim:#55514A; --muted:#8C877D; --line:#E2DED5; --tile:#ECEAE4;
+    --serif:"Cinzel",Georgia,serif; --sans:"Montserrat","Helvetica Neue",Arial,sans-serif;
+    color-scheme:light;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-weight:400;
+    font-size:15px;line-height:1.65;-webkit-font-smoothing:antialiased;margin:0}
+  img{display:block;max-width:100%}
+  a{color:inherit}
+  .wrap{max-width:1000px;margin:0 auto;
+    padding-left:max(22px,env(safe-area-inset-left,0px));
+    padding-right:max(22px,env(safe-area-inset-right,0px))}
+
+  /* Header */
+  header.site{position:sticky;top:0;z-index:20;background:rgba(246,245,243,.9);
+    backdrop-filter:saturate(1.1) blur(8px);border-bottom:1px solid var(--line)}
+  .nav{display:flex;align-items:center;justify-content:space-between;height:60px}
+  .brand{font-family:var(--serif);font-weight:600;font-size:17px;letter-spacing:.2em;
+    text-transform:uppercase;text-decoration:none;color:var(--ink)}
+  .nav a.link{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--dim);
+    text-decoration:none;margin-left:22px;font-weight:500}
+  .nav a.link:hover{color:var(--ink)}
+
+  /* Hero */
+  .hero-home{text-align:center;padding-block:54px 30px}
+  .hero-home .kick{font-size:11px;letter-spacing:.34em;text-transform:uppercase;color:var(--muted);font-weight:500}
+  .hero-home h1{font-family:var(--serif);font-weight:400;font-size:clamp(30px,6vw,46px);
+    line-height:1.12;letter-spacing:.01em;margin:16px auto 0;max-width:16ch;text-wrap:balance}
+  .hero-home p{margin:16px auto 0;max-width:48ch;color:var(--dim);font-weight:300;font-size:15px}
+
+  /* Section heading */
+  .sec-head{display:flex;align-items:center;gap:14px;margin:40px 0 22px}
+  .sec-head h2{font-family:var(--serif);font-weight:600;font-size:14px;letter-spacing:.16em;
+    text-transform:uppercase;margin:0;white-space:nowrap}
+  .sec-head .bar{flex:1;height:1px;background:var(--line)}
+  .sec-head .seeall{font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);
+    text-decoration:none;font-weight:500;white-space:nowrap}
+  .sec-head .seeall:hover{color:var(--ink)}
+  .tags{margin:18px 0 0;display:flex;flex-wrap:wrap;gap:8px;padding:0}
+  .tags span{font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--dim);
+    border:1px solid var(--line);border-radius:40px;padding:6px 13px}
+
+  /* Cards grid (home) */
+  .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:26px 22px}
+  .card{display:flex;flex-direction:column;text-decoration:none;color:inherit}
+  .card__img{width:100%;aspect-ratio:3/4;object-fit:cover;background:var(--tile);border-radius:3px}
+  .card__img.contain{object-fit:contain}
+  .card__eyebrow{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);
+    font-weight:500;margin:12px 0 5px}
+  .card__title{font-family:var(--serif);font-weight:400;font-size:17px;line-height:1.2;margin:0}
+  .card__meta{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-top:7px}
+  .card:hover .card__img{opacity:.9}
+
+  /* Look / edit page */
+  .page{padding-block:26px 0;min-height:60vh}
+  .crumb{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);
+    text-decoration:none;display:inline-block;margin-bottom:18px}
+  .crumb:hover{color:var(--ink)}
+  .ptitle-eyebrow{font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--camel);font-weight:500}
+  .ptitle{font-family:var(--serif);font-weight:400;font-size:clamp(26px,5.4vw,38px);line-height:1.12;
+    margin:12px 0 0;max-width:20ch;text-wrap:balance}
+  .pintro{margin:16px 0 0;max-width:54ch;color:var(--dim);font-weight:300}
+  .phero{width:100%;max-height:70vh;aspect-ratio:4/5;object-fit:cover;background:var(--tile);
+    border-radius:3px;margin:26px 0 0}
+  .swatches{display:flex;gap:10px;margin-top:20px;flex-wrap:wrap}
+  .sw{display:flex;align-items:center;gap:9px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--dim)}
+  .sw i{width:26px;height:26px;border-radius:50%;display:inline-block;box-shadow:inset 0 0 0 1px rgba(0,0,0,.08)}
+
+  /* Shop grid */
+  .shop-head{margin:40px 0 20px}
+  .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:24px 20px}
+  .item{min-width:0;display:flex;flex-direction:column}
+  .item__img{width:100%;aspect-ratio:1/1;object-fit:contain;background:var(--tile);border-radius:3px;margin-bottom:12px}
+  .item__name{font-size:12.5px;font-weight:400;line-height:1.35;margin:0 0 4px}
+  .item__brand{font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+  .item__why{font-size:11.5px;line-height:1.5;color:var(--dim);font-weight:300;margin:0 0 10px}
+  .item__row{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:8px}
+  .item__price{font-size:12.5px;font-variant-numeric:tabular-nums}
+  .shop{font-size:10px;letter-spacing:.14em;text-transform:uppercase;font-weight:500;color:var(--bg);
+    background:var(--ink);text-decoration:none;padding:8px 14px;border-radius:40px;white-space:nowrap;
+    transition:opacity .18s}
+  .shop:hover{opacity:.8}
+  .shop:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+
+  /* Outfit block (edit page) */
+  .outfit{border-top:1px solid var(--line);padding-block:34px}
+  .outfit__label{font-family:var(--serif);font-weight:600;font-size:13px;letter-spacing:.18em;
+    text-transform:uppercase;margin:0 0 20px;display:flex;align-items:center;gap:12px}
+  .outfit__label .bar{flex:1;height:1px;background:var(--line)}
+
+  /* CTA / total */
+  .total{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px;
+    margin-top:30px;padding-top:22px;border-top:1px solid var(--line)}
+  .total .t{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}
+  .total .t b{color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums;font-size:15px}
+
+  /* About */
+  .prose{max-width:58ch}
+  .prose p{color:var(--dim);font-weight:300;margin:0 0 16px}
+  .prose h3{font-family:var(--serif);font-weight:600;font-size:13px;letter-spacing:.14em;text-transform:uppercase;margin:28px 0 10px}
+
+  /* More */
+  .more{margin-top:52px;border-top:1px solid var(--line);padding-top:30px}
+
+  /* Footer */
+  .disclosure{color:var(--muted);font-size:11px;line-height:1.7;text-align:center;
+    font-weight:300;max-width:66ch;margin:46px auto 0}
+  footer.site{text-align:center;padding-block:22px 54px;margin-top:20px}
+  footer.site .fm{font-family:var(--serif);font-size:13px;letter-spacing:.3em;text-transform:uppercase;color:var(--ink);font-weight:600}
+  footer.site .sub{margin-top:8px;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+  footer.site .fnav{margin-top:14px}
+  footer.site .fnav a{font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--dim);text-decoration:none;margin:0 10px}
+  footer.site .fnav a:hover{color:var(--ink)}
+
+  @media(max-width:820px){ .cards{grid-template-columns:repeat(2,1fr)} .grid{grid-template-columns:repeat(3,1fr)} }
+  @media(max-width:560px){ .grid{grid-template-columns:repeat(2,1fr);gap:22px 14px} .nav a.link{margin-left:14px} }
+</style>
+</head>
+<body>
+<header class="site"><div class="wrap nav">
+  <a class="brand" href="#/">TWS</a>
+  <nav><a class="link" href="#/">Edits</a><a class="link" href="#/palettes">Palettes</a><a class="link" href="#/about">About</a></nav>
+</div></header>
+
+<div class="wrap"><main id="app"><p style="padding:60px 0;color:var(--muted)">Loading the edit…</p></main></div>
+
+<div class="wrap">
+  <p class="disclosure">
+    Timeless Wardrobe Studio is an independent style edit. Some links are affiliate links &mdash; we may earn a small
+    commission when you shop, at no extra cost to you. Prices and availability are set by each retailer and vary by country.
+    Imagery is styled with AI; every garment is a real product from the retailer linked.
+  </p>
+  <footer class="site">
+    <div class="fm">Timeless Wardrobe Studio</div>
+    <div class="sub">Quiet luxury, made shoppable</div>
+    <div class="fnav"><a href="#/">Edits</a><a href="#/palettes">Palettes</a><a href="#/about">About</a><a href="https://www.pinterest.com/TimelessWardrobeStudio/" target="_blank" rel="noopener">Pinterest</a></div>
+  </footer>
+</div>
+
+<script>
+  const REPO="";  /* same-origin: looks.json + edits.json deploy with the site */
+  const EUR="€", DASH="—";
+  const SOVRN_KEY="d5237a01264355bc2efaabedf5dbf093";
+  const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const localize=u=>{try{return "https://redirect.viglink.com?key="+SOVRN_KEY+"&u="+encodeURIComponent(u)+"&loc="+encodeURIComponent(location.href);}catch(e){return u;}};
+  const money=p=>{let t=0;(p||[]).forEach(x=>t+=(parseFloat(String(x.price||"").replace(/[^\d.]/g,""))||0));return t;};
+  const cur=p=>{const m=String((p||[]).map(x=>x.price).find(Boolean)||"").trim();return m[0]&&/[^\d]/.test(m[0])?m[0]:EUR;};
+  const catSlug=c=>String(c||"").toLowerCase().replace(/&/g,"and").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+  const catsInOrder=()=>{const seen=[],out=[];LOOKS.forEach(l=>{const s=catSlug(l.category);if(!seen.includes(s)){seen.push(s);out.push({slug:s,name:l.category});}});return out;};
+
+  let LOOKS=[], EDITS=[];
+  const bySlugLook=id=>LOOKS.find(l=>l.id===id);
+  const bySlugEdit=s=>EDITS.find(e=>e.slug===s);
+
+  function setMeta(title,desc){document.title=title;let m=document.querySelector('meta[name=description]');if(m)m.content=desc;
+    let o=document.querySelector('meta[property="og:title"]');if(o)o.content=title;}
+
+  function pieceItem(p){return `<article class="item">
+      <img class="item__img" src="${esc(p.img)}" alt="${esc(p.name)}" loading="lazy">
+      <p class="item__name">${esc(p.name)}</p>
+      <p class="item__brand">${esc(p.brand)}</p>
+      ${p.why?`<p class="item__why">${esc(p.why)}</p>`:""}
+      <div class="item__row"><span class="item__price">${p.price?esc(p.price):""}</span>
+      <a class="shop" href="${esc(localize(p.url))}" target="_blank" rel="noopener sponsored">Shop</a></div>
+    </article>`;}
+
+  function shopBlock(pieces){const t=money(pieces),c=cur(pieces);
+    return `<div class="grid">${(pieces||[]).map(pieceItem).join("")}</div>
+      <div class="total"><span class="t">Complete the look ${DASH} <b>${c}${t.toFixed(0)}</b></span></div>`;}
+
+  function card(href,img,eyebrow,title,meta,contain){return `<a class="card" href="${href}">
+      <img class="card__img${contain?' contain':''}" src="${esc(img)}" alt="${esc(title)}" loading="lazy">
+      <p class="card__eyebrow">${esc(eyebrow)}</p><h3 class="card__title">${esc(title)}</h3>
+      ${meta?`<p class="card__meta">${esc(meta)}</p>`:""}</a>`;}
+
+  function lookCard(l){return card("#/look/"+l.id, l.hero, l.category, l.sub||l.n, (l.pieces?l.pieces.length+" pieces":""));}
+  function viewHome(){
+    setMeta("Timeless Wardrobe Studio — Quiet-Luxury Outfits, Shoppable",
+      "Curated quiet-luxury outfits for work, off-duty and evening. Shop the look: every piece linked to the retailer.");
+    const editCards=EDITS.map(e=>card("#/edit/"+e.slug, e.hero||"",
+      e.eyebrow||"The Edit", e.title, e.type==='palette'?((e.lookIds?e.lookIds.length:'')+" looks"):(e.outfits?e.outfits.length+" ways":""))).join("");
+    // Group looks by category, mirroring the Pinterest boards.
+    const cats=catsInOrder();
+    const catSections=cats.map(c=>{
+      const ls=LOOKS.filter(l=>catSlug(l.category)===c.slug);
+      return `<div class="sec-head"><h2>${esc(c.name)}</h2><span class="bar"></span><a class="seeall" href="#/c/${c.slug}">View all</a></div>
+        <div class="cards">${ls.slice(0,3).map(lookCard).join("")}</div>`;
+    }).join("");
+    return `<section class="hero-home">
+        <div class="kick">Quiet luxury, made shoppable</div>
+        <h1>Outfits worth keeping. Every piece, one tap away.</h1>
+        <p>A curated edit of quiet-luxury looks for work, off-duty and evening &mdash; styled by Timeless Wardrobe Studio, linked straight to the retailer.</p>
+      </section>
+      ${EDITS.length?`<div class="sec-head"><h2>Colour Stories</h2><span class="bar"></span><a class="seeall" href="#/palettes">View all</a></div><div class="cards">${editCards}</div>`:""}
+      ${catSections}`;
+  }
+  function viewCategory(slug){
+    const cat=catsInOrder().find(c=>c.slug===slug);
+    const ls=LOOKS.filter(l=>catSlug(l.category)===slug);
+    if(!ls.length) return viewMissing();
+    const name=cat?cat.name:slug;
+    setMeta(name+" Outfits — Timeless Wardrobe Studio", "Shop "+name+" looks: quiet-luxury outfits, every piece linked to the retailer.");
+    return `<div class="page"><a class="crumb" href="#/">${DASH} Home</a>
+      <div class="ptitle-eyebrow">The Edit</div><h1 class="ptitle">${esc(name)}</h1>
+      <div class="cards" style="margin-top:28px">${ls.map(lookCard).join("")}</div></div>`;
+  }
+
+  function lookMore(exceptId){
+    const others=LOOKS.filter(l=>l.id!==exceptId).slice(0,3);
+    if(!others.length) return "";
+    return `<div class="more"><div class="sec-head"><h2>More Edits</h2><span class="bar"></span></div>
+      <div class="cards">${others.map(l=>card("#/look/"+l.id,l.hero,l.category,l.sub||l.n,(l.pieces?l.pieces.length+" pieces":""))).join("")}</div></div>`;
+  }
+
+  function viewLook(id){
+    const L=bySlugLook(id); if(!L) return viewMissing();
+    setMeta((L.sub||L.category)+" — Timeless Wardrobe Studio", "Shop the look: "+(L.sub||L.category)+". Every piece linked to the retailer.");
+    const cslug=catSlug(L.category);
+    return `<div class="page"><a class="crumb" href="#/c/${cslug}">${DASH} ${esc(L.category)}</a>
+      <div class="ptitle-eyebrow">${esc(L.category)}</div>
+      <h1 class="ptitle">${esc(L.sub||L.category)}</h1>
+      ${L.hero?`<img class="phero" src="${esc(L.hero)}" alt="${esc(L.category)}" loading="lazy">`:""}
+      ${L.note?`<p class="pintro">${esc(L.note)}</p>`:""}
+      ${L.occasions?`<p class="tags">${L.occasions.map(o=>`<span>${esc(o)}</span>`).join("")}</p>`:""}
+      <div class="shop-head"><div class="sec-head"><h2>Shop the Look</h2><span class="bar"></span></div></div>
+      ${shopBlock(L.pieces)}
+      ${lookMore(L.id)}</div>`;
+  }
+
+  function viewEdit(slug){
+    const E=bySlugEdit(slug); if(!E) return viewMissing();
+    setMeta(E.title+" — Timeless Wardrobe Studio", (E.intro||E.title)+" Shop every piece.");
+    let body="";
+    if(E.outfits&&E.outfits.length){
+      body=E.outfits.map(o=>`<section class="outfit">
+        <p class="outfit__label">${esc(o.label)}<span class="bar"></span></p>
+        ${o.img?`<img class="phero" style="aspect-ratio:4/5;margin:0 0 24px" src="${esc(o.img)}" alt="${esc(o.label)}" loading="lazy">`:""}
+        ${shopBlock(o.pieces)}</section>`).join("");
+    } else if(E.lookIds&&E.lookIds.length){
+      const ls=E.lookIds.map(bySlugLook).filter(Boolean);
+      body=`<div class="sec-head" style="margin-top:34px"><h2>The Looks</h2><span class="bar"></span></div>
+        <div class="cards">${ls.map(l=>card("#/look/"+l.id,l.hero,l.category,l.sub||l.n,(l.pieces?l.pieces.length+" pieces":""))).join("")}</div>`;
+    }
+    const sw=E.swatches?`<div class="swatches">${E.swatches.map(s=>`<span class="sw"><i style="background:${esc(s.hex)}"></i>${esc(s.name)} ${esc(s.hex)}</span>`).join("")}</div>`:"";
+    return `<div class="page"><a class="crumb" href="#/">${DASH} All edits</a>
+      <div class="ptitle-eyebrow">${esc(E.eyebrow||"The Edit")}</div>
+      <h1 class="ptitle">${esc(E.title)}</h1>
+      ${E.intro?`<p class="pintro">${esc(E.intro)}</p>`:""}
+      ${sw}
+      ${E.hero?`<img class="phero" src="${esc(E.hero)}" alt="${esc(E.title)}" loading="lazy">`:""}
+      ${body}</div>`;
+  }
+
+  function viewPalettes(){
+    setMeta("Colour Palettes — Timeless Wardrobe Studio","Shop outfits by colour palette — quiet-luxury seasonal colour stories.");
+    const pal=EDITS.filter(e=>e.type==='palette');
+    return `<div class="page"><a class="crumb" href="#/">${DASH} Home</a>
+      <div class="ptitle-eyebrow">Colour Stories</div><h1 class="ptitle">Shop by Palette</h1>
+      <div class="cards" style="margin-top:28px">${(pal.length?pal:EDITS).map(e=>card("#/edit/"+e.slug,e.hero||"",e.eyebrow||"Palette",e.title,"")).join("")}</div></div>`;
+  }
+
+  function viewAbout(){
+    setMeta("About — Timeless Wardrobe Studio","The story behind Timeless Wardrobe Studio: a quiet-luxury style edit, every piece shoppable.");
+    return `<div class="page prose"><a class="crumb" href="#/">${DASH} Home</a>
+      <div class="ptitle-eyebrow">Our Studio</div><h1 class="ptitle">About Timeless Wardrobe Studio</h1>
+      <p style="margin-top:20px">Timeless Wardrobe Studio is a quiet-luxury style edit. We build considered outfits &mdash; for the desk, the day off and the evening &mdash; from timeless, well-made pieces, and link every garment straight to the retailer so you can shop the whole look in a tap.</p>
+      <p>Our aesthetic is understated and enduring: neutral palettes, clean tailoring, pieces that read expensive without logos. No fast-fashion noise &mdash; just outfits worth keeping.</p>
+      <h3>How it works</h3>
+      <p>Each edit is a real, shoppable outfit. Tap any piece to go to the retailer. Some links are affiliate links, which means we may earn a small commission at no extra cost to you &mdash; it keeps the studio running and never changes the price you pay.</p>
+      <h3>A note on our imagery</h3>
+      <p>Our looks are styled and visualised with AI, always declared as such. Every garment shown is a genuine product you can buy from the retailer linked beneath it.</p>
+      <h3>Say hello</h3>
+      <p>Find us on <a href="https://www.pinterest.com/TimelessWardrobeStudio/" target="_blank" rel="noopener" style="border-bottom:1px solid var(--ink)">Pinterest</a> and <a href="https://www.instagram.com/timeless.wardrobe.studio/" target="_blank" rel="noopener" style="border-bottom:1px solid var(--ink)">Instagram</a>.</p>
+      ${lookMore("")}</div>`;
+  }
+
+  function viewMissing(){
+    setMeta("Timeless Wardrobe Studio","Shop quiet-luxury outfits.");
+    return `<div class="page"><h1 class="ptitle">This edit isn't here yet.</h1>
+      <p class="pintro">It may have moved. Browse the current edits instead.</p>
+      <p style="margin-top:22px"><a class="shop" href="#/">View all edits</a></p>${lookMore("")}</div>`;
+  }
+
+  function route(){
+    const h=(location.hash||"#/").replace(/^#/,"");
+    const parts=h.split("/").filter(Boolean); // ['look','p07']
+    let html;
+    if(parts[0]==="look") html=viewLook(parts[1]);
+    else if(parts[0]==="edit") html=viewEdit(parts[1]);
+    else if(parts[0]==="c") html=viewCategory(parts[1]);
+    else if(parts[0]==="palettes") html=viewPalettes();
+    else if(parts[0]==="about") html=viewAbout();
+    else html=viewHome();
+    document.getElementById("app").innerHTML=html;
+    window.scrollTo(0,0);
+  }
+
+  /* Legacy anchors (#luxe / #p07) → redirect to the look page so old pins still land right. */
+  function legacyFix(){
+    const raw=(location.hash||"").replace(/^#/,"");
+    if(raw && raw.indexOf("/")===-1){
+      if(bySlugLook(raw)){ location.replace("#/look/"+raw); return true; }
+      if(bySlugEdit(raw)){ location.replace("#/edit/"+raw); return true; }
+    }
+    return false;
+  }
+
+  async function getJSON(name,fallback){
+    try{const r=await fetch(REPO+name+"?t="+Date.now(),{cache:"no-store"});if(r.ok){const d=await r.json();if(Array.isArray(d))return d;}}catch(e){}
+    return fallback;
+  }
+  async function boot(){
+    LOOKS=await getJSON("looks.json",[]);
+    EDITS=await getJSON("edits.json",[]);
+    window.addEventListener("hashchange",()=>{ if(!legacyFix()) route(); });
+    if(!legacyFix()) route();
+  }
+  boot();
+</script>
+</body>
+</html>

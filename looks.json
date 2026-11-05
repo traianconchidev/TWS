@@ -5,11 +5,14 @@
     "category": "9 to 5 Luxe",
     "sub": "Camel & ink, desk to dinner.",
     "hero": "https://d2ol7oe51mr4n9.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/a38afc92-4d11-494e-ac6b-595994ff6f78.png",
+    "note": "A camel wool coat worn long over a gathered-side black knit dress — warm neutral against deep ink, the quietest kind of statement. The double-faced wool holds its line without lining bulk, while the jersey dress moves with you. Black ankle boots ground it for the commute and keep it sharp enough for dinner after. One palette, two textures, no effort showing.",
+    "occasions": ["Office", "Dinner", "Autumn commute"],
     "pieces": [
       {
         "name": "Camel Julia Wool Double-Faced Coat",
         "brand": "Whistles",
         "price": "$359",
+        "why": "Double-faced wool falls clean with no lining bulk — the piece that makes the whole outfit read expensive.",
         "img": "https://d2ol7oe51mr4n9.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/e03032dc-1818-4a80-87a8-6d47cf518236.png",
         "url": "https://whistles.com/us/product/julia-wool-double-faced-coat-37221.html"
       },
@@ -17,6 +20,7 @@
         "name": "Black Gathered Side Midi Knit Dress",
         "brand": "Whistles",
         "price": "$159",
+        "why": "Gathered at the side to skim rather than cling; a soft jersey that travels desk to dinner.",
         "img": "https://d2ol7oe51mr4n9.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/e03032dc-1818-4a80-87a8-6d47cf518236.png",
         "url": "https://www.whistles.com/row/product/gathered-side-midi-knit-dress-39452.html"
       },
@@ -24,6 +28,7 @@
         "name": "Hedda Leather Ankle Boots — Black",
         "brand": "Vagabond",
         "price": "$210",
+        "why": "A walkable block heel in smooth leather — all-day comfort, evening-ready polish.",
         "img": "https://d2ol7oe51mr4n9.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/e03032dc-1818-4a80-87a8-6d47cf518236.png",
         "url": "https://www.vagabond.com/us/hedda-5002-001-20/"
       }
@@ -35,46 +40,15 @@
     "category": "9 to 5 Luxe",
     "sub": "Quiet authority, from desk to dinner.",
     "hero": "img/hero_luxe.jpg",
+    "note": "Quiet authority, built on tailoring. A dark-brown twill blazer over pleated wide-leg trousers, finished with a structured leather tote and pointed flats — a considered, tonal uniform for days that run from the desk straight into the evening. Nothing loud; everything intentional.",
+    "occasions": ["Office", "Meetings", "Desk to dinner"],
     "pieces": [
-      {
-        "name": "Twill Single-Breasted Blazer",
-        "brand": "COS",
-        "price": "€179",
-        "img": "img/luxe_blazer.jpg",
-        "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/twill-single-breasted-blazer-dark-brown-1294894003"
-      },
-      {
-        "name": "Pleated Wide-Leg Trousers",
-        "brand": "COS",
-        "price": "€149",
-        "img": "img/luxe_trousers.jpg",
-        "url": "https://www.cos.com/en-ie/women/womenswear/suitsandtailoring/tailoredtrousers/product/pleated-wide-leg-trousers-black-1350852002"
-      },
-      {
-        "name": "Classic Leather Tote",
-        "brand": "COS",
-        "price": "€249",
-        "img": "img/luxe_tote.jpg",
-        "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
-      },
-      {
-        "name": "The Twisted Earrings — gold",
-        "brand": "COS",
-        "img": "img/luxe_earrings.jpg",
-        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/the-twisted-earrings-gold-1281848001"
-      },
-      {
-        "name": "Oval-Buckle Slim Leather Belt",
-        "brand": "COS",
-        "img": "img/luxe_belt.jpg",
-        "url": "https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-slim-leather-belt-black-1288136001"
-      },
-      {
-        "name": "Pointed Leather Ballet Flats",
-        "brand": "COS",
-        "img": "img/luxe_flats.jpg",
-        "url": "https://www.cos.com/en-ie/women/accessories/shoes/balletpumps/product/pointed-leather-ballet-flats-black-1194860001"
-      }
+      { "name": "Twill Single-Breasted Blazer", "brand": "COS", "price": "€179", "why": "Crisp single-breasted cut in a matte twill — structure without stiffness.", "img": "img/luxe_blazer.jpg", "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/twill-single-breasted-blazer-dark-brown-1294894003" },
+      { "name": "Pleated Wide-Leg Trousers", "brand": "COS", "price": "€149", "why": "A single front pleat gives length and drape; wide leg balances the blazer.", "img": "img/luxe_trousers.jpg", "url": "https://www.cos.com/en-ie/women/womenswear/suitsandtailoring/tailoredtrousers/product/pleated-wide-leg-trousers-black-1350852002" },
+      { "name": "Classic Leather Tote", "brand": "COS", "price": "€249", "why": "Holds a laptop and keeps its shape — the one bag that works all week.", "img": "img/luxe_tote.jpg", "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001" },
+      { "name": "The Twisted Earrings — gold", "brand": "COS", "img": "img/luxe_earrings.jpg", "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/the-twisted-earrings-gold-1281848001" },
+      { "name": "Oval-Buckle Slim Leather Belt", "brand": "COS", "img": "img/luxe_belt.jpg", "url": "https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-slim-leather-belt-black-1288136001" },
+      { "name": "Pointed Leather Ballet Flats", "brand": "COS", "why": "Pointed toe lengthens the leg; flat enough for a full day on your feet.", "img": "img/luxe_flats.jpg", "url": "https://www.cos.com/en-ie/women/accessories/shoes/balletpumps/product/pointed-leather-ballet-flats-black-1194860001" }
     ]
   },
   {
@@ -83,47 +57,15 @@
     "category": "Off-Duty Casual",
     "sub": "Ease that reads expensive.",
     "hero": "img/hero_offduty.jpg",
+    "note": "Ease that reads expensive. A pure-cashmere turtleneck with cropped wide-leg denim and leather loafers — relaxed and tactile, the kind of outfit that looks considered without trying. Add a silk scarf for the one detail that lifts it. Made for the weekend, errands, or a slow day working from home.",
+    "occasions": ["Weekend", "Errands", "Work from home"],
     "pieces": [
-      {
-        "name": "Pure Cashmere Turtleneck",
-        "brand": "COS",
-        "price": "€200",
-        "img": "img/off_knit.jpg",
-        "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/cashmere/product/pure-cashmere-turtleneck-jumper-brown-1232653001"
-      },
-      {
-        "name": "Cropped Wide-Leg Denim",
-        "brand": "COS",
-        "price": "€89",
-        "img": "img/off_jeans.jpg",
-        "url": "https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/cropped-wide-leg-denim-trousers-ecru-1313780003"
-      },
-      {
-        "name": "Classic Leather Loafers",
-        "brand": "COS",
-        "price": "€110",
-        "img": "img/off_loafers.jpg",
-        "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
-      },
-      {
-        "name": "Mini Folded Crossbody Shopper",
-        "brand": "COS",
-        "img": "img/off_bag.jpg",
-        "url": "https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001"
-      },
-      {
-        "name": "Stacked Mini Hoop Earrings — gold",
-        "brand": "COS",
-        "img": "img/off_earrings.jpg",
-        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/stacked-mini-hoop-earrings-gold-1278006001"
-      },
-      {
-        "name": "Printed Silk Scarf",
-        "brand": "COS",
-        "price": "€99",
-        "img": "img/off_scarf.jpg",
-        "url": "https://www.cos.com/en-ie/women/accessories/hatsscarvesgloves/scarves/product/the-printed-silk-scarf-floral-1283915001"
-      }
+      { "name": "Pure Cashmere Turtleneck", "brand": "COS", "price": "€200", "why": "Real cashmere drapes softly and keeps its shape wash after wash — a cost-per-wear buy.", "img": "img/off_knit.jpg", "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/cashmere/product/pure-cashmere-turtleneck-jumper-brown-1232653001" },
+      { "name": "Cropped Wide-Leg Denim", "brand": "COS", "price": "€89", "why": "Cropped at the ankle to show the loafer; ecru keeps it softer than blue.", "img": "img/off_jeans.jpg", "url": "https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/cropped-wide-leg-denim-trousers-ecru-1313780003" },
+      { "name": "Classic Leather Loafers", "brand": "COS", "price": "€110", "why": "The casual shoe that still looks grown-up — leather, not canvas.", "img": "img/off_loafers.jpg", "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001" },
+      { "name": "Mini Folded Crossbody Shopper", "brand": "COS", "img": "img/off_bag.jpg", "url": "https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001" },
+      { "name": "Stacked Mini Hoop Earrings — gold", "brand": "COS", "img": "img/off_earrings.jpg", "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/stacked-mini-hoop-earrings-gold-1278006001" },
+      { "name": "Printed Silk Scarf", "brand": "COS", "price": "€99", "why": "The one accessory that lifts a plain knit — tie it at the neck or the bag.", "img": "img/off_scarf.jpg", "url": "https://www.cos.com/en-ie/women/accessories/hatsscarvesgloves/scarves/product/the-printed-silk-scarf-floral-1283915001" }
     ]
   },
   {
@@ -132,35 +74,13 @@
     "category": "Studio Noir",
     "sub": "For the evening that starts after the meeting ends.",
     "hero": "img/hero_studio.jpg",
+    "note": "For the evening that starts after the meeting ends. A scoop-neck satin midi in black, strap-detail pumps and a compact clutch — minimal, polished and quietly sensual. The satin catches the light so the outfit needs nothing else. Dinner, a launch, or a date that deserves effort.",
+    "occasions": ["Evening", "Date night", "Dinner"],
     "pieces": [
-      {
-        "name": "Scoop-Neck Satin Midi Dress",
-        "brand": "COS",
-        "price": "€99",
-        "img": "img/studio_dress.jpg",
-        "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/scoop-neck-satin-midi-dress-black-1329721002"
-      },
-      {
-        "name": "Strap-Detail Leather Pumps",
-        "brand": "COS",
-        "price": "€199",
-        "img": "img/studio_heels.jpg",
-        "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
-      },
-      {
-        "name": "Envelope Clasp Pouch",
-        "brand": "COS",
-        "price": "€89",
-        "img": "img/studio_clutch.jpg",
-        "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
-      },
-      {
-        "name": "Mismatched Knotted Earrings",
-        "brand": "COS",
-        "price": "€25",
-        "img": "img/studio_ear.jpg",
-        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mismatched-knotted-earrings-gold-1345022001"
-      }
+      { "name": "Scoop-Neck Satin Midi Dress", "brand": "COS", "price": "€99", "why": "Bias-cut satin that skims the body and catches the light — one piece, whole outfit.", "img": "img/studio_dress.jpg", "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/scoop-neck-satin-midi-dress-black-1329721002" },
+      { "name": "Strap-Detail Leather Pumps", "brand": "COS", "price": "€199", "why": "An ankle strap steadies a heel you can actually wear through dinner.", "img": "img/studio_heels.jpg", "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001" },
+      { "name": "Envelope Clasp Pouch", "brand": "COS", "price": "€89", "why": "Just enough for phone, card and keys — croc-effect leather reads luxe.", "img": "img/studio_clutch.jpg", "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002" },
+      { "name": "Mismatched Knotted Earrings", "brand": "COS", "price": "€25", "why": "A little gold at the ear is all a satin dress needs.", "img": "img/studio_ear.jpg", "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mismatched-knotted-earrings-gold-1345022001" }
     ]
   }
 ]
