@@ -1,3 +1,5 @@
+node_modules/
+.github/
 tws_build/
 .gitignore
 .assetsignore
