@@ -66,7 +66,7 @@
   /* Cards grid (home) */
   .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:26px 22px}
   .card{display:flex;flex-direction:column;text-decoration:none;color:inherit}
-  .card__img{width:100%;aspect-ratio:3/4;object-fit:cover;background:var(--tile);border-radius:3px}
+  .card__img{width:100%;aspect-ratio:3/4;object-fit:contain;background:var(--tile);border-radius:3px}
   .card__img.contain{object-fit:contain}
   .card__eyebrow{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);
     font-weight:500;margin:12px 0 5px}
@@ -83,7 +83,7 @@
   .ptitle{font-family:var(--serif);font-weight:400;font-size:clamp(26px,5.4vw,38px);line-height:1.12;
     margin:12px 0 0;max-width:20ch;text-wrap:balance}
   .pintro{margin:16px 0 0;max-width:54ch;color:var(--dim);font-weight:300}
-  .phero{width:100%;max-height:70vh;aspect-ratio:4/5;object-fit:cover;background:var(--tile);
+  .phero{width:100%;max-height:78vh;aspect-ratio:4/5;object-fit:contain;background:var(--tile);
     border-radius:3px;margin:26px 0 0}
   .swatches{display:flex;gap:10px;margin-top:20px;flex-wrap:wrap}
   .sw{display:flex;align-items:center;gap:9px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--dim)}
