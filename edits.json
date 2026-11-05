@@ -7,9 +7,139 @@
     "intro": "A quiet-luxury autumn palette: warm camel against deep ink. Soft, grounded, and endlessly wearable from desk to dinner.",
     "hero": "https://d2ol7oe51mr4n9.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/a38afc92-4d11-494e-ac6b-595994ff6f78.png",
     "swatches": [
-      { "name": "Camel", "hex": "#B79A74" },
-      { "name": "Ink", "hex": "#1B2327" }
+      {
+        "name": "Camel",
+        "hex": "#B79A74"
+      },
+      {
+        "name": "Ink",
+        "hex": "#1B2327"
+      }
     ],
-    "lookIds": ["p07", "luxe"]
+    "lookIds": [
+      "p07",
+      "luxe"
+    ]
+  },
+  {
+    "slug": "one-skirt-three-ways",
+    "type": "guide",
+    "eyebrow": "Styling Guide",
+    "title": "One Skirt, Three Ways",
+    "intro": "One beige A-line midi skirt, three ways to wear it — from the desk, through the weekend, into the evening. Keep the hero piece; change everything around it.",
+    "hero": "https://d8j0ntlcm91z4.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/hf_20261103_085914_0e675a80-a41f-4f2c-aadc-e3cb88e946a5.png",
+    "outfits": [
+      {
+        "label": "Desk",
+        "img": "https://d8j0ntlcm91z4.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/hf_20261103_085914_0e675a80-a41f-4f2c-aadc-e3cb88e946a5.png",
+        "pieces": [
+          {
+            "name": "Deconstructed Pleated Cotton Midi Skirt",
+            "brand": "COS",
+            "price": "€99",
+            "why": "A sharp central pleat makes it read unmistakably as a skirt; beige is the neutral that works back to every colour.",
+            "img": "https://media.cos.com/assets/001/26/57/265788317fa5750ba18aaebce3d498f0c644b96a_xxl-1.jpg?imwidth=2160",
+            "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirts/product/deconstructed-pleated-cotton-midi-skirt-beige-1319190001"
+          },
+          {
+            "name": "Rounded Wool Crew-Neck Jumper — cream",
+            "brand": "COS",
+            "price": "€99",
+            "why": "Fine-gauge wool in cream — soft and tonal tucked into the skirt for the desk.",
+            "img": "https://media.cos.com/assets/001/9c/da/9cdab491756ebbe0facfa43c828c84ceeaa075a9_xxl-1.jpg?imwidth=2160",
+            "url": "https://www.cos.com/en-eu/women/womenswear/knitwear/jumpers/product/rounded-wool-crew-neck-jumper-cream-1341893002"
+          },
+          {
+            "name": "Classic Leather Loafers",
+            "brand": "COS",
+            "price": "€110",
+            "why": "Leather, not canvas — the flat that still looks grown-up at a desk.",
+            "img": "img/off_loafers.jpg",
+            "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
+          },
+          {
+            "name": "Classic Leather Tote",
+            "brand": "COS",
+            "price": "€249",
+            "why": "Holds a laptop and keeps its shape — the one bag that works all week.",
+            "img": "img/luxe_tote.jpg",
+            "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
+          }
+        ]
+      },
+      {
+        "label": "Day Off",
+        "img": "https://d8j0ntlcm91z4.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/hf_20261103_085915_1d7f17b2-e6cd-4fa4-8b35-4ef449a2f9ec.png",
+        "pieces": [
+          {
+            "name": "Deconstructed Pleated Cotton Midi Skirt",
+            "brand": "COS",
+            "price": "€99",
+            "why": "A sharp central pleat makes it read unmistakably as a skirt; beige is the neutral that works back to every colour.",
+            "img": "https://media.cos.com/assets/001/26/57/265788317fa5750ba18aaebce3d498f0c644b96a_xxl-1.jpg?imwidth=2160",
+            "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirts/product/deconstructed-pleated-cotton-midi-skirt-beige-1319190001"
+          },
+          {
+            "name": "Oversized Knit Jumper — navy blue",
+            "brand": "& Other Stories",
+            "price": "€55",
+            "why": "An oversized navy knit relaxes the skirt for the weekend — same piece, different energy.",
+            "img": "https://media.stories.com/assets/005/12/c6/12c61296a3af39f5031b31e21505ac0fdbf4e668_xxl-1.jpg?imwidth=2560",
+            "url": "https://www.stories.com/en-nl/product/oversized-wool-blend-jumper-navy-blue-1319467003"
+          },
+          {
+            "name": "Pointed Leather Ballet Flats",
+            "brand": "COS",
+            "why": "Pointed flats keep a day-off look neat without reaching for heels.",
+            "img": "img/luxe_flats.jpg",
+            "url": "https://www.cos.com/en-ie/women/accessories/shoes/balletpumps/product/pointed-leather-ballet-flats-black-1194860001"
+          },
+          {
+            "name": "Mini Folded Crossbody Shopper",
+            "brand": "COS",
+            "why": "Hands-free leather crossbody — everything you need for errands, nothing you don't.",
+            "img": "img/off_bag.jpg",
+            "url": "https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001"
+          }
+        ]
+      },
+      {
+        "label": "After Hours",
+        "img": "https://d8j0ntlcm91z4.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/hf_20261103_085913_fbce8256-e41c-437c-b105-e5f3ceb7435d.png",
+        "pieces": [
+          {
+            "name": "Deconstructed Pleated Cotton Midi Skirt",
+            "brand": "COS",
+            "price": "€99",
+            "why": "A sharp central pleat makes it read unmistakably as a skirt; beige is the neutral that works back to every colour.",
+            "img": "https://media.cos.com/assets/001/26/57/265788317fa5750ba18aaebce3d498f0c644b96a_xxl-1.jpg?imwidth=2160",
+            "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirts/product/deconstructed-pleated-cotton-midi-skirt-beige-1319190001"
+          },
+          {
+            "name": "Strap-Detail Leather Pumps",
+            "brand": "COS",
+            "price": "€199",
+            "why": "A steady ankle-strap heel that turns the same skirt into an evening look.",
+            "img": "img/studio_heels.jpg",
+            "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
+          },
+          {
+            "name": "Envelope Clasp Pouch",
+            "brand": "COS",
+            "price": "€89",
+            "why": "Croc-effect leather, just enough for phone, card and keys — the evening full stop.",
+            "img": "img/studio_clutch.jpg",
+            "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
+          },
+          {
+            "name": "The Twisted Earrings — gold",
+            "brand": "COS",
+            "why": "A little gold at the ear is all the skirt needs after dark.",
+            "img": "img/luxe_earrings.jpg",
+            "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/the-twisted-earrings-gold-1281848001"
+          }
+        ]
+      }
+    ]
   }
 ]
