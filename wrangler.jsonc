@@ -1,0 +1,8 @@
+{
+  "name": "tws-hub",
+  "compatibility_date": "2025-11-01",
+  "assets": {
+    "directory": ".",
+    "not_found_handling": "single-page-application"
+  }
+}
