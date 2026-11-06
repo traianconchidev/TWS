@@ -205,7 +205,7 @@
 </head>
 <body>
 <header class="site"><div class="wrap nav">
-  <a class="brand" href="#/">Timeless <b>Wardrobe Studio</b></a>
+  <a class="brand" href="#/" aria-label="Timeless Wardrobe Studio"><img src="img/tws_monogram.png" alt="Timeless Wardrobe Studio" style="height:30px;width:auto;display:block"></a>
   <nav>
     <a class="link" href="#/">Shop</a>
     <a class="link" href="#/palettes">Palettes</a>
@@ -290,7 +290,7 @@
           <a class="btn primary" href="#categories">Shop the looks</a>
           <a class="btn ghost" href="#how">How it works</a>
         </div>
-        ${(()=>{const feat=["p08","p07","p06"].map(bySlugLook).filter(Boolean);const pick=feat.length?feat:LOOKS.slice(0,3);
+        ${(()=>{const feat=["offduty","p07","p06"].map(bySlugLook).filter(Boolean);const pick=feat.length?feat:LOOKS.slice(0,3);
           return pick.length?`<div class="hero-strip">${pick.map(l=>`<a class="hs" href="#/look/${l.id}"><img src="${esc(l.hero)}" alt="${esc(l.sub||l.category)}" loading="lazy"><span class="cap">${esc(l.category)}</span></a>`).join("")}</div>`:"";})()}
       </section>
 
@@ -458,7 +458,7 @@
   function footerHTML(){return `<div class="wrap">
     <p class="disclosure">Timeless Wardrobe Studio is an independent style edit. Some links are affiliate links &mdash; we may earn a small commission when you shop, at no extra cost to you. Prices and availability are set by each retailer and vary by country. Some imagery is styled with AI; every garment is a real product from the retailer linked.</p>
     <footer class="site">
-      <div class="fm">Timeless Wardrobe Studio</div>
+      <div class="fm"><img src="img/tws_lockup.png" alt="Timeless Wardrobe Studio" style="height:92px;width:auto;display:inline-block"></div>
       <div class="sub">Quiet luxury, made shoppable</div>
       <div class="fnav"><a href="#/">Shop</a><a href="#/palettes">Palettes</a><a href="#/about">About</a><a href="#/privacy">Privacy</a><a href="#/terms">Terms</a><a href="https://www.pinterest.com/TimelessWardrobeStudio/" target="_blank" rel="noopener">Pinterest</a><a href="https://www.instagram.com/timeless.wardrobe.studio/" target="_blank" rel="noopener">Instagram</a></div>
     </footer></div>`;}
