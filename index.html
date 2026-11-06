@@ -264,12 +264,13 @@
       ${meta?`<p class="card__meta">${esc(meta)}</p>`:""}</a>`;}
 
   function lookCard(l){return card("#/look/"+l.id, l.thumb||l.hero, l.category, l.sub||l.n, (l.pieces?l.pieces.length+" pieces":""));}
+  function editMeta(e){var c=(e.lookIds&&e.lookIds.length)||(e.outfits&&e.outfits.length)||0; var u=e.type==='guide'?'way':'look'; return c?c+' '+u+(c===1?'':'s'):'';}
 
   function viewHome(){
     setMeta("Timeless Wardrobe Studio — Quiet-Luxury Outfits, Every Piece Shoppable",
       "Complete quiet-luxury outfits for work, off-duty and evening, with styling notes. Every piece linked to the retailer — shop the whole look or just one piece.");
     const editCards=EDITS.map(e=>card("#/edit/"+e.slug, e.hero||"",
-      e.eyebrow||"The Edit", e.title, e.type==='palette'?((e.lookIds?e.lookIds.length:'')+" looks"):(e.outfits?e.outfits.length+" ways":""))).join("");
+      e.eyebrow||"The Edit", e.title, editMeta(e))).join("");
     const cats=catsInOrder();
     const catSections=cats.map(c=>{
       const ls=LOOKS.filter(l=>catSlug(l.category)===c.slug);
@@ -391,7 +392,7 @@
     return `<div class="page"><a class="crumb" href="#/">${DASH} Home</a>
       <div class="ptitle-eyebrow">Colour Stories</div><h1 class="ptitle">Shop by palette</h1>
       <p class="pintro">One palette, styled several ways &mdash; so everything you buy already works together.</p>
-      <div class="cards" style="margin-top:34px">${pal.map(e=>card("#/edit/"+e.slug,e.hero||"",e.eyebrow||"Palette",e.title,e.type==='palette'?((e.lookIds?e.lookIds.length:'')+" looks"):(e.outfits?e.outfits.length+" ways":""))).join("")}</div></div>`;
+      <div class="cards" style="margin-top:34px">${pal.map(e=>card("#/edit/"+e.slug,e.hero||"",e.eyebrow||"Palette",e.title,editMeta(e))).join("")}</div></div>`;
   }
 
   function viewAbout(){
