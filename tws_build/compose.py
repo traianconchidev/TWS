@@ -3,9 +3,16 @@
 # for the render_pin_fmt.js `comp` format. Two layouts: "flatlay" (hero centred,
 # pieces around) and "lookday" (model on the left, flat-lay of pieces on the right).
 #
+# FIVE TWS COLLAGE TEMPLATES (see layout_templates.png):
+#   1 EDITORIAL HERO  = layout "flatlay" + render_pin_fmt `comp` (serif title + palette dots)
+#   2 CLASSIC GRID    = layout "flatlay" + bare chrome                      [workhorse]
+#   3 ASYM VERTICAL   = layout "asym"   (bottoms = left vertical anchor)
+#   4 MODEL + FLATLAY = layout "lookday" (model left + pieces right)
+#   5 LABELED/SHOPPABLE = layout "flatlay" + per-piece "· Link" labels (affiliate click driver)
+#
 # Usage: python compose.py config.json
 # config = {
-#   "out": "comp.png", "layout": "flatlay"|"lookday",
+#   "out": "comp.png", "layout": "flatlay"|"lookday"|"asym",
 #   "pieces": [ {"img":"path", "role":"hero|bottoms|bag|shoes|jewelry|accent",
 #                "cut":"flood"|"global"|"none", "tol":24} , ... ],
 #   "model":  {"img":"path", "cut":"flood", "tol":20}          # lookday only
@@ -89,6 +96,17 @@ FLAT = {
     "jewelry": (845,300,108, 0),   # earrings — small, top-right
 }
 FLAT_ORDER = ["bottoms","hero","accent","bag","shoes","jewelry"]
+# asym: bottoms as a tall VERTICAL ANCHOR on the left; hero top-right; accessories
+# stacked down the right; jewelry small, upper-centre. Lots of negative space.
+# (ref: @TheTropicalFlower, navy 92-like pins). PIECES STRAIGHT (rot=0).
+ASYM = {
+    "bottoms": (241,661,289, 0),   # left anchor, full length
+    "hero":    (675,389,385, 0),   # top-right, large
+    "bag":     (704,743,250, 0),   # right-mid
+    "shoes":   (723,1026,250, 0),  # right-low
+    "jewelry": (405,153,108, 0),   # upper-centre, small
+}
+ASYM_ORDER = ["bottoms","hero","bag","shoes","jewelry"]
 # lookday: model left; flat-lay pieces on the right half
 LOOK = {
     "bottoms": (710,585,275, 3),
@@ -110,7 +128,9 @@ def build(cfg):
         from PIL import ImageDraw
         ImageDraw.Draw(cv).line([(472,120),(472,1060)], fill=(31,38,42,38), width=2)
         slots, order = LOOK, LOOK_ORDER
-    else:
+    elif layout == "asym":
+        slots, order = ASYM, ASYM_ORDER
+    else:  # "flatlay" (classic grid) — also the base for "editorial" & "shoppable"
         slots, order = FLAT, FLAT_ORDER
     for role in order:
         if role in byrole:
