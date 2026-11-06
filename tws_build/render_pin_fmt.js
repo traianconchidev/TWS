@@ -53,6 +53,14 @@ html,body{width:1080px;height:1620px;}
 .fl{position:absolute;display:flex;align-items:center;justify-content:center;z-index:2;}
 .fl img{max-width:100%;max-height:100%;object-fit:contain;
   filter:drop-shadow(0 18px 26px rgba(31,38,42,.20));}
+.compimg{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;}
+.dots{display:flex;gap:11px;}
+.dot{width:24px;height:24px;border-radius:50%;box-shadow:inset 0 0 0 1px rgba(31,38,42,.14);}
+.fchips{display:flex;gap:26px;}
+.fchip{display:flex;flex-direction:column;align-items:center;gap:5px;font-family:'Montserrat';}
+.fchip i{width:72px;height:48px;border-radius:4px;box-shadow:0 6px 16px rgba(31,38,42,.16),inset 0 0 0 1px rgba(31,38,42,.06);}
+.fchip b{font-weight:500;font-size:19px;letter-spacing:.02em;color:var(--ink);}
+.fchip em{font-style:normal;font-weight:300;font-size:14px;letter-spacing:.12em;color:#8C877D;}
 
 /* ---- COLORSTORY / MOODBOARD (tiles + Pantone chips) ---- */
 .csgrid{position:relative;width:100%;flex:1 1 auto;min-height:0;display:grid;gap:14px;}
@@ -115,6 +123,22 @@ const footer = (title,subtitle,hint,caps) =>
   `<div class="footer"><div class="rule"></div><div class="title${caps?' caps':''}">${title||''}</div>`+
   (subtitle?`<div class="subtitle">${subtitle}</div>`:'')+
   (hint?`<div class="cta">${hint}<span class="arrow">→</span></div>`:'')+`</div>`;
+
+// COMP — a pre-composed cutout composition (flat-lay or model+flatlay) built in Python,
+// branded here: monogram header + palette dots + Playfair title + CTA. p.comp=imgPath, p.dots=[hex].
+function comp(p){
+  const dots = (p.dots||[]).map(h=>`<span class="dot" style="background:${h}"></span>`).join('');
+  const chips = (p.chips||[]).map(s=>`<span class="fchip"><i style="background:${s.hex}"></i><b>${s.name}</b><em>${(s.hex||'').toUpperCase()}</em></span>`).join('');
+  return `<div class="pin">${header(p.eyebrow||'THE EDIT')}
+    <div class="body"><div class="stage"><img class="compimg" src="${toDataURI(p.comp)}"></div></div>
+    <div class="footer"><div class="rule"></div>
+      ${chips?`<div class="fchips">${chips}</div>`:''}
+      ${dots?`<div class="dots">${dots}</div>`:''}
+      <div class="title">${p.title||''}</div>
+      ${p.subtitle?`<div class="subtitle">${p.subtitle}</div>`:''}
+      ${(p.hint!==false)?`<div class="cta">${p.hint||'shop the look'}<span class="arrow">&rarr;</span></div>`:''}
+    </div></div>`;
+}
 
 // FLATLAY — hero piece large + supporting pieces overlapping, white dropped via multiply.
 // p.pieces = [imgPath,...] ordered hero-first. p.accent = hex (subtle color blob).
@@ -187,7 +211,7 @@ function palette(p){
   return colorstory(Object.assign({eyebrow:'ONE PALETTE', hint:'shop the palette'}, p, {title:p.title||'Six Ways, One Palette'}));
 }
 
-const BUILD = { flatlay, colorstory, moodboard, capsule, styling, colorcode, palette };
+const BUILD = { comp, flatlay, colorstory, moodboard, capsule, styling, colorcode, palette };
 
 (async ()=>{
   const inFile = process.argv[2];
