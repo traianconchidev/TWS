@@ -38,7 +38,7 @@
             "brand": "COS",
             "price": "€99",
             "why": "A sharp central pleat makes it read unmistakably as a skirt; beige is the neutral that works back to every colour.",
-            "img": "https://media.cos.com/assets/001/26/57/265788317fa5750ba18aaebce3d498f0c644b96a_xxl-1.jpg?imwidth=2160",
+            "img": "img/osk_skirt.png",
             "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirts/product/deconstructed-pleated-cotton-midi-skirt-beige-1319190001"
           },
           {
@@ -46,7 +46,7 @@
             "brand": "COS",
             "price": "€99",
             "why": "Fine-gauge wool in cream — soft and tonal tucked into the skirt for the desk.",
-            "img": "https://media.cos.com/assets/001/9c/da/9cdab491756ebbe0facfa43c828c84ceeaa075a9_xxl-1.jpg?imwidth=2160",
+            "img": "img/osk_cream_knit.png",
             "url": "https://www.cos.com/en-eu/women/womenswear/knitwear/jumpers/product/rounded-wool-crew-neck-jumper-cream-1341893002"
           },
           {
@@ -54,7 +54,7 @@
             "brand": "COS",
             "price": "€110",
             "why": "Leather, not canvas — the flat that still looks grown-up at a desk.",
-            "img": "img/off_loafers.jpg",
+            "img": "img/osk_loafer.png",
             "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
           },
           {
@@ -62,7 +62,7 @@
             "brand": "COS",
             "price": "€249",
             "why": "Holds a laptop and keeps its shape — the one bag that works all week.",
-            "img": "img/luxe_tote.jpg",
+            "img": "img/osk_tote.png",
             "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
           }
         ]
@@ -76,7 +76,7 @@
             "brand": "COS",
             "price": "€99",
             "why": "A sharp central pleat makes it read unmistakably as a skirt; beige is the neutral that works back to every colour.",
-            "img": "https://media.cos.com/assets/001/26/57/265788317fa5750ba18aaebce3d498f0c644b96a_xxl-1.jpg?imwidth=2160",
+            "img": "img/osk_skirt.png",
             "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirts/product/deconstructed-pleated-cotton-midi-skirt-beige-1319190001"
           },
           {
@@ -84,21 +84,21 @@
             "brand": "& Other Stories",
             "price": "€55",
             "why": "An oversized navy knit relaxes the skirt for the weekend — same piece, different energy.",
-            "img": "https://media.stories.com/assets/005/12/c6/12c61296a3af39f5031b31e21505ac0fdbf4e668_xxl-1.jpg?imwidth=2560",
+            "img": "img/osk_navy_knit.png",
             "url": "https://www.stories.com/en-nl/product/oversized-wool-blend-jumper-navy-blue-1319467003"
           },
           {
             "name": "Pointed Leather Ballet Flats",
             "brand": "COS",
             "why": "Pointed flats keep a day-off look neat without reaching for heels.",
-            "img": "img/luxe_flats.jpg",
+            "img": "img/osk_flat.png",
             "url": "https://www.cos.com/en-ie/women/accessories/shoes/balletpumps/product/pointed-leather-ballet-flats-black-1194860001"
           },
           {
             "name": "Mini Folded Crossbody Shopper",
             "brand": "COS",
             "why": "Hands-free leather crossbody — everything you need for errands, nothing you don't.",
-            "img": "img/off_bag.jpg",
+            "img": "img/osk_bucket.png",
             "url": "https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001"
           }
         ]
@@ -112,7 +112,7 @@
             "brand": "COS",
             "price": "€99",
             "why": "A sharp central pleat makes it read unmistakably as a skirt; beige is the neutral that works back to every colour.",
-            "img": "https://media.cos.com/assets/001/26/57/265788317fa5750ba18aaebce3d498f0c644b96a_xxl-1.jpg?imwidth=2160",
+            "img": "img/osk_skirt.png",
             "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirts/product/deconstructed-pleated-cotton-midi-skirt-beige-1319190001"
           },
           {
