@@ -43,7 +43,7 @@
     "id": "luxe",
     "category": "9 to 5 Luxe",
     "sub": "Quiet authority, from desk to dinner.",
-    "hero": "img/hero_luxe.jpg",
+    "hero": "img/flat_luxe.jpg",
     "note": "Quiet authority, built on tailoring. A dark-brown twill blazer over pleated wide-leg trousers, finished with a structured leather tote and pointed flats — a considered, tonal uniform for days that run from the desk straight into the evening. Nothing loud; everything intentional.",
     "occasions": [
       "Office",
@@ -101,7 +101,7 @@
     "id": "offduty",
     "category": "Off-Duty Casual",
     "sub": "Ease that reads expensive.",
-    "hero": "img/hero_offduty.jpg",
+    "hero": "img/flat_offduty.jpg",
     "note": "Ease that reads expensive. A pure-cashmere turtleneck with cropped wide-leg denim and leather loafers — relaxed and tactile, the kind of outfit that looks considered without trying. Add a silk scarf for the one detail that lifts it. Made for the weekend, errands, or a slow day working from home.",
     "occasions": [
       "Weekend",
@@ -160,7 +160,7 @@
     "id": "studio",
     "category": "Studio Noir",
     "sub": "For the evening that starts after the meeting ends.",
-    "hero": "img/hero_studio.jpg",
+    "hero": "img/flat_studio.jpg",
     "note": "For the evening that starts after the meeting ends. A scoop-neck satin midi in black, strap-detail pumps and a compact clutch — minimal, polished and quietly sensual. The satin catches the light so the outfit needs nothing else. Dinner, a launch, or a date that deserves effort.",
     "occasions": [
       "Evening",
