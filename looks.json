@@ -17,7 +17,7 @@
         "brand": "Whistles",
         "price": "$159",
         "why": "A chunky textured wool knit in soft ivory — the cost-per-wear hero that makes the easiest outfit look considered.",
-        "img": "https://whistles.com/dw/image/v2/BDCH_PRD/on/demandware.static/-/Sites-whistles-master-catalog/default/dwe611c917/images/01203788180/whistles-wool-textured-crew-neck-knit-ivory-01.jpg?sw=1000&sh=1500&strip=false",
+        "img": "img/p08_knit.png",
         "url": "https://whistles.com/us/product/wool-textured-crew-neck-knit-37881.html"
       },
       {
@@ -25,7 +25,7 @@
         "brand": "Levi's",
         "price": "$98",
         "why": "The original straight leg in a mid-blue wash — the one denim that never dates and works back to everything.",
-        "img": "https://lscoglobal.scene7.com/is/image/lscoglobal/WB_12501-0555_GLO_CM_DA?fmt=jpeg&qlt=90&wid=1000&hei=1333&fit=fit,1",
+        "img": "img/p08_jeans.png",
         "url": "https://www.levi.com/US/en_US/clothing/women/jeans/straight/501-original-fit-womens-jeans/p/125010555"
       },
       {
@@ -33,7 +33,7 @@
         "brand": "adidas",
         "price": "$110",
         "why": "Grey suede with a gum sole — the quiet-luxury way to wear a trainer, dressing the whole look down.",
-        "img": "https://images.stockx.com/images/adidas-Gazelle-Solid-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=1000&h=1000&fm=jpg&auto=compress&q=90&trim=color",
+        "img": "img/p08_gazelle.png",
         "url": "https://www.adidas.com/us/gazelle-shoes/BB5480.html"
       },
       {
@@ -41,7 +41,7 @@
         "brand": "Longchamp",
         "price": "$165",
         "why": "A featherweight recycled-canvas tote that folds away yet holds a whole Saturday — the easy everyday bag.",
-        "img": "https://www.longchamp.com/dw/image/v2/BCVX_PRD/on/demandware.static/-/Sites-LC-master-catalog/default/dw6535b88b/images/DIS/L2605089001_0.png?sw=800&sh=800&sm=fit",
+        "img": "img/p08_tote.png",
         "url": "https://www.longchamp.com/us/en/L2605089001.html"
       }
     ]
