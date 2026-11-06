@@ -5,7 +5,7 @@
     "category": "Off-Duty Casual",
     "sub": "The slow Saturday, off-duty and easy.",
     "hero": "img/p08_model.png",
-    "note": "Off-duty ease that still reads expensive. A chunky ivory wool knit over straight-leg Levi's 501s, grounded by grey suede Gazelles and a roomy black Longchamp tote — relaxed shapes kept in a quiet oat, indigo and grey palette. The textured wool adds warmth against the clean line of the denim, while the retro trainer keeps the whole thing young and easy. Made for the slow Saturday: the coffee run, the market, the long walk home.",
+    "note": "Off-duty ease that still reads expensive. A grey-melange funnel-neck half-zip over a crisp white raglan tee and straight-leg Levi's 501s, grounded by grey suede Gazelles, a black cashmere beanie and a roomy recycled-canvas Longchamp tote — relaxed shapes in a quiet grey, white and indigo palette. Made for the slow Saturday: the coffee run, the market, the long walk home.",
     "occasions": [
       "Weekend",
       "Errands",
@@ -13,12 +13,22 @@
     ],
     "pieces": [
       {
-        "name": "Ivory Wool Textured Crew-Neck Sweater",
-        "brand": "Whistles",
-        "price": "$159",
-        "why": "A chunky textured wool knit in soft ivory — the cost-per-wear hero that makes the easiest outfit look considered.",
-        "img": "img/p08_knit.png",
-        "url": "https://whistles.com/us/product/wool-textured-crew-neck-knit-37881.html"
+        "name": "Funnel-Neck Half-Zip Knitted Jumper",
+        "brand": "COS",
+        "color": "Grey melange",
+        "price": "$99",
+        "why": "A grey-melange half-zip in a clean knit — the funnel neck frames the white tee underneath and adds a quiet sporty note.",
+        "img": "img/p08_halfzip.png",
+        "url": "https://www.cos.com/en-us/product/funnel-neck-half-zip-knitted-jumper-grey-mlange-1355373003"
+      },
+      {
+        "name": "Cotton Raglan-Sleeve T-Shirt",
+        "brand": "Mango",
+        "color": "White",
+        "price": "$25.99",
+        "why": "A clean white raglan tee layered under the knit — the easy base that lifts the whole look.",
+        "img": "img/p08_tee.png",
+        "url": "https://shop.mango.com/us/en/c/women/t-shirts_8e23bdfb"
       },
       {
         "name": "501 Original Fit Jeans — mid blue",
@@ -37,12 +47,22 @@
         "url": "https://www.adidas.com/us/gazelle-shoes/BB5480.html"
       },
       {
-        "name": "Le Pliage Original M Tote — black",
+        "name": "Le Pliage Original L Tote Bag — Recycled Canvas",
         "brand": "Longchamp",
-        "price": "$165",
-        "why": "A featherweight recycled-canvas tote that folds away yet holds a whole Saturday — the easy everyday bag.",
+        "color": "Black",
+        "price": "$175",
+        "why": "The featherweight recycled-canvas Le Pliage folds flat yet holds a whole Saturday — the everyday workhorse.",
         "img": "img/p08_tote.png",
-        "url": "https://www.longchamp.com/us/en/L2605089001.html"
+        "url": "https://www.longchamp.com/us/en/products/tote-bag-l-L1899089001.html"
+      },
+      {
+        "name": "Pure Cashmere Beanie",
+        "brand": "COS",
+        "color": "Black",
+        "price": "$59",
+        "why": "A black cashmere beanie keeps it warm and quiet — the finishing layer for the slow Saturday.",
+        "img": "img/p08_beanie.png",
+        "url": "https://www.cos.com/en-us/women/accessories/hatsscarvesgloves/hats/product/pure-cashmere-beanie-black-1248054001"
       }
     ]
   },
