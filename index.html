@@ -66,6 +66,15 @@
     margin:18px auto 0;max-width:15ch;text-wrap:balance}
   .hero .lede{margin:22px auto 0;max-width:56ch;color:var(--dim);font-weight:300;font-size:16.5px}
   .hero .actions{margin-top:30px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+  .hero-strip{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;max-width:780px;margin:44px auto 0}
+  .hero-strip .hs{display:block;aspect-ratio:3/4;border-radius:6px;overflow:hidden;border:1px solid var(--line);
+    background:var(--tile);position:relative}
+  .hero-strip .hs img{width:100%;height:100%;object-fit:cover;transition:transform .5s ease}
+  .hero-strip .hs:hover img{transform:scale(1.045)}
+  .hero-strip .hs .cap{position:absolute;left:0;right:0;bottom:0;padding:16px 12px 11px;
+    background:linear-gradient(to top,rgba(31,38,42,.62),rgba(31,38,42,0));
+    color:#fff;font-size:10px;letter-spacing:.18em;text-transform:uppercase;font-weight:500;text-align:left}
+  @media(max-width:560px){.hero-strip{gap:9px;margin-top:34px} .hero-strip .hs .cap{font-size:9px;padding:10px 8px 8px}}
 
   /* How it works */
   .how{padding-block:56px;border-bottom:1px solid var(--line)}
@@ -253,7 +262,7 @@
       <p class="card__eyebrow">${esc(eyebrow)}</p><h3 class="card__title">${esc(title)}</h3>
       ${meta?`<p class="card__meta">${esc(meta)}</p>`:""}</a>`;}
 
-  function lookCard(l){return card("#/look/"+l.id, l.hero, l.category, l.sub||l.n, (l.pieces?l.pieces.length+" pieces":""));}
+  function lookCard(l){return card("#/look/"+l.id, l.thumb||l.hero, l.category, l.sub||l.n, (l.pieces?l.pieces.length+" pieces":""));}
 
   function viewHome(){
     setMeta("Timeless Wardrobe Studio — Quiet-Luxury Outfits, Every Piece Shoppable",
@@ -279,6 +288,8 @@
           <a class="btn primary" href="#categories">Shop the looks</a>
           <a class="btn ghost" href="#how">How it works</a>
         </div>
+        ${(()=>{const feat=["p08","p05","p06"].map(bySlugLook).filter(Boolean);const pick=feat.length?feat:LOOKS.slice(0,3);
+          return pick.length?`<div class="hero-strip">${pick.map(l=>`<a class="hs" href="#/look/${l.id}"><img src="${esc(l.hero)}" alt="${esc(l.sub||l.category)}" loading="lazy"><span class="cap">${esc(l.category)}</span></a>`).join("")}</div>`:"";})()}
       </section>
 
       <section class="how" id="how">
@@ -464,7 +475,9 @@
     else html=viewHome();
     document.getElementById("app").innerHTML=html;
     let f=document.getElementById("sitefoot"); if(f) f.innerHTML=footerHTML();
-    if(!location.hash || location.hash==="#/") window.scrollTo(0,0);
+    const hh=location.hash||"";
+    if(hh==="#categories"||hh==="#how"){ const el=document.getElementById(hh.slice(1)); if(el) el.scrollIntoView(); }
+    else window.scrollTo(0,0);
   }
 
   function legacyFix(){

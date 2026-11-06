@@ -148,7 +148,7 @@
     "id": "offduty",
     "category": "Off-Duty Casual",
     "sub": "Ease that reads expensive.",
-    "hero": "img/flat_offduty.jpg",
+    "hero": "img/flat_offduty_ai.png",
     "note": "Ease that reads expensive. A pure-cashmere turtleneck with cropped wide-leg denim and leather loafers — relaxed and tactile, the kind of outfit that looks considered without trying. Add a silk scarf for the one detail that lifts it. Made for the weekend, errands, or a slow day working from home.",
     "occasions": [
       "Weekend",
@@ -161,7 +161,7 @@
         "brand": "COS",
         "price": "€200",
         "why": "Real cashmere drapes softly and keeps its shape wash after wash — a cost-per-wear buy.",
-        "img": "img/off_knit.jpg",
+        "img": "img/off_knit.png",
         "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/cashmere/product/pure-cashmere-turtleneck-jumper-brown-1232653001"
       },
       {
@@ -169,7 +169,7 @@
         "brand": "COS",
         "price": "€89",
         "why": "Cropped at the ankle to show the loafer; ecru keeps it softer than blue.",
-        "img": "img/off_jeans.jpg",
+        "img": "img/off_jeans.png",
         "url": "https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/cropped-wide-leg-denim-trousers-ecru-1313780003"
       },
       {
@@ -177,19 +177,19 @@
         "brand": "COS",
         "price": "€110",
         "why": "The casual shoe that still looks grown-up — leather, not canvas.",
-        "img": "img/off_loafers.jpg",
+        "img": "img/off_loafers.png",
         "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
       },
       {
         "name": "Mini Folded Crossbody Shopper",
         "brand": "COS",
-        "img": "img/off_bag.jpg",
+        "img": "img/off_bag.png",
         "url": "https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001"
       },
       {
         "name": "Stacked Mini Hoop Earrings — gold",
         "brand": "COS",
-        "img": "img/off_earrings.jpg",
+        "img": "img/off_earrings.png",
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/stacked-mini-hoop-earrings-gold-1278006001"
       },
       {
@@ -197,10 +197,11 @@
         "brand": "COS",
         "price": "€99",
         "why": "The one accessory that lifts a plain knit — tie it at the neck or the bag.",
-        "img": "img/off_scarf.jpg",
+        "img": "img/off_scarf.png",
         "url": "https://www.cos.com/en-ie/women/accessories/hatsscarvesgloves/scarves/product/the-printed-silk-scarf-floral-1283915001"
       }
-    ]
+    ],
+    "thumb": "img/off_knit.png"
   },
   {
     "n": "03",
