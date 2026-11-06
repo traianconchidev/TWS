@@ -174,8 +174,8 @@
     "type": "palette",
     "eyebrow": "Colour Story",
     "title": "Stone & Noir",
-    "intro": "Grey and black, nothing louder. A stone-and-noir colour story for quiet-luxury autumn and winter dressing — soft grey wool against clean black, worn three ways from the desk through the evening. Every piece linked to the retailer.",
-    "hero": "https://d8j0ntlcm91z4.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/hf_20261103_102130_68cc0546-ea04-4f76-bff2-2faa629cd612.png",
+    "intro": "Grey and black, nothing louder. A stone-and-noir colour story for quiet-luxury autumn and winter dressing — soft dark-grey wool over a crisp white shirt against clean black tailoring. Every piece linked to the retailer.",
+    "hero": "img/sn_model.png",
     "swatches": [
       {
         "name": "Stone",
@@ -188,104 +188,61 @@
     ],
     "outfits": [
       {
-        "label": "Grey & Black — Day",
+        "label": "Grey & Black",
+        "img": null,
         "pieces": [
           {
             "name": "Dark Grey Roll-Neck Wool-Mix Jumper",
             "brand": "Whistles",
+            "color": "Dark grey",
             "price": "$149",
             "why": "A wool-mix roll neck in soft dark grey — the stone half of the palette, warm and quietly textured.",
-            "img": "https://www.whistles.com/dw/image/v2/BDCH_PRD/on/demandware.static/-/Sites-whistles-master-catalog/default/dwa26a44aa/images/01204065237/whistles-roll-neck-wool-mix-knit-dark-grey-01.jpg?sw=1000&sh=1500&strip=false",
-            "url": "https://www.whistles.com/us/product/221062.html"
+            "img": "img/sn_jumper.png",
+            "url": "https://www.whistles.com/us/product/roll-neck-wool-mix-jumper-40652.html"
           },
           {
-            "name": "Pleated Wide-Leg Trousers — black",
-            "brand": "COS",
-            "price": "€149",
-            "why": "A single front pleat and a wide leg — the fluid black base that lengthens the line against the grey knit.",
-            "img": "img/luxe_trousers.jpg",
-            "url": "https://www.cos.com/en-ie/women/womenswear/suitsandtailoring/tailoredtrousers/product/pleated-wide-leg-trousers-black-1350852002"
-          },
-          {
-            "name": "Classic Leather Loafers — black",
-            "brand": "COS",
-            "price": "€110",
-            "why": "Leather, not canvas — grown-up flats that keep a grey-and-black look sharp.",
-            "img": "img/off_loafers.jpg",
-            "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
-          },
-          {
-            "name": "Classic Leather Tote — black",
-            "brand": "COS",
-            "price": "€249",
-            "why": "Structured black leather that holds its shape and your laptop — the one bag for the week.",
-            "img": "img/luxe_tote.jpg",
-            "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
-          }
-        ]
-      },
-      {
-        "label": "The Black Knit Dress — Desk to Dinner",
-        "pieces": [
-          {
-            "name": "Black Gathered-Side Midi Knit Dress",
+            "name": "Marcy Pleated-Cuff Shirt",
             "brand": "Whistles",
-            "price": "$159",
-            "why": "Gathered at the side to skim rather than cling; soft jersey that reads polished from desk to dinner.",
-            "img": "https://www.whistles.com/dw/image/v2/BDCH_PRD/on/demandware.static/-/Sites-whistles-master-catalog/default/dw7a6845d1/images/00403945201/whistles-gathered-side-midi-knit-dress-black-01.jpg?sw=1000&sh=1500&strip=false",
-            "url": "https://www.whistles.com/row/product/213148.html"
+            "color": "White",
+            "price": "$169",
+            "why": "A crisp white shirt with pleated cuffs — collar and cuffs peek out of the knit for a polished, considered edge.",
+            "img": "img/sn_shirt.png",
+            "url": "https://www.whistles.com/us/product/213827.html"
           },
           {
-            "name": "Classic Leather Loafers — black",
+            "name": "Pleated Wide-Leg Trousers",
             "brand": "COS",
-            "price": "€110",
-            "why": "Black leather loafers keep the knit dress grounded and easy for the day.",
-            "img": "img/off_loafers.jpg",
+            "color": "Black",
+            "price": "$135",
+            "why": "A single front pleat and a wide leg — the fluid black base that lengthens the line against the grey knit.",
+            "img": "img/sn_trousers.png",
+            "url": "https://www.cos.com/en-us/product/pleated-wide-leg-trousers-black-1350852002"
+          },
+          {
+            "name": "Classic Leather Loafers",
+            "brand": "COS",
+            "color": "Black",
+            "price": "$190",
+            "why": "Clean black leather loafers — the quiet shoe that keeps the look grounded and easy to walk in.",
+            "img": "img/sn_loafers.png",
             "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
           },
           {
-            "name": "Classic Leather Tote — black",
+            "name": "Classic Tote Bag — Leather",
             "brand": "COS",
-            "price": "€249",
-            "why": "The same structured black tote carries the look straight into the evening.",
-            "img": "img/luxe_tote.jpg",
+            "color": "Black",
+            "price": "$225",
+            "why": "A structured black leather tote — holds the day and finishes the noir side of the palette.",
+            "img": "img/sn_tote.png",
             "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
-          }
-        ]
-      },
-      {
-        "label": "The Satin Column — After Dark",
-        "pieces": [
-          {
-            "name": "Scoop-Neck Satin Midi Dress — black",
-            "brand": "COS",
-            "price": "€99",
-            "why": "Bias-cut satin that skims the body and catches the light — one piece, a whole evening.",
-            "img": "img/studio_dress.jpg",
-            "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/scoop-neck-satin-midi-dress-black-1329721002"
           },
           {
-            "name": "Strap-Detail Leather Pumps — black",
+            "name": "Mismatched Knotted Earrings",
             "brand": "COS",
-            "price": "€199",
-            "why": "A steady ankle-strap heel you can actually wear through the evening.",
-            "img": "img/studio_heels.jpg",
-            "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
-          },
-          {
-            "name": "Envelope Clasp Pouch — black",
-            "brand": "COS",
-            "price": "€89",
-            "why": "Croc-effect leather, just enough for phone, card and keys — the evening full stop.",
-            "img": "img/studio_clutch.jpg",
-            "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
-          },
-          {
-            "name": "Mismatched Knotted Earrings — gold",
-            "brand": "COS",
-            "price": "€25",
-            "why": "A little gold at the ear is all a black satin dress needs.",
-            "img": "img/studio_ear.jpg",
+            "color": "Gold",
+            "price": "$45",
+            "why": "Small gold knotted earrings — the one warm accent against the grey and black.",
+            "img": "img/sn_earrings.png",
             "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mismatched-knotted-earrings-gold-1345022001"
           }
         ]
