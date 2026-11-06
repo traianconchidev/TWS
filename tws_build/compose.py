@@ -25,7 +25,10 @@
 #   Higgsfield remove_background — preferred for best quality).
 import sys, json, os
 from collections import deque
-from PIL import Image, ImageFilter
+from PIL import Image, ImageFilter, ImageDraw, ImageFont
+INK=(31,38,42); CAMEL=(183,154,116)
+SAN="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+SANB="/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 
 def floodcut(im, tol=24):
     im = im.convert("RGBA"); w,h = im.size; px = im.load()
@@ -82,6 +85,7 @@ def place(cv, im, cx, cy, w, rot=0, sop=56):
     x = int(cx-im.width/2); y = int(cy-im.height/2)
     cv.alpha_composite(shadow(im, 19, sop), (x+5, y+13))
     cv.alpha_composite(im, (x,y))
+    return (x, y, x+im.width, y+im.height)
 
 # role -> (cx, cy, w, rot) on a 964x1180 canvas (flatlay). REALISTIC PROPORTIONS:
 # bottoms = full-length & tall (anchor), hero (top) large, bag/shoes medium,
@@ -96,6 +100,15 @@ FLAT = {
     "jewelry": (845,300,108, 0),   # earrings — small, top-right
 }
 FLAT_ORDER = ["bottoms","hero","accent","bag","shoes","jewelry"]
+# editorial: BIG hero + pieces overlapping naturally (the CAMEL COAT look). rot=0.
+EDI = {
+    "hero":    (355,520,475, 0),   # big hero, upper-left
+    "bottoms": (705,730,300, 0),   # full-length right, grazes hero
+    "bag":     (255,905,250, 0),   # lower-left
+    "shoes":   (430,1120,300, 0),  # bottom-centre-left
+    "jewelry": (700,330,120, 0),   # upper-right, small
+}
+EDI_ORDER = ["bottoms","hero","bag","shoes","jewelry"]
 # asym: bottoms as a tall VERTICAL ANCHOR on the left; hero top-right; accessories
 # stacked down the right; jewelry small, upper-centre. Lots of negative space.
 # (ref: @TheTropicalFlower, navy 92-like pins). PIECES STRAIGHT (rot=0).
@@ -107,14 +120,36 @@ ASYM = {
     "jewelry": (405,153,108, 0),   # upper-centre, small
 }
 ASYM_ORDER = ["bottoms","hero","bag","shoes","jewelry"]
+# shop: pieces biased to the LEFT so "· Link" labels fit in the right column (template 5).
+SHOP = {
+    "hero":    (300,470,360, 0),
+    "bottoms": (430,885,250, 0),
+    "bag":     (225,795,230, 0),
+    "shoes":   (320,1085,250, 0),
+    "jewelry": (470,255,110, 0),
+}
+SHOP_ORDER = ["bottoms","hero","bag","shoes","jewelry"]
+
+def draw_labels(cv, boxes, labels, W):
+    d=ImageDraw.Draw(cv); colx=int(W*0.70)
+    fb=ImageFont.truetype(SANB,30); fr=ImageFont.truetype(SAN,25)
+    for role,pair in labels.items():
+        if role not in boxes: continue
+        name,link=pair; x0,y0,x1,y1=boxes[role]; cyc=(y0+y1)//2
+        px=min(x1,colx-16)
+        d.ellipse([px-6,cyc-6,px+6,cyc+6],fill=CAMEL)
+        d.line([px,cyc,colx-8,cyc],fill=CAMEL,width=3)
+        d.text((colx,cyc-17),name,font=fb,fill=INK,anchor="lm")
+        d.text((colx,cyc+17),link,font=fr,fill=CAMEL,anchor="lm")
+
 # lookday: model left; flat-lay pieces on the right half
 LOOK = {
-    "bottoms": (710,585,275, 3),
-    "accent":  (820,330,200,-12),
-    "jewelry": (585,320,120, 0),
-    "bag":     (610,885,230,-6),
-    "shoes":   (830,930,255, 9),
-    "hero":    (700,560,300,-2),
+    "bottoms": (712,585,150, 0),
+    "accent":  (820,880,230, 0),
+    "jewelry": (690,330,120, 0),
+    "bag":     (640,650,230, 0),
+    "shoes":   (835,980,240, 0),
+    "hero":    (700,560,300, 0),
 }
 LOOK_ORDER = ["bottoms","accent","hero","jewelry","bag","shoes"]
 
@@ -130,12 +165,18 @@ def build(cfg):
         slots, order = LOOK, LOOK_ORDER
     elif layout == "asym":
         slots, order = ASYM, ASYM_ORDER
-    else:  # "flatlay" (classic grid) — also the base for "editorial" & "shoppable"
+    elif layout == "shop":
+        slots, order = SHOP, SHOP_ORDER
+    elif layout == "editorial":
+        slots, order = EDI, EDI_ORDER
+    else:  # "flatlay" (classic grid) — also the base for "editorial"
         slots, order = FLAT, FLAT_ORDER
+    boxes={}
     for role in order:
         if role in byrole:
             cx,cy,w,rot = slots[role]
-            place(cv, load_cut(byrole[role]), cx, cy, w, rot)
+            boxes[role]=place(cv, load_cut(byrole[role]), cx, cy, w, rot)
+    if cfg.get("labels"): draw_labels(cv, boxes, cfg["labels"], W)
     cv.save(cfg["out"]); print("composed", cfg["out"], cv.size)
 
 if __name__ == "__main__":

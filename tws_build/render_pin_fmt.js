@@ -54,6 +54,10 @@ html,body{width:1080px;height:1620px;}
 .fl img{max-width:100%;max-height:100%;object-fit:contain;
   filter:drop-shadow(0 18px 26px rgba(31,38,42,.20));}
 .compimg{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;}
+/* carded stage — collage sits on a soft warm card (matches TWS pin look) */
+.stage.carded{background:linear-gradient(158deg,#F3EEE6 0%,#ECE6DC 100%);
+  border-radius:16px;box-shadow:0 22px 55px rgba(31,38,42,.10),inset 0 0 0 1px rgba(31,38,42,.05);}
+.stage.carded .compimg{top:34px;left:34px;right:34px;bottom:34px;width:auto;height:auto;}
 .dots{display:flex;gap:11px;}
 .dot{width:24px;height:24px;border-radius:50%;box-shadow:inset 0 0 0 1px rgba(31,38,42,.14);}
 .fchips{display:flex;gap:26px;}
@@ -130,7 +134,7 @@ function comp(p){
   const dots = (p.dots||[]).map(h=>`<span class="dot" style="background:${h}"></span>`).join('');
   const chips = (p.chips||[]).map(s=>`<span class="fchip"><i style="background:${s.hex}"></i><b>${s.name}</b><em>${(s.hex||'').toUpperCase()}</em></span>`).join('');
   return `<div class="pin">${header(p.eyebrow||'THE EDIT')}
-    <div class="body"><div class="stage"><img class="compimg" src="${toDataURI(p.comp)}"></div></div>
+    <div class="body"><div class="stage${p.card===false?'':' carded'}"><img class="compimg" src="${toDataURI(p.comp)}"></div></div>
     <div class="footer"><div class="rule"></div>
       ${chips?`<div class="fchips">${chips}</div>`:''}
       ${dots?`<div class="dots">${dots}</div>`:''}
