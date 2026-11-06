@@ -27,11 +27,11 @@
     "eyebrow": "Styling Guide",
     "title": "One Skirt, Three Ways",
     "intro": "One beige A-line midi skirt, three ways to wear it — from the desk, through the weekend, into the evening. Keep the hero piece; change everything around it.",
-    "hero": "https://d8j0ntlcm91z4.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/hf_20261103_085914_0e675a80-a41f-4f2c-aadc-e3cb88e946a5.png",
+    "hero": "img/osk_3ways.png",
     "outfits": [
       {
         "label": "Desk",
-        "img": "https://d8j0ntlcm91z4.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/hf_20261103_085914_0e675a80-a41f-4f2c-aadc-e3cb88e946a5.png",
+        "img": "img/osk_desk_model.png",
         "pieces": [
           {
             "name": "Deconstructed Pleated Cotton Midi Skirt",
@@ -69,7 +69,7 @@
       },
       {
         "label": "Day Off",
-        "img": "https://d8j0ntlcm91z4.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/hf_20261103_085915_1d7f17b2-e6cd-4fa4-8b35-4ef449a2f9ec.png",
+        "img": "img/osk_dayoff_model.png",
         "pieces": [
           {
             "name": "Deconstructed Pleated Cotton Midi Skirt",
@@ -105,38 +105,52 @@
       },
       {
         "label": "After Hours",
-        "img": "https://d8j0ntlcm91z4.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/hf_20261103_085913_fbce8256-e41c-437c-b105-e5f3ceb7435d.png",
+        "img": "img/osk_ah_model.png",
         "pieces": [
+          {
+            "name": "V-Detail Boiled Wool Funnel-Neck Jumper",
+            "brand": "COS",
+            "color": "Black",
+            "price": "€115",
+            "why": "A boiled-wool funnel neck with a soft V gives the skirt an evening top with structure, not sparkle.",
+            "img": "img/osk_ah_knit.png",
+            "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/wool/product/boiled-wool-funnel-neck-jumper-black-1300317001"
+          },
           {
             "name": "Deconstructed Pleated Cotton Midi Skirt",
             "brand": "COS",
+            "color": "Beige",
             "price": "€99",
-            "why": "A sharp central pleat makes it read unmistakably as a skirt; beige is the neutral that works back to every colour.",
+            "why": "The one skirt — beige cotton twill with a front pleat; the common thread across all three looks.",
             "img": "img/osk_skirt.png",
-            "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirts/product/deconstructed-pleated-cotton-midi-skirt-beige-1319190001"
+            "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirt"
           },
           {
             "name": "Strap-Detail Leather Pumps",
             "brand": "COS",
-            "price": "€199",
-            "why": "A steady ankle-strap heel that turns the same skirt into an evening look.",
+            "color": "Black",
+            "price": "€135",
+            "why": "The same pointed pumps from Studio Noir — a sharp toe lifts the midi for evening.",
             "img": "img/studio_heels.jpg",
-            "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
+            "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product"
           },
           {
-            "name": "Envelope Clasp Pouch",
+            "name": "Parquet Clutch Bag — Eel-Effect Leather",
             "brand": "COS",
-            "price": "€89",
-            "why": "Croc-effect leather, just enough for phone, card and keys — the evening full stop.",
-            "img": "img/studio_clutch.jpg",
-            "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
+            "color": "Black",
+            "price": "€150",
+            "why": "Eel-effect leather catches the light quietly — the one piece of evening polish.",
+            "img": "img/osk_ah_clutch.png",
+            "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/parquet-clutch-bag-eel-effect-leather-black-eel-effect-1343471001"
           },
           {
-            "name": "The Twisted Earrings — gold",
+            "name": "Mini Chunky Hoop Earrings",
             "brand": "COS",
-            "why": "A little gold at the ear is all the skirt needs after dark.",
-            "img": "img/luxe_earrings.jpg",
-            "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/the-twisted-earrings-gold-1281848001"
+            "color": "Gold",
+            "price": "€35",
+            "why": "Small gold hoops keep the black-and-beige warm without shouting.",
+            "img": "img/osk_ah_earrings.png",
+            "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/stacked-mini-hoop-earrings-gold-1278006001"
           }
         ]
       }
