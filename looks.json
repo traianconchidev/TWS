@@ -90,7 +90,7 @@
     "id": "luxe",
     "category": "9 to 5 Luxe",
     "sub": "Quiet authority, from desk to dinner.",
-    "hero": "img/flat_luxe.jpg",
+    "hero": "img/flat_luxe_ai.png",
     "note": "Quiet authority, built on tailoring. A dark-brown twill blazer over pleated wide-leg trousers, finished with a structured leather tote and pointed flats — a considered, tonal uniform for days that run from the desk straight into the evening. Nothing loud; everything intentional.",
     "occasions": [
       "Office",
@@ -103,7 +103,7 @@
         "brand": "COS",
         "price": "€179",
         "why": "Crisp single-breasted cut in a matte twill — structure without stiffness.",
-        "img": "img/luxe_blazer.jpg",
+        "img": "img/luxe_blazer_c.png",
         "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/twill-single-breasted-blazer-dark-brown-1294894003"
       },
       {
@@ -111,7 +111,7 @@
         "brand": "COS",
         "price": "€149",
         "why": "A single front pleat gives length and drape; wide leg balances the blazer.",
-        "img": "img/luxe_trousers.jpg",
+        "img": "img/luxe_trousers_c.png",
         "url": "https://www.cos.com/en-ie/women/womenswear/suitsandtailoring/tailoredtrousers/product/pleated-wide-leg-trousers-black-1350852002"
       },
       {
@@ -119,26 +119,26 @@
         "brand": "COS",
         "price": "€249",
         "why": "Holds a laptop and keeps its shape — the one bag that works all week.",
-        "img": "img/luxe_tote.jpg",
+        "img": "img/luxe_tote_c.png",
         "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
       },
       {
         "name": "The Twisted Earrings — gold",
         "brand": "COS",
-        "img": "img/luxe_earrings.jpg",
+        "img": "img/luxe_earrings_c.png",
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/the-twisted-earrings-gold-1281848001"
       },
       {
         "name": "Oval-Buckle Slim Leather Belt",
         "brand": "COS",
-        "img": "img/luxe_belt.jpg",
+        "img": "img/luxe_belt_c.png",
         "url": "https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-slim-leather-belt-black-1288136001"
       },
       {
         "name": "Pointed Leather Ballet Flats",
         "brand": "COS",
         "why": "Pointed toe lengthens the leg; flat enough for a full day on your feet.",
-        "img": "img/luxe_flats.jpg",
+        "img": "img/luxe_flats_c.png",
         "url": "https://www.cos.com/en-ie/women/accessories/shoes/balletpumps/product/pointed-leather-ballet-flats-black-1194860001"
       }
     ]
@@ -207,7 +207,7 @@
     "id": "studio",
     "category": "Studio Noir",
     "sub": "For the evening that starts after the meeting ends.",
-    "hero": "img/flat_studio.jpg",
+    "hero": "img/flat_studio_ai.png",
     "note": "For the evening that starts after the meeting ends. A scoop-neck satin midi in black, strap-detail pumps and a compact clutch — minimal, polished and quietly sensual. The satin catches the light so the outfit needs nothing else. Dinner, a launch, or a date that deserves effort.",
     "occasions": [
       "Evening",
@@ -220,7 +220,7 @@
         "brand": "COS",
         "price": "€99",
         "why": "Bias-cut satin that skims the body and catches the light — one piece, whole outfit.",
-        "img": "img/studio_dress.jpg",
+        "img": "img/studio_dress_c.png",
         "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/scoop-neck-satin-midi-dress-black-1329721002"
       },
       {
@@ -228,7 +228,7 @@
         "brand": "COS",
         "price": "€199",
         "why": "An ankle strap steadies a heel you can actually wear through dinner.",
-        "img": "img/studio_heels.jpg",
+        "img": "img/studio_heels_c.png",
         "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
       },
       {
@@ -236,7 +236,7 @@
         "brand": "COS",
         "price": "€89",
         "why": "Just enough for phone, card and keys — croc-effect leather reads luxe.",
-        "img": "img/studio_clutch.jpg",
+        "img": "img/studio_clutch_c.png",
         "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
       },
       {
@@ -244,7 +244,7 @@
         "brand": "COS",
         "price": "€25",
         "why": "A little gold at the ear is all a satin dress needs.",
-        "img": "img/studio_ear.jpg",
+        "img": "img/studio_ear_c.png",
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mismatched-knotted-earrings-gold-1345022001"
       }
     ]
