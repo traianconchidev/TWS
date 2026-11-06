@@ -399,6 +399,42 @@
       ${lookMore("")}</div>`;
   }
 
+  function viewPrivacy(){
+    setMeta("Privacy Policy — Timeless Wardrobe Studio","How Timeless Wardrobe Studio handles data and affiliate links.");
+    return `<div class="page prose"><a class="crumb" href="#/">${DASH} Home</a>
+      <div class="ptitle-eyebrow">Legal</div><h1 class="ptitle">Privacy Policy</h1>
+      <p style="margin-top:22px">Timeless Wardrobe Studio ("we", "us") runs this site as an independent style edit. We keep data collection to a minimum and never sell your personal information.</p>
+      <h3>What we collect</h3>
+      <p>We don't ask you to create an account or hand over personal details to browse. Like most websites, our hosting and the retailers we link to may record standard technical information such as your IP address, browser type and the pages you view, to keep the site secure and working.</p>
+      <h3>Affiliate links & cookies</h3>
+      <p>Many of our outbound product links are affiliate links, served through our partner Sovrn Commerce. When you click one, a cookie may be set so the retailer can credit the referral &mdash; this is what lets us earn a small commission at no extra cost to you. You can clear or block cookies in your browser at any time; the site still works without them.</p>
+      <h3>Third parties</h3>
+      <p>When you follow a link to a retailer, their own privacy policy and terms apply to anything you do on their site, including any purchase. We don't process your payments and never see your card details.</p>
+      <h3>Your choices</h3>
+      <p>You can browse without sharing personal data, block cookies, or reach us with any question at the channels below.</p>
+      <h3>Contact</h3>
+      <p>Questions about privacy? Message us on <a class="inline" href="https://www.instagram.com/timeless.wardrobe.studio/" target="_blank" rel="noopener">Instagram</a> or <a class="inline" href="https://www.pinterest.com/TimelessWardrobeStudio/" target="_blank" rel="noopener">Pinterest</a>.</p></div>`;
+  }
+
+  function viewTerms(){
+    setMeta("Terms of Use — Timeless Wardrobe Studio","Terms for using Timeless Wardrobe Studio.");
+    return `<div class="page prose"><a class="crumb" href="#/">${DASH} Home</a>
+      <div class="ptitle-eyebrow">Legal</div><h1 class="ptitle">Terms of Use</h1>
+      <p style="margin-top:22px">By using Timeless Wardrobe Studio you agree to these terms. If you don't agree, please don't use the site.</p>
+      <h3>What this site is</h3>
+      <p>We are an independent style edit. We curate outfits and link to products sold by third-party retailers. We are not a shop, we don't hold stock, and we don't sell anything directly. Every purchase is a transaction between you and the retailer, under their terms.</p>
+      <h3>Prices & availability</h3>
+      <p>Prices, availability and product details are set by each retailer and can change at any time. We take care to keep things accurate, but we can't guarantee a price or that an item is in stock when you click through.</p>
+      <h3>Affiliate disclosure</h3>
+      <p>Some links are affiliate links. We may earn a small commission when you shop through them, at no extra cost to you. It never changes the price you pay, and it doesn't influence which pieces we choose &mdash; we only feature items we'd recommend regardless.</p>
+      <h3>Imagery</h3>
+      <p>Some imagery is styled or visualised with the help of AI, always declared as such. Every garment shown is a genuine product available from the retailer linked beside it.</p>
+      <h3>Content</h3>
+      <p>The text, curation and original imagery on this site are ours. Please don't republish them as your own. Retailer product names and images belong to their respective owners.</p>
+      <h3>Changes</h3>
+      <p>We may update these terms as the site evolves. Continued use means you accept the current version.</p></div>`;
+  }
+
   function viewMissing(){
     setMeta("Timeless Wardrobe Studio","Shop quiet-luxury outfits, every piece linked to the retailer.");
     return `<div class="page"><div class="ptitle-eyebrow">Not here</div><h1 class="ptitle">This edit isn't here yet.</h1>
@@ -411,7 +447,7 @@
     <footer class="site">
       <div class="fm">Timeless Wardrobe Studio</div>
       <div class="sub">Quiet luxury, made shoppable</div>
-      <div class="fnav"><a href="#/">Shop</a><a href="#/palettes">Palettes</a><a href="#/about">About</a><a href="https://www.pinterest.com/TimelessWardrobeStudio/" target="_blank" rel="noopener">Pinterest</a><a href="https://www.instagram.com/timeless.wardrobe.studio/" target="_blank" rel="noopener">Instagram</a></div>
+      <div class="fnav"><a href="#/">Shop</a><a href="#/palettes">Palettes</a><a href="#/about">About</a><a href="#/privacy">Privacy</a><a href="#/terms">Terms</a><a href="https://www.pinterest.com/TimelessWardrobeStudio/" target="_blank" rel="noopener">Pinterest</a><a href="https://www.instagram.com/timeless.wardrobe.studio/" target="_blank" rel="noopener">Instagram</a></div>
     </footer></div>`;}
 
   function route(){
@@ -423,6 +459,8 @@
     else if(parts[0]==="c") html=viewCategory(parts[1]);
     else if(parts[0]==="palettes") html=viewPalettes();
     else if(parts[0]==="about") html=viewAbout();
+    else if(parts[0]==="privacy") html=viewPrivacy();
+    else if(parts[0]==="terms") html=viewTerms();
     else html=viewHome();
     document.getElementById("app").innerHTML=html;
     let f=document.getElementById("sitefoot"); if(f) f.innerHTML=footerHTML();
