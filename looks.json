@@ -64,7 +64,7 @@
         "brand": "Whistles",
         "price": "$359",
         "why": "Double-faced wool falls clean with no lining bulk — the piece that makes the whole outfit read expensive.",
-        "img": "https://whistles.com/dw/image/v2/BDCH_PRD/on/demandware.static/-/Sites-whistles-master-catalog/default/dw3964ebe4/images/00103722100/whistles-julia-wool-double-faced-coat-camel-01.jpg?sw=1000&sh=1500&strip=false",
+        "img": "img/p07_coat.png",
         "url": "https://whistles.com/us/product/julia-wool-double-faced-coat-37221.html"
       },
       {
@@ -72,7 +72,7 @@
         "brand": "Whistles",
         "price": "$159",
         "why": "Gathered at the side to skim rather than cling; a soft jersey that travels desk to dinner.",
-        "img": "https://www.whistles.com/dw/image/v2/BDCH_PRD/on/demandware.static/-/Sites-whistles-master-catalog/default/dw7a6845d1/images/00403945201/whistles-gathered-side-midi-knit-dress-black-01.jpg?sw=1000&sh=1500&strip=false",
+        "img": "img/p07_dress.png",
         "url": "https://www.whistles.com/row/product/213148.html"
       },
       {
@@ -80,7 +80,7 @@
         "brand": "Vagabond",
         "price": "$210",
         "why": "A walkable block heel in smooth leather — all-day comfort, evening-ready polish.",
-        "img": "https://cdn.vagabond.com/thumbnails/924/auto/resize/productimages/pos1/list/5002-001-20.jpg?v=20260622131936",
+        "img": "img/p07_boots.png",
         "url": "https://www.vagabond.com/us/hedda-5002-001-20/"
       }
     ]
