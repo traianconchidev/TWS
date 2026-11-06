@@ -5,7 +5,7 @@
     "eyebrow": "Colour Story",
     "title": "Camel & Ink",
     "intro": "A quiet-luxury autumn palette: warm camel against deep ink. Soft, grounded, and endlessly wearable from desk to dinner.",
-    "hero": "https://whistles.com/dw/image/v2/BDCH_PRD/on/demandware.static/-/Sites-whistles-master-catalog/default/dw3964ebe4/images/00103722100/whistles-julia-wool-double-faced-coat-camel-01.jpg?sw=1000&sh=1500&strip=false",
+    "hero": "img/p07_model.png",
     "swatches": [
       {
         "name": "Camel",
@@ -131,7 +131,7 @@
             "color": "Black",
             "price": "€135",
             "why": "The same pointed pumps from Studio Noir — a sharp toe lifts the midi for evening.",
-            "img": "img/studio_heels.jpg",
+            "img": "img/studio_heels_c.png",
             "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product"
           },
           {
@@ -162,7 +162,7 @@
     "eyebrow": "The Off-Duty Edit",
     "title": "Three Ways Off-Duty",
     "intro": "Three easy off-duty outfits for a quiet-luxury autumn weekend — a cashmere-and-denim staple, a cozy oversized jumper with barrel jeans, and a cream-knit look with straight-leg denim. One relaxed mood, three ways to wear it. Tap any look to shop every piece.",
-    "hero": "https://d8j0ntlcm91z4.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/hf_20261106_052240_9a273818-115c-4de5-8d9e-875a6c8c49e0.png",
+    "hero": "img/offduty_3ways.png",
     "lookIds": [
       "offduty",
       "p05",
@@ -298,7 +298,7 @@
     "eyebrow": "Colour Story",
     "title": "The Quiet Neutral Capsule",
     "intro": "Six outfits, one quiet neutral palette — cream, camel and ink. Proof that a tight colour story makes a small wardrobe feel limitless, from the desk to the evening. Every piece linked to the retailer.",
-    "hero": "https://d8j0ntlcm91z4.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/hf_20261103_091406_5e19dede-2844-4948-bf58-afcae0b841ea.png",
+    "hero": "img/capsule_6ways.png",
     "swatches": [
       {
         "name": "Cream",

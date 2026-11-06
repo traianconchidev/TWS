@@ -289,7 +289,7 @@
           <a class="btn primary" href="#categories">Shop the looks</a>
           <a class="btn ghost" href="#how">How it works</a>
         </div>
-        ${(()=>{const feat=["p08","p05","p06"].map(bySlugLook).filter(Boolean);const pick=feat.length?feat:LOOKS.slice(0,3);
+        ${(()=>{const feat=["p08","p07","p06"].map(bySlugLook).filter(Boolean);const pick=feat.length?feat:LOOKS.slice(0,3);
           return pick.length?`<div class="hero-strip">${pick.map(l=>`<a class="hs" href="#/look/${l.id}"><img src="${esc(l.hero)}" alt="${esc(l.sub||l.category)}" loading="lazy"><span class="cap">${esc(l.category)}</span></a>`).join("")}</div>`:"";})()}
       </section>
 
