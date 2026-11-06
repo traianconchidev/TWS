@@ -267,7 +267,7 @@
         "brand": "COS",
         "price": "€99",
         "why": "Fine-gauge cream wool, oversized but never bulky — the soft hero of an easy off-duty look.",
-        "img": "https://media.cos.com/assets/001/9c/da/9cdab491756ebbe0facfa43c828c84ceeaa075a9_xxl-1.jpg?imwidth=2160",
+        "img": "img/p05_knit.png",
         "url": "https://www.cos.com/en-eu/women/womenswear/knitwear/jumpers/product/rounded-wool-crew-neck-jumper-cream-1341893002"
       },
       {
@@ -275,14 +275,14 @@
         "brand": "& Other Stories",
         "price": "€99",
         "why": "The barrel leg is the one denim shape that looks current without trying; mid blue stays versatile.",
-        "img": "https://media.stories.com/assets/005/b6/bd/b6bd5f4800bbd3c9de086d6a7856a5ec09e21276_xxl-1.jpg",
+        "img": "img/p05_jeans.png",
         "url": "https://www.stories.com/en-nl/product/barrel-leg-jeans-mid-blue-1283788013/"
       },
       {
         "name": "Samba OG — brown",
         "brand": "adidas",
         "why": "The quiet-luxury way to wear a trainer — brown suede and a gum sole dress the whole outfit down.",
-        "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ad55ee55e5a3426b9b394e7362c43210_9366/Samba_OG_Shoes_Brown_ID1481_00_plp_standard.jpg",
+        "img": "img/p05_samba.png",
         "url": "https://www.adidas.com/us/samba-og-shoes/ID1481.html"
       }
     ]
