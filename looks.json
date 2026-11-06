@@ -305,7 +305,7 @@
         "brand": "COS",
         "price": "€299",
         "why": "One sleeveless column of draped jersey that skims and moves — the whole outfit in a single piece.",
-        "img": "https://media.cos.com/assets/001/da/ac/daac8121a6736f4797e7b6319be85ac22ac893c2_xxl-1.jpg?imwidth=800",
+        "img": "img/p06_dress.png",
         "url": "https://www.cos.com/en-eu/women/womenswear/dresses/longdresses/product/draped-gathered-maxi-dress-carbon-1346926001"
       },
       {
@@ -313,7 +313,7 @@
         "brand": "COS",
         "price": "€199",
         "why": "A steady ankle-strap heel that turns the same skirt into an evening look.",
-        "img": "img/studio_heels.jpg",
+        "img": "img/p06_pumps.png",
         "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
       },
       {
@@ -321,7 +321,7 @@
         "brand": "COS",
         "price": "€89",
         "why": "Croc-effect leather, just enough for phone, card and keys — the evening full stop.",
-        "img": "img/studio_clutch.jpg",
+        "img": "img/p06_clutch.png",
         "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
       }
     ]
