@@ -474,5 +474,92 @@
     "url": "https://shop.mango.com/us/en/p/women/bags/crossbody/recycled-leather-handbag/47011360/99/00"
    }
   ]
+ },
+ {
+  "n": "TWS-P11",
+  "id": "p11",
+  "category": "Off-Duty Casual",
+  "sub": "Check, knit and navy.",
+  "hero": "img/p11_model.png",
+  "note": "Autumn layering, done the easy way. A navy fine-knit boat-neck over a navy gingham shirt, a soft diamond neckscarf at the throat, and a tobacco houndstooth blazer thrown over the top. A chocolate suede belt pulls it into dark straight jeans; pointed ankle boots and a slouchy navy suede tote finish it — texture and check, kept to navy and brown.",
+  "occasions": [
+   "Weekend",
+   "Coffee run",
+   "City"
+  ],
+  "pieces": [
+   {
+    "name": "Check-Print Jacket",
+    "brand": "Mango",
+    "color": "Tobacco Brown",
+    "price": "£99.99",
+    "why": "The tobacco houndstooth blazer that makes the whole thing look considered — thrown open over the knit.",
+    "img": "img/t3_blazer.png",
+    "url": "https://shop.mango.com/gb/en/p/women/blazers/check-print-jacket/37045865/31/00"
+   },
+   {
+    "name": "Fine-Knit Boat-Neck Sweater",
+    "brand": "Mango",
+    "color": "Navy",
+    "price": "£22.99",
+    "why": "A clean navy boat-neck — the quiet middle layer that lets the shirt collar and scarf do the talking.",
+    "img": "img/t3_sweater.png",
+    "url": "https://shop.mango.com/gb/en/p/women/sweaters-and-cardigans/plus-sizes/fine-knit-boat-neck-sweater/37024077/56/00"
+   },
+   {
+    "name": "Fitted Check Shirt",
+    "brand": "Mango",
+    "color": "Navy",
+    "price": "£25.99",
+    "why": "A navy gingham shirt worn under the knit so the collar and cuffs peek out — the detail that lifts the layering.",
+    "img": "img/t3_checkshirt.png",
+    "url": "https://shop.mango.com/gb/en/p/women/shirts---blouses/long-sleeve/fitted-check-shirt/37045989/56/00"
+   },
+   {
+    "name": "Diamond-Patterned Triangular Scarf",
+    "brand": "Mango",
+    "color": "Dark Heather Grey",
+    "price": "£17.99",
+    "why": "A soft diamond-check neckscarf tied at the throat — the warm, old-money finishing touch.",
+    "img": "img/t3_scarf.png",
+    "url": "https://shop.mango.com/gb/en/p/women/scarfs-and-foulards/neckscarves/diamond-patterned-triangular-scarf/37087914/96/00"
+   },
+   {
+    "name": "Mid-Rise Straight Jeans",
+    "brand": "Mango",
+    "color": "Dark Navy",
+    "price": "£39.99",
+    "why": "Dark straight-leg denim — grounds all the check and knit without fuss.",
+    "img": "img/t3_jeans.png",
+    "url": "https://shop.mango.com/gb/en/p/women/jeans/plus-sizes/mid-rise-straight-jeans/37034114/TO/00"
+   },
+   {
+    "name": "Buckle Leather Belt",
+    "brand": "Mango",
+    "color": "Chocolate",
+    "price": "£29.99",
+    "why": "The chocolate suede belt again — one warm brown note that ties the jeans to the blazer.",
+    "img": "img/t3_belt.png",
+    "url": "https://shop.mango.com/gb/en/p/women/belts/basics/buckle-leather-belt/37034422/32/00"
+   },
+   {
+    "name": "Pointed Heel Ankle Boot",
+    "brand": "Mango",
+    "color": "Brown",
+    "price": "£59.99",
+    "why": "Dark brown pointed ankle boots on a low block heel — sharp enough to lift straight jeans.",
+    "img": "img/t3_boots.png",
+    "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/pointed-heel-ankle-boot/37025986/32/00"
+   },
+   {
+    "name": "Suede Leather Shopper Bag",
+    "brand": "Mango",
+    "color": "Navy",
+    "price": "£55.99",
+    "why": "A slouchy navy suede shopper — roomy, soft, and tonal with the knit.",
+    "img": "img/t3_tote.png",
+    "url": "https://shop.mango.com/gb/en/p/women/bags/leather-bags/suede-leather-shopper-bag/37072917/56/00"
+   }
+  ]
  }
 ]
