@@ -423,55 +423,55 @@
     "name": "Short-Sleeve Marl Jumper",
     "brand": "Mango",
     "color": "Medium Heather Grey",
-    "price": "$70",
+    "price": "$69.99",
     "why": "A short-sleeve marl knit in heather grey — soft texture that layers cleanly over a shirt for the half-sleeve look.",
     "img": "img/t2_jumper.png",
-    "url": "https://shop.mango.com/us/en/c/women/sweaters-and-cardigans/sweaters_b4bc95e0"
+    "url": "https://shop.mango.com/us/en/p/women/sweaters-and-cardigans/sweaters/short-sleeve-marl-jumper/37007811/94/00"
    },
    {
     "name": "Straight Lyocell Shirt",
     "brand": "Mango",
     "color": "Off White",
-    "price": "$60",
+    "price": "$69.99",
     "why": "The crisp base layer — a straight lyocell shirt worn under the knit so the collar and cuffs read sharp.",
     "img": "img/t2_shirt.png",
-    "url": "https://shop.mango.com/us/en/c/women/shirts_f1d9f8f3"
+    "url": "https://shop.mango.com/us/en/p/women/shirts---blouses/long-sleeve/straight-lyocell-shirt/37024070/02/00"
    },
    {
     "name": "Herringbone Wool Suit Trousers",
     "brand": "Mango",
     "color": "Medium Heather Grey",
-    "price": "$120",
+    "price": "$99.99",
     "why": "High-waisted herringbone wool with a straight, slightly flared leg — tailored enough to anchor the whole look.",
     "img": "img/t2_trousers.png",
-    "url": "https://shop.mango.com/us/en/c/women/trousers/suit_924b10e7"
+    "url": "https://shop.mango.com/us/en/p/women/trousers/smart/herringbone-wool-suit-trousers/37078287/94/00"
    },
    {
     "name": "Buckle Leather Belt",
     "brand": "Mango",
     "color": "Chocolate",
-    "price": "$36",
+    "price": "$59.99",
     "why": "A chocolate suede belt with a warm gold buckle — the one hit of brown that lifts all the grey.",
     "img": "img/t2_belt.png",
-    "url": "https://shop.mango.com/us/en/c/women/accessories/belts_6a2b2e8e"
+    "url": "https://shop.mango.com/us/en/p/women/belts/basics/buckle-leather-belt/37034422/32/00"
    },
    {
     "name": "Leather Penny Loafers",
     "brand": "Mango",
     "color": "Black",
-    "price": "$110",
+    "price": "$129.99",
     "why": "Classic black penny loafers — the quiet shoe that keeps tailored trousers easy to walk in.",
     "img": "img/t2_loafers.png",
-    "url": "https://shop.mango.com/us/en/c/women/shoes/loafers_2f0c7a6a"
+    "url": "https://shop.mango.com/us/en/p/women/shoes/flat-shoes/leather-penny-loafers/47011342/99/00"
    },
    {
     "name": "Recycled Leather Handbag",
     "brand": "Mango",
     "color": "Black",
-    "price": "$100",
+    "price": "$99.99",
     "why": "A soft black shoulder bag in recycled leather — roomy, unstructured, easy on the shoulder.",
     "img": "img/t2_bag.png",
-    "url": "https://shop.mango.com/us/en/c/women/bags_3b9c1d2e"
+    "url": "https://shop.mango.com/us/en/p/women/bags/crossbody/recycled-leather-handbag/47011360/99/00"
    }
   ]
  }
