@@ -1,349 +1,409 @@
 [
-  {
-    "n": "TWS-P08",
-    "id": "p08",
-    "category": "Off-Duty Casual",
-    "sub": "The slow Saturday, off-duty and easy.",
-    "hero": "img/p08_model.png",
-    "note": "Off-duty ease that still reads expensive. A grey-melange funnel-neck half-zip over a crisp white raglan tee and straight-leg Levi's 501s, grounded by grey suede Gazelles, a black cashmere beanie and a roomy recycled-canvas Longchamp tote — relaxed shapes in a quiet grey, white and indigo palette. Made for the slow Saturday: the coffee run, the market, the long walk home.",
-    "occasions": [
-      "Weekend",
-      "Errands",
-      "Slow Saturday"
-    ],
-    "pieces": [
-      {
-        "name": "Funnel-Neck Half-Zip Knitted Jumper",
-        "brand": "COS",
-        "color": "Grey melange",
-        "price": "$99",
-        "why": "A grey-melange half-zip in a clean knit — the funnel neck frames the white tee underneath and adds a quiet sporty note.",
-        "img": "img/p08_halfzip.png",
-        "url": "https://www.cos.com/en-us/product/funnel-neck-half-zip-knitted-jumper-grey-mlange-1355373003"
-      },
-      {
-        "name": "Cotton Raglan-Sleeve T-Shirt",
-        "brand": "Mango",
-        "color": "White",
-        "price": "$25.99",
-        "why": "A clean white raglan tee layered under the knit — the easy base that lifts the whole look.",
-        "img": "img/p08_tee.png",
-        "url": "https://shop.mango.com/us/en/c/women/t-shirts_8e23bdfb"
-      },
-      {
-        "name": "501 Original Fit Jeans — mid blue",
-        "brand": "Levi's",
-        "price": "$98",
-        "why": "The original straight leg in a mid-blue wash — the one denim that never dates and works back to everything.",
-        "img": "img/p08_jeans.png",
-        "url": "https://www.levi.com/US/en_US/clothing/women/jeans/straight/501-original-fit-womens-jeans/p/125010555"
-      },
-      {
-        "name": "Gazelle — grey",
-        "brand": "adidas",
-        "price": "$110",
-        "why": "Grey suede with a gum sole — the quiet-luxury way to wear a trainer, dressing the whole look down.",
-        "img": "img/p08_gazelle.png",
-        "url": "https://www.adidas.com/us/gazelle-shoes/BB5480.html"
-      },
-      {
-        "name": "Le Pliage Original L Tote Bag — Recycled Canvas",
-        "brand": "Longchamp",
-        "color": "Black",
-        "price": "$175",
-        "why": "The featherweight recycled-canvas Le Pliage folds flat yet holds a whole Saturday — the everyday workhorse.",
-        "img": "img/p08_tote.png",
-        "url": "https://www.longchamp.com/us/en/products/tote-bag-l-L1899089001.html"
-      },
-      {
-        "name": "Pure Cashmere Beanie",
-        "brand": "COS",
-        "color": "Black",
-        "price": "$59",
-        "why": "A black cashmere beanie keeps it warm and quiet — the finishing layer for the slow Saturday.",
-        "img": "img/p08_beanie.png",
-        "url": "https://www.cos.com/en-us/women/accessories/hatsscarvesgloves/hats/product/pure-cashmere-beanie-black-1248054001"
-      }
-    ]
-  },
-  {
-    "n": "TWS-P07",
-    "id": "p07",
-    "category": "9 to 5 Luxe",
-    "sub": "Camel & ink, desk to dinner.",
-    "hero": "img/p07_model.png",
-    "note": "A camel wool coat worn long over a gathered-side black knit dress — warm neutral against deep ink, the quietest kind of statement. The double-faced wool holds its line without lining bulk, while the jersey dress moves with you. Black ankle boots ground it for the commute and keep it sharp enough for dinner after. One palette, two textures, no effort showing.",
-    "occasions": [
-      "Office",
-      "Dinner",
-      "Autumn commute"
-    ],
-    "pieces": [
-      {
-        "name": "Camel Julia Wool Double-Faced Coat",
-        "brand": "Whistles",
-        "price": "$359",
-        "why": "Double-faced wool falls clean with no lining bulk — the piece that makes the whole outfit read expensive.",
-        "img": "img/p07_coat.png",
-        "url": "https://whistles.com/us/product/julia-wool-double-faced-coat-37221.html"
-      },
-      {
-        "name": "Black Gathered Side Midi Knit Dress",
-        "brand": "Whistles",
-        "price": "$159",
-        "why": "Gathered at the side to skim rather than cling; a soft jersey that travels desk to dinner.",
-        "img": "img/p07_dress.png",
-        "url": "https://www.whistles.com/row/product/213148.html"
-      },
-      {
-        "name": "Hedda Leather Ankle Boots — Black",
-        "brand": "Vagabond",
-        "price": "$210",
-        "why": "A walkable block heel in smooth leather — all-day comfort, evening-ready polish.",
-        "img": "img/p07_boots.png",
-        "url": "https://www.vagabond.com/us/hedda-5002-001-20/"
-      }
-    ]
-  },
-  {
-    "n": "01",
-    "id": "luxe",
-    "category": "9 to 5 Luxe",
-    "sub": "Quiet authority, from desk to dinner.",
-    "hero": "img/luxe_model.png",
-    "note": "Quiet authority, built on tailoring. A dark-brown twill blazer over pleated wide-leg trousers, finished with a structured leather tote and pointed flats — a considered, tonal uniform for days that run from the desk straight into the evening. Nothing loud; everything intentional.",
-    "occasions": [
-      "Office",
-      "Meetings",
-      "Desk to dinner"
-    ],
-    "pieces": [
-      {
-        "name": "Twill Single-Breasted Blazer",
-        "brand": "COS",
-        "price": "€179",
-        "why": "Crisp single-breasted cut in a matte twill — structure without stiffness.",
-        "img": "img/luxe_blazer_c.png",
-        "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/twill-single-breasted-blazer-dark-brown-1294894003"
-      },
-      {
-        "name": "Cotton-Twill Wide-Leg Turn-Up Trousers",
-        "brand": "COS",
-        "price": "€149",
-        "why": "Structured cotton twill holds a clean wide leg; the turn-up cuff keeps the beige tailored, not casual.",
-        "img": "img/luxe_trousers_c.png",
-        "url": "https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/cotton-twill-wide-leg-turn-up-trousers-beige-1340451002"
-      },
-      {
-        "name": "Classic Leather Tote",
-        "brand": "COS",
-        "price": "€249",
-        "why": "Holds a laptop and keeps its shape — the one bag that works all week.",
-        "img": "img/luxe_tote_c.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
-      },
-      {
-        "name": "The Twisted Earrings — gold",
-        "brand": "COS",
-        "img": "img/luxe_earrings_c.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/the-twisted-earrings-gold-1281848001"
-      },
-      {
-        "name": "Oval-Buckle Slim Leather Belt",
-        "brand": "COS",
-        "img": "img/luxe_belt_c.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-slim-leather-belt-black-1288136001"
-      },
-      {
-        "name": "Pointed Leather Ballet Flats",
-        "brand": "COS",
-        "why": "Pointed toe lengthens the leg; flat enough for a full day on your feet.",
-        "img": "img/luxe_flats_c.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/shoes/balletpumps/product/pointed-leather-ballet-flats-black-1194860001"
-      }
-    ]
-  },
-  {
-    "n": "02",
-    "id": "offduty",
-    "category": "Off-Duty Casual",
-    "sub": "Ease that reads expensive.",
-    "hero": "img/offduty_model.png",
-    "note": "Ease that reads expensive. A pure-cashmere turtleneck with cropped wide-leg denim and leather loafers — relaxed and tactile, the kind of outfit that looks considered without trying. Add a silk scarf for the one detail that lifts it. Made for the weekend, errands, or a slow day working from home.",
-    "occasions": [
-      "Weekend",
-      "Errands",
-      "Work from home"
-    ],
-    "pieces": [
-      {
-        "name": "Pure Cashmere Turtleneck",
-        "brand": "COS",
-        "price": "€200",
-        "why": "Real cashmere drapes softly and keeps its shape wash after wash — a cost-per-wear buy.",
-        "img": "img/off_knit.png",
-        "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/cashmere/product/pure-cashmere-turtleneck-jumper-brown-1232653001"
-      },
-      {
-        "name": "Cropped Wide-Leg Denim",
-        "brand": "COS",
-        "price": "€89",
-        "why": "Cropped at the ankle to show the loafer; ecru keeps it softer than blue.",
-        "img": "img/off_jeans.png",
-        "url": "https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/cropped-wide-leg-denim-trousers-ecru-1313780003"
-      },
-      {
-        "name": "Classic Leather Loafers",
-        "brand": "COS",
-        "price": "€110",
-        "why": "The casual shoe that still looks grown-up — leather, not canvas.",
-        "img": "img/off_loafers.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
-      },
-      {
-        "name": "Mini Folded Crossbody Shopper",
-        "brand": "COS",
-        "img": "img/off_bag.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001"
-      },
-      {
-        "name": "Stacked Mini Hoop Earrings — gold",
-        "brand": "COS",
-        "img": "img/off_earrings.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/stacked-mini-hoop-earrings-gold-1278006001"
-      },
-      {
-        "name": "Printed Silk Scarf",
-        "brand": "COS",
-        "price": "€99",
-        "why": "The one accessory that lifts a plain knit — tie it at the neck or the bag.",
-        "img": "img/off_scarf.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/hatsscarvesgloves/scarves/product/the-printed-silk-scarf-floral-1283915001"
-      }
-    ]
-  },
-  {
-    "n": "03",
-    "id": "studio",
-    "category": "Studio Noir",
-    "sub": "For the evening that starts after the meeting ends.",
-    "hero": "img/studio_model.png",
-    "note": "For the evening that starts after the meeting ends. A scoop-neck satin midi in black, strap-detail pumps and a compact clutch — minimal, polished and quietly sensual. The satin catches the light so the outfit needs nothing else. Dinner, a launch, or a date that deserves effort.",
-    "occasions": [
-      "Evening",
-      "Date night",
-      "Dinner"
-    ],
-    "pieces": [
-      {
-        "name": "Scoop-Neck Satin Midi Dress",
-        "brand": "COS",
-        "price": "€99",
-        "why": "Bias-cut satin that skims the body and catches the light — one piece, whole outfit.",
-        "img": "img/studio_dress_c.png",
-        "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/scoop-neck-satin-midi-dress-black-1329721002"
-      },
-      {
-        "name": "Strap-Detail Leather Pumps",
-        "brand": "COS",
-        "price": "€199",
-        "why": "An ankle strap steadies a heel you can actually wear through dinner.",
-        "img": "img/studio_heels_c.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
-      },
-      {
-        "name": "Envelope Clasp Pouch",
-        "brand": "COS",
-        "price": "€89",
-        "why": "Just enough for phone, card and keys — croc-effect leather reads luxe.",
-        "img": "img/studio_clutch_c.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
-      },
-      {
-        "name": "Mismatched Knotted Earrings",
-        "brand": "COS",
-        "price": "€25",
-        "why": "A little gold at the ear is all a satin dress needs.",
-        "img": "img/studio_ear_c.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mismatched-knotted-earrings-gold-1345022001"
-      }
-    ]
-  },
-  {
-    "n": "TWS-P05",
-    "id": "p05",
-    "category": "Off-Duty Casual",
-    "sub": "Off-duty ease, in a tight neutral palette.",
-    "hero": "img/p05_model.png",
-    "note": "Ease that reads expensive, off-duty. A cream oversized wool jumper over mid-blue barrel-leg jeans, grounded by brown suede Sambas — relaxed proportions kept in a tight neutral palette. The slouchy knit balances the volume of the barrel leg, while the retro trainer keeps the whole thing young and easy. Made for the weekend, the coffee run, or a slow day off.",
-    "occasions": [
-      "Weekend",
-      "Errands",
-      "Coffee run"
-    ],
-    "pieces": [
-      {
-        "name": "Rounded Wool Crew-Neck Jumper — cream",
-        "brand": "COS",
-        "price": "€99",
-        "why": "Fine-gauge cream wool, oversized but never bulky — the soft hero of an easy off-duty look.",
-        "img": "img/p05_knit.png",
-        "url": "https://www.cos.com/en-eu/women/womenswear/knitwear/jumpers/product/rounded-wool-crew-neck-jumper-cream-1341893002"
-      },
-      {
-        "name": "Barrel-Leg Jeans — mid blue",
-        "brand": "& Other Stories",
-        "price": "€99",
-        "why": "The barrel leg is the one denim shape that looks current without trying; mid blue stays versatile.",
-        "img": "img/p05_jeans.png",
-        "url": "https://www.stories.com/en-nl/product/barrel-leg-jeans-mid-blue-1283788013/"
-      },
-      {
-        "name": "Samba OG — brown",
-        "brand": "adidas",
-        "why": "The quiet-luxury way to wear a trainer — brown suede and a gum sole dress the whole outfit down.",
-        "img": "img/p05_samba.png",
-        "url": "https://www.adidas.com/us/samba-og-shoes/ID1481.html"
-      }
-    ]
-  },
-  {
-    "n": "TWS-P06",
-    "id": "p06",
-    "category": "Studio Noir",
-    "sub": "The evening, in a single column of black.",
-    "hero": "img/p06_model.png",
-    "note": "The evening, distilled to a single line. A sleeveless high-neck draped maxi falls in one fluid column of black, worn with pointed pumps and a soft gathered clutch — nothing competes with the silhouette. The draped jersey moves as you do and needs no jewellery to finish it. For dinner, a launch, or a night that asks for less, done better.",
-    "occasions": [
-      "Evening",
-      "Dinner",
-      "Occasion"
-    ],
-    "pieces": [
-      {
-        "name": "Draped Gathered Maxi Dress — black",
-        "brand": "COS",
-        "price": "€299",
-        "why": "One sleeveless column of draped jersey that skims and moves — the whole outfit in a single piece.",
-        "img": "img/p06_dress.png",
-        "url": "https://www.cos.com/en-eu/women/womenswear/dresses/longdresses/product/draped-gathered-maxi-dress-carbon-1346926001"
-      },
-      {
-        "name": "Strap-Detail Leather Pumps",
-        "brand": "COS",
-        "price": "€199",
-        "why": "A steady ankle-strap heel that turns the same skirt into an evening look.",
-        "img": "img/p06_pumps.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
-      },
-      {
-        "name": "Envelope Clasp Pouch",
-        "brand": "COS",
-        "price": "€89",
-        "why": "Croc-effect leather, just enough for phone, card and keys — the evening full stop.",
-        "img": "img/p06_clutch.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
-      }
-    ]
-  }
+ {
+  "n": "TWS-P08",
+  "id": "p08",
+  "category": "Off-Duty Casual",
+  "sub": "The slow Saturday, off-duty and easy.",
+  "hero": "img/p08_model.png",
+  "note": "Off-duty ease that still reads expensive. A grey-melange funnel-neck half-zip over a crisp white raglan tee and straight-leg Levi's 501s, grounded by grey suede Gazelles, a black cashmere beanie and a roomy recycled-canvas Longchamp tote — relaxed shapes in a quiet grey, white and indigo palette. Made for the slow Saturday: the coffee run, the market, the long walk home.",
+  "occasions": [
+   "Weekend",
+   "Errands",
+   "Slow Saturday"
+  ],
+  "pieces": [
+   {
+    "name": "Funnel-Neck Half-Zip Knitted Jumper",
+    "brand": "COS",
+    "color": "Grey melange",
+    "price": "$99",
+    "why": "A grey-melange half-zip in a clean knit — the funnel neck frames the white tee underneath and adds a quiet sporty note.",
+    "img": "img/p08_halfzip.png",
+    "url": "https://www.cos.com/en-us/product/funnel-neck-half-zip-knitted-jumper-grey-mlange-1355373003"
+   },
+   {
+    "name": "Cotton Raglan-Sleeve T-Shirt",
+    "brand": "Mango",
+    "color": "White",
+    "price": "$25.99",
+    "why": "A clean white raglan tee layered under the knit — the easy base that lifts the whole look.",
+    "img": "img/p08_tee.png",
+    "url": "https://shop.mango.com/us/en/c/women/t-shirts_8e23bdfb"
+   },
+   {
+    "name": "501 Original Fit Jeans — mid blue",
+    "brand": "Levi's",
+    "price": "$98",
+    "why": "The original straight leg in a mid-blue wash — the one denim that never dates and works back to everything.",
+    "img": "img/p08_jeans.png",
+    "url": "https://www.levi.com/US/en_US/clothing/women/jeans/straight/501-original-fit-womens-jeans/p/125010555"
+   },
+   {
+    "name": "Gazelle — grey",
+    "brand": "adidas",
+    "price": "$110",
+    "why": "Grey suede with a gum sole — the quiet-luxury way to wear a trainer, dressing the whole look down.",
+    "img": "img/p08_gazelle.png",
+    "url": "https://www.adidas.com/us/gazelle-shoes/BB5480.html"
+   },
+   {
+    "name": "Le Pliage Original L Tote Bag — Recycled Canvas",
+    "brand": "Longchamp",
+    "color": "Black",
+    "price": "$175",
+    "why": "The featherweight recycled-canvas Le Pliage folds flat yet holds a whole Saturday — the everyday workhorse.",
+    "img": "img/p08_tote.png",
+    "url": "https://www.longchamp.com/us/en/products/tote-bag-l-L1899089001.html"
+   },
+   {
+    "name": "Pure Cashmere Beanie",
+    "brand": "COS",
+    "color": "Black",
+    "price": "$59",
+    "why": "A black cashmere beanie keeps it warm and quiet — the finishing layer for the slow Saturday.",
+    "img": "img/p08_beanie.png",
+    "url": "https://www.cos.com/en-us/women/accessories/hatsscarvesgloves/hats/product/pure-cashmere-beanie-black-1248054001"
+   }
+  ]
+ },
+ {
+  "n": "TWS-P07",
+  "id": "p07",
+  "category": "9 to 5 Luxe",
+  "sub": "Camel & ink, desk to dinner.",
+  "hero": "img/p07_model.png",
+  "note": "A camel wool coat worn long over a gathered-side black knit dress — warm neutral against deep ink, the quietest kind of statement. The double-faced wool holds its line without lining bulk, while the jersey dress moves with you. Black ankle boots ground it for the commute and keep it sharp enough for dinner after. One palette, two textures, no effort showing.",
+  "occasions": [
+   "Office",
+   "Dinner",
+   "Autumn commute"
+  ],
+  "pieces": [
+   {
+    "name": "Camel Julia Wool Double-Faced Coat",
+    "brand": "Whistles",
+    "price": "$359",
+    "why": "Double-faced wool falls clean with no lining bulk — the piece that makes the whole outfit read expensive.",
+    "img": "img/p07_coat.png",
+    "url": "https://whistles.com/us/product/julia-wool-double-faced-coat-37221.html"
+   },
+   {
+    "name": "Black Gathered Side Midi Knit Dress",
+    "brand": "Whistles",
+    "price": "$159",
+    "why": "Gathered at the side to skim rather than cling; a soft jersey that travels desk to dinner.",
+    "img": "img/p07_dress.png",
+    "url": "https://www.whistles.com/row/product/213148.html"
+   },
+   {
+    "name": "Hedda Leather Ankle Boots — Black",
+    "brand": "Vagabond",
+    "price": "$210",
+    "why": "A walkable block heel in smooth leather — all-day comfort, evening-ready polish.",
+    "img": "img/p07_boots.png",
+    "url": "https://www.vagabond.com/us/hedda-5002-001-20/"
+   }
+  ]
+ },
+ {
+  "n": "01",
+  "id": "luxe",
+  "category": "9 to 5 Luxe",
+  "sub": "Quiet authority, from desk to dinner.",
+  "hero": "img/luxe_model.png",
+  "note": "Quiet authority, built on tailoring. A dark-brown twill blazer over pleated wide-leg trousers, finished with a structured leather tote and pointed flats — a considered, tonal uniform for days that run from the desk straight into the evening. Nothing loud; everything intentional.",
+  "occasions": [
+   "Office",
+   "Meetings",
+   "Desk to dinner"
+  ],
+  "pieces": [
+   {
+    "name": "Twill Single-Breasted Blazer",
+    "brand": "COS",
+    "price": "€179",
+    "why": "Crisp single-breasted cut in a matte twill — structure without stiffness.",
+    "img": "img/luxe_blazer_c.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/twill-single-breasted-blazer-dark-brown-1294894003"
+   },
+   {
+    "name": "Cotton-Twill Wide-Leg Turn-Up Trousers",
+    "brand": "COS",
+    "price": "€149",
+    "why": "Structured cotton twill holds a clean wide leg; the turn-up cuff keeps the beige tailored, not casual.",
+    "img": "img/luxe_trousers_c.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/cotton-twill-wide-leg-turn-up-trousers-beige-1340451002"
+   },
+   {
+    "name": "Classic Leather Tote",
+    "brand": "COS",
+    "price": "€249",
+    "why": "Holds a laptop and keeps its shape — the one bag that works all week.",
+    "img": "img/luxe_tote_c.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
+   },
+   {
+    "name": "The Twisted Earrings — gold",
+    "brand": "COS",
+    "img": "img/luxe_earrings_c.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/the-twisted-earrings-gold-1281848001"
+   },
+   {
+    "name": "Oval-Buckle Slim Leather Belt",
+    "brand": "COS",
+    "img": "img/luxe_belt_c.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-slim-leather-belt-black-1288136001"
+   },
+   {
+    "name": "Pointed Leather Ballet Flats",
+    "brand": "COS",
+    "why": "Pointed toe lengthens the leg; flat enough for a full day on your feet.",
+    "img": "img/luxe_flats_c.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/shoes/balletpumps/product/pointed-leather-ballet-flats-black-1194860001"
+   }
+  ]
+ },
+ {
+  "n": "02",
+  "id": "offduty",
+  "category": "Off-Duty Casual",
+  "sub": "Ease that reads expensive.",
+  "hero": "img/offduty_model.png",
+  "note": "Ease that reads expensive. A pure-cashmere turtleneck with cropped wide-leg denim and leather loafers — relaxed and tactile, the kind of outfit that looks considered without trying. Add a silk scarf for the one detail that lifts it. Made for the weekend, errands, or a slow day working from home.",
+  "occasions": [
+   "Weekend",
+   "Errands",
+   "Work from home"
+  ],
+  "pieces": [
+   {
+    "name": "Pure Cashmere Turtleneck",
+    "brand": "COS",
+    "price": "€200",
+    "why": "Real cashmere drapes softly and keeps its shape wash after wash — a cost-per-wear buy.",
+    "img": "img/off_knit.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/cashmere/product/pure-cashmere-turtleneck-jumper-brown-1232653001"
+   },
+   {
+    "name": "Cropped Wide-Leg Denim",
+    "brand": "COS",
+    "price": "€89",
+    "why": "Cropped at the ankle to show the loafer; ecru keeps it softer than blue.",
+    "img": "img/off_jeans.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/cropped-wide-leg-denim-trousers-ecru-1313780003"
+   },
+   {
+    "name": "Classic Leather Loafers",
+    "brand": "COS",
+    "price": "€110",
+    "why": "The casual shoe that still looks grown-up — leather, not canvas.",
+    "img": "img/off_loafers.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
+   },
+   {
+    "name": "Mini Folded Crossbody Shopper",
+    "brand": "COS",
+    "img": "img/off_bag.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001"
+   },
+   {
+    "name": "Stacked Mini Hoop Earrings — gold",
+    "brand": "COS",
+    "img": "img/off_earrings.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/stacked-mini-hoop-earrings-gold-1278006001"
+   },
+   {
+    "name": "Printed Silk Scarf",
+    "brand": "COS",
+    "price": "€99",
+    "why": "The one accessory that lifts a plain knit — tie it at the neck or the bag.",
+    "img": "img/off_scarf.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/hatsscarvesgloves/scarves/product/the-printed-silk-scarf-floral-1283915001"
+   }
+  ]
+ },
+ {
+  "n": "03",
+  "id": "studio",
+  "category": "Studio Noir",
+  "sub": "For the evening that starts after the meeting ends.",
+  "hero": "img/studio_model.png",
+  "note": "For the evening that starts after the meeting ends. A scoop-neck satin midi in black, strap-detail pumps and a compact clutch — minimal, polished and quietly sensual. The satin catches the light so the outfit needs nothing else. Dinner, a launch, or a date that deserves effort.",
+  "occasions": [
+   "Evening",
+   "Date night",
+   "Dinner"
+  ],
+  "pieces": [
+   {
+    "name": "Scoop-Neck Satin Midi Dress",
+    "brand": "COS",
+    "price": "€99",
+    "why": "Bias-cut satin that skims the body and catches the light — one piece, whole outfit.",
+    "img": "img/studio_dress_c.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/scoop-neck-satin-midi-dress-black-1329721002"
+   },
+   {
+    "name": "Strap-Detail Leather Pumps",
+    "brand": "COS",
+    "price": "€199",
+    "why": "An ankle strap steadies a heel you can actually wear through dinner.",
+    "img": "img/studio_heels_c.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
+   },
+   {
+    "name": "Envelope Clasp Pouch",
+    "brand": "COS",
+    "price": "€89",
+    "why": "Just enough for phone, card and keys — croc-effect leather reads luxe.",
+    "img": "img/studio_clutch_c.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
+   },
+   {
+    "name": "Mismatched Knotted Earrings",
+    "brand": "COS",
+    "price": "€25",
+    "why": "A little gold at the ear is all a satin dress needs.",
+    "img": "img/studio_ear_c.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mismatched-knotted-earrings-gold-1345022001"
+   }
+  ]
+ },
+ {
+  "n": "TWS-P05",
+  "id": "p05",
+  "category": "Off-Duty Casual",
+  "sub": "Off-duty ease, in a tight neutral palette.",
+  "hero": "img/p05_model.png",
+  "note": "Ease that reads expensive, off-duty. A cream oversized wool jumper over mid-blue barrel-leg jeans, grounded by brown suede Sambas — relaxed proportions kept in a tight neutral palette. The slouchy knit balances the volume of the barrel leg, while the retro trainer keeps the whole thing young and easy. Made for the weekend, the coffee run, or a slow day off.",
+  "occasions": [
+   "Weekend",
+   "Errands",
+   "Coffee run"
+  ],
+  "pieces": [
+   {
+    "name": "Rounded Wool Crew-Neck Jumper — cream",
+    "brand": "COS",
+    "price": "€99",
+    "why": "Fine-gauge cream wool, oversized but never bulky — the soft hero of an easy off-duty look.",
+    "img": "img/p05_knit.png",
+    "url": "https://www.cos.com/en-eu/women/womenswear/knitwear/jumpers/product/rounded-wool-crew-neck-jumper-cream-1341893002"
+   },
+   {
+    "name": "Barrel-Leg Jeans — mid blue",
+    "brand": "& Other Stories",
+    "price": "€99",
+    "why": "The barrel leg is the one denim shape that looks current without trying; mid blue stays versatile.",
+    "img": "img/p05_jeans.png",
+    "url": "https://www.stories.com/en-nl/product/barrel-leg-jeans-mid-blue-1283788013/"
+   },
+   {
+    "name": "Samba OG — brown",
+    "brand": "adidas",
+    "why": "The quiet-luxury way to wear a trainer — brown suede and a gum sole dress the whole outfit down.",
+    "img": "img/p05_samba.png",
+    "url": "https://www.adidas.com/us/samba-og-shoes/ID1481.html"
+   }
+  ]
+ },
+ {
+  "n": "TWS-P06",
+  "id": "p06",
+  "category": "Studio Noir",
+  "sub": "The evening, in a single column of black.",
+  "hero": "img/p06_model.png",
+  "note": "The evening, distilled to a single line. A sleeveless high-neck draped maxi falls in one fluid column of black, worn with pointed pumps and a soft gathered clutch — nothing competes with the silhouette. The draped jersey moves as you do and needs no jewellery to finish it. For dinner, a launch, or a night that asks for less, done better.",
+  "occasions": [
+   "Evening",
+   "Dinner",
+   "Occasion"
+  ],
+  "pieces": [
+   {
+    "name": "Draped Gathered Maxi Dress — black",
+    "brand": "COS",
+    "price": "€299",
+    "why": "One sleeveless column of draped jersey that skims and moves — the whole outfit in a single piece.",
+    "img": "img/p06_dress.png",
+    "url": "https://www.cos.com/en-eu/women/womenswear/dresses/longdresses/product/draped-gathered-maxi-dress-carbon-1346926001"
+   },
+   {
+    "name": "Strap-Detail Leather Pumps",
+    "brand": "COS",
+    "price": "€199",
+    "why": "A steady ankle-strap heel that turns the same skirt into an evening look.",
+    "img": "img/p06_pumps.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
+   },
+   {
+    "name": "Envelope Clasp Pouch",
+    "brand": "COS",
+    "price": "€89",
+    "why": "Croc-effect leather, just enough for phone, card and keys — the evening full stop.",
+    "img": "img/p06_clutch.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
+   }
+  ]
+ },
+ {
+  "n": "TWS-P09",
+  "id": "p09",
+  "category": "9 to 5 Luxe",
+  "sub": "Soft tailoring, grey on black.",
+  "hero": "img/p09_model.png",
+  "note": "Soft tailoring for the desk-to-dinner day. A grey-mélange cashmere funnel-neck cardigan, buttoned and worn relaxed, half-tucked into a black pleated tailored maxi skirt and cinched with a slim black leather belt so the waist reads sharp. Black leather loafers keep it walkable and a roomy black leather flap bag carries the day — quiet grey-and-black tailoring that looks expensive without trying.",
+  "occasions": [
+   "Workday",
+   "Desk to dinner",
+   "City"
+  ],
+  "pieces": [
+   {
+    "name": "Sculpted Pure Cashmere Funnel-Neck Cardigan",
+    "brand": "COS",
+    "color": "Grey mélange",
+    "price": "$299",
+    "why": "The soft anchor of the look — pure cashmere, a funnel neck and a button front you can wear open or closed. Relaxed enough to half-tuck.",
+    "img": "img/t1_cardigan.png",
+    "url": "https://www.cos.com/en-us/women/womenswear/knitwear/cardigans/cashmere/product/sculpted-cashmere-funnel-neck-cardigan-grey-mlange-1341210001"
+   },
+   {
+    "name": "Pleated Tailored Maxi Skirt",
+    "brand": "COS",
+    "color": "Black",
+    "price": "$159",
+    "why": "A clean black maxi with soft front pleats and a centre slit — tailored enough for work, long enough to feel considered.",
+    "img": "img/t1_skirt.png",
+    "url": "https://www.cos.com/en-us/women/womenswear/skirts/maxiskirts/product/pleated-tailored-maxi-skirt-black-1350866001"
+   },
+   {
+    "name": "Square-Buckle Leather Belt",
+    "brand": "COS",
+    "color": "Black / Silver",
+    "price": "$55",
+    "why": "A slim black leather belt with a square silver buckle — it cinches the cardigan to the waist and sharpens the whole line.",
+    "img": "img/t1_belt.png",
+    "url": "https://www.cos.com/en-us/women/accessories/belts"
+   },
+   {
+    "name": "Trullo Oversized Flap Bag",
+    "brand": "COS",
+    "color": "Black",
+    "price": "$350",
+    "why": "A roomy soft-leather flap bag that carries the day — structured enough for the office, easy on the shoulder.",
+    "img": "img/t1_bag.png",
+    "url": "https://www.cos.com/en-us/women/accessories/bags/handbags/product/trullo-oversized-flap-bag-leather-black-1361103001"
+   },
+   {
+    "name": "Classic Leather Loafers",
+    "brand": "COS",
+    "color": "Black",
+    "price": "$190",
+    "why": "Clean black leather loafers — the quiet shoe that keeps a maxi grounded and easy to walk in.",
+    "img": "img/sn_loafers.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
+   }
+  ]
+ }
 ]
