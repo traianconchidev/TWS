@@ -894,5 +894,56 @@
     "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/pointed-leather-slingback-kitten-heels-black-1357160001"
    }
   ]
+ },
+ {
+  "n": "TWS-P18",
+  "id": "p18",
+  "category": "Studio Noir",
+  "sub": "All black, with a shimmer of fringe.",
+  "hero": "img/p18_model.png",
+  "note": "The party look, done the quiet-luxury way. A fringed black mini dress that moves, worn over sheer black tights with pointed slingback heels and a slim eel-effect clutch. Silver hoops are the only brightness. All black, all texture — evening dressing without a single loud note.",
+  "occasions": [
+   "Evening",
+   "Party",
+   "Date Night"
+  ],
+  "pieces": [
+   {
+    "name": "Fringed Mini Dress",
+    "brand": "COS",
+    "color": "Black",
+    "price": "€99",
+    "why": "A sleeveless scoop-neck mini covered in soft black fringe — the whole look in one piece, built to move.",
+    "img": "img/t10_dress.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/dresses/minidresses/product/fringed-mini-dress-black-1345295001"
+   },
+   {
+    "name": "Mini Chunky Hoop Earrings",
+    "brand": "COS",
+    "color": "Silver",
+    "price": "€29",
+    "why": "Small chunky silver hoops — the one bright, metallic note against all the black.",
+    "img": "img/t10_earrings.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-silver-1369780002"
+   },
+   {
+    "name": "Parquet Clutch Bag",
+    "brand": "COS",
+    "color": "Black eel-effect",
+    "price": "€119",
+    "why": "A slim eel-effect leather clutch, held against the body — the quiet, glossy evening bag.",
+    "img": "img/t10_clutch.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/parquet-clutch-bag-eel-effect-leather-black-eel-effect-1343471001"
+   },
+   {
+    "name": "Pointed Leather Slingback Kitten Heels",
+    "brand": "COS",
+    "color": "Black",
+    "price": "€129",
+    "why": "Black pointed slingback kitten heels — a low, sharp heel that keeps a party look easy to walk in.",
+    "img": "img/t10_heels.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/pointed-leather-slingback-kitten-heels-black-1357160001"
+   }
+  ]
  }
 ]
