@@ -843,5 +843,56 @@
     "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/pointed-leather-slingback-kitten-heels-black-1357160001"
    }
   ]
+ },
+ {
+  "n": "TWS-P17",
+  "id": "p17",
+  "category": "Studio Noir",
+  "sub": "Evening, in grey and black.",
+  "hero": "img/p17_model.png",
+  "note": "Evening, done in grey and black. A black belt-detail wool midi dress under a grey double-breasted tailored coat worn open, with sheer tights and pointed slingback heels. A slim eel-effect clutch is the only shine — quiet, cold-weather elegance for the dinner after the day.",
+  "occasions": [
+   "Evening",
+   "Dinner",
+   "City"
+  ],
+  "pieces": [
+   {
+    "name": "Belt-Detail Double-Faced Wool Midi Dress",
+    "brand": "COS",
+    "color": "Black",
+    "price": "€149",
+    "why": "A clean black wool midi with a wrap skirt and a small leather buckle at the hip — architectural and easy, the base of the look.",
+    "img": "img/t9_dress.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/belt-detail-double-faced-wool-midi-dress-black-1346337001"
+   },
+   {
+    "name": "Tailored Wool-Blend Double-Breasted Coat",
+    "brand": "COS",
+    "color": "Grey",
+    "price": "€299",
+    "why": "A long grey double-breasted wool coat worn open — the tailored topper that frames the black dress.",
+    "img": "img/t9_coat.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/coats/product/wool-twill-tailored-coat-grey-1350604001"
+   },
+   {
+    "name": "Parquet Clutch Bag",
+    "brand": "COS",
+    "color": "Black eel-effect",
+    "price": "€119",
+    "why": "A slim eel-effect leather clutch — the one glossy, evening note against all the matte wool.",
+    "img": "img/t9_clutch.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/parquet-clutch-bag-eel-effect-leather-black-eel-effect-1343471001"
+   },
+   {
+    "name": "Pointed Leather Slingback Kitten Heels",
+    "brand": "COS",
+    "color": "Black",
+    "price": "€129",
+    "why": "Black pointed slingback kitten heels — a low, sharp heel that keeps an evening look walkable.",
+    "img": "img/t9_heels.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/pointed-leather-slingback-kitten-heels-black-1357160001"
+   }
+  ]
  }
 ]
