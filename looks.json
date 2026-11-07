@@ -783,5 +783,65 @@
     "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/bukled-suede-boots/47041337/09/00"
    }
   ]
+ },
+ {
+  "n": "TWS-P16",
+  "id": "p16",
+  "category": "9 to 5 Luxe",
+  "sub": "The navy suit, softened.",
+  "hero": "img/p16_model.png",
+  "note": "The navy suit, softened. A midnight wool blazer and straight-leg trousers over a grey cashmere funnel-neck cardigan — tailoring with a knit underneath so it never reads stiff. Black slingback kitten heels and a glossy leather tote finish it. Quiet authority, head to toe.",
+  "occasions": [
+   "Workday",
+   "Desk to dinner",
+   "Meetings"
+  ],
+  "pieces": [
+   {
+    "name": "Single-Breasted Wool Blazer",
+    "brand": "COS",
+    "color": "Midnight",
+    "price": "€299",
+    "why": "A clean midnight-navy wool blazer — the tailored anchor of the suit, sharp enough to carry the whole look.",
+    "img": "img/t8_blazer.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/single-breasted-wool-blazer-midnight-1356813001"
+   },
+   {
+    "name": "Tailored Wool Straight-Leg Trousers",
+    "brand": "COS",
+    "color": "Midnight",
+    "price": "€149",
+    "why": "Matching midnight straight-leg wool trousers — a full suit that reads considered, never corporate.",
+    "img": "img/t8_trousers.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/suitsandtailoring/tailoredtrousers/product/tailored-wool-straight-leg-trousers-midnight-1372846001"
+   },
+   {
+    "name": "Sculpted Pure Cashmere Funnel-Neck Cardigan",
+    "brand": "COS",
+    "color": "Grey mélange",
+    "price": "€199",
+    "why": "The grey cashmere funnel-neck layered under the blazer, collar up — softens the tailoring and adds warmth.",
+    "img": "img/t8_cardigan.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/cardigans/cashmere/product/sculpted-cashmere-funnel-neck-cardigan-grey-mlange-1341210001"
+   },
+   {
+    "name": "Pavilion Tote Bag",
+    "brand": "COS",
+    "color": "Black",
+    "price": "€249",
+    "why": "A glossy crinkled-leather tote — roomy, soft, the one shine against all the matte wool.",
+    "img": "img/t8_tote.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/bags/totebags/product/pavilion-tote-bag-leather-black-1349966001"
+   },
+   {
+    "name": "Pointed Leather Slingback Kitten Heels",
+    "brand": "COS",
+    "color": "Black",
+    "price": "€129",
+    "why": "Black pointed slingback kitten heels — a low, sharp heel that lengthens the trouser line.",
+    "img": "img/t8_heels.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/pointed-leather-slingback-kitten-heels-black-1357160001"
+   }
+  ]
  }
 ]
