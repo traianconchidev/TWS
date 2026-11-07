@@ -561,5 +561,56 @@
     "url": "https://shop.mango.com/gb/en/p/women/bags/leather-bags/suede-leather-shopper-bag/37072917/56/00"
    }
   ]
+ },
+ {
+  "n": "TWS-P12",
+  "id": "p12",
+  "category": "Off-Duty Casual",
+  "sub": "Knit dress, tall boots.",
+  "hero": "img/p12_model.png",
+  "note": "Knit-dress ease with a preppy edge. A navy funnel-neck knit dress buttoned at the throat, worn over a navy gingham shirt so the collar and cuffs peek out, finished with tall black leather boots and a croc-effect tote. One cold-weather outfit, barely any effort.",
+  "occasions": [
+   "Weekend",
+   "City",
+   "Coffee run"
+  ],
+  "pieces": [
+   {
+    "name": "Short Knitted Dress",
+    "brand": "Mango",
+    "color": "Navy",
+    "price": "£35.99",
+    "why": "A navy funnel-neck knit mini with a button placket — cosy, easy, and does most of the work on its own.",
+    "img": "img/t4_dress.png",
+    "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/short-knitted-dress/37097796/56/00"
+   },
+   {
+    "name": "Fitted Check Shirt",
+    "brand": "Mango",
+    "color": "Navy",
+    "price": "£25.99",
+    "why": "The navy gingham shirt layered underneath — collar at the neck, cuffs at the wrists, the preppy detail that lifts a knit dress.",
+    "img": "img/t4_checkshirt.png",
+    "url": "https://shop.mango.com/gb/en/p/women/shirts---blouses/long-sleeve/fitted-check-shirt/37045989/56/00"
+   },
+   {
+    "name": "Leather High Boots",
+    "brand": "Mango",
+    "color": "Black",
+    "price": "£169.99",
+    "why": "Tall black leather riding boots — the piece that makes a casual knit dress look deliberate.",
+    "img": "img/t4_boots.png",
+    "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/leather-high-boots/37045990/99/00"
+   },
+   {
+    "name": "Coconut-Effect Shoulder Bag",
+    "brand": "Mango",
+    "color": "Black",
+    "price": "£39.99",
+    "why": "A black croc / coconut-effect shoulder tote — structured texture against the soft knit.",
+    "img": "img/t4_bag.png",
+    "url": "https://shop.mango.com/gb/en/p/women/bags/shoppers/coconut-effect-shoulder-bag/37067791/99/00"
+   }
+  ]
  }
 ]
