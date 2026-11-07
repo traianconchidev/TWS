@@ -663,5 +663,65 @@
     "url": "https://www.cos.com/en-ie/women/accessories/bags/oversizedbags/product/journe-oversized-tote-bag-leather-black-1349963001"
    }
   ]
+ },
+ {
+  "n": "TWS-P14",
+  "id": "p14",
+  "category": "9 to 5 Luxe",
+  "sub": "Belted knit, checked blazer.",
+  "hero": "img/p14_model.png",
+  "note": "Old-money layering for a working day. A cream fine-knit ruched dress belted at the waist in burgundy leather, with a grey checked double-breasted blazer thrown over and croc-effect knee boots. A faux-leather bucket bag keeps it easy — quiet, tonal, desk-to-dinner.",
+  "occasions": [
+   "Workday",
+   "Desk to dinner",
+   "City"
+  ],
+  "pieces": [
+   {
+    "name": "Fine-Knit Ruched Dress",
+    "brand": "Mango",
+    "color": "Cream",
+    "price": "£32.99",
+    "why": "A cream fine-knit dress ruched down the front with a soft flared skirt — the quiet base that takes a belt and a blazer beautifully.",
+    "img": "img/t6_dress.png",
+    "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/fine-knit-ruched-dress/37074078/07/00"
+   },
+   {
+    "name": "Double-Breasted Wool Suit Blazer",
+    "brand": "Mango",
+    "color": "Grey check",
+    "price": "£99.99",
+    "why": "A grey checked double-breasted wool blazer worn open — the tailored layer that makes the knit dress read sharp.",
+    "img": "img/t6_blazer.png",
+    "url": "https://shop.mango.com/gb/en/p/women/blazers/fitted/double-breasted-wool-suit-blazer/37018289/35/00"
+   },
+   {
+    "name": "100% Bovine Leather Belt",
+    "brand": "Mango",
+    "color": "Burgundy",
+    "price": "£35.99",
+    "why": "A burgundy leather belt with a gold buckle, cinched at the waist over the dress — the one warm detail that pulls it together.",
+    "img": "img/t6_belt.png",
+    "url": "https://shop.mango.com/gb/en/p/women/belts/leather/100-bovine-leather-belt/37022908/78/00"
+   },
+   {
+    "name": "Coco-Effect Heeled Boots",
+    "brand": "Mango",
+    "color": "Brown",
+    "price": "£79.99",
+    "why": "Brown croc-effect knee-high heeled boots — the polished shoe that lifts a midi hem.",
+    "img": "img/t6_boots.png",
+    "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/coco-effect-heeled-boots/47061336/32/00"
+   },
+   {
+    "name": "Faux-Leather Bucket Handbag",
+    "brand": "Mango",
+    "color": "Brown",
+    "price": "£29.99",
+    "why": "A compact brown bucket bag — soft, tonal, and easy to carry at the side.",
+    "img": "img/t6_bag.png",
+    "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/faux-leather-bucket-handbag/37083316/32/00"
+   }
+  ]
  }
 ]
