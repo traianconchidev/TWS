@@ -612,5 +612,56 @@
     "url": "https://shop.mango.com/gb/en/p/women/bags/shoppers/coconut-effect-shoulder-bag/37067791/99/00"
    }
   ]
+ },
+ {
+  "n": "TWS-P13",
+  "id": "p13",
+  "category": "Studio Noir",
+  "sub": "All black, leather and shearling.",
+  "hero": "img/p13_model.png",
+  "note": "Black on black, the quiet-luxury way. A funnel-neck cocoon mini dress under a reversible shearling-and-leather coat worn open, leather side out, so the dress shows. Sheer tights, angular heeled loafers and an oversized leather tote keep it sharp. Studio Noir at its most considered.",
+  "occasions": [
+   "Evening",
+   "City",
+   "Dinner"
+  ],
+  "pieces": [
+   {
+    "name": "Reversible Shearling Leather Coat",
+    "brand": "COS",
+    "color": "Black",
+    "price": "€790",
+    "why": "The statement layer — a reversible shearling-and-leather coat worn open, leather side out, to frame the all-black look. (Price to confirm.)",
+    "img": "img/t5_coat.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/coats"
+   },
+   {
+    "name": "Funnel-Neck Cocoon Mini Dress",
+    "brand": "COS",
+    "color": "Black",
+    "price": "€129",
+    "why": "A soft funnel-neck cocoon mini — clean and architectural, the quiet base of the look.",
+    "img": "img/t5_dress.png",
+    "url": "https://www.cos.com/en-ie/women/womenswear/dresses/minidresses/product/funnel-neck-cocoon-mini-dress-black-1327390001"
+   },
+   {
+    "name": "Angular Leather Heeled Loafers",
+    "brand": "COS",
+    "color": "Black",
+    "price": "€149",
+    "why": "Angular pointed heeled loafers — the sharp line that lifts the whole thing off the ground.",
+    "img": "img/t5_loafers.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/angular-leather-heeled-loafers-black-1349990001"
+   },
+   {
+    "name": "Journe Oversized Tote Bag",
+    "brand": "COS",
+    "color": "Black",
+    "price": "€299",
+    "why": "The Journe oversized leather tote — roomy, structured, carries the day in one clean shape.",
+    "img": "img/t5_tote.png",
+    "url": "https://www.cos.com/en-ie/women/accessories/bags/oversizedbags/product/journe-oversized-tote-bag-leather-black-1349963001"
+   }
+  ]
  }
 ]
