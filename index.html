@@ -89,10 +89,26 @@
   .sec:last-of-type{border-bottom:none}
   .sec-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:8px}
   .sec-head h2{font-size:clamp(23px,3.6vw,31px);margin:0;letter-spacing:-.01em}
-  .sec-head .seeall{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);
-    text-decoration:none;font-weight:500;white-space:nowrap;border-bottom:1px solid transparent;padding-bottom:2px}
-  .sec-head .seeall:hover{color:var(--ink);border-color:var(--accent)}
+  .sec-head .sec-ht{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+  .sec-count{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:600;
+    border:1px solid var(--soft);border-radius:999px;padding:3px 11px;background:var(--paper);white-space:nowrap}
+  .sec-head .seeall{display:inline-flex;align-items:center;gap:8px;font-size:11px;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--ink);font-weight:600;text-decoration:none;white-space:nowrap;background:var(--paper);
+    border:1px solid var(--soft);border-radius:999px;padding:9px 17px;transition:background .18s,color .18s,border-color .18s}
+  .sec-head .seeall .arr{transition:transform .18s}
+  .sec-head .seeall:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .sec-head .seeall:hover .arr{transform:translateX(3px)}
   .sec-desc{color:var(--dim);font-weight:300;max-width:60ch;margin:0 0 26px;font-size:15px}
+  .morebar{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-top:28px;
+    text-decoration:none;color:var(--ink);background:var(--tile);border:1px solid var(--line);border-radius:6px;
+    padding:17px 24px;transition:background .18s,border-color .18s}
+  .morebar:hover{border-color:var(--accent);background:var(--paper)}
+  .morebar .mb-t{font-size:15px;font-weight:500;letter-spacing:.01em}
+  .morebar .mb-t b{color:var(--accent);font-weight:700}
+  .morebar .mb-cta{display:inline-flex;align-items:center;gap:8px;font-size:11px;letter-spacing:.16em;text-transform:uppercase;
+    font-weight:600;color:var(--accent);white-space:nowrap}
+  .morebar .mb-cta .arr{transition:transform .18s}
+  .morebar:hover .mb-cta .arr{transform:translateX(3px)}
 
   /* Cards grid */
   .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:30px 24px}
@@ -275,10 +291,17 @@
     const catSections=cats.map(c=>{
       const ls=LOOKS.filter(l=>catSlug(l.category)===c.slug);
       const d=catDesc(c.slug);
+      const n=ls.length, extra=n-3;
       return `<section class="sec">
-        <div class="sec-head"><h2>${esc(c.name)}</h2><a class="seeall" href="#/c/${c.slug}">See all ${esc(c.name.toLowerCase())}</a></div>
+        <div class="sec-head">
+          <div class="sec-ht"><h2>${esc(c.name)}</h2><span class="sec-count">${n} look${n===1?'':'s'}</span></div>
+          <a class="seeall" href="#/c/${c.slug}">See all ${n} look${n===1?'':'s'} <span class="arr">&rarr;</span></a>
+        </div>
         ${d?`<p class="sec-desc">${esc(d)}</p>`:""}
         <div class="cards">${ls.slice(0,3).map(lookCard).join("")}</div>
+        ${extra>0?`<a class="morebar" href="#/c/${c.slug}">
+          <span class="mb-t"><b>+${extra}</b> more look${extra===1?'':'s'} in ${esc(c.name)}</span>
+          <span class="mb-cta">See all ${n} <span class="arr">&rarr;</span></span></a>`:""}
       </section>`;
     }).join("");
 
