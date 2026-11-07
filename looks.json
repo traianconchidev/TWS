@@ -723,5 +723,65 @@
     "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/faux-leather-bucket-handbag/37083316/32/00"
    }
   ]
+ },
+ {
+  "n": "TWS-P15",
+  "id": "p15",
+  "category": "Off-Duty Casual",
+  "sub": "Knit dress, scarf and suede.",
+  "hero": "img/p15_model.png",
+  "note": "Autumn knit, tied and scarfed. An olive knit tie-detail dress with a soft asymmetric hem, a brown houndstooth blazer thrown over, a paisley scarf knotted at the neck and a slouchy suede drawstring bag. Buckled suede knee boots ground it — easy, warm, and quietly put-together.",
+  "occasions": [
+   "Weekend",
+   "City",
+   "Coffee run"
+  ],
+  "pieces": [
+   {
+    "name": "Knitted Dress with Tie Detail",
+    "brand": "Mango",
+    "color": "Olive",
+    "price": "£49.99",
+    "why": "An olive fine-knit dress with a tie knot at the waist and a soft asymmetric hem — one easy piece that already looks styled.",
+    "img": "img/t7_dress.png",
+    "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/knitted-dress-with-tie-detail/37075880/35/00"
+   },
+   {
+    "name": "Check-Print Jacket",
+    "brand": "Mango",
+    "color": "Tobacco Brown",
+    "price": "£99.99",
+    "why": "The brown houndstooth blazer worn open — the tailored layer that makes a knit dress read considered.",
+    "img": "img/t7_blazer.png",
+    "url": "https://shop.mango.com/gb/en/p/women/blazers/check-print-jacket/37045865/31/00"
+   },
+   {
+    "name": "Paisley Print Scarf",
+    "brand": "Mango",
+    "color": "Navy / Brown",
+    "price": "£12.99",
+    "why": "A paisley silk scarf knotted at the neck — the old-money detail that lifts the whole look.",
+    "img": "img/t7_scarf.png",
+    "url": "https://shop.mango.com/gb/en/p/women/scarfs-and-foulards/neckscarves/paisley-print-scarf/37044413/76/00"
+   },
+   {
+    "name": "Suede Drawstring Bag",
+    "brand": "Mango",
+    "color": "Brown",
+    "price": "£109.99",
+    "why": "A slouchy brown suede drawstring bag — soft, roomy, and tonal with the boots.",
+    "img": "img/t7_bag.png",
+    "url": "https://shop.mango.com/gb/en/p/women/bags/shoppers/suede-drawstring-bag/37067132/32/00"
+   },
+   {
+    "name": "Buckled Suede Boots",
+    "brand": "Mango",
+    "color": "Brown",
+    "price": "£109.99",
+    "why": "Brown buckled suede knee boots — the riding-boot shape that grounds a midi hem.",
+    "img": "img/t7_boots.png",
+    "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/bukled-suede-boots/47041337/09/00"
+   }
+  ]
  }
 ]
