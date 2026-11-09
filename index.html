@@ -653,9 +653,10 @@
     }catch(e){ SB=null; }
   }
 
+  const withTimeout=(p,ms)=>Promise.race([p,new Promise(r=>setTimeout(()=>r({__timeout:true}),ms))]);
   const AUTH={
     user:null,
-    async load(){ if(!sbReady()){ this.user=null; return; } try{ const {data}=await SB.auth.getUser(); this.user=(data&&data.user)||null; }catch(e){ this.user=null; } },
+    async load(){ if(!sbReady()){ this.user=null; return; } try{ const res=await withTimeout(SB.auth.getUser(),6000); if(res&&res.__timeout){ return; } const data=res&&res.data; this.user=(data&&data.user)||null; }catch(e){ this.user=null; } },
     async signIn(email,pw){ const {data,error}=await SB.auth.signInWithPassword({email,password:pw}); if(error) throw error; this.user=data.user; return data; },
     async signUp(email,pw){ const {data,error}=await SB.auth.signUp({email,password:pw,options:{emailRedirectTo:location.origin+location.pathname+"#/account",data:{marketing_consent:true,source:"tws-hub"}}}); if(error) throw error; return data; },
     async signOut(){ try{ await SB.auth.signOut(); }catch(e){} this.user=null; },
@@ -865,13 +866,15 @@
     if(!document.getElementById("sitefoot")){
       const f=document.createElement("div"); f.id="sitefoot"; document.body.appendChild(f);
     }
-    initSB();
-    await AUTH.load();
-    await WISH.load();
     buildMenu(); wireMenu(); buildSearchOverlay();
     const sb=document.getElementById("searchBtn"); if(sb) sb.addEventListener("click",openSearch);
     window.addEventListener("hashchange",()=>{ if(!legacyFix()) route(); });
+    // Render the page immediately — never block the first paint on a network call.
+    WISH.items=WISH._local();
     if(!legacyFix()) route();
+    // Then bring up accounts + synced wishlist in the background and re-render.
+    initSB();
+    (async()=>{ try{ await AUTH.load(); await WISH.load(); updateHeader(); route(); }catch(e){} })();
   }
   boot();
 </script>
