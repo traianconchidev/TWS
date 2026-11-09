@@ -632,9 +632,13 @@
     else window.scrollTo(0,0);
   }
 
+  /* Legacy hash aliases: old pin links that used a non-id hash (or a retired id)
+     map to the current look/edit. Keeps already-published Pinterest pins working. */
+  const LEGACY_ALIAS={ "p11c":"p19" };
   function legacyFix(){
-    const raw=(location.hash||"").replace(/^#/,"");
+    let raw=(location.hash||"").replace(/^#/,"");
     if(raw && raw.indexOf("/")===-1 && raw!=="how" && raw!=="categories"){
+      if(LEGACY_ALIAS[raw]) raw=LEGACY_ALIAS[raw];
       if(bySlugLook(raw)){ location.replace("#/look/"+raw); return true; }
       if(bySlugEdit(raw)){ location.replace("#/edit/"+raw); return true; }
     }
