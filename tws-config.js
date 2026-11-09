@@ -6,6 +6,6 @@
    browser (localStorage) and the Login/Sign-up screens show an "activating soon"
    notice. Add the two values below and accounts + email verification go live. */
 window.TWS_CONFIG = {
-  SUPABASE_URL: "",
-  SUPABASE_ANON_KEY: ""
+  SUPABASE_URL: "https://beenekyizaahqoyseako.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_kGzWQWmbRBbwRrkZoAWfNg_wu2C3Ei8"
 };
