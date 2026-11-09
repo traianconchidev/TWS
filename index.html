@@ -51,6 +51,102 @@
   .nav a.link.cta{color:var(--ink);border:1px solid var(--ink);border-radius:40px;padding:8px 16px}
   .nav a.link.cta:hover{background:var(--ink);color:var(--bg)}
 
+  /* Header: menu dropdown + icon actions */
+  .nav .nleft{display:flex;align-items:center;gap:22px}
+  .nav .nright{display:flex;align-items:center;gap:6px}
+  .menu-wrap{position:relative}
+  .menu-trig{display:inline-flex;align-items:center;gap:7px;font-size:11px;letter-spacing:.18em;text-transform:uppercase;
+    color:var(--dim);font-weight:500;background:none;border:0;cursor:pointer;font-family:var(--sans);padding:6px 2px}
+  .menu-trig:hover,.menu-trig[aria-expanded="true"]{color:var(--ink)}
+  .menu-trig .chev{width:9px;height:9px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;
+    transform:rotate(45deg) translateY(-1px);transition:transform .2s}
+  .menu-trig[aria-expanded="true"] .chev{transform:rotate(-135deg) translateY(-1px)}
+  .menu-panel{position:absolute;top:calc(100% + 14px);left:0;background:var(--paper);border:1px solid var(--line);
+    border-radius:10px;box-shadow:0 18px 50px -24px rgba(31,38,42,.3);padding:22px 26px;display:none;
+    grid-template-columns:1fr 1fr;gap:26px 40px;min-width:420px;z-index:60}
+  .menu-panel.open{display:grid}
+  .menu-col h4{font-family:var(--sans);font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);
+    font-weight:600;margin:0 0 12px}
+  .menu-col a{display:block;font-size:14px;color:var(--ink);text-decoration:none;padding:6px 0;font-weight:400;
+    border-bottom:1px solid transparent;transition:color .15s}
+  .menu-col a:hover{color:var(--accent)}
+  .icbtn{display:inline-flex;align-items:center;gap:7px;background:none;border:0;cursor:pointer;font-family:var(--sans);
+    font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--dim);font-weight:500;
+    text-decoration:none;padding:8px 10px;border-radius:40px;white-space:nowrap}
+  .icbtn:hover{color:var(--ink);background:var(--tile)}
+  .icbtn svg{width:17px;height:17px;display:block;flex:0 0 auto}
+  .icbtn .lbl{display:inline}
+  .icbtn.wish{position:relative}
+  .wishcount{position:absolute;top:2px;right:2px;min-width:16px;height:16px;padding:0 4px;border-radius:9px;
+    background:var(--ink);color:#fff;font-size:9px;letter-spacing:0;display:none;align-items:center;justify-content:center;font-weight:600}
+  .wishcount.show{display:inline-flex}
+  .icbtn.acct .lbl{max-width:92px;overflow:hidden;text-overflow:ellipsis}
+
+  /* Heart like button */
+  .heart{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:50%;
+    background:rgba(255,255,255,.86);border:1px solid var(--line);cursor:pointer;padding:0;transition:transform .12s,background .15s;
+    -webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px)}
+  .heart:hover{transform:scale(1.08);background:#fff}
+  .heart svg{width:18px;height:18px;display:block}
+  .heart svg path{fill:none;stroke:var(--ink);stroke-width:1.7;transition:fill .15s,stroke .15s}
+  .heart.on svg path{fill:var(--ink);stroke:var(--ink)}
+  .heart:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  .card{position:relative}
+  .card .heart{position:absolute;top:12px;right:12px;z-index:4}
+  .item__row .heart{width:30px;height:30px}
+  .item__row .heart svg{width:16px;height:16px}
+
+  /* Search overlay */
+  .search-ov{position:fixed;inset:0;z-index:80;background:rgba(31,38,42,.34);-webkit-backdrop-filter:blur(3px);
+    backdrop-filter:blur(3px);display:none;align-items:flex-start;justify-content:center;padding:0 16px}
+  .search-ov.open{display:flex}
+  .search-box{background:var(--bg);width:min(680px,100%);margin-top:84px;border-radius:12px;border:1px solid var(--line);
+    box-shadow:0 30px 80px -30px rgba(31,38,42,.5);overflow:hidden;max-height:76vh;display:flex;flex-direction:column}
+  .search-top{display:flex;align-items:center;gap:12px;padding:16px 20px;border-bottom:1px solid var(--line)}
+  .search-top svg{width:19px;height:19px;color:var(--muted);flex:0 0 auto}
+  .search-top input{flex:1;border:0;background:none;font-family:var(--sans);font-size:17px;color:var(--ink);outline:none}
+  .search-top .esc{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);border:1px solid var(--line);
+    border-radius:5px;padding:4px 8px;cursor:pointer;background:none}
+  .search-res{overflow-y:auto;padding:8px 0}
+  .search-res a{display:flex;align-items:center;gap:14px;padding:10px 20px;text-decoration:none;color:var(--ink)}
+  .search-res a:hover{background:var(--tile)}
+  .search-res .sr-img{width:46px;height:58px;object-fit:cover;border-radius:4px;background:var(--tile);flex:0 0 auto}
+  .search-res .sr-t{font-size:14px;font-weight:500}
+  .search-res .sr-s{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+  .search-empty{padding:26px 20px;color:var(--muted);font-size:14px}
+  .search-hint{padding:8px 20px 16px;color:var(--muted);font-size:11px;letter-spacing:.08em;text-transform:uppercase}
+
+  /* Auth + account + wishlist pages */
+  .auth{max-width:420px;margin:0 auto;padding:56px 0 80px}
+  .auth h1{font-size:clamp(28px,5vw,38px);margin:0 0 6px}
+  .auth .sub{color:var(--dim);font-weight:300;margin:0 0 30px}
+  .field{margin-bottom:16px}
+  .field label{display:block;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:600;margin-bottom:7px}
+  .field input{width:100%;padding:13px 15px;border:1px solid var(--line);border-radius:8px;background:var(--paper);
+    font-family:var(--sans);font-size:15px;color:var(--ink);outline:none;transition:border-color .15s}
+  .field input:focus{border-color:var(--accent)}
+  .consent{display:flex;gap:10px;align-items:flex-start;margin:4px 0 20px;font-size:12.5px;color:var(--dim);line-height:1.5}
+  .consent input{margin-top:3px;flex:0 0 auto}
+  .consent a{color:var(--accent)}
+  .auth .btn.primary{width:100%;text-align:center;border:0;padding:15px 26px}
+  .auth-alt{margin-top:22px;font-size:13.5px;color:var(--dim);text-align:center}
+  .auth-alt a{color:var(--accent);text-decoration:none;font-weight:500}
+  .auth-msg{padding:13px 16px;border-radius:8px;font-size:13.5px;margin-bottom:20px;line-height:1.5}
+  .auth-msg.err{background:#fbecea;color:#9a3b2e;border:1px solid #f0cdc6}
+  .auth-msg.ok{background:#eef3ec;color:#3f6b43;border:1px solid #cfe0cd}
+  .auth-msg.info{background:var(--tile);color:var(--dim);border:1px solid var(--line)}
+  .acct-head{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:8px}
+  .wish-empty{text-align:center;padding:50px 0 70px;color:var(--dim)}
+  .wish-empty .big{font-family:var(--serif);font-size:26px;color:var(--ink);margin-bottom:10px}
+  .wish-sec h2{font-size:22px;margin:34px 0 18px}
+
+  @media(max-width:860px){
+    .menu-panel{min-width:300px;grid-template-columns:1fr;left:auto;right:0}
+    .icbtn .lbl{display:none}
+    .nav .nleft .link{display:none}
+    .nav{gap:8px}
+  }
+
   /* Buttons */
   .btn{display:inline-block;font-family:var(--sans);font-size:11px;letter-spacing:.18em;text-transform:uppercase;
     font-weight:500;text-decoration:none;padding:13px 26px;border-radius:40px;transition:all .18s;cursor:pointer}
@@ -221,17 +317,32 @@
 </head>
 <body>
 <header class="site"><div class="wrap nav">
-  <a class="brand" href="#/" aria-label="Timeless Wardrobe Studio"><img src="img/tws_monogram.png" alt="Timeless Wardrobe Studio" style="height:30px;width:auto;display:block"></a>
-  <nav>
-    <a class="link" href="#/">Shop</a>
+  <div class="nleft">
+    <a class="brand" href="#/" aria-label="Timeless Wardrobe Studio"><img src="img/tws_monogram.png" alt="Timeless Wardrobe Studio" style="height:30px;width:auto;display:block"></a>
+    <div class="menu-wrap">
+      <button class="menu-trig" id="menuTrig" aria-expanded="false" aria-haspopup="true">Menu <span class="chev"></span></button>
+      <div class="menu-panel" id="menuPanel" role="menu"></div>
+    </div>
     <a class="link" href="#/palettes">Palettes</a>
     <a class="link" href="#/about">About</a>
-    <a class="link cta" href="#categories">The Edits</a>
-  </nav>
+  </div>
+  <div class="nright">
+    <button class="icbtn" id="searchBtn" aria-label="Search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.5" y2="16.5"></line></svg>
+      <span class="lbl">Search</span></button>
+    <a class="icbtn acct" id="acctBtn" href="#/login">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="12" cy="8" r="4"></circle><path d="M5 21c0-3.9 3.1-7 7-7s7 3.1 7 7"></path></svg>
+      <span class="lbl">Log in</span></a>
+    <a class="icbtn wish" id="wishBtn" href="#/wishlist" aria-label="Wishlist">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M12 20s-7-4.6-9.2-9C1.4 8 2.8 5 5.8 5 8 5 9.3 6.6 12 9c2.7-2.4 4-4 6.2-4 3 0 4.4 3 3 6-2.2 4.4-9.2 9-9.2 9z"></path></svg>
+      <span class="lbl">Wishlist</span><span class="wishcount" id="wishCount">0</span></a>
+  </div>
 </div></header>
 
 <div class="wrap"><main id="app"><p style="padding:70px 0;color:var(--muted)">Loading the edit…</p></main></div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="tws-config.js"></script>
 <script>
   const REPO="";  /* same-origin: looks.json + edits.json deploy with the site */
   const EUR="€", DASH="—";
@@ -260,13 +371,21 @@
 
   function imgCard(cls,src,alt){return `<div class="${cls}__imgwrap"><img class="${cls}__img" src="${esc(src)}" alt="${esc(alt)}" loading="lazy"></div>`;}
 
-  function pieceItem(p){return `<article class="item">
+  const HEART_SVG=`<svg viewBox="0 0 24 24"><path d="M12 20s-7-4.6-9.2-9C1.4 8 2.8 5 5.8 5 8 5 9.3 6.6 12 9c2.7-2.4 4-4 6.2-4 3 0 4.4 3 3 6-2.2 4.4-9.2 9-9.2 9z"></path></svg>`;
+  const pkey=p=>"pr-"+String(p.url||p.name||"").toLowerCase().replace(/^https?:\/\//,"").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"").slice(0,90);
+  function heartBtn(type,id,data){
+    return `<button class="heart" type="button" data-wtype="${esc(type)}" data-wid="${esc(id)}" data-wpayload="${esc(JSON.stringify(data))}" aria-label="Save to wishlist" aria-pressed="false">${HEART_SVG}</button>`;}
+
+  function pieceItem(p){
+    const h=heartBtn("product",pkey(p),{name:p.name,brand:p.brand,price:p.price||"",img:p.img,url:p.url});
+    return `<article class="item">
       ${imgCard("item",p.img,p.name)}
       <p class="item__name">${esc(p.name)}</p>
       <p class="item__brand">${esc(p.brand)}</p>
       ${p.why?`<p class="item__why">${esc(p.why)}</p>`:""}
       <div class="item__row"><span class="item__price">${p.price?esc(p.price):""}</span>
-      <a class="shop" href="${esc(localize(p.url))}" target="_blank" rel="noopener sponsored">Shop</a></div>
+      <span style="display:flex;gap:8px;align-items:center">${h}
+      <a class="shop" href="${esc(localize(p.url))}" target="_blank" rel="noopener sponsored">Shop</a></span></div>
     </article>`;}
 
   function shopBlock(pieces){const t=money(pieces),c=cur(pieces);
@@ -274,12 +393,14 @@
       <div class="total"><span class="t">Complete the look ${DASH} <b>${c}${t.toFixed(0)}</b></span>
       <span class="note">Prices set by each retailer; may vary by country.</span></div>`;}
 
-  function card(href,img,eyebrow,title,meta){return `<a class="card" href="${href}">
-      ${imgCard("card",img,title)}
+  function card(href,img,eyebrow,title,meta,extra){return `<a class="card" href="${href}">
+      ${imgCard("card",img,title)}${extra||""}
       <p class="card__eyebrow">${esc(eyebrow)}</p><h3 class="card__title">${esc(title)}</h3>
       ${meta?`<p class="card__meta">${esc(meta)}</p>`:""}</a>`;}
 
-  function lookCard(l){return card("#/look/"+l.id, l.thumb||l.hero, l.category, l.sub||l.n, (l.pieces?l.pieces.length+" pieces":""));}
+  function lookCard(l){
+    const h=heartBtn("look",l.id,{name:l.sub||l.n,img:l.thumb||l.hero,category:l.category,href:"#/look/"+l.id});
+    return card("#/look/"+l.id, l.thumb||l.hero, l.category, l.sub||l.n, (l.pieces?l.pieces.length+" pieces":""), h);}
   function editMeta(e){var c=(e.lookIds&&e.lookIds.length)||(e.outfits&&e.outfits.length)||0; var u=e.type==='guide'?'way':'look'; return c?c+' '+u+(c===1?'':'s'):'';}
 
   function viewHome(){
@@ -483,7 +604,7 @@
     <footer class="site">
       <div class="fm"><img src="img/tws_lockup.png" alt="Timeless Wardrobe Studio" style="height:92px;width:auto;display:inline-block"></div>
       <div class="sub">Quiet luxury, made shoppable</div>
-      <div class="fnav"><a href="#/">Shop</a><a href="#/palettes">Palettes</a><a href="#/about">About</a><a href="#/privacy">Privacy</a><a href="#/terms">Terms</a><a href="https://www.pinterest.com/TimelessWardrobeStudio/" target="_blank" rel="noopener">Pinterest</a><a href="https://www.instagram.com/timeless.wardrobe.studio/" target="_blank" rel="noopener">Instagram</a></div>
+      <div class="fnav"><a href="#/">Looks</a><a href="#/palettes">Palettes</a><a href="#/about">About</a><a href="#/privacy">Privacy</a><a href="#/terms">Terms</a><a href="https://www.pinterest.com/TimelessWardrobeStudio/" target="_blank" rel="noopener">Pinterest</a><a href="https://www.instagram.com/timeless.wardrobe.studio/" target="_blank" rel="noopener">Instagram</a></div>
     </footer></div>`;}
 
   function route(){
@@ -493,13 +614,19 @@
     if(parts[0]==="look") html=viewLook(parts[1]);
     else if(parts[0]==="edit") html=viewEdit(parts[1]);
     else if(parts[0]==="c") html=viewCategory(parts[1]);
+    else if(parts[0]==="t") html=viewTheme(parts[1]);
     else if(parts[0]==="palettes") html=viewPalettes();
     else if(parts[0]==="about") html=viewAbout();
     else if(parts[0]==="privacy") html=viewPrivacy();
     else if(parts[0]==="terms") html=viewTerms();
+    else if(parts[0]==="login") html=viewLogin();
+    else if(parts[0]==="signup") html=viewSignup();
+    else if(parts[0]==="account") html=viewAccount();
+    else if(parts[0]==="wishlist") html=viewWishlist();
     else html=viewHome();
     document.getElementById("app").innerHTML=html;
     let f=document.getElementById("sitefoot"); if(f) f.innerHTML=footerHTML();
+    afterRender();
     const hh=location.hash||"";
     if(hh==="#categories"||hh==="#how"){ const el=document.getElementById(hh.slice(1)); if(el) el.scrollIntoView(); }
     else window.scrollTo(0,0);
@@ -514,6 +641,220 @@
     return false;
   }
 
+  /* ===================== Accounts, Wishlist, Search, Menu ===================== */
+  const CFG=(window.TWS_CONFIG||{}); let SB=null;
+  const sbReady=()=>!!SB;
+  function initSB(){
+    try{
+      if(CFG.SUPABASE_URL&&CFG.SUPABASE_ANON_KEY&&window.supabase){
+        SB=window.supabase.createClient(CFG.SUPABASE_URL,CFG.SUPABASE_ANON_KEY);
+        SB.auth.onAuthStateChange(async()=>{ await AUTH.load(); await WISH.load(); updateHeader(); route(); });
+      }
+    }catch(e){ SB=null; }
+  }
+
+  const AUTH={
+    user:null,
+    async load(){ if(!sbReady()){ this.user=null; return; } try{ const {data}=await SB.auth.getUser(); this.user=(data&&data.user)||null; }catch(e){ this.user=null; } },
+    async signIn(email,pw){ const {data,error}=await SB.auth.signInWithPassword({email,password:pw}); if(error) throw error; this.user=data.user; return data; },
+    async signUp(email,pw){ const {data,error}=await SB.auth.signUp({email,password:pw,options:{emailRedirectTo:location.origin+location.pathname+"#/account",data:{marketing_consent:true,source:"tws-hub"}}}); if(error) throw error; return data; },
+    async signOut(){ try{ await SB.auth.signOut(); }catch(e){} this.user=null; },
+    email(){ return (this.user&&this.user.email)||""; }
+  };
+
+  const WISH={
+    items:[], _k:"tws_wishlist_v1",
+    _local(){ try{ return JSON.parse(localStorage.getItem(this._k)||"[]"); }catch(e){ return []; } },
+    _save(a){ try{ localStorage.setItem(this._k,JSON.stringify(a)); }catch(e){} },
+    has(t,id){ return this.items.some(x=>x.wtype===t&&x.wid===id); },
+    count(){ return this.items.length; },
+    async load(){
+      if(sbReady()&&AUTH.user){ try{ const {data,error}=await SB.from("wishlist").select("item_type,item_id,item_data").eq("user_id",AUTH.user.id);
+        if(!error&&data){ this.items=data.map(r=>({wtype:r.item_type,wid:r.item_id,payload:r.item_data||{}})); return; } }catch(e){} }
+      this.items=this._local();
+    },
+    async toggle(t,id,payload){
+      const on=this.has(t,id);
+      if(on) this.items=this.items.filter(x=>!(x.wtype===t&&x.wid===id));
+      else this.items.push({wtype:t,wid:id,payload:payload||{}});
+      if(sbReady()&&AUTH.user){ try{
+        if(on) await SB.from("wishlist").delete().match({user_id:AUTH.user.id,item_type:t,item_id:id});
+        else await SB.from("wishlist").upsert({user_id:AUTH.user.id,item_type:t,item_id:id,item_data:payload||{}},{onConflict:"user_id,item_type,item_id"});
+      }catch(e){} } else { this._save(this.items); }
+      updateHeader(); return !on;
+    },
+    async mergeLocalToAccount(){
+      if(!(sbReady()&&AUTH.user)) return;
+      const local=this._local(); if(!local.length) return;
+      try{ await SB.from("wishlist").upsert(local.map(x=>({user_id:AUTH.user.id,item_type:x.wtype,item_id:x.wid,item_data:x.payload||{}})),{onConflict:"user_id,item_type,item_id"}); this._save([]); }catch(e){}
+    }
+  };
+
+  function updateHeader(){
+    const c=document.getElementById("wishCount"); if(c){ const n=WISH.count(); c.textContent=n; c.classList.toggle("show",n>0); }
+    const a=document.getElementById("acctBtn"); if(a){ const lbl=a.querySelector(".lbl");
+      if(AUTH.user){ a.setAttribute("href","#/account"); if(lbl) lbl.textContent=(AUTH.email().split("@")[0]||"Account"); }
+      else { a.setAttribute("href","#/login"); if(lbl) lbl.textContent="Log in"; } }
+  }
+
+  function afterRender(){
+    document.querySelectorAll(".heart[data-wtype]").forEach(b=>{ const on=WISH.has(b.dataset.wtype,b.dataset.wid); b.classList.toggle("on",on); b.setAttribute("aria-pressed",on?"true":"false"); });
+    updateHeader();
+    const lf=document.getElementById("loginForm"); if(lf&&!lf._w){ lf._w=1; lf.addEventListener("submit",onLogin); }
+    const sf=document.getElementById("signupForm"); if(sf&&!sf._w){ sf._w=1; sf.addEventListener("submit",onSignup); }
+    const lo=document.getElementById("logoutBtn"); if(lo&&!lo._w){ lo._w=1; lo.addEventListener("click",onLogout); }
+  }
+
+  /* Themes (menu subcategories) */
+  const pieceMatch=(l,re)=>(l.pieces||[]).some(p=>re.test(String(p.name||"")));
+  const THEMES=[
+    {slug:"workwear-office",name:"Workwear & Office",test:l=>catSlug(l.category)==="9-to-5-luxe"},
+    {slug:"date-night-evening",name:"Date Night & Evening",test:l=>catSlug(l.category)==="studio-noir"},
+    {slug:"weekend-off-duty",name:"Weekend & Off-Duty",test:l=>catSlug(l.category)==="off-duty-casual"},
+    {slug:"coats-outerwear",name:"Coats & Outerwear",test:l=>pieceMatch(l,/coat|blazer|jacket|trench/i)},
+    {slug:"dresses",name:"Dresses",test:l=>pieceMatch(l,/dress/i)},
+    {slug:"capsule-wardrobe",name:"Capsule Wardrobe",test:l=>true}
+  ];
+  const themeBySlug=s=>THEMES.find(t=>t.slug===s);
+  function viewTheme(slug){
+    const t=themeBySlug(slug); if(!t) return viewMissing();
+    const ls=LOOKS.filter(t.test); if(!ls.length) return viewMissing();
+    setMeta(t.name+" — Timeless Wardrobe Studio", t.name+" looks — complete quiet-luxury outfits, every piece linked to the retailer.");
+    return `<div class="page"><a class="crumb" href="#/">${DASH} Home</a>
+      <div class="ptitle-eyebrow">Theme</div><h1 class="ptitle">${esc(t.name)}</h1>
+      <p class="pintro">${ls.length} look${ls.length===1?"":"s"} in this theme.</p>
+      <div class="cards" style="margin-top:34px">${ls.map(lookCard).join("")}</div></div>`;
+  }
+
+  function buildMenu(){
+    const panel=document.getElementById("menuPanel"); if(!panel) return;
+    const cats=catsInOrder();
+    const catCol=`<div class="menu-col"><h4>Shop by category</h4>${cats.map(c=>`<a href="#/c/${c.slug}" role="menuitem">${esc(c.name)}</a>`).join("")}</div>`;
+    const themeCol=`<div class="menu-col"><h4>Shop by theme</h4>${THEMES.map(t=>`<a href="#/t/${t.slug}" role="menuitem">${esc(t.name)}</a>`).join("")}<a href="#/palettes" role="menuitem">Colour Stories</a></div>`;
+    panel.innerHTML=catCol+themeCol;
+  }
+  function wireMenu(){
+    const t=document.getElementById("menuTrig"), p=document.getElementById("menuPanel"); if(!t||!p) return;
+    t.addEventListener("click",e=>{ e.stopPropagation(); const open=p.classList.toggle("open"); t.setAttribute("aria-expanded",open?"true":"false"); });
+    p.addEventListener("click",e=>{ if(e.target.closest("a")){ p.classList.remove("open"); t.setAttribute("aria-expanded","false"); } });
+  }
+
+  /* Search */
+  function buildSearchOverlay(){
+    const ov=document.createElement("div"); ov.className="search-ov"; ov.id="searchOv";
+    ov.innerHTML=`<div class="search-box"><div class="search-top">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.5" y2="16.5"></line></svg>
+      <input id="searchInput" type="search" placeholder="Search looks, pieces, colours…" autocomplete="off">
+      <button class="esc" id="searchEsc" type="button">Esc</button></div>
+      <div class="search-res" id="searchRes"></div></div>`;
+    document.body.appendChild(ov);
+    ov.querySelector("#searchInput").addEventListener("input",e=>renderSearch(e.target.value));
+    ov.querySelector("#searchEsc").addEventListener("click",closeSearch);
+    ov.addEventListener("click",e=>{ if(e.target===ov) closeSearch(); });
+  }
+  function openSearch(){ const ov=document.getElementById("searchOv"); if(!ov) return; ov.classList.add("open"); const i=document.getElementById("searchInput"); if(i){ i.value=""; renderSearch(""); setTimeout(()=>i.focus(),30); } }
+  function closeSearch(){ const ov=document.getElementById("searchOv"); if(ov) ov.classList.remove("open"); }
+  function searchIndex(q){
+    q=String(q||"").trim().toLowerCase(); if(!q) return [];
+    const out=[];
+    LOOKS.forEach(l=>{ const hay=[l.sub,l.n,l.category,l.note,(l.occasions||[]).join(" "),(l.pieces||[]).map(p=>p.name+" "+p.brand+" "+(p.color||"")).join(" ")].join(" ").toLowerCase();
+      if(hay.indexOf(q)>=0) out.push({href:"#/look/"+l.id,img:l.thumb||l.hero,t:l.sub||l.n,s:l.category}); });
+    EDITS.forEach(e=>{ const hay=[e.title,e.intro,e.eyebrow].join(" ").toLowerCase(); if(hay.indexOf(q)>=0) out.push({href:"#/edit/"+e.slug,img:e.hero,t:e.title,s:e.eyebrow||"Palette"}); });
+    LOOKS.forEach(l=>(l.pieces||[]).forEach(p=>{ if(String(p.name||"").toLowerCase().indexOf(q)>=0) out.push({href:"#/look/"+l.id,img:p.img,t:p.name,s:esc(p.brand)+" · in "+(l.sub||l.category)}); }));
+    const seen={},dedup=[]; out.forEach(o=>{ const k=o.href+"|"+o.t; if(!seen[k]){ seen[k]=1; dedup.push(o); } });
+    return dedup.slice(0,24);
+  }
+  function renderSearch(q){
+    const res=document.getElementById("searchRes"); if(!res) return;
+    if(!String(q).trim()){ res.innerHTML=`<p class="search-hint">Try “black”, “coat”, “evening”, “COS”…</p>`; return; }
+    const r=searchIndex(q);
+    if(!r.length){ res.innerHTML=`<p class="search-empty">No matches for “${esc(q)}”.</p>`; return; }
+    res.innerHTML=r.map(o=>`<a href="${o.href}"><img class="sr-img" src="${esc(o.img||"")}" alt="" loading="lazy"><span><span class="sr-t">${esc(o.t)}</span><br><span class="sr-s">${o.s}</span></span></a>`).join("");
+    res.querySelectorAll("a").forEach(a=>a.addEventListener("click",closeSearch));
+  }
+
+  /* Auth + wishlist views */
+  function authNotice(){ return sbReady()?"":`<div class="auth-msg info">Accounts are activating soon. Your Wishlist already works on this device in the meantime.</div>`; }
+  function authMsg(kind,txt){ const m=document.getElementById("authMsg"); if(m) m.innerHTML=`<div class="auth-msg ${kind}">${txt}</div>`; }
+  function viewLogin(){
+    if(AUTH.user){ location.replace("#/account"); return ""; }
+    setMeta("Log in — Timeless Wardrobe Studio","Log in to your Timeless Wardrobe Studio account.");
+    return `<div class="auth"><h1>Log in</h1><p class="sub">Welcome back. Your saved looks are waiting.</p>
+      ${authNotice()}<div id="authMsg"></div>
+      <form id="loginForm" autocomplete="on">
+        <div class="field"><label>Email</label><input type="email" name="email" required autocomplete="email" placeholder="you@email.com"></div>
+        <div class="field"><label>Password</label><input type="password" name="password" required autocomplete="current-password" placeholder="••••••••"></div>
+        <button class="btn primary" type="submit">Log in</button></form>
+      <p class="auth-alt">New here? <a href="#/signup">Create an account</a></p></div>`;
+  }
+  function viewSignup(){
+    if(AUTH.user){ location.replace("#/account"); return ""; }
+    setMeta("Create account — Timeless Wardrobe Studio","Create a Timeless Wardrobe Studio account to save your favourite looks.");
+    return `<div class="auth"><h1>Create account</h1><p class="sub">Save the looks and pieces you love — on any device.</p>
+      ${authNotice()}<div id="authMsg"></div>
+      <form id="signupForm" autocomplete="on">
+        <div class="field"><label>Email</label><input type="email" name="email" required autocomplete="email" placeholder="you@email.com"></div>
+        <div class="field"><label>Password</label><input type="password" name="password" required minlength="6" autocomplete="new-password" placeholder="At least 6 characters"></div>
+        <label class="consent"><input type="checkbox" name="consent" required> I agree to the <a href="#/privacy">Privacy Policy</a> and to receiving occasional style emails. Unsubscribe anytime.</label>
+        <button class="btn primary" type="submit">Create account</button></form>
+      <p class="auth-alt">Already have an account? <a href="#/login">Log in</a></p></div>`;
+  }
+  function viewAccount(){
+    if(!AUTH.user){ if(sbReady()){ location.replace("#/login"); return ""; }
+      return `<div class="auth"><h1>Your account</h1>${authNotice()}<p class="auth-alt"><a href="#/wishlist">View your wishlist</a></p></div>`; }
+    setMeta("Your account — Timeless Wardrobe Studio","Your Timeless Wardrobe Studio account.");
+    return `<div class="page"><div class="acct-head"><h1 class="ptitle">Your account</h1><button class="btn ghost" id="logoutBtn" type="button">Log out</button></div>
+      <p class="pintro">Signed in as <b>${esc(AUTH.email())}</b></p>
+      <p style="margin-top:24px"><a class="btn primary" href="#/wishlist">My wishlist (${WISH.count()})</a></p></div>`;
+  }
+  function viewWishlist(){
+    setMeta("Wishlist — Timeless Wardrobe Studio","The looks and pieces you saved.");
+    const looks=WISH.items.filter(x=>x.wtype==="look"), prods=WISH.items.filter(x=>x.wtype==="product");
+    if(!WISH.items.length){
+      const tail=(sbReady()&&AUTH.user)?".":(sbReady()?` — and <a href="#/login" style="color:var(--accent)">log in</a> to keep it on every device.`:" — it stays on this device.");
+      return `<div class="page"><h1 class="ptitle">Your wishlist</h1>
+        <div class="wish-empty"><div class="big">Nothing saved yet.</div>
+        <p>Tap the ♥ on any look or piece to save it here${tail}</p>
+        <p style="margin-top:22px"><a class="btn primary" href="#/">Browse the looks</a></p></div></div>`;
+    }
+    let html=`<div class="page"><div class="acct-head"><h1 class="ptitle">Your wishlist</h1>${AUTH.user?`<a class="btn ghost" href="#/account">Account</a>`:(sbReady()?`<a class="btn ghost" href="#/login">Log in to sync</a>`:"")}</div>`;
+    if(looks.length){ html+=`<div class="wish-sec"><h2>Saved looks</h2><div class="cards">${looks.map(x=>{const l=bySlugLook(x.wid); if(l) return lookCard(l); const d=x.payload||{}; return card(d.href||("#/look/"+x.wid),d.img||"",d.category||"Look",d.name||"Saved look","",heartBtn("look",x.wid,d));}).join("")}</div></div>`; }
+    if(prods.length){ html+=`<div class="wish-sec"><h2>Saved pieces</h2><div class="grid">${prods.map(x=>{const p=x.payload||{}; return pieceItem({name:p.name,brand:p.brand,price:p.price,img:p.img,url:p.url,why:""});}).join("")}</div></div>`; }
+    return html+`</div>`;
+  }
+
+  async function onLogin(e){ e.preventDefault();
+    if(!sbReady()){ authMsg("info","Accounts aren’t live yet — check back soon."); return; }
+    const f=e.target; authMsg("info","Signing you in…");
+    try{ await AUTH.signIn(f.email.value.trim(),f.password.value); await WISH.mergeLocalToAccount(); await WISH.load(); location.hash="#/"; }
+    catch(err){ authMsg("err",(err&&err.message)||"Couldn’t sign in."); }
+  }
+  async function onSignup(e){ e.preventDefault();
+    const f=e.target;
+    if(!f.consent.checked){ authMsg("err","Please accept the Privacy Policy to continue."); return; }
+    if(!sbReady()){ authMsg("info","Accounts aren’t live yet — check back soon. Your wishlist already works on this device."); return; }
+    authMsg("info","Creating your account…");
+    try{ await AUTH.signUp(f.email.value.trim(),f.password.value);
+      authMsg("ok","Almost there — we’ve sent a confirmation link to <b>"+esc(f.email.value.trim())+"</b>. Click it to verify your account, then log in."); f.reset();
+    }catch(err){ authMsg("err",(err&&err.message)||"Couldn’t create the account."); }
+  }
+  async function onLogout(){ await AUTH.signOut(); await WISH.load(); location.hash="#/"; }
+
+  /* Global click: heart toggle + close menu on outside click */
+  document.addEventListener("click",async e=>{
+    const h=e.target.closest(".heart[data-wtype]");
+    if(h){ e.preventDefault(); e.stopPropagation();
+      let payload={}; try{ payload=JSON.parse(h.dataset.wpayload||"{}"); }catch(_){}
+      const now=await WISH.toggle(h.dataset.wtype,h.dataset.wid,payload);
+      document.querySelectorAll(".heart[data-wtype]").forEach(x=>{ if(x.dataset.wtype===h.dataset.wtype&&x.dataset.wid===h.dataset.wid){ x.classList.toggle("on",now); x.setAttribute("aria-pressed",now?"true":"false"); } });
+      if((location.hash||"").indexOf("#/wishlist")===0) route();
+      return;
+    }
+    const mp=document.getElementById("menuPanel"), mt=document.getElementById("menuTrig");
+    if(mp&&mp.classList.contains("open")&&!e.target.closest(".menu-wrap")){ mp.classList.remove("open"); if(mt) mt.setAttribute("aria-expanded","false"); }
+  });
+  document.addEventListener("keydown",e=>{ if(e.key==="Escape") closeSearch(); });
+
   async function getJSON(name,fallback){
     try{const r=await fetch(REPO+name+"?t="+Date.now(),{cache:"no-store"});if(r.ok){const d=await r.json();if(Array.isArray(d))return d;}}catch(e){}
     return fallback;
@@ -524,6 +865,11 @@
     if(!document.getElementById("sitefoot")){
       const f=document.createElement("div"); f.id="sitefoot"; document.body.appendChild(f);
     }
+    initSB();
+    await AUTH.load();
+    await WISH.load();
+    buildMenu(); wireMenu(); buildSearchOverlay();
+    const sb=document.getElementById("searchBtn"); if(sb) sb.addEventListener("click",openSearch);
     window.addEventListener("hashchange",()=>{ if(!legacyFix()) route(); });
     if(!legacyFix()) route();
   }
