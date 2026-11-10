@@ -1,0 +1,53 @@
+[
+  {
+    "format": "colorstory",
+    "eyebrow": "COLOUR STORY",
+    "tiles": [
+      "/home/claude/tws_clone/img/p09_model.png",
+      "/home/claude/tws_clone/img/p10_model.png",
+      "/home/claude/tws_clone/img/p16_model.png",
+      "/home/claude/tws_clone/img/p17_model.png"
+    ],
+    "swatches": [
+      {"name": "Stone", "hex": "#9A9A94"},
+      {"name": "Noir", "hex": "#1B2327"}
+    ],
+    "title": "Stone & Noir",
+    "subtitle": "a quiet-luxury colour story",
+    "hint": "shop the edit",
+    "out": "cs_stone_noir.png"
+  },
+  {
+    "format": "colorstory",
+    "eyebrow": "COLOUR STORY",
+    "tiles": [
+      "/home/claude/tws_clone/img/p06_model.png",
+      "/home/claude/tws_clone/img/p13_model.png",
+      "/home/claude/tws_clone/img/p17_model.png",
+      "/home/claude/tws_clone/img/p18_model.png"
+    ],
+    "swatches": [
+      {"name": "Noir", "hex": "#1B2327"}
+    ],
+    "title": "Noir",
+    "subtitle": "the evening, in black",
+    "hint": "shop the edit",
+    "out": "cs_noir.png"
+  },
+  {
+    "format": "colorstory",
+    "eyebrow": "COLOUR STORY",
+    "tiles": [
+      "/home/claude/tws_clone/img/p11_model.png",
+      "/home/claude/tws_clone/img/p12_model.png",
+      "/home/claude/tws_clone/img/p16_model.png"
+    ],
+    "swatches": [
+      {"name": "Navy", "hex": "#2A3242"}
+    ],
+    "title": "Navy",
+    "subtitle": "tailoring, softened",
+    "hint": "shop the edit",
+    "out": "cs_navy.png"
+  }
+]
