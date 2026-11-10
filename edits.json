@@ -263,5 +263,28 @@
    "studio"
   ],
   "paused": true
+ },
+ {
+  "slug": "plum-grey",
+  "type": "palette",
+  "eyebrow": "Colour Story",
+  "title": "Plum & Grey",
+  "intro": "Plum and grey, worn together — a soft, rich colour story for quiet-luxury autumn dressing. Three ways to pair the two, from soft tailoring to off-duty to evening. Every piece linked to the retailer.",
+  "hero": "img/p22_model.png",
+  "swatches": [
+   {
+    "name": "Plum",
+    "hex": "#5B2A38"
+   },
+   {
+    "name": "Grey",
+    "hex": "#8E8E8A"
+   }
+  ],
+  "lookIds": [
+   "p22",
+   "p23",
+   "p24"
+  ]
  }
 ]
