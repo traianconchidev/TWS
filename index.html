@@ -534,7 +534,7 @@
 
   function viewPalettes(){
     setMeta("Colour Stories — Timeless Wardrobe Studio","Shop outfits by colour palette — quiet-luxury seasonal colour stories, every piece linked to the retailer.");
-    const pal=EDITS.length?EDITS:[];
+    const pal=EDITS.filter(e=>e.type==="palette"&&!e.paused);
     return `<div class="page"><a class="crumb" href="#/">${DASH} Home</a>
       <div class="ptitle-eyebrow">Colour Stories</div><h1 class="ptitle">Shop by palette</h1>
       <p class="pintro">One palette, styled several ways &mdash; so everything you buy already works together.</p>

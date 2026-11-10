@@ -1,282 +1,267 @@
 [
-  {
-    "slug": "camel-ink",
-    "type": "palette",
-    "eyebrow": "Colour Story",
-    "title": "Camel & Ink",
-    "intro": "A quiet-luxury autumn palette: warm camel against deep ink. Soft, grounded, and endlessly wearable from desk to dinner.",
-    "hero": "img/p07_model.png",
-    "swatches": [
-      {
-        "name": "Camel",
-        "hex": "#B79A74"
-      },
-      {
-        "name": "Ink",
-        "hex": "#1B2327"
-      }
-    ],
-    "lookIds": [
-      "p07",
-      "luxe"
+ {
+  "slug": "camel-ink",
+  "type": "palette",
+  "eyebrow": "Colour Story",
+  "title": "Camel & Ink",
+  "intro": "A quiet-luxury autumn palette: warm camel against deep ink. Soft, grounded, and endlessly wearable from desk to dinner.",
+  "hero": "img/p07_model.png",
+  "swatches": [
+   {
+    "name": "Camel",
+    "hex": "#B79A74"
+   },
+   {
+    "name": "Ink",
+    "hex": "#1B2327"
+   }
+  ],
+  "lookIds": [
+   "p07",
+   "luxe"
+  ],
+  "paused": true
+ },
+ {
+  "slug": "one-skirt-three-ways",
+  "type": "guide",
+  "eyebrow": "Styling Guide",
+  "title": "One Skirt, Three Ways",
+  "intro": "One beige A-line midi skirt, three ways to wear it — from the desk, through the weekend, into the evening. Keep the hero piece; change everything around it.",
+  "hero": "img/osk_3ways.png",
+  "outfits": [
+   {
+    "label": "Desk",
+    "img": "img/osk_desk_model.png",
+    "pieces": [
+     {
+      "name": "Deconstructed Pleated Cotton Midi Skirt",
+      "brand": "COS",
+      "price": "€99",
+      "why": "A sharp central pleat makes it read unmistakably as a skirt; beige is the neutral that works back to every colour.",
+      "img": "img/osk_skirt.png",
+      "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirts/product/deconstructed-pleated-cotton-midi-skirt-beige-1319190001"
+     },
+     {
+      "name": "Rounded Wool Crew-Neck Jumper — cream",
+      "brand": "COS",
+      "price": "€99",
+      "why": "Fine-gauge wool in cream — soft and tonal tucked into the skirt for the desk.",
+      "img": "img/osk_cream_knit.png",
+      "url": "https://www.cos.com/en-eu/women/womenswear/knitwear/jumpers/product/rounded-wool-crew-neck-jumper-cream-1341893002"
+     },
+     {
+      "name": "Classic Leather Loafers",
+      "brand": "COS",
+      "price": "€110",
+      "why": "Leather, not canvas — the flat that still looks grown-up at a desk.",
+      "img": "img/osk_loafer.png",
+      "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
+     },
+     {
+      "name": "Classic Leather Tote",
+      "brand": "COS",
+      "price": "€249",
+      "why": "Holds a laptop and keeps its shape — the one bag that works all week.",
+      "img": "img/osk_tote.png",
+      "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
+     }
     ]
-  },
-  {
-    "slug": "one-skirt-three-ways",
-    "type": "guide",
-    "eyebrow": "Styling Guide",
-    "title": "One Skirt, Three Ways",
-    "intro": "One beige A-line midi skirt, three ways to wear it — from the desk, through the weekend, into the evening. Keep the hero piece; change everything around it.",
-    "hero": "img/osk_3ways.png",
-    "outfits": [
-      {
-        "label": "Desk",
-        "img": "img/osk_desk_model.png",
-        "pieces": [
-          {
-            "name": "Deconstructed Pleated Cotton Midi Skirt",
-            "brand": "COS",
-            "price": "€99",
-            "why": "A sharp central pleat makes it read unmistakably as a skirt; beige is the neutral that works back to every colour.",
-            "img": "img/osk_skirt.png",
-            "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirts/product/deconstructed-pleated-cotton-midi-skirt-beige-1319190001"
-          },
-          {
-            "name": "Rounded Wool Crew-Neck Jumper — cream",
-            "brand": "COS",
-            "price": "€99",
-            "why": "Fine-gauge wool in cream — soft and tonal tucked into the skirt for the desk.",
-            "img": "img/osk_cream_knit.png",
-            "url": "https://www.cos.com/en-eu/women/womenswear/knitwear/jumpers/product/rounded-wool-crew-neck-jumper-cream-1341893002"
-          },
-          {
-            "name": "Classic Leather Loafers",
-            "brand": "COS",
-            "price": "€110",
-            "why": "Leather, not canvas — the flat that still looks grown-up at a desk.",
-            "img": "img/osk_loafer.png",
-            "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
-          },
-          {
-            "name": "Classic Leather Tote",
-            "brand": "COS",
-            "price": "€249",
-            "why": "Holds a laptop and keeps its shape — the one bag that works all week.",
-            "img": "img/osk_tote.png",
-            "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
-          }
-        ]
-      },
-      {
-        "label": "Day Off",
-        "img": "img/osk_dayoff_model.png",
-        "pieces": [
-          {
-            "name": "Deconstructed Pleated Cotton Midi Skirt",
-            "brand": "COS",
-            "price": "€99",
-            "why": "A sharp central pleat makes it read unmistakably as a skirt; beige is the neutral that works back to every colour.",
-            "img": "img/osk_skirt.png",
-            "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirts/product/deconstructed-pleated-cotton-midi-skirt-beige-1319190001"
-          },
-          {
-            "name": "Oversized Knit Jumper — navy blue",
-            "brand": "& Other Stories",
-            "price": "€55",
-            "why": "An oversized navy knit relaxes the skirt for the weekend — same piece, different energy.",
-            "img": "img/osk_navy_knit.png",
-            "url": "https://www.stories.com/en-nl/product/oversized-wool-blend-jumper-navy-blue-1319467003"
-          },
-          {
-            "name": "Pointed Leather Ballet Flats",
-            "brand": "COS",
-            "why": "Pointed flats keep a day-off look neat without reaching for heels.",
-            "img": "img/osk_flat.png",
-            "url": "https://www.cos.com/en-ie/women/accessories/shoes/balletpumps/product/pointed-leather-ballet-flats-black-1194860001"
-          },
-          {
-            "name": "Mini Folded Crossbody Shopper",
-            "brand": "COS",
-            "why": "Hands-free leather crossbody — everything you need for errands, nothing you don't.",
-            "img": "img/osk_bucket.png",
-            "url": "https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001"
-          }
-        ]
-      },
-      {
-        "label": "After Hours",
-        "img": "img/osk_ah_model.png",
-        "pieces": [
-          {
-            "name": "V-Detail Boiled Wool Funnel-Neck Jumper",
-            "brand": "COS",
-            "color": "Black",
-            "price": "€115",
-            "why": "A boiled-wool funnel neck with a soft V gives the skirt an evening top with structure, not sparkle.",
-            "img": "img/osk_ah_knit.png",
-            "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/wool/product/boiled-wool-funnel-neck-jumper-black-1300317001"
-          },
-          {
-            "name": "Deconstructed Pleated Cotton Midi Skirt",
-            "brand": "COS",
-            "color": "Beige",
-            "price": "€99",
-            "why": "The one skirt — beige cotton twill with a front pleat; the common thread across all three looks.",
-            "img": "img/osk_skirt.png",
-            "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirt"
-          },
-          {
-            "name": "Strap-Detail Leather Pumps",
-            "brand": "COS",
-            "color": "Black",
-            "price": "€135",
-            "why": "The same pointed pumps from Studio Noir — a sharp toe lifts the midi for evening.",
-            "img": "img/studio_heels_c.png",
-            "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product"
-          },
-          {
-            "name": "Parquet Clutch Bag — Eel-Effect Leather",
-            "brand": "COS",
-            "color": "Black",
-            "price": "€150",
-            "why": "Eel-effect leather catches the light quietly — the one piece of evening polish.",
-            "img": "img/osk_ah_clutch.png",
-            "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/parquet-clutch-bag-eel-effect-leather-black-eel-effect-1343471001"
-          },
-          {
-            "name": "Mini Chunky Hoop Earrings",
-            "brand": "COS",
-            "color": "Gold",
-            "price": "€35",
-            "why": "Small gold hoops keep the black-and-beige warm without shouting.",
-            "img": "img/osk_ah_earrings.png",
-            "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/stacked-mini-hoop-earrings-gold-1278006001"
-          }
-        ]
-      }
+   },
+   {
+    "label": "Day Off",
+    "img": "img/osk_dayoff_model.png",
+    "pieces": [
+     {
+      "name": "Deconstructed Pleated Cotton Midi Skirt",
+      "brand": "COS",
+      "price": "€99",
+      "why": "A sharp central pleat makes it read unmistakably as a skirt; beige is the neutral that works back to every colour.",
+      "img": "img/osk_skirt.png",
+      "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirts/product/deconstructed-pleated-cotton-midi-skirt-beige-1319190001"
+     },
+     {
+      "name": "Oversized Knit Jumper — navy blue",
+      "brand": "& Other Stories",
+      "price": "€55",
+      "why": "An oversized navy knit relaxes the skirt for the weekend — same piece, different energy.",
+      "img": "img/osk_navy_knit.png",
+      "url": "https://www.stories.com/en-nl/product/oversized-wool-blend-jumper-navy-blue-1319467003"
+     },
+     {
+      "name": "Pointed Leather Ballet Flats",
+      "brand": "COS",
+      "why": "Pointed flats keep a day-off look neat without reaching for heels.",
+      "img": "img/osk_flat.png",
+      "url": "https://www.cos.com/en-ie/women/accessories/shoes/balletpumps/product/pointed-leather-ballet-flats-black-1194860001"
+     },
+     {
+      "name": "Mini Folded Crossbody Shopper",
+      "brand": "COS",
+      "why": "Hands-free leather crossbody — everything you need for errands, nothing you don't.",
+      "img": "img/osk_bucket.png",
+      "url": "https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001"
+     }
     ]
-  },
-  {
-    "slug": "off-duty-edit",
-    "type": "guide",
-    "eyebrow": "The Off-Duty Edit",
-    "title": "Three Ways Off-Duty",
-    "intro": "Three easy off-duty outfits for a quiet-luxury autumn weekend — a brown cashmere turtleneck with a silk scarf, a cream oversized knit with barrel jeans, and a grey funnel-neck half-zip over a white tee with a black beanie and straight-leg denim. One relaxed mood, three ways to wear it. Tap any look to shop every piece.",
-    "hero": "img/offduty_3ways.png",
-    "lookIds": [
-      "offduty",
-      "p05",
-      "p08"
+   },
+   {
+    "label": "After Hours",
+    "img": "img/osk_ah_model.png",
+    "pieces": [
+     {
+      "name": "V-Detail Boiled Wool Funnel-Neck Jumper",
+      "brand": "COS",
+      "color": "Black",
+      "price": "€115",
+      "why": "A boiled-wool funnel neck with a soft V gives the skirt an evening top with structure, not sparkle.",
+      "img": "img/osk_ah_knit.png",
+      "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/wool/product/boiled-wool-funnel-neck-jumper-black-1300317001"
+     },
+     {
+      "name": "Deconstructed Pleated Cotton Midi Skirt",
+      "brand": "COS",
+      "color": "Beige",
+      "price": "€99",
+      "why": "The one skirt — beige cotton twill with a front pleat; the common thread across all three looks.",
+      "img": "img/osk_skirt.png",
+      "url": "https://www.cos.com/en-eu/women/womenswear/skirts/alineskirt"
+     },
+     {
+      "name": "Strap-Detail Leather Pumps",
+      "brand": "COS",
+      "color": "Black",
+      "price": "€135",
+      "why": "The same pointed pumps from Studio Noir — a sharp toe lifts the midi for evening.",
+      "img": "img/studio_heels_c.png",
+      "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product"
+     },
+     {
+      "name": "Parquet Clutch Bag — Eel-Effect Leather",
+      "brand": "COS",
+      "color": "Black",
+      "price": "€150",
+      "why": "Eel-effect leather catches the light quietly — the one piece of evening polish.",
+      "img": "img/osk_ah_clutch.png",
+      "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/parquet-clutch-bag-eel-effect-leather-black-eel-effect-1343471001"
+     },
+     {
+      "name": "Mini Chunky Hoop Earrings",
+      "brand": "COS",
+      "color": "Gold",
+      "price": "€35",
+      "why": "Small gold hoops keep the black-and-beige warm without shouting.",
+      "img": "img/osk_ah_earrings.png",
+      "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/stacked-mini-hoop-earrings-gold-1278006001"
+     }
     ]
-  },
-  {
-    "slug": "stone-noir",
-    "type": "palette",
-    "eyebrow": "Colour Story",
-    "title": "Stone & Noir",
-    "intro": "Grey and black, nothing louder. A stone-and-noir colour story for quiet-luxury autumn and winter dressing — soft dark-grey wool over a crisp white shirt against clean black tailoring. Every piece linked to the retailer.",
-    "hero": "img/sn_model.png",
-    "swatches": [
-      {
-        "name": "Stone",
-        "hex": "#9A9A94"
-      },
-      {
-        "name": "Noir",
-        "hex": "#1B2327"
-      }
-    ],
-    "outfits": [
-      {
-        "label": "Grey & Black",
-        "img": null,
-        "pieces": [
-          {
-            "name": "Dark Grey Roll-Neck Wool-Mix Jumper",
-            "brand": "Whistles",
-            "color": "Dark grey",
-            "price": "$149",
-            "why": "A wool-mix roll neck in soft dark grey — the stone half of the palette, warm and quietly textured.",
-            "img": "img/sn_jumper.png",
-            "url": "https://www.whistles.com/us/product/roll-neck-wool-mix-jumper-40652.html"
-          },
-          {
-            "name": "Marcy Pleated-Cuff Shirt",
-            "brand": "Whistles",
-            "color": "White",
-            "price": "$169",
-            "why": "A crisp white shirt with pleated cuffs — collar and cuffs peek out of the knit for a polished, considered edge.",
-            "img": "img/sn_shirt.png",
-            "url": "https://www.whistles.com/us/product/213827.html"
-          },
-          {
-            "name": "Pleated Wide-Leg Trousers",
-            "brand": "COS",
-            "color": "Black",
-            "price": "$135",
-            "why": "A single front pleat and a wide leg — the fluid black base that lengthens the line against the grey knit.",
-            "img": "img/sn_trousers.png",
-            "url": "https://www.cos.com/en-us/product/pleated-wide-leg-trousers-black-1350852002"
-          },
-          {
-            "name": "Classic Leather Loafers",
-            "brand": "COS",
-            "color": "Black",
-            "price": "$190",
-            "why": "Clean black leather loafers — the quiet shoe that keeps the look grounded and easy to walk in.",
-            "img": "img/sn_loafers.png",
-            "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
-          },
-          {
-            "name": "Classic Tote Bag — Leather",
-            "brand": "COS",
-            "color": "Black",
-            "price": "$225",
-            "why": "A structured black leather tote — holds the day and finishes the noir side of the palette.",
-            "img": "img/sn_tote.png",
-            "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
-          },
-          {
-            "name": "Mismatched Knotted Earrings",
-            "brand": "COS",
-            "color": "Gold",
-            "price": "$45",
-            "why": "Small gold knotted earrings — the one warm accent against the grey and black.",
-            "img": "img/sn_earrings.png",
-            "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mismatched-knotted-earrings-gold-1345022001"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "slug": "quiet-neutral-capsule",
-    "type": "palette",
-    "eyebrow": "Colour Story",
-    "title": "The Quiet Neutral Capsule",
-    "intro": "Six outfits, one quiet neutral palette — cream, camel and ink. Proof that a tight colour story makes a small wardrobe feel limitless, from the desk to the evening. Every piece linked to the retailer.",
-    "hero": "img/capsule_6ways.png",
-    "swatches": [
-      {
-        "name": "Cream",
-        "hex": "#EAE7E1"
-      },
-      {
-        "name": "Camel",
-        "hex": "#B79A74"
-      },
-      {
-        "name": "Ink",
-        "hex": "#1B2327"
-      }
-    ],
-    "lookIds": [
-      "p08",
-      "p05",
-      "p07",
-      "luxe",
-      "p06",
-      "studio"
-    ]
-  }
+   }
+  ]
+ },
+ {
+  "slug": "off-duty-edit",
+  "type": "guide",
+  "eyebrow": "The Off-Duty Edit",
+  "title": "Three Ways Off-Duty",
+  "intro": "Three easy off-duty outfits for a quiet-luxury autumn weekend — a brown cashmere turtleneck with a silk scarf, a cream oversized knit with barrel jeans, and a grey funnel-neck half-zip over a white tee with a black beanie and straight-leg denim. One relaxed mood, three ways to wear it. Tap any look to shop every piece.",
+  "hero": "img/offduty_3ways.png",
+  "lookIds": [
+   "offduty",
+   "p05",
+   "p08"
+  ]
+ },
+ {
+  "slug": "stone-noir",
+  "type": "palette",
+  "eyebrow": "Colour Story",
+  "title": "Stone & Noir",
+  "intro": "Grey and black, nothing louder — a stone-and-noir colour story for quiet-luxury autumn dressing. Four ways to wear the pairing, from soft tailoring to the navy suit. Every piece linked to the retailer.",
+  "hero": "img/p09_model.png",
+  "swatches": [
+   {
+    "name": "Stone",
+    "hex": "#9A9A94"
+   },
+   {
+    "name": "Noir",
+    "hex": "#1B2327"
+   }
+  ],
+  "lookIds": [
+   "p09",
+   "p10",
+   "p16",
+   "p17"
+  ]
+ },
+ {
+  "slug": "noir",
+  "type": "palette",
+  "eyebrow": "Colour Story",
+  "title": "Noir",
+  "intro": "Black, done four ways — the foundation shade of a quiet-luxury wardrobe. From a single column of black to leather, shearling and a shimmer of fringe for evening. Every piece linked to the retailer.",
+  "hero": "img/p06_model.png",
+  "swatches": [
+   {
+    "name": "Noir",
+    "hex": "#1B2327"
+   }
+  ],
+  "lookIds": [
+   "p06",
+   "p13",
+   "p17",
+   "p18"
+  ]
+ },
+ {
+  "slug": "navy",
+  "type": "palette",
+  "eyebrow": "Colour Story",
+  "title": "Navy",
+  "intro": "Navy, the quiet alternative to black — softer, warmer, just as easy to wear. Three ways to style it, from the office to the weekend. Every piece linked to the retailer.",
+  "hero": "img/p16_model.png",
+  "swatches": [
+   {
+    "name": "Navy",
+    "hex": "#2A3242"
+   }
+  ],
+  "lookIds": [
+   "p11",
+   "p12",
+   "p16"
+  ]
+ },
+ {
+  "slug": "quiet-neutral-capsule",
+  "type": "palette",
+  "eyebrow": "Colour Story",
+  "title": "The Quiet Neutral Capsule",
+  "intro": "Six outfits, one quiet neutral palette — cream, camel and ink. Proof that a tight colour story makes a small wardrobe feel limitless, from the desk to the evening. Every piece linked to the retailer.",
+  "hero": "img/capsule_6ways.png",
+  "swatches": [
+   {
+    "name": "Cream",
+    "hex": "#EAE7E1"
+   },
+   {
+    "name": "Camel",
+    "hex": "#B79A74"
+   },
+   {
+    "name": "Ink",
+    "hex": "#1B2327"
+   }
+  ],
+  "lookIds": [
+   "p08",
+   "p05",
+   "p07",
+   "luxe",
+   "p06",
+   "studio"
+  ],
+  "paused": true
+ }
 ]
