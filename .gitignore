@@ -4,3 +4,6 @@
 tws_build/pins_cs/
 tws_build/pins_fmt/
 tws_build/pins/
+tws_build/chk_*.png
+tws_build/*_edit.png
+tws_build/shot_edit.js
