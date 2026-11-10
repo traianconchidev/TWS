@@ -517,8 +517,10 @@
         ${shopBlock(o.pieces)}</section>`).join("");
     } else if(E.lookIds&&E.lookIds.length){
       const ls=E.lookIds.map(bySlugLook).filter(Boolean);
-      body=`<div class="shop-head" style="margin-top:40px"><h2>The looks</h2></div>
-        <div class="cards">${ls.map(lookCard).join("")}</div>`;
+      body=ls.map(l=>`<section class="outfit">
+        <p class="outfit__label">${esc(l.sub||l.n)}<span class="bar"></span></p>
+        ${l.hero?`<a href="#/look/${l.id}"><img class="phero" style="margin:0 0 26px" src="${esc(l.hero)}" alt="${esc(l.sub||l.n)}" loading="lazy"></a>`:""}
+        ${shopBlock(l.pieces)}</section>`).join("");
     }
     const sw=E.swatches?`<div class="swatches">${E.swatches.map(s=>`<span class="sw"><i style="background:${esc(s.hex)}"></i>${esc(s.name)}</span>`).join("")}</div>`:"";
     return `<div class="page"><a class="crumb" href="#/palettes">${DASH} Colour stories</a>
