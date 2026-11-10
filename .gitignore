@@ -7,3 +7,6 @@ tws_build/pins/
 tws_build/chk_*.png
 tws_build/*_edit.png
 tws_build/shot_edit.js
+tws_build/pg.png
+tws_build/pg_pin.json
+tws_build/cs_pins.json
