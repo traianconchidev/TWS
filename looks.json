@@ -1297,57 +1297,6 @@
     ]
   },
   {
-    "n": "TWS-P09",
-    "id": "gallery",
-    "category": "Off-Duty Casual",
-    "sub": "A gallery Saturday, in plum & stone.",
-    "hero": "img/gallery_model.png",
-    "note": "A slow, cultured weekend — a museum in the morning, a glass of wine as the light goes down. A plum pleated-knit dress under a stone-grey belted wrap coat, with black square-toe ankle boots and a clay leather shoulder bag. Plum and stone, quietly done.",
-    "occasions": [
-      "Weekend",
-      "Gallery day",
-      "Dinner"
-    ],
-    "pieces": [
-      {
-        "name": "Pleated Knit Dress",
-        "brand": "Whistles",
-        "color": "Plum",
-        "price": "$199",
-        "why": "A plum funnel-neck knit with a pleated skirt — the jewel-toned anchor that moves as you walk.",
-        "img": "img/gallery_dress.jpg",
-        "url": "https://www.whistles.com/us/product/221416.html"
-      },
-      {
-        "name": "Darcey Drawn Belted Wrap Coat",
-        "brand": "Whistles",
-        "color": "Grey",
-        "price": "$239",
-        "why": "A stone-grey belted wrap coat, worn open with the belt loose — the soft neutral half of the pairing.",
-        "img": "img/gallery_coat.jpg",
-        "url": "https://www.whistles.com/us/product/154837.html"
-      },
-      {
-        "name": "Hedda Ankle Boots",
-        "brand": "Vagabond",
-        "color": "Black leather",
-        "price": "$210",
-        "why": "Square-toe leather ankle boots on a block heel — polished, and easy for a day on foot.",
-        "img": "img/gallery_boots.jpg",
-        "url": "https://www.vagabond.com/us/hedda-5002-001-20/"
-      },
-      {
-        "name": "Le Roseau M Shoulder Bag",
-        "brand": "Longchamp",
-        "color": "Clay",
-        "price": "$555",
-        "why": "A clay leather shoulder bag that echoes the stone coat — the quiet finishing touch.",
-        "img": "img/gallery_bag.jpg",
-        "url": "https://www.longchamp.com/us/en/10324HFP266.html"
-      }
-    ]
-  },
-  {
     "n": "TWS-P26",
     "id": "p26",
     "category": "Off-Duty Casual",
