@@ -1544,5 +1544,74 @@
         "url": "https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-leather-belt-brown-gold-1357134002"
       }
     ]
+  },
+  {
+    "n": "TWS-P29",
+    "id": "p29",
+    "category": "Off-Duty Casual",
+    "sub": "Cord, a high neck & raw denim.",
+    "hero": "img/p29_model.png",
+    "note": "A cream merino high-neck under a navy corduroy shirt, tucked into dark indigo straight-leg jeans, with a stone jacket worn open — the shirt collar laid over its black corduroy collar. Chocolate penny loafers with cream socks and a suede crossbody keep it relaxed. Oat and navy for the weekend: easy layers that still look considered.",
+    "occasions": [
+      "Weekend",
+      "Coffee & errands",
+      "Autumn casual"
+    ],
+    "pieces": [
+      {
+        "name": "Cotton-Corduroy Shirt",
+        "brand": "COS",
+        "color": "Navy",
+        "price": "€89",
+        "why": "A navy corduroy shirt worn open over a high neck — its collar laid over the jacket's makes the look.",
+        "img": "img/p29_shirt.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/shirts/product/cotton-corduroy-shirt-navy-1355353001"
+      },
+      {
+        "name": "Merino Wool High-Neck Top",
+        "brand": "COS",
+        "color": "Cream",
+        "price": "€49",
+        "why": "A fine cream merino high neck — the soft, light layer that frames the face under the navy cord.",
+        "img": "img/p29_top.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/tops/longsleevetops/product/wool-high-neck-top-cream-1325543003"
+      },
+      {
+        "name": "Chord Straight-Leg Jeans",
+        "brand": "COS",
+        "color": "Indigo",
+        "price": "€69",
+        "why": "Dark rinse straight-leg jeans ending at the ankle — clean enough to show off the loafers.",
+        "img": "img/p29_jeans.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/jeans/straightleg/product/chord-straight-leg-jeans-indigo-1341896001"
+      },
+      {
+        "name": "Cotton Jacket with Corduroy Collar",
+        "brand": "Mango",
+        "color": "Light/pastel grey",
+        "price": "£45.99",
+        "why": "A stone cotton jacket with a black corduroy collar — worn open, sleeves turned back, for an easy weekend layer.",
+        "img": "img/p29_jacket.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jackets/cotton-jacket-with-corduroy-collar/17085160/06/00"
+      },
+      {
+        "name": "Leather Penny Loafers",
+        "brand": "Mango",
+        "color": "Chocolate",
+        "price": "£89.99",
+        "why": "Glossy chocolate penny loafers — worn with cream socks for a polished off-duty finish.",
+        "img": "img/p29_loafers.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/flat-shoes/leather-penny-loafers/37095148/32/00"
+      },
+      {
+        "name": "Contrast Leather Crossbody Bag",
+        "brand": "Mango",
+        "color": "Chocolate",
+        "price": "£59.99",
+        "why": "A chocolate suede-and-leather crossbody with a gold turn-lock — tonal with the loafers.",
+        "img": "img/p29_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/contrast-leather-crossbody-bag/37035857/32/00"
+      }
+    ]
   }
 ]
