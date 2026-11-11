@@ -1466,5 +1466,83 @@
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-half-hoop-earrings-butter-yellow-1339082001"
       }
     ]
+  },
+  {
+    "n": "TWS-P28",
+    "id": "p28",
+    "category": "9 to 5 Luxe",
+    "sub": "Oat & navy, cable knit over stripes.",
+    "hero": "img/p28_model.png",
+    "note": "A navy cable-knit cashmere jumper over a blue striped shirt — collar out, cuffs showing — front-tucked into oat barrel-leg chinos with a brown oval-buckle belt. A navy structured blazer worn over the shoulders, glossy brown heeled loafers and a chocolate bucket bag finish it. Oat and navy is the easiest quiet-luxury pairing for the office.",
+    "occasions": [
+      "Workday",
+      "Desk to dinner",
+      "Autumn tailoring"
+    ],
+    "pieces": [
+      {
+        "name": "Cable-Knit Pure Cashmere Jumper",
+        "brand": "COS",
+        "color": "Navy",
+        "price": "€169",
+        "why": "A navy cable-knit in pure cashmere — the warm, textured centre of the look.",
+        "img": "img/p28_jumper.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/cashmere/product/cable-knit-cashmere-jumper-navy-1345058001"
+      },
+      {
+        "name": "Pocket Striped Shirt",
+        "brand": "Mango",
+        "color": "Blue stripe",
+        "price": "£29.99",
+        "why": "A cropped blue striped shirt — the collar and cuffs peeking out make the knit look styled.",
+        "img": "img/p28_shirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shirts---blouses/long-sleeve/pocket-striped-shirt/37014074/52/00"
+      },
+      {
+        "name": "Barrel-Leg Cotton Chinos",
+        "brand": "COS",
+        "color": "Beige",
+        "price": "€89",
+        "why": "Oat barrel-leg chinos with a curved seam — relaxed, but sharp enough for work.",
+        "img": "img/p28_chinos.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/trousers/barrel-leg/product/barrel-leg-cotton-chinos-beige-1300093002"
+      },
+      {
+        "name": "Structured Wool-Blend Blazer",
+        "brand": "COS",
+        "color": "Navy",
+        "price": "€139.30",
+        "why": "A navy structured blazer with rounded shoulders — worn on the shoulders for an easy, polished layer.",
+        "img": "img/p28_blazer.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/structured-wool-blend-blazer-navy-1350925001"
+      },
+      {
+        "name": "Angular Leather Heeled Loafers",
+        "brand": "COS",
+        "color": "Brown eel effect",
+        "price": "€149",
+        "why": "Glossy brown heeled loafers with a sharp toe — a little height that still feels like a flat.",
+        "img": "img/p28_loafers.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/angular-leather-heeled-loafers-brown-eel-effect-1349990002"
+      },
+      {
+        "name": "Bucket Bag with Buckle",
+        "brand": "Mango",
+        "color": "Chocolate",
+        "price": "£35.99",
+        "why": "A soft chocolate bucket bag worn on the shoulder — roomy enough for the workday.",
+        "img": "img/p28_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/shoppers/bucket-bag-with-buckle/37064103/32/00"
+      },
+      {
+        "name": "Oval-Buckle Leather Belt",
+        "brand": "COS",
+        "color": "Brown / gold",
+        "price": "€69",
+        "why": "A slim brown belt with an oval gold buckle — shown off by the front tuck, it ties the browns together.",
+        "img": "img/p28_belt.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-leather-belt-brown-gold-1357134002"
+      }
+    ]
   }
 ]
