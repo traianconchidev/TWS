@@ -1006,57 +1006,6 @@
     ]
   },
   {
-    "n": "TWS-P20",
-    "id": "p20",
-    "category": "Studio Noir",
-    "sub": "Plum knit, under grey wool.",
-    "hero": "img/p20_model.png",
-    "note": "A quietly elegant autumn pairing. A plum ribbed-knit midi dress that skims the body, worn under an open grey double-breasted wool coat, with black leather knee boots and a small black clutch. Plum and grey reads richer than black — soft colour for the evening that starts after the meeting ends.",
-    "occasions": [
-      "Evening",
-      "Dinner",
-      "Autumn colour"
-    ],
-    "pieces": [
-      {
-        "name": "Knitted Midi Bodycon Dress",
-        "brand": "COS",
-        "color": "Purple",
-        "price": "$139",
-        "why": "A fine ribbed-knit midi in a deep plum — the colour that carries the look, cut close and easy to move in.",
-        "img": "img/p20_dress.png",
-        "url": "https://www.cos.com/en-us/women/womenswear/dresses/mididresses/product/knitted-midi-bodycon-dress-purple-1361692001"
-      },
-      {
-        "name": "Tailored Wool-Blend Double-Breasted Coat",
-        "brand": "COS",
-        "color": "Grey",
-        "price": "€299",
-        "why": "A long grey double-breasted wool coat worn open — the tailored topper that frames the black dress.",
-        "img": "img/t9_coat.png",
-        "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/coats/product/wool-twill-tailored-coat-grey-1350604001"
-      },
-      {
-        "name": "Leather High Boots",
-        "brand": "Mango",
-        "color": "Black",
-        "price": "£169.99",
-        "why": "Tall black leather riding boots — the piece that makes a casual knit dress look deliberate.",
-        "img": "img/t4_boots.png",
-        "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/leather-high-boots/37045990/99/00"
-      },
-      {
-        "name": "Parquet Clutch Bag",
-        "brand": "COS",
-        "color": "Black eel-effect",
-        "price": "€119",
-        "why": "A slim eel-effect leather clutch — the one glossy, evening note against all the matte wool.",
-        "img": "img/t9_clutch.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/parquet-clutch-bag-eel-effect-leather-black-eel-effect-1343471001"
-      }
-    ]
-  },
-  {
     "n": "TWS-P22",
     "id": "p22",
     "category": "9 to 5 Luxe",
