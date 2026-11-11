@@ -152,7 +152,8 @@
         "name": "Oval-Buckle Slim Leather Belt",
         "brand": "COS",
         "img": "img/luxe_belt_c.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-slim-leather-belt-black-1288136001"
+        "url": "https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-slim-leather-belt-black-1288136001",
+        "price": "€39"
       },
       {
         "name": "Pointed Leather Ballet Flats",
@@ -195,7 +196,7 @@
       {
         "name": "Classic Leather Loafers",
         "brand": "COS",
-        "price": "€110",
+        "price": "€99",
         "why": "The casual shoe that still looks grown-up — leather, not canvas.",
         "img": "img/off_loafers.png",
         "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
@@ -303,7 +304,8 @@
         "brand": "adidas",
         "why": "The quiet-luxury way to wear a trainer — brown suede and a gum sole dress the whole outfit down.",
         "img": "img/p05_samba.png",
-        "url": "https://www.adidas.com/us/samba-og-shoes/ID1481.html"
+        "url": "https://www.adidas.com/us/samba-og-shoes/ID1481.html",
+        "price": "$100"
       }
     ]
   },
@@ -399,7 +401,7 @@
         "name": "Classic Leather Loafers",
         "brand": "COS",
         "color": "Black",
-        "price": "$190",
+        "price": "€99",
         "why": "Clean black leather loafers — the quiet shoe that keeps a maxi grounded and easy to walk in.",
         "img": "img/sn_loafers.png",
         "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
@@ -740,7 +742,7 @@
       {
         "name": "Knitted Dress with Tie Detail",
         "brand": "Mango",
-        "color": "Olive",
+        "color": "Brown",
         "price": "£49.99",
         "why": "An olive fine-knit dress with a tie knot at the waist and a soft asymmetric hem — one easy piece that already looks styled.",
         "img": "img/t7_dress.png",
@@ -989,7 +991,7 @@
         "name": "Classic Leather Loafers",
         "brand": "COS",
         "color": "Black",
-        "price": "$190",
+        "price": "€99",
         "why": "Clean black leather loafers — the quiet shoe that keeps a maxi grounded and easy to walk in.",
         "img": "img/p19_loafers.png",
         "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
