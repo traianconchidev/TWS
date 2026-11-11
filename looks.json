@@ -143,10 +143,11 @@
         "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
       },
       {
-        "name": "The Twisted Earrings — gold",
+        "name": "Stacked Hoop Earrings — gold",
         "brand": "COS",
-        "img": "img/luxe_earrings_c.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/the-twisted-earrings-gold-1281848001"
+        "img": "img/luxe_stacked_hoops.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/stacked-hoop-earrings-gold-1339081001",
+        "price": "€39"
       },
       {
         "name": "Oval-Buckle Slim Leather Belt",
@@ -202,10 +203,11 @@
         "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
       },
       {
-        "name": "Mini Folded Crossbody Shopper",
+        "name": "Trullo Flap Bag — Leather",
         "brand": "COS",
-        "img": "img/off_bag.png",
-        "url": "https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001"
+        "img": "img/offduty_trullo_flap.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/handbags/product/trullo-flap-bag-leather-black-1349970001",
+        "price": "€199"
       },
       {
         "name": "Stacked Mini Hoop Earrings — gold",
