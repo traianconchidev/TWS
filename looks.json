@@ -1406,5 +1406,65 @@
         "url": "https://shop.mango.com/gb/en/p/women/shoes/flat-shoes/leather-loafers/37024095/CG/00"
       }
     ]
+  },
+  {
+    "n": "TWS-P27",
+    "id": "p27",
+    "category": "Studio Noir",
+    "sub": "Animal print, a blazer on the shoulders.",
+    "hero": "img/p27_model.png",
+    "note": "A brown animal-jacquard midi dress with a soft handkerchief hem, a vanilla collarless blazer worn draped over the shoulders, hair tucked under the collar, tiny butter-yellow half-hoops, chocolate velvet slingbacks and a woven pouch held in hand. Chocolate and cream for the evening — the print does the talking, the cream blazer keeps it quiet.",
+    "occasions": [
+      "Dinner",
+      "Evening out",
+      "Gallery opening"
+    ],
+    "pieces": [
+      {
+        "name": "Animal-Jacquard Midi Dress",
+        "brand": "COS",
+        "color": "Brown / animal effect",
+        "price": "€149",
+        "why": "A sleeveless brown animal-jacquard midi with a fluid handkerchief hem — the statement of the look.",
+        "img": "img/p27_dress.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/jacquard-handkerchief-maxi-dress-brown-animal-effect-1345503001"
+      },
+      {
+        "name": "Blazer Suit Lapel Detail",
+        "brand": "Mango",
+        "color": "Vanilla",
+        "price": "£109.99",
+        "why": "A collarless vanilla blazer with one gold button — worn on the shoulders, it softens the print and frames the face.",
+        "img": "img/p27_blazer.png",
+        "url": "https://shop.mango.com/gb/en/p/women/blazers/party/blazer-suit-lapel-detail/37024450/10/00"
+      },
+      {
+        "name": "Braided Pouch",
+        "brand": "Mango",
+        "color": "Chocolate",
+        "price": "£17.99",
+        "why": "A flat chocolate woven-leather pouch with a wrist strap — held in hand like an evening clutch.",
+        "img": "img/p27_pouch.png",
+        "url": "https://shop.mango.com/gb/en/p/women/wallets-and-cases/toilet-bags/braided-pouch/37071551/32/00"
+      },
+      {
+        "name": "Velvet Stiletto Heel Shoe",
+        "brand": "Mango",
+        "color": "Chocolate",
+        "price": "£39.99",
+        "why": "Pointed chocolate velvet slingbacks — tonal with the print and quietly dressy.",
+        "img": "img/p27_heels.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/velvet-stiletto-heel-shoe/37027778/32/00"
+      },
+      {
+        "name": "Mini Half-Hoop Earrings",
+        "brand": "COS",
+        "color": "Butter yellow",
+        "price": "€25",
+        "why": "Tiny butter-yellow and silver half-hoops — the small light accent that picks up the vanilla blazer.",
+        "img": "img/p27_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-half-hoop-earrings-butter-yellow-1339082001"
+      }
+    ]
   }
 ]
