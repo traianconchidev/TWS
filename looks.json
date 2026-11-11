@@ -1584,5 +1584,143 @@
         "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pack-of-2-mixed-earrings/37017805/OR/00"
       }
     ]
+  },
+  {
+    "n": "TWS-P31",
+    "id": "p31",
+    "category": "Off-Duty Casual",
+    "sub": "Forest green, brown knit & rolled denim.",
+    "hero": "img/p31_model.png",
+    "note": "A taupe-brown roll-neck under a forest-green wool blazer worn open, with dark straight jeans rolled at the ankle over distressed brown boots. A suede crossbody across the body and green leather gloves finish it. Green and brown for cold weekend mornings: warm, tactile and quietly put together.",
+    "occasions": [
+      "Weekend",
+      "City walk",
+      "Autumn casual"
+    ],
+    "pieces": [
+      {
+        "name": "Turtleneck Knit Sweater",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£35.99",
+        "why": "A boxy taupe-brown roll-neck in a smooth knit — the soft base under the green tailoring.",
+        "img": "img/p31_turtleneck.png",
+        "url": "https://shop.mango.com/gb/en/p/women/pyjamas/knitwear/turtleneck-knit-sweater/37031441/32/00"
+      },
+      {
+        "name": "Tailored Wool Blazer",
+        "brand": "Mango",
+        "color": "Green",
+        "price": "£89.99",
+        "why": "A forest-green two-button wool blazer worn open — the colour that carries the look.",
+        "img": "img/p31_blazer.png",
+        "url": "https://shop.mango.com/gb/en/p/women/blazers/fitted/tailored-wool-blazer/37078640/43/00"
+      },
+      {
+        "name": "Mid-Rise Straight Jeans",
+        "brand": "Mango",
+        "color": "Dark navy",
+        "price": "£39.99",
+        "why": "Dark straight jeans rolled once at the ankle, so a flash of skin shows above the boots.",
+        "img": "img/p31_jeans.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jeans/plus-sizes/mid-rise-straight-jeans/37034114/TO/00"
+      },
+      {
+        "name": "Distressed Leather Ankle Boot",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£79.99",
+        "why": "Pointed brown boots with a stacked heel and a worn-in finish — easy with rolled denim.",
+        "img": "img/p31_boots.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/distressed-leather-ankle-boot/37065982/32/00"
+      },
+      {
+        "name": "Contrast Leather Crossbody Bag",
+        "brand": "Mango",
+        "color": "Chocolate",
+        "price": "£59.99",
+        "why": "A small suede flap bag with a gold turn-lock, worn across the body over the blazer.",
+        "img": "img/p31_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/contrast-leather-crossbody-bag/37035857/32/00"
+      },
+      {
+        "name": "Leather Gloves with Bow Detail",
+        "brand": "Mango",
+        "color": "Green",
+        "price": "£35.99",
+        "why": "Slim green leather gloves that repeat the blazer's colour — the finishing detail.",
+        "img": "img/p31_gloves.png",
+        "url": "https://shop.mango.com/gb/en/p/women/hats-and-gloves/gloves/leather-gloves-with-bow-detail/37067905/43/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P32",
+    "id": "p32",
+    "category": "Off-Duty Casual",
+    "sub": "Denim on denim, a blazer on the shoulders.",
+    "hero": "img/p32_model.png",
+    "note": "A mid-blue denim shirt tucked into bootcut jeans with a slim suede belt, a greige micro-houndstooth blazer draped over the shoulders, suede loafers and a soft brown leather tote carried by its straps. Denim and brown, done the polished way.",
+    "occasions": [
+      "Weekend",
+      "Brunch",
+      "Autumn casual"
+    ],
+    "pieces": [
+      {
+        "name": "Denim Shirt",
+        "brand": "COS",
+        "color": "Blue",
+        "price": "€99",
+        "why": "A mid-blue denim shirt worn open at the neck and tucked in — the first half of the denim-on-denim.",
+        "img": "img/p32_shirt.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/shirts/product/denim-shirt-blue-1321231001"
+      },
+      {
+        "name": "Valley Bootcut Jeans",
+        "brand": "COS",
+        "color": "Blue",
+        "price": "€89",
+        "why": "High-rise bootcut jeans in a mid-blue wash, long enough to rest on the loafers.",
+        "img": "img/p32_jeans.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/jeans/flarebootcut/product/valley-bootcut-jeans-blue-1348545003"
+      },
+      {
+        "name": "Double-Breasted Micro-Houndstooth Jacket",
+        "brand": "Mango",
+        "color": "Greige",
+        "price": "£59.99",
+        "why": "A fine greige houndstooth blazer worn over the shoulders — it polishes all that denim.",
+        "img": "img/p32_blazer.png",
+        "url": "https://shop.mango.com/gb/en/p/women/blazers/fitted/double-breasted-micro-houndstooth-jacket/37094092/30/00"
+      },
+      {
+        "name": "100% Bovine Leather Belt",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£22.99",
+        "why": "A slim dark-brown suede belt with a silver buckle, visible at the waist.",
+        "img": "img/p32_belt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/belts/leather/100-bovine-leather-belt/37062906/32/00"
+      },
+      {
+        "name": "Split Suede Mocassin Loafers",
+        "brand": "COS",
+        "color": "Brown",
+        "price": "€149",
+        "why": "Espresso suede loafers with a softly gathered toe — the brown that grounds the denim.",
+        "img": "img/p32_loafers.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/flats/product/split-suede-mocassin-loafers-brown-1345290003"
+      },
+      {
+        "name": "Pavilion Tote Bag – Leather",
+        "brand": "COS",
+        "color": "Brown",
+        "price": "€249",
+        "why": "A soft brown leather tote with a dipped top, carried by its straps at the side.",
+        "img": "img/p32_tote.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/totebags/product/pavilion-tote-bag-leather-brown-1349966002"
+      }
+    ]
   }
 ]
