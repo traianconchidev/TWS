@@ -1,1239 +1,1299 @@
 [
- {
-  "n": "TWS-P08",
-  "id": "p08",
-  "category": "Off-Duty Casual",
-  "sub": "The slow Saturday, off-duty and easy.",
-  "hero": "img/p08_model.png",
-  "note": "Off-duty ease that still reads expensive. A grey-melange funnel-neck half-zip over a crisp white raglan tee and straight-leg Levi's 501s, grounded by grey suede Gazelles, a black cashmere beanie and a roomy recycled-canvas Longchamp tote — relaxed shapes in a quiet grey, white and indigo palette. Made for the slow Saturday: the coffee run, the market, the long walk home.",
-  "occasions": [
-   "Weekend",
-   "Errands",
-   "Slow Saturday"
-  ],
-  "pieces": [
-   {
-    "name": "Funnel-Neck Half-Zip Knitted Jumper",
-    "brand": "COS",
-    "color": "Grey melange",
-    "price": "$99",
-    "why": "A grey-melange half-zip in a clean knit — the funnel neck frames the white tee underneath and adds a quiet sporty note.",
-    "img": "img/p08_halfzip.png",
-    "url": "https://www.cos.com/en-us/product/funnel-neck-half-zip-knitted-jumper-grey-mlange-1355373003"
-   },
-   {
-    "name": "Cotton Raglan-Sleeve T-Shirt",
-    "brand": "Mango",
-    "color": "White",
-    "price": "$25.99",
-    "why": "A clean white raglan tee layered under the knit — the easy base that lifts the whole look.",
-    "img": "img/p08_tee.png",
-    "url": "https://shop.mango.com/us/en/c/women/t-shirts_8e23bdfb"
-   },
-   {
-    "name": "501 Original Fit Jeans — mid blue",
-    "brand": "Levi's",
-    "price": "$98",
-    "why": "The original straight leg in a mid-blue wash — the one denim that never dates and works back to everything.",
-    "img": "img/p08_jeans.png",
-    "url": "https://www.levi.com/US/en_US/clothing/women/jeans/straight/501-original-fit-womens-jeans/p/125010555"
-   },
-   {
-    "name": "Gazelle — grey",
-    "brand": "adidas",
-    "price": "$110",
-    "why": "Grey suede with a gum sole — the quiet-luxury way to wear a trainer, dressing the whole look down.",
-    "img": "img/p08_gazelle.png",
-    "url": "https://www.adidas.com/us/gazelle-shoes/BB5480.html"
-   },
-   {
-    "name": "Le Pliage Original L Tote Bag — Recycled Canvas",
-    "brand": "Longchamp",
-    "color": "Black",
-    "price": "$175",
-    "why": "The featherweight recycled-canvas Le Pliage folds flat yet holds a whole Saturday — the everyday workhorse.",
-    "img": "img/p08_tote.png",
-    "url": "https://www.longchamp.com/us/en/products/tote-bag-l-L1899089001.html"
-   },
-   {
-    "name": "Pure Cashmere Beanie",
-    "brand": "COS",
-    "color": "Black",
-    "price": "$59",
-    "why": "A black cashmere beanie keeps it warm and quiet — the finishing layer for the slow Saturday.",
-    "img": "img/p08_beanie.png",
-    "url": "https://www.cos.com/en-us/women/accessories/hatsscarvesgloves/hats/product/pure-cashmere-beanie-black-1248054001"
-   }
-  ]
- },
- {
-  "n": "TWS-P07",
-  "id": "p07",
-  "category": "9 to 5 Luxe",
-  "sub": "Camel & ink, desk to dinner.",
-  "hero": "img/p07_model.png",
-  "note": "A camel wool coat worn long over a gathered-side black knit dress — warm neutral against deep ink, the quietest kind of statement. The double-faced wool holds its line without lining bulk, while the jersey dress moves with you. Black ankle boots ground it for the commute and keep it sharp enough for dinner after. One palette, two textures, no effort showing.",
-  "occasions": [
-   "Office",
-   "Dinner",
-   "Autumn commute"
-  ],
-  "pieces": [
-   {
-    "name": "Camel Julia Wool Double-Faced Coat",
-    "brand": "Whistles",
-    "price": "$359",
-    "why": "Double-faced wool falls clean with no lining bulk — the piece that makes the whole outfit read expensive.",
-    "img": "img/p07_coat.png",
-    "url": "https://whistles.com/us/product/julia-wool-double-faced-coat-37221.html"
-   },
-   {
-    "name": "Black Gathered Side Midi Knit Dress",
-    "brand": "Whistles",
-    "price": "$159",
-    "why": "Gathered at the side to skim rather than cling; a soft jersey that travels desk to dinner.",
-    "img": "img/p07_dress.png",
-    "url": "https://www.whistles.com/row/product/213148.html"
-   },
-   {
-    "name": "Hedda Leather Ankle Boots — Black",
-    "brand": "Vagabond",
-    "price": "$210",
-    "why": "A walkable block heel in smooth leather — all-day comfort, evening-ready polish.",
-    "img": "img/p07_boots.png",
-    "url": "https://www.vagabond.com/us/hedda-5002-001-20/"
-   }
-  ]
- },
- {
-  "n": "01",
-  "id": "luxe",
-  "category": "9 to 5 Luxe",
-  "sub": "Quiet authority, from desk to dinner.",
-  "hero": "img/luxe_model.png",
-  "note": "Quiet authority, built on tailoring. A dark-brown twill blazer over pleated wide-leg trousers, finished with a structured leather tote and pointed flats — a considered, tonal uniform for days that run from the desk straight into the evening. Nothing loud; everything intentional.",
-  "occasions": [
-   "Office",
-   "Meetings",
-   "Desk to dinner"
-  ],
-  "pieces": [
-   {
-    "name": "Twill Single-Breasted Blazer",
-    "brand": "COS",
-    "price": "€179",
-    "why": "Crisp single-breasted cut in a matte twill — structure without stiffness.",
-    "img": "img/luxe_blazer_c.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/twill-single-breasted-blazer-dark-brown-1294894003"
-   },
-   {
-    "name": "Cotton-Twill Wide-Leg Turn-Up Trousers",
-    "brand": "COS",
-    "price": "€149",
-    "why": "Structured cotton twill holds a clean wide leg; the turn-up cuff keeps the beige tailored, not casual.",
-    "img": "img/luxe_trousers_c.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/cotton-twill-wide-leg-turn-up-trousers-beige-1340451002"
-   },
-   {
-    "name": "Classic Leather Tote",
-    "brand": "COS",
-    "price": "€249",
-    "why": "Holds a laptop and keeps its shape — the one bag that works all week.",
-    "img": "img/luxe_tote_c.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
-   },
-   {
-    "name": "The Twisted Earrings — gold",
-    "brand": "COS",
-    "img": "img/luxe_earrings_c.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/the-twisted-earrings-gold-1281848001"
-   },
-   {
-    "name": "Oval-Buckle Slim Leather Belt",
-    "brand": "COS",
-    "img": "img/luxe_belt_c.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-slim-leather-belt-black-1288136001"
-   },
-   {
-    "name": "Pointed Leather Ballet Flats",
-    "brand": "COS",
-    "why": "Pointed toe lengthens the leg; flat enough for a full day on your feet.",
-    "img": "img/luxe_flats_c.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/shoes/balletpumps/product/pointed-leather-ballet-flats-black-1194860001"
-   }
-  ]
- },
- {
-  "n": "02",
-  "id": "offduty",
-  "category": "Off-Duty Casual",
-  "sub": "Ease that reads expensive.",
-  "hero": "img/offduty_model.png",
-  "note": "Ease that reads expensive. A pure-cashmere turtleneck with cropped wide-leg denim and leather loafers — relaxed and tactile, the kind of outfit that looks considered without trying. Add a silk scarf for the one detail that lifts it. Made for the weekend, errands, or a slow day working from home.",
-  "occasions": [
-   "Weekend",
-   "Errands",
-   "Work from home"
-  ],
-  "pieces": [
-   {
-    "name": "Pure Cashmere Turtleneck",
-    "brand": "COS",
-    "price": "€200",
-    "why": "Real cashmere drapes softly and keeps its shape wash after wash — a cost-per-wear buy.",
-    "img": "img/off_knit.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/cashmere/product/pure-cashmere-turtleneck-jumper-brown-1232653001"
-   },
-   {
-    "name": "Cropped Wide-Leg Denim",
-    "brand": "COS",
-    "price": "€89",
-    "why": "Cropped at the ankle to show the loafer; ecru keeps it softer than blue.",
-    "img": "img/off_jeans.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/cropped-wide-leg-denim-trousers-ecru-1313780003"
-   },
-   {
-    "name": "Classic Leather Loafers",
-    "brand": "COS",
-    "price": "€110",
-    "why": "The casual shoe that still looks grown-up — leather, not canvas.",
-    "img": "img/off_loafers.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
-   },
-   {
-    "name": "Mini Folded Crossbody Shopper",
-    "brand": "COS",
-    "img": "img/off_bag.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001"
-   },
-   {
-    "name": "Stacked Mini Hoop Earrings — gold",
-    "brand": "COS",
-    "img": "img/off_earrings.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/stacked-mini-hoop-earrings-gold-1278006001"
-   },
-   {
-    "name": "Printed Silk Scarf",
-    "brand": "COS",
-    "price": "€99",
-    "why": "The one accessory that lifts a plain knit — tie it at the neck or the bag.",
-    "img": "img/off_scarf.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/hatsscarvesgloves/scarves/product/the-printed-silk-scarf-floral-1283915001"
-   }
-  ]
- },
- {
-  "n": "03",
-  "id": "studio",
-  "category": "Studio Noir",
-  "sub": "For the evening that starts after the meeting ends.",
-  "hero": "img/studio_model.png",
-  "note": "For the evening that starts after the meeting ends. A scoop-neck satin midi in black, strap-detail pumps and a compact clutch — minimal, polished and quietly sensual. The satin catches the light so the outfit needs nothing else. Dinner, a launch, or a date that deserves effort.",
-  "occasions": [
-   "Evening",
-   "Date night",
-   "Dinner"
-  ],
-  "pieces": [
-   {
-    "name": "Scoop-Neck Satin Midi Dress",
-    "brand": "COS",
-    "price": "€99",
-    "why": "Bias-cut satin that skims the body and catches the light — one piece, whole outfit.",
-    "img": "img/studio_dress_c.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/scoop-neck-satin-midi-dress-black-1329721002"
-   },
-   {
-    "name": "Strap-Detail Leather Pumps",
-    "brand": "COS",
-    "price": "€199",
-    "why": "An ankle strap steadies a heel you can actually wear through dinner.",
-    "img": "img/studio_heels_c.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
-   },
-   {
-    "name": "Envelope Clasp Pouch",
-    "brand": "COS",
-    "price": "€89",
-    "why": "Just enough for phone, card and keys — croc-effect leather reads luxe.",
-    "img": "img/studio_clutch_c.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
-   },
-   {
-    "name": "Mismatched Knotted Earrings",
-    "brand": "COS",
-    "price": "€25",
-    "why": "A little gold at the ear is all a satin dress needs.",
-    "img": "img/studio_ear_c.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mismatched-knotted-earrings-gold-1345022001"
-   }
-  ]
- },
- {
-  "n": "TWS-P05",
-  "id": "p05",
-  "category": "Off-Duty Casual",
-  "sub": "Off-duty ease, in a tight neutral palette.",
-  "hero": "img/p05_model.png",
-  "note": "Ease that reads expensive, off-duty. A cream oversized wool jumper over mid-blue barrel-leg jeans, grounded by brown suede Sambas — relaxed proportions kept in a tight neutral palette. The slouchy knit balances the volume of the barrel leg, while the retro trainer keeps the whole thing young and easy. Made for the weekend, the coffee run, or a slow day off.",
-  "occasions": [
-   "Weekend",
-   "Errands",
-   "Coffee run"
-  ],
-  "pieces": [
-   {
-    "name": "Rounded Wool Crew-Neck Jumper — cream",
-    "brand": "COS",
-    "price": "€99",
-    "why": "Fine-gauge cream wool, oversized but never bulky — the soft hero of an easy off-duty look.",
-    "img": "img/p05_knit.png",
-    "url": "https://www.cos.com/en-eu/women/womenswear/knitwear/jumpers/product/rounded-wool-crew-neck-jumper-cream-1341893002"
-   },
-   {
-    "name": "Barrel-Leg Jeans — mid blue",
-    "brand": "& Other Stories",
-    "price": "€99",
-    "why": "The barrel leg is the one denim shape that looks current without trying; mid blue stays versatile.",
-    "img": "img/p05_jeans.png",
-    "url": "https://www.stories.com/en-nl/product/barrel-leg-jeans-mid-blue-1283788013/"
-   },
-   {
-    "name": "Samba OG — brown",
-    "brand": "adidas",
-    "why": "The quiet-luxury way to wear a trainer — brown suede and a gum sole dress the whole outfit down.",
-    "img": "img/p05_samba.png",
-    "url": "https://www.adidas.com/us/samba-og-shoes/ID1481.html"
-   }
-  ]
- },
- {
-  "n": "TWS-P06",
-  "id": "p06",
-  "category": "Studio Noir",
-  "sub": "The evening, in a single column of black.",
-  "hero": "img/p06_model.png",
-  "note": "The evening, distilled to a single line. A sleeveless high-neck draped maxi falls in one fluid column of black, worn with pointed pumps and a soft gathered clutch — nothing competes with the silhouette. The draped jersey moves as you do and needs no jewellery to finish it. For dinner, a launch, or a night that asks for less, done better.",
-  "occasions": [
-   "Evening",
-   "Dinner",
-   "Occasion"
-  ],
-  "pieces": [
-   {
-    "name": "Draped Gathered Maxi Dress — black",
-    "brand": "COS",
-    "price": "€299",
-    "why": "One sleeveless column of draped jersey that skims and moves — the whole outfit in a single piece.",
-    "img": "img/p06_dress.png",
-    "url": "https://www.cos.com/en-eu/women/womenswear/dresses/longdresses/product/draped-gathered-maxi-dress-carbon-1346926001"
-   },
-   {
-    "name": "Strap-Detail Leather Pumps",
-    "brand": "COS",
-    "price": "€199",
-    "why": "A steady ankle-strap heel that turns the same skirt into an evening look.",
-    "img": "img/p06_pumps.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
-   },
-   {
-    "name": "Envelope Clasp Pouch",
-    "brand": "COS",
-    "price": "€89",
-    "why": "Croc-effect leather, just enough for phone, card and keys — the evening full stop.",
-    "img": "img/p06_clutch.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
-   }
-  ]
- },
- {
-  "n": "TWS-P09",
-  "id": "p09",
-  "category": "9 to 5 Luxe",
-  "sub": "Soft tailoring, grey on black.",
-  "hero": "img/p09_model.png",
-  "note": "Soft tailoring for the desk-to-dinner day. A grey-mélange cashmere funnel-neck cardigan, buttoned and worn relaxed, half-tucked into a black pleated tailored maxi skirt and cinched with a slim black leather belt so the waist reads sharp. Black leather loafers keep it walkable and a roomy black leather flap bag carries the day — quiet grey-and-black tailoring that looks expensive without trying.",
-  "occasions": [
-   "Workday",
-   "Desk to dinner",
-   "City"
-  ],
-  "pieces": [
-   {
-    "name": "Sculpted Pure Cashmere Funnel-Neck Cardigan",
-    "brand": "COS",
-    "color": "Grey mélange",
-    "price": "$299",
-    "why": "The soft anchor of the look — pure cashmere, a funnel neck and a button front you can wear open or closed. Relaxed enough to half-tuck.",
-    "img": "img/t1_cardigan.png",
-    "url": "https://www.cos.com/en-us/women/womenswear/knitwear/cardigans/cashmere/product/sculpted-cashmere-funnel-neck-cardigan-grey-mlange-1341210001"
-   },
-   {
-    "name": "Pleated Tailored Maxi Skirt",
-    "brand": "COS",
-    "color": "Black",
-    "price": "$159",
-    "why": "A clean black maxi with soft front pleats and a centre slit — tailored enough for work, long enough to feel considered.",
-    "img": "img/t1_skirt.png",
-    "url": "https://www.cos.com/en-us/women/womenswear/skirts/maxiskirts/product/pleated-tailored-maxi-skirt-black-1350866001"
-   },
-   {
-    "name": "Square-Buckle Leather Belt",
-    "brand": "COS",
-    "color": "Black / Silver",
-    "price": "$55",
-    "why": "A slim black leather belt with a square silver buckle — it cinches the cardigan to the waist and sharpens the whole line.",
-    "img": "img/t1_belt.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/belts/product/square-buckle-leather-belt-black-silver-1365207002"
-   },
-   {
-    "name": "Trullo Oversized Flap Bag",
-    "brand": "COS",
-    "color": "Black",
-    "price": "$350",
-    "why": "A roomy soft-leather flap bag that carries the day — structured enough for the office, easy on the shoulder.",
-    "img": "img/t1_bag.png",
-    "url": "https://www.cos.com/en-us/women/accessories/bags/handbags/product/trullo-oversized-flap-bag-leather-black-1361103001"
-   },
-   {
-    "name": "Classic Leather Loafers",
-    "brand": "COS",
-    "color": "Black",
-    "price": "$190",
-    "why": "Clean black leather loafers — the quiet shoe that keeps a maxi grounded and easy to walk in.",
-    "img": "img/sn_loafers.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
-   }
-  ]
- },
- {
-  "n": "TWS-P10",
-  "id": "p10",
-  "category": "9 to 5 Luxe",
-  "sub": "Herringbone, layered in grey.",
-  "hero": "img/p10_model.png",
-  "note": "Tonal grey, layered and easy. A grey marl short-sleeve knit over a crisp off-white shirt — collar and cuffs left out — tucked into high-waisted herringbone wool suit trousers and belted in chocolate suede. Black penny loafers and a soft black shoulder bag keep it grounded. Smart texture-on-texture that carries from the desk onward.",
-  "occasions": [
-   "Workday",
-   "Desk to dinner",
-   "City"
-  ],
-  "pieces": [
-   {
-    "name": "Short-Sleeve Marl Jumper",
-    "brand": "Mango",
-    "color": "Medium Heather Grey",
-    "price": "$69.99",
-    "why": "A short-sleeve marl knit in heather grey — soft texture that layers cleanly over a shirt for the half-sleeve look.",
-    "img": "img/t2_jumper.png",
-    "url": "https://shop.mango.com/us/en/p/women/sweaters-and-cardigans/sweaters/short-sleeve-marl-jumper/37007811/94/00"
-   },
-   {
-    "name": "Straight Lyocell Shirt",
-    "brand": "Mango",
-    "color": "Off White",
-    "price": "$69.99",
-    "why": "The crisp base layer — a straight lyocell shirt worn under the knit so the collar and cuffs read sharp.",
-    "img": "img/t2_shirt.png",
-    "url": "https://shop.mango.com/us/en/p/women/shirts---blouses/long-sleeve/straight-lyocell-shirt/37024070/02/00"
-   },
-   {
-    "name": "Herringbone Wool Suit Trousers",
-    "brand": "Mango",
-    "color": "Medium Heather Grey",
-    "price": "$99.99",
-    "why": "High-waisted herringbone wool with a straight, slightly flared leg — tailored enough to anchor the whole look.",
-    "img": "img/t2_trousers.png",
-    "url": "https://shop.mango.com/us/en/p/women/trousers/smart/herringbone-wool-suit-trousers/37078287/94/00"
-   },
-   {
-    "name": "Buckle Leather Belt",
-    "brand": "Mango",
-    "color": "Chocolate",
-    "price": "$59.99",
-    "why": "A chocolate suede belt with a warm gold buckle — the one hit of brown that lifts all the grey.",
-    "img": "img/t2_belt.png",
-    "url": "https://shop.mango.com/us/en/p/women/belts/basics/buckle-leather-belt/37034422/32/00"
-   },
-   {
-    "name": "Leather Penny Loafers",
-    "brand": "Mango",
-    "color": "Black",
-    "price": "$129.99",
-    "why": "Classic black penny loafers — the quiet shoe that keeps tailored trousers easy to walk in.",
-    "img": "img/t2_loafers.png",
-    "url": "https://shop.mango.com/us/en/p/women/shoes/flat-shoes/leather-penny-loafers/47011342/99/00"
-   },
-   {
-    "name": "Recycled Leather Handbag",
-    "brand": "Mango",
-    "color": "Black",
-    "price": "$99.99",
-    "why": "A soft black shoulder bag in recycled leather — roomy, unstructured, easy on the shoulder.",
-    "img": "img/t2_bag.png",
-    "url": "https://shop.mango.com/us/en/p/women/bags/crossbody/recycled-leather-handbag/47011360/99/00"
-   }
-  ]
- },
- {
-  "n": "TWS-P11",
-  "id": "p11",
-  "category": "Off-Duty Casual",
-  "sub": "Check, knit and navy.",
-  "hero": "img/p11_model.png",
-  "note": "Autumn layering, done the easy way. A navy fine-knit boat-neck over a navy gingham shirt, a soft diamond neckscarf at the throat, and a tobacco houndstooth blazer thrown over the top. A chocolate suede belt pulls it into dark straight jeans; pointed ankle boots and a slouchy navy suede tote finish it — texture and check, kept to navy and brown.",
-  "occasions": [
-   "Weekend",
-   "Coffee run",
-   "City"
-  ],
-  "pieces": [
-   {
-    "name": "Check-Print Jacket",
-    "brand": "Mango",
-    "color": "Tobacco Brown",
-    "price": "£99.99",
-    "why": "The tobacco houndstooth blazer that makes the whole thing look considered — thrown open over the knit.",
-    "img": "img/t3_blazer.png",
-    "url": "https://shop.mango.com/gb/en/p/women/blazers/check-print-jacket/37045865/31/00"
-   },
-   {
-    "name": "Fine-Knit Boat-Neck Sweater",
-    "brand": "Mango",
-    "color": "Navy",
-    "price": "£22.99",
-    "why": "A clean navy boat-neck — the quiet middle layer that lets the shirt collar and scarf do the talking.",
-    "img": "img/t3_sweater.png",
-    "url": "https://shop.mango.com/gb/en/p/women/sweaters-and-cardigans/plus-sizes/fine-knit-boat-neck-sweater/37024077/56/00"
-   },
-   {
-    "name": "Fitted Check Shirt",
-    "brand": "Mango",
-    "color": "Navy",
-    "price": "£25.99",
-    "why": "A navy gingham shirt worn under the knit so the collar and cuffs peek out — the detail that lifts the layering.",
-    "img": "img/t3_checkshirt.png",
-    "url": "https://shop.mango.com/gb/en/p/women/shirts---blouses/long-sleeve/fitted-check-shirt/37045989/56/00"
-   },
-   {
-    "name": "Diamond-Patterned Triangular Scarf",
-    "brand": "Mango",
-    "color": "Dark Heather Grey",
-    "price": "£17.99",
-    "why": "A soft diamond-check neckscarf tied at the throat — the warm, old-money finishing touch.",
-    "img": "img/t3_scarf.png",
-    "url": "https://shop.mango.com/gb/en/p/women/scarfs-and-foulards/neckscarves/diamond-patterned-triangular-scarf/37087914/96/00"
-   },
-   {
-    "name": "Mid-Rise Straight Jeans",
-    "brand": "Mango",
-    "color": "Dark Navy",
-    "price": "£39.99",
-    "why": "Dark straight-leg denim — grounds all the check and knit without fuss.",
-    "img": "img/t3_jeans.png",
-    "url": "https://shop.mango.com/gb/en/p/women/jeans/plus-sizes/mid-rise-straight-jeans/37034114/TO/00"
-   },
-   {
-    "name": "Buckle Leather Belt",
-    "brand": "Mango",
-    "color": "Chocolate",
-    "price": "£29.99",
-    "why": "The chocolate suede belt again — one warm brown note that ties the jeans to the blazer.",
-    "img": "img/t3_belt.png",
-    "url": "https://shop.mango.com/gb/en/p/women/belts/basics/buckle-leather-belt/37034422/32/00"
-   },
-   {
-    "name": "Pointed Heel Ankle Boot",
-    "brand": "Mango",
-    "color": "Brown",
-    "price": "£59.99",
-    "why": "Dark brown pointed ankle boots on a low block heel — sharp enough to lift straight jeans.",
-    "img": "img/t3_boots.png",
-    "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/pointed-heel-ankle-boot/37025986/32/00"
-   },
-   {
-    "name": "Suede Leather Shopper Bag",
-    "brand": "Mango",
-    "color": "Navy",
-    "price": "£55.99",
-    "why": "A slouchy navy suede shopper — roomy, soft, and tonal with the knit.",
-    "img": "img/t3_tote.png",
-    "url": "https://shop.mango.com/gb/en/p/women/bags/leather-bags/suede-leather-shopper-bag/37072917/56/00"
-   }
-  ]
- },
- {
-  "n": "TWS-P12",
-  "id": "p12",
-  "category": "Off-Duty Casual",
-  "sub": "Knit dress, tall boots.",
-  "hero": "img/p12_model.png",
-  "note": "Knit-dress ease with a preppy edge. A navy funnel-neck knit dress buttoned at the throat, worn over a navy gingham shirt so the collar and cuffs peek out, finished with tall black leather boots and a croc-effect tote. One cold-weather outfit, barely any effort.",
-  "occasions": [
-   "Weekend",
-   "City",
-   "Coffee run"
-  ],
-  "pieces": [
-   {
-    "name": "Short Knitted Dress",
-    "brand": "Mango",
-    "color": "Navy",
-    "price": "£35.99",
-    "why": "A navy funnel-neck knit mini with a button placket — cosy, easy, and does most of the work on its own.",
-    "img": "img/t4_dress.png",
-    "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/short-knitted-dress/37097796/56/00"
-   },
-   {
-    "name": "Fitted Check Shirt",
-    "brand": "Mango",
-    "color": "Navy",
-    "price": "£25.99",
-    "why": "The navy gingham shirt layered underneath — collar at the neck, cuffs at the wrists, the preppy detail that lifts a knit dress.",
-    "img": "img/t4_checkshirt.png",
-    "url": "https://shop.mango.com/gb/en/p/women/shirts---blouses/long-sleeve/fitted-check-shirt/37045989/56/00"
-   },
-   {
-    "name": "Leather High Boots",
-    "brand": "Mango",
-    "color": "Black",
-    "price": "£169.99",
-    "why": "Tall black leather riding boots — the piece that makes a casual knit dress look deliberate.",
-    "img": "img/t4_boots.png",
-    "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/leather-high-boots/37045990/99/00"
-   },
-   {
-    "name": "Coconut-Effect Shoulder Bag",
-    "brand": "Mango",
-    "color": "Black",
-    "price": "£39.99",
-    "why": "A black croc / coconut-effect shoulder tote — structured texture against the soft knit.",
-    "img": "img/t4_bag.png",
-    "url": "https://shop.mango.com/gb/en/p/women/bags/shoppers/coconut-effect-shoulder-bag/37067791/99/00"
-   }
-  ]
- },
- {
-  "n": "TWS-P13",
-  "id": "p13",
-  "category": "Studio Noir",
-  "sub": "All black, leather and shearling.",
-  "hero": "img/p13_model.png",
-  "note": "Black on black, the quiet-luxury way. A funnel-neck cocoon mini dress under a reversible shearling-and-leather coat worn open, leather side out, so the dress shows. Sheer tights, angular heeled loafers and an oversized leather tote keep it sharp. Studio Noir at its most considered.",
-  "occasions": [
-   "Evening",
-   "City",
-   "Dinner"
-  ],
-  "pieces": [
-   {
-    "name": "Reversible Shearling Leather Coat",
-    "brand": "COS",
-    "color": "Black",
-    "price": "€790",
-    "why": "The statement layer — a reversible shearling-and-leather coat worn open, leather side out, to frame the all-black look. (Price to confirm.)",
-    "img": "img/t5_coat.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/coats"
-   },
-   {
-    "name": "Funnel-Neck Cocoon Mini Dress",
-    "brand": "COS",
-    "color": "Black",
-    "price": "€129",
-    "why": "A soft funnel-neck cocoon mini — clean and architectural, the quiet base of the look.",
-    "img": "img/t5_dress.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/dresses/minidresses/product/funnel-neck-cocoon-mini-dress-black-1327390001"
-   },
-   {
-    "name": "Angular Leather Heeled Loafers",
-    "brand": "COS",
-    "color": "Black",
-    "price": "€149",
-    "why": "Angular pointed heeled loafers — the sharp line that lifts the whole thing off the ground.",
-    "img": "img/t5_loafers.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/angular-leather-heeled-loafers-black-1349990001"
-   },
-   {
-    "name": "Journe Oversized Tote Bag",
-    "brand": "COS",
-    "color": "Black",
-    "price": "€299",
-    "why": "The Journe oversized leather tote — roomy, structured, carries the day in one clean shape.",
-    "img": "img/t5_tote.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/bags/oversizedbags/product/journe-oversized-tote-bag-leather-black-1349963001"
-   }
-  ]
- },
- {
-  "n": "TWS-P14",
-  "id": "p14",
-  "category": "9 to 5 Luxe",
-  "sub": "Belted knit, checked blazer.",
-  "hero": "img/p14_model.png",
-  "note": "Old-money layering for a working day. A cream fine-knit ruched dress belted at the waist in burgundy leather, with a grey checked double-breasted blazer thrown over and croc-effect knee boots. A faux-leather bucket bag keeps it easy — quiet, tonal, desk-to-dinner.",
-  "occasions": [
-   "Workday",
-   "Desk to dinner",
-   "City"
-  ],
-  "pieces": [
-   {
-    "name": "Fine-Knit Ruched Dress",
-    "brand": "Mango",
-    "color": "Cream",
-    "price": "£32.99",
-    "why": "A cream fine-knit dress ruched down the front with a soft flared skirt — the quiet base that takes a belt and a blazer beautifully.",
-    "img": "img/t6_dress.png",
-    "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/fine-knit-ruched-dress/37074078/07/00"
-   },
-   {
-    "name": "Double-Breasted Wool Suit Blazer",
-    "brand": "Mango",
-    "color": "Grey check",
-    "price": "£99.99",
-    "why": "A grey checked double-breasted wool blazer worn open — the tailored layer that makes the knit dress read sharp.",
-    "img": "img/t6_blazer.png",
-    "url": "https://shop.mango.com/gb/en/p/women/blazers/fitted/double-breasted-wool-suit-blazer/37018289/35/00"
-   },
-   {
-    "name": "100% Bovine Leather Belt",
-    "brand": "Mango",
-    "color": "Burgundy",
-    "price": "£35.99",
-    "why": "A burgundy leather belt with a gold buckle, cinched at the waist over the dress — the one warm detail that pulls it together.",
-    "img": "img/t6_belt.png",
-    "url": "https://shop.mango.com/gb/en/p/women/belts/leather/100-bovine-leather-belt/37022908/78/00"
-   },
-   {
-    "name": "Coco-Effect Heeled Boots",
-    "brand": "Mango",
-    "color": "Brown",
-    "price": "£79.99",
-    "why": "Brown croc-effect knee-high heeled boots — the polished shoe that lifts a midi hem.",
-    "img": "img/t6_boots.png",
-    "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/coco-effect-heeled-boots/47061336/32/00"
-   },
-   {
-    "name": "Faux-Leather Bucket Handbag",
-    "brand": "Mango",
-    "color": "Brown",
-    "price": "£29.99",
-    "why": "A compact brown bucket bag — soft, tonal, and easy to carry at the side.",
-    "img": "img/t6_bag.png",
-    "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/faux-leather-bucket-handbag/37083316/32/00"
-   }
-  ]
- },
- {
-  "n": "TWS-P15",
-  "id": "p15",
-  "category": "Off-Duty Casual",
-  "sub": "Knit dress, scarf and suede.",
-  "hero": "img/p15_model.png",
-  "note": "Autumn knit, tied and scarfed. An olive knit tie-detail dress with a soft asymmetric hem, a brown houndstooth blazer thrown over, a paisley scarf knotted at the neck and a slouchy suede drawstring bag. Buckled suede knee boots ground it — easy, warm, and quietly put-together.",
-  "occasions": [
-   "Weekend",
-   "City",
-   "Coffee run"
-  ],
-  "pieces": [
-   {
-    "name": "Knitted Dress with Tie Detail",
-    "brand": "Mango",
-    "color": "Olive",
-    "price": "£49.99",
-    "why": "An olive fine-knit dress with a tie knot at the waist and a soft asymmetric hem — one easy piece that already looks styled.",
-    "img": "img/t7_dress.png",
-    "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/knitted-dress-with-tie-detail/37075880/35/00"
-   },
-   {
-    "name": "Check-Print Jacket",
-    "brand": "Mango",
-    "color": "Tobacco Brown",
-    "price": "£99.99",
-    "why": "The brown houndstooth blazer worn open — the tailored layer that makes a knit dress read considered.",
-    "img": "img/t7_blazer.png",
-    "url": "https://shop.mango.com/gb/en/p/women/blazers/check-print-jacket/37045865/31/00"
-   },
-   {
-    "name": "Paisley Print Scarf",
-    "brand": "Mango",
-    "color": "Navy / Brown",
-    "price": "£12.99",
-    "why": "A paisley silk scarf knotted at the neck — the old-money detail that lifts the whole look.",
-    "img": "img/t7_scarf.png",
-    "url": "https://shop.mango.com/gb/en/p/women/scarfs-and-foulards/neckscarves/paisley-print-scarf/37044413/76/00"
-   },
-   {
-    "name": "Suede Drawstring Bag",
-    "brand": "Mango",
-    "color": "Brown",
-    "price": "£109.99",
-    "why": "A slouchy brown suede drawstring bag — soft, roomy, and tonal with the boots.",
-    "img": "img/t7_bag.png",
-    "url": "https://shop.mango.com/gb/en/p/women/bags/shoppers/suede-drawstring-bag/37067132/32/00"
-   },
-   {
-    "name": "Buckled Suede Boots",
-    "brand": "Mango",
-    "color": "Brown",
-    "price": "£109.99",
-    "why": "Brown buckled suede knee boots — the riding-boot shape that grounds a midi hem.",
-    "img": "img/t7_boots.png",
-    "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/bukled-suede-boots/47041337/09/00"
-   }
-  ]
- },
- {
-  "n": "TWS-P16",
-  "id": "p16",
-  "category": "9 to 5 Luxe",
-  "sub": "The navy suit, softened.",
-  "hero": "img/p16_model.png",
-  "note": "The navy suit, softened. A midnight wool blazer and straight-leg trousers over a grey cashmere funnel-neck cardigan — tailoring with a knit underneath so it never reads stiff. Black slingback kitten heels and a glossy leather tote finish it. Quiet authority, head to toe.",
-  "occasions": [
-   "Workday",
-   "Desk to dinner",
-   "Meetings"
-  ],
-  "pieces": [
-   {
-    "name": "Single-Breasted Wool Blazer",
-    "brand": "COS",
-    "color": "Midnight",
-    "price": "€299",
-    "why": "A clean midnight-navy wool blazer — the tailored anchor of the suit, sharp enough to carry the whole look.",
-    "img": "img/t8_blazer.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/single-breasted-wool-blazer-midnight-1356813001"
-   },
-   {
-    "name": "Tailored Wool Straight-Leg Trousers",
-    "brand": "COS",
-    "color": "Midnight",
-    "price": "€149",
-    "why": "Matching midnight straight-leg wool trousers — a full suit that reads considered, never corporate.",
-    "img": "img/t8_trousers.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/suitsandtailoring/tailoredtrousers/product/tailored-wool-straight-leg-trousers-midnight-1372846001"
-   },
-   {
-    "name": "Sculpted Pure Cashmere Funnel-Neck Cardigan",
-    "brand": "COS",
-    "color": "Grey mélange",
-    "price": "€199",
-    "why": "The grey cashmere funnel-neck layered under the blazer, collar up — softens the tailoring and adds warmth.",
-    "img": "img/t8_cardigan.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/cardigans/cashmere/product/sculpted-cashmere-funnel-neck-cardigan-grey-mlange-1341210001"
-   },
-   {
-    "name": "Pavilion Tote Bag",
-    "brand": "COS",
-    "color": "Black",
-    "price": "€249",
-    "why": "A glossy crinkled-leather tote — roomy, soft, the one shine against all the matte wool.",
-    "img": "img/t8_tote.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/bags/totebags/product/pavilion-tote-bag-leather-black-1349966001"
-   },
-   {
-    "name": "Pointed Leather Slingback Kitten Heels",
-    "brand": "COS",
-    "color": "Black",
-    "price": "€129",
-    "why": "Black pointed slingback kitten heels — a low, sharp heel that lengthens the trouser line.",
-    "img": "img/t8_heels.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/pointed-leather-slingback-kitten-heels-black-1357160001"
-   }
-  ]
- },
- {
-  "n": "TWS-P17",
-  "id": "p17",
-  "category": "Studio Noir",
-  "sub": "Evening, in grey and black.",
-  "hero": "img/p17_model.png",
-  "note": "Evening, done in grey and black. A black belt-detail wool midi dress under a grey double-breasted tailored coat worn open, with sheer tights and pointed slingback heels. A slim eel-effect clutch is the only shine — quiet, cold-weather elegance for the dinner after the day.",
-  "occasions": [
-   "Evening",
-   "Dinner",
-   "City"
-  ],
-  "pieces": [
-   {
-    "name": "Belt-Detail Double-Faced Wool Midi Dress",
-    "brand": "COS",
-    "color": "Black",
-    "price": "€149",
-    "why": "A clean black wool midi with a wrap skirt and a small leather buckle at the hip — architectural and easy, the base of the look.",
-    "img": "img/t9_dress.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/belt-detail-double-faced-wool-midi-dress-black-1346337001"
-   },
-   {
-    "name": "Tailored Wool-Blend Double-Breasted Coat",
-    "brand": "COS",
-    "color": "Grey",
-    "price": "€299",
-    "why": "A long grey double-breasted wool coat worn open — the tailored topper that frames the black dress.",
-    "img": "img/t9_coat.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/coats/product/wool-twill-tailored-coat-grey-1350604001"
-   },
-   {
-    "name": "Parquet Clutch Bag",
-    "brand": "COS",
-    "color": "Black eel-effect",
-    "price": "€119",
-    "why": "A slim eel-effect leather clutch — the one glossy, evening note against all the matte wool.",
-    "img": "img/t9_clutch.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/parquet-clutch-bag-eel-effect-leather-black-eel-effect-1343471001"
-   },
-   {
-    "name": "Pointed Leather Slingback Kitten Heels",
-    "brand": "COS",
-    "color": "Black",
-    "price": "€129",
-    "why": "Black pointed slingback kitten heels — a low, sharp heel that keeps an evening look walkable.",
-    "img": "img/t9_heels.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/pointed-leather-slingback-kitten-heels-black-1357160001"
-   }
-  ]
- },
- {
-  "n": "TWS-P18",
-  "id": "p18",
-  "category": "Studio Noir",
-  "sub": "All black, with a shimmer of fringe.",
-  "hero": "img/p18_model.png",
-  "note": "The party look, done the quiet-luxury way. A fringed black mini dress that moves, worn over sheer black tights with pointed slingback heels and a slim eel-effect clutch. Silver hoops are the only brightness. All black, all texture — evening dressing without a single loud note.",
-  "occasions": [
-   "Evening",
-   "Party",
-   "Date Night"
-  ],
-  "pieces": [
-   {
-    "name": "Fringed Mini Dress",
-    "brand": "COS",
-    "color": "Black",
-    "price": "€99",
-    "why": "A sleeveless scoop-neck mini covered in soft black fringe — the whole look in one piece, built to move.",
-    "img": "img/t10_dress.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/dresses/minidresses/product/fringed-mini-dress-black-1345295001"
-   },
-   {
-    "name": "Mini Chunky Hoop Earrings",
-    "brand": "COS",
-    "color": "Silver",
-    "price": "€29",
-    "why": "Small chunky silver hoops — the one bright, metallic note against all the black.",
-    "img": "img/t10_earrings.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-silver-1369780002"
-   },
-   {
-    "name": "Parquet Clutch Bag",
-    "brand": "COS",
-    "color": "Black eel-effect",
-    "price": "€119",
-    "why": "A slim eel-effect leather clutch, held against the body — the quiet, glossy evening bag.",
-    "img": "img/t10_clutch.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/parquet-clutch-bag-eel-effect-leather-black-eel-effect-1343471001"
-   },
-   {
-    "name": "Pointed Leather Slingback Kitten Heels",
-    "brand": "COS",
-    "color": "Black",
-    "price": "€129",
-    "why": "Black pointed slingback kitten heels — a low, sharp heel that keeps a party look easy to walk in.",
-    "img": "img/t10_heels.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/pointed-leather-slingback-kitten-heels-black-1357160001"
-   }
-  ]
- },
- {
-  "n": "TWS-P19",
-  "id": "p19",
-  "category": "9 to 5 Luxe",
-  "sub": "Chocolate & cream, softly tailored.",
-  "hero": "img/p19_model.png",
-  "note": "Warm tailoring without the stiffness. A dark-brown single-breasted twill blazer over a cream wool crew-neck, with high-waisted grey herringbone flared trousers, black loafers and a brown suede drawstring bag. Chocolate and cream is the quiet-luxury way to wear brown to work — rich, soft, and easy to repeat.",
-  "occasions": [
-   "Workday",
-   "Desk to dinner",
-   "Autumn tailoring"
-  ],
-  "pieces": [
-   {
-    "name": "Twill Single-Breasted Blazer",
-    "brand": "COS",
-    "color": "Dark brown",
-    "why": "A dark-brown twill single-breasted blazer — the chocolate anchor of the look, clean and softly tailored.",
-    "img": "img/p19_blazer.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/twill-single-breasted-blazer-dark-brown-1294894003",
-    "price": "€179"
-   },
-   {
-    "name": "Rounded Wool Crew-Neck Jumper — cream",
-    "brand": "COS",
-    "price": "€99",
-    "why": "Fine-gauge cream wool, oversized but never bulky — the soft hero of an easy off-duty look.",
-    "img": "img/p19_jumper.png",
-    "url": "https://www.cos.com/en-eu/women/womenswear/knitwear/jumpers/product/rounded-wool-crew-neck-jumper-cream-1341893002"
-   },
-   {
-    "name": "Herringbone Wool Suit Trousers",
-    "brand": "Mango",
-    "color": "Medium Heather Grey",
-    "price": "$99.99",
-    "why": "High-waisted herringbone wool with a straight, slightly flared leg — tailored enough to anchor the whole look.",
-    "img": "img/p19_trousers.png",
-    "url": "https://shop.mango.com/us/en/p/women/trousers/smart/herringbone-wool-suit-trousers/37078287/94/00"
-   },
-   {
-    "name": "Classic Leather Loafers",
-    "brand": "COS",
-    "color": "Black",
-    "price": "$190",
-    "why": "Clean black leather loafers — the quiet shoe that keeps a maxi grounded and easy to walk in.",
-    "img": "img/p19_loafers.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
-   },
-   {
-    "name": "Suede Drawstring Bag",
-    "brand": "Mango",
-    "color": "Brown",
-    "price": "£109.99",
-    "why": "A slouchy brown suede drawstring bag — soft, roomy, and tonal with the boots.",
-    "img": "img/p19_bag.png",
-    "url": "https://shop.mango.com/gb/en/p/women/bags/shoppers/suede-drawstring-bag/37067132/32/00"
-   }
-  ]
- },
- {
-  "n": "TWS-P20",
-  "id": "p20",
-  "category": "Studio Noir",
-  "sub": "Plum knit, under grey wool.",
-  "hero": "img/p20_model.png",
-  "note": "A quietly elegant autumn pairing. A plum ribbed-knit midi dress that skims the body, worn under an open grey double-breasted wool coat, with black leather knee boots and a small black clutch. Plum and grey reads richer than black — soft colour for the evening that starts after the meeting ends.",
-  "occasions": [
-   "Evening",
-   "Dinner",
-   "Autumn colour"
-  ],
-  "pieces": [
-   {
-    "name": "Knitted Midi Bodycon Dress",
-    "brand": "COS",
-    "color": "Purple",
-    "price": "$139",
-    "why": "A fine ribbed-knit midi in a deep plum — the colour that carries the look, cut close and easy to move in.",
-    "img": "img/p20_dress.png",
-    "url": "https://www.cos.com/en-us/women/womenswear/dresses/mididresses/product/knitted-midi-bodycon-dress-purple-1361692001"
-   },
-   {
-    "name": "Tailored Wool-Blend Double-Breasted Coat",
-    "brand": "COS",
-    "color": "Grey",
-    "price": "€299",
-    "why": "A long grey double-breasted wool coat worn open — the tailored topper that frames the black dress.",
-    "img": "img/t9_coat.png",
-    "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/coats/product/wool-twill-tailored-coat-grey-1350604001"
-   },
-   {
-    "name": "Leather High Boots",
-    "brand": "Mango",
-    "color": "Black",
-    "price": "£169.99",
-    "why": "Tall black leather riding boots — the piece that makes a casual knit dress look deliberate.",
-    "img": "img/t4_boots.png",
-    "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/leather-high-boots/37045990/99/00"
-   },
-   {
-    "name": "Parquet Clutch Bag",
-    "brand": "COS",
-    "color": "Black eel-effect",
-    "price": "€119",
-    "why": "A slim eel-effect leather clutch — the one glossy, evening note against all the matte wool.",
-    "img": "img/t9_clutch.png",
-    "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/parquet-clutch-bag-eel-effect-leather-black-eel-effect-1343471001"
-   }
-  ]
- },
- {
-  "n": "TWS-P22",
-  "id": "p22",
-  "category": "9 to 5 Luxe",
-  "sub": "Grey knit, plum leather.",
-  "hero": "img/p22_model.png",
-  "note": "Grey knit meets plum leather. A light-grey funnel-neck knit cape belted at the waist over a burgundy leather-look midi skirt, with a speckled grey wool blazer slung over the shoulders. Pointed kitten-heel slingbacks finish it. Soft tailoring in two quiet tones.",
-  "occasions": [
-   "Workday",
-   "Desk to dinner",
-   "Meetings"
-  ],
-  "pieces": [
-   {
-    "name": "Speckled Wool Suit Jacket",
-    "brand": "Mango",
-    "color": "Medium Heather Grey",
-    "price": "£99.99",
-    "why": "A speckled grey wool blazer worn cape-style over the shoulders — the tailored grey half of the pairing.",
-    "img": "img/p22_blazer.png",
-    "url": "https://shop.mango.com/gb/en/p/women/blazers/fitted/speckled-wool-suit-jacket/37088287/94/00"
-   },
-   {
-    "name": "Plain Knit Cape",
-    "brand": "Mango",
-    "color": "Light Heather Grey",
-    "price": "£45.99",
-    "why": "A chunky light-grey funnel-neck knit cape — the cosy top layer, belted to give it shape.",
-    "img": "img/p22_cape.png",
-    "url": "https://shop.mango.com/gb/en/p/women/sweaters-and-cardigans/sweaters/plain-knit-cape/37077789/91/00"
-   },
-   {
-    "name": "Straight Leather-Look Skirt",
-    "brand": "Mango",
-    "color": "Burgundy",
-    "price": "£35.99",
-    "why": "A burgundy leather-look straight midi skirt — the plum anchor, rich against all the grey.",
-    "img": "img/p22_skirt.png",
-    "url": "https://shop.mango.com/gb/en/p/women/skirts/midi/straight-leather-look-skirt/37025989/78/00"
-   },
-   {
-    "name": "100% Bovine Leather Belt",
-    "brand": "Mango",
-    "color": "Burgundy",
-    "price": "£35.99",
-    "why": "A slim burgundy leather belt cinching the knit at the waist — ties the plum through the top half.",
-    "img": "img/p22_belt.png",
-    "url": "https://shop.mango.com/gb/en/p/women/belts/leather/100-bovine-leather-belt/37022908/78/00"
-   },
-   {
-    "name": "Kitten Heel Pointed Toe Shoe",
-    "brand": "Mango",
-    "color": "Chocolate",
-    "price": "£39.99",
-    "why": "Dark burgundy pointed kitten-heel slingbacks — a low, elegant finish in the plum tone.",
-    "img": "img/p22_heels.png",
-    "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/kitten-heel-pointed-toe-shoe/37084429/32/00"
-   }
-  ]
- },
- {
-  "n": "TWS-P23",
-  "id": "p23",
-  "category": "Off-Duty Casual",
-  "sub": "Plum parka, grey flare.",
-  "hero": "img/p23_model.png",
-  "note": "A plum parka over a grey flare. A maroon cotton parka with a contrasting collar, worn open over a burgundy ribbed turtleneck and a grey marl flared midi skirt. Burgundy socks and black penny loafers keep it easy. Off-duty, in plum and grey.",
-  "occasions": [
-   "Weekend",
-   "Errands",
-   "Casual"
-  ],
-  "pieces": [
-   {
-    "name": "Parka with Contrasting Collar",
-    "brand": "Mango",
-    "color": "Maroon",
-    "price": "£139.99",
-    "why": "A maroon cotton parka with a contrasting collar — the plum outer layer, relaxed and worn open.",
-    "img": "img/p23_parka.png",
-    "url": "https://shop.mango.com/gb/en/p/women/jackets/denim/parka-with-contrasting-collar/37068265/76/00"
-   },
-   {
-    "name": "Turtleneck T-shirt",
-    "brand": "Mango",
-    "color": "Burgundy",
-    "price": "£17.99",
-    "why": "A fine burgundy ribbed turtleneck — the plum base layer under the parka.",
-    "img": "img/p23_turtleneck.png",
-    "url": "https://shop.mango.com/gb/en/p/women/t-shirts/basics/turtleneck-t-shirt/37097782/78/00"
-   },
-   {
-    "name": "Flared Midi-Skirt",
-    "brand": "Mango",
-    "color": "Grey",
-    "price": "£69.99",
-    "why": "A grey marl flared wool midi skirt — the grey half, with easy weekend movement.",
-    "img": "img/p23_skirt.png",
-    "url": "https://shop.mango.com/gb/en/p/women/skirts/midi/flared-midi-skirt/37068640/99/00"
-   },
-   {
-    "name": "Ribbed Wool-Blend Socks",
-    "brand": "Mango",
-    "color": "Burgundy",
-    "price": "£12.99",
-    "why": "Burgundy ribbed socks peeking over the loafers — a small plum detail that carries the colour down.",
-    "img": "img/p23_socks.png",
-    "url": "https://shop.mango.com/gb/en/p/women/other-accessories/socks/ribbed-wool-blend-socks/47091381/78/00"
-   },
-   {
-    "name": "Leather Penny Loafers",
-    "brand": "Mango",
-    "color": "Black",
-    "price": "£79.99",
-    "why": "Black leather penny loafers — the grounding neutral that keeps the look off-duty.",
-    "img": "img/p23_loafers.png",
-    "url": "https://shop.mango.com/gb/en/p/women/shoes/flat-shoes/leather-penny-loafers/47011342/99/00"
-   },
-   {
-    "name": "Buckle Crossbody Bag",
-    "brand": "Mango",
-    "color": "Black",
-    "price": "£39.99",
-    "why": "A small black pebbled-leather crossbody — hands-free and quiet, worn across the body.",
-    "img": "img/p23_bag.png",
-    "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/buckle-crossbody-bag/37034461/99/00"
-   }
-  ]
- },
- {
-  "n": "TWS-P24",
-  "id": "p24",
-  "category": "Studio Noir",
-  "sub": "Plum knit, grey coat.",
-  "hero": "img/p24_model.png",
-  "note": "A plum knit under a grey coat. A wine ruched-side knitted midi dress, layered under an open grey double-breasted wool coat, with a burgundy croc shoulder bag and patent slingback heels. Evening, in plum and grey.",
-  "occasions": [
-   "Evening",
-   "Dinner",
-   "Occasion"
-  ],
-  "pieces": [
-   {
-    "name": "Double-Breasted Wool Coat",
-    "brand": "Mango",
-    "color": "Grey",
-    "price": "£229.99",
-    "why": "A grey double-breasted wool coat worn open — the grey half, draped long over the dress.",
-    "img": "img/p24_coat.png",
-    "url": "https://shop.mango.com/gb/en/p/women/coats/coats/double-breasted-wool-coat/37086342/92/00"
-   },
-   {
-    "name": "Ruched-Side Knitted Dress",
-    "brand": "Mango",
-    "color": "Wine",
-    "price": "£49.99",
-    "why": "A wine ruched-side knitted midi dress — the plum anchor, fluid and quietly elegant.",
-    "img": "img/p24_dress.png",
-    "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/ruched-side-knitted-dress/37067786/77/00"
-   },
-   {
-    "name": "Crocodile-Effect Handbag",
-    "brand": "Mango",
-    "color": "Burgundy",
-    "price": "£35.99",
-    "why": "A burgundy croc-effect shoulder bag — the plum tone picked up in a glossy evening finish.",
-    "img": "img/p24_bag.png",
-    "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/crocodile-effect-handbag/37087794/78/00"
-   },
-   {
-    "name": "Patent Heeled Shoes",
-    "brand": "Mango",
-    "color": "Burgundy",
-    "price": "£39.99",
-    "why": "Burgundy patent slingback heels — a sharp, high-shine finish in the plum shade.",
-    "img": "img/p24_heels.png",
-    "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/patent-heeled-shoes/37065978/78/00"
-   }
-  ]
- }
+  {
+    "n": "TWS-P08",
+    "id": "p08",
+    "category": "Off-Duty Casual",
+    "sub": "The slow Saturday, off-duty and easy.",
+    "hero": "img/p08_model.png",
+    "note": "Off-duty ease that still reads expensive. A grey-melange funnel-neck half-zip over a crisp white raglan tee and straight-leg Levi's 501s, grounded by grey suede Gazelles, a black cashmere beanie and a roomy recycled-canvas Longchamp tote — relaxed shapes in a quiet grey, white and indigo palette. Made for the slow Saturday: the coffee run, the market, the long walk home.",
+    "occasions": [
+      "Weekend",
+      "Errands",
+      "Slow Saturday"
+    ],
+    "pieces": [
+      {
+        "name": "Funnel-Neck Half-Zip Knitted Jumper",
+        "brand": "COS",
+        "color": "Grey melange",
+        "price": "$99",
+        "why": "A grey-melange half-zip in a clean knit — the funnel neck frames the white tee underneath and adds a quiet sporty note.",
+        "img": "img/p08_halfzip.png",
+        "url": "https://www.cos.com/en-us/product/funnel-neck-half-zip-knitted-jumper-grey-mlange-1355373003"
+      },
+      {
+        "name": "Cotton Raglan-Sleeve T-Shirt",
+        "brand": "Mango",
+        "color": "White",
+        "price": "$25.99",
+        "why": "A clean white raglan tee layered under the knit — the easy base that lifts the whole look.",
+        "img": "img/p08_tee.png",
+        "url": "https://shop.mango.com/us/en/c/women/t-shirts_8e23bdfb"
+      },
+      {
+        "name": "501 Original Fit Jeans — mid blue",
+        "brand": "Levi's",
+        "price": "$98",
+        "why": "The original straight leg in a mid-blue wash — the one denim that never dates and works back to everything.",
+        "img": "img/p08_jeans.png",
+        "url": "https://www.levi.com/US/en_US/clothing/women/jeans/straight/501-original-fit-womens-jeans/p/125010555"
+      },
+      {
+        "name": "Gazelle — grey",
+        "brand": "adidas",
+        "price": "$110",
+        "why": "Grey suede with a gum sole — the quiet-luxury way to wear a trainer, dressing the whole look down.",
+        "img": "img/p08_gazelle.png",
+        "url": "https://www.adidas.com/us/gazelle-shoes/BB5480.html"
+      },
+      {
+        "name": "Le Pliage Original L Tote Bag — Recycled Canvas",
+        "brand": "Longchamp",
+        "color": "Black",
+        "price": "$175",
+        "why": "The featherweight recycled-canvas Le Pliage folds flat yet holds a whole Saturday — the everyday workhorse.",
+        "img": "img/p08_tote.png",
+        "url": "https://www.longchamp.com/us/en/products/tote-bag-l-L1899089001.html"
+      },
+      {
+        "name": "Pure Cashmere Beanie",
+        "brand": "COS",
+        "color": "Black",
+        "price": "$59",
+        "why": "A black cashmere beanie keeps it warm and quiet — the finishing layer for the slow Saturday.",
+        "img": "img/p08_beanie.png",
+        "url": "https://www.cos.com/en-us/women/accessories/hatsscarvesgloves/hats/product/pure-cashmere-beanie-black-1248054001"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P07",
+    "id": "p07",
+    "category": "9 to 5 Luxe",
+    "sub": "Camel & ink, desk to dinner.",
+    "hero": "img/p07_model.png",
+    "note": "A camel wool coat worn long over a gathered-side black knit dress — warm neutral against deep ink, the quietest kind of statement. The double-faced wool holds its line without lining bulk, while the jersey dress moves with you. Black ankle boots ground it for the commute and keep it sharp enough for dinner after. One palette, two textures, no effort showing.",
+    "occasions": [
+      "Office",
+      "Dinner",
+      "Autumn commute"
+    ],
+    "pieces": [
+      {
+        "name": "Camel Julia Wool Double-Faced Coat",
+        "brand": "Whistles",
+        "price": "$359",
+        "why": "Double-faced wool falls clean with no lining bulk — the piece that makes the whole outfit read expensive.",
+        "img": "img/p07_coat.png",
+        "url": "https://whistles.com/us/product/julia-wool-double-faced-coat-37221.html"
+      },
+      {
+        "name": "Black Gathered Side Midi Knit Dress",
+        "brand": "Whistles",
+        "price": "$159",
+        "why": "Gathered at the side to skim rather than cling; a soft jersey that travels desk to dinner.",
+        "img": "img/p07_dress.png",
+        "url": "https://www.whistles.com/row/product/213148.html"
+      },
+      {
+        "name": "Hedda Leather Ankle Boots — Black",
+        "brand": "Vagabond",
+        "price": "$210",
+        "why": "A walkable block heel in smooth leather — all-day comfort, evening-ready polish.",
+        "img": "img/p07_boots.png",
+        "url": "https://www.vagabond.com/us/hedda-5002-001-20/"
+      }
+    ]
+  },
+  {
+    "n": "01",
+    "id": "luxe",
+    "category": "9 to 5 Luxe",
+    "sub": "Quiet authority, from desk to dinner.",
+    "hero": "img/luxe_model.png",
+    "note": "Quiet authority, built on tailoring. A dark-brown twill blazer over pleated wide-leg trousers, finished with a structured leather tote and pointed flats — a considered, tonal uniform for days that run from the desk straight into the evening. Nothing loud; everything intentional.",
+    "occasions": [
+      "Office",
+      "Meetings",
+      "Desk to dinner"
+    ],
+    "pieces": [
+      {
+        "name": "Twill Single-Breasted Blazer",
+        "brand": "COS",
+        "price": "€179",
+        "why": "Crisp single-breasted cut in a matte twill — structure without stiffness.",
+        "img": "img/luxe_blazer_c.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/twill-single-breasted-blazer-dark-brown-1294894003"
+      },
+      {
+        "name": "Cotton-Twill Wide-Leg Turn-Up Trousers",
+        "brand": "COS",
+        "price": "€149",
+        "why": "Structured cotton twill holds a clean wide leg; the turn-up cuff keeps the beige tailored, not casual.",
+        "img": "img/luxe_trousers_c.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/cotton-twill-wide-leg-turn-up-trousers-beige-1340451002"
+      },
+      {
+        "name": "Classic Leather Tote",
+        "brand": "COS",
+        "price": "€249",
+        "why": "Holds a laptop and keeps its shape — the one bag that works all week.",
+        "img": "img/luxe_tote_c.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/totes/product/classic-tote-bag-leather-black-1294647001"
+      },
+      {
+        "name": "The Twisted Earrings — gold",
+        "brand": "COS",
+        "img": "img/luxe_earrings_c.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/the-twisted-earrings-gold-1281848001"
+      },
+      {
+        "name": "Oval-Buckle Slim Leather Belt",
+        "brand": "COS",
+        "img": "img/luxe_belt_c.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-slim-leather-belt-black-1288136001"
+      },
+      {
+        "name": "Pointed Leather Ballet Flats",
+        "brand": "COS",
+        "why": "Pointed toe lengthens the leg; flat enough for a full day on your feet.",
+        "img": "img/luxe_flats_c.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/balletpumps/product/pointed-leather-ballet-flats-black-1194860001"
+      }
+    ]
+  },
+  {
+    "n": "02",
+    "id": "offduty",
+    "category": "Off-Duty Casual",
+    "sub": "Ease that reads expensive.",
+    "hero": "img/offduty_model.png",
+    "note": "Ease that reads expensive. A pure-cashmere turtleneck with cropped wide-leg denim and leather loafers — relaxed and tactile, the kind of outfit that looks considered without trying. Add a silk scarf for the one detail that lifts it. Made for the weekend, errands, or a slow day working from home.",
+    "occasions": [
+      "Weekend",
+      "Errands",
+      "Work from home"
+    ],
+    "pieces": [
+      {
+        "name": "Pure Cashmere Turtleneck",
+        "brand": "COS",
+        "price": "€200",
+        "why": "Real cashmere drapes softly and keeps its shape wash after wash — a cost-per-wear buy.",
+        "img": "img/off_knit.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/cashmere/product/pure-cashmere-turtleneck-jumper-brown-1232653001"
+      },
+      {
+        "name": "Cropped Wide-Leg Denim",
+        "brand": "COS",
+        "price": "€89",
+        "why": "Cropped at the ankle to show the loafer; ecru keeps it softer than blue.",
+        "img": "img/off_jeans.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/cropped-wide-leg-denim-trousers-ecru-1313780003"
+      },
+      {
+        "name": "Classic Leather Loafers",
+        "brand": "COS",
+        "price": "€110",
+        "why": "The casual shoe that still looks grown-up — leather, not canvas.",
+        "img": "img/off_loafers.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
+      },
+      {
+        "name": "Mini Folded Crossbody Shopper",
+        "brand": "COS",
+        "img": "img/off_bag.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/leather/product/mini-folded-crossbody-shopper-leather-black-1216127001"
+      },
+      {
+        "name": "Stacked Mini Hoop Earrings — gold",
+        "brand": "COS",
+        "img": "img/off_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/stacked-mini-hoop-earrings-gold-1278006001"
+      },
+      {
+        "name": "Printed Silk Scarf",
+        "brand": "COS",
+        "price": "€99",
+        "why": "The one accessory that lifts a plain knit — tie it at the neck or the bag.",
+        "img": "img/off_scarf.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/hatsscarvesgloves/scarves/product/the-printed-silk-scarf-floral-1283915001"
+      }
+    ]
+  },
+  {
+    "n": "03",
+    "id": "studio",
+    "category": "Studio Noir",
+    "sub": "For the evening that starts after the meeting ends.",
+    "hero": "img/studio_model.png",
+    "note": "For the evening that starts after the meeting ends. A scoop-neck satin midi in black, strap-detail pumps and a compact clutch — minimal, polished and quietly sensual. The satin catches the light so the outfit needs nothing else. Dinner, a launch, or a date that deserves effort.",
+    "occasions": [
+      "Evening",
+      "Date night",
+      "Dinner"
+    ],
+    "pieces": [
+      {
+        "name": "Scoop-Neck Satin Midi Dress",
+        "brand": "COS",
+        "price": "€99",
+        "why": "Bias-cut satin that skims the body and catches the light — one piece, whole outfit.",
+        "img": "img/studio_dress_c.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/scoop-neck-satin-midi-dress-black-1329721002"
+      },
+      {
+        "name": "Strap-Detail Leather Pumps",
+        "brand": "COS",
+        "price": "€199",
+        "why": "An ankle strap steadies a heel you can actually wear through dinner.",
+        "img": "img/studio_heels_c.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
+      },
+      {
+        "name": "Envelope Clasp Pouch",
+        "brand": "COS",
+        "price": "€89",
+        "why": "Just enough for phone, card and keys — croc-effect leather reads luxe.",
+        "img": "img/studio_clutch_c.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
+      },
+      {
+        "name": "Mismatched Knotted Earrings",
+        "brand": "COS",
+        "price": "€25",
+        "why": "A little gold at the ear is all a satin dress needs.",
+        "img": "img/studio_ear_c.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mismatched-knotted-earrings-gold-1345022001"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P05",
+    "id": "p05",
+    "category": "Off-Duty Casual",
+    "sub": "Off-duty ease, in a tight neutral palette.",
+    "hero": "img/p05_model.png",
+    "note": "Ease that reads expensive, off-duty. A cream oversized wool jumper over mid-blue barrel-leg jeans, grounded by brown suede Sambas — relaxed proportions kept in a tight neutral palette. The slouchy knit balances the volume of the barrel leg, while the retro trainer keeps the whole thing young and easy. Made for the weekend, the coffee run, or a slow day off.",
+    "occasions": [
+      "Weekend",
+      "Errands",
+      "Coffee run"
+    ],
+    "pieces": [
+      {
+        "name": "Rounded Wool Crew-Neck Jumper — cream",
+        "brand": "COS",
+        "price": "€99",
+        "why": "Fine-gauge cream wool, oversized but never bulky — the soft hero of an easy off-duty look.",
+        "img": "img/p05_knit.png",
+        "url": "https://www.cos.com/en-eu/women/womenswear/knitwear/jumpers/product/rounded-wool-crew-neck-jumper-cream-1341893002"
+      },
+      {
+        "name": "Barrel-Leg Jeans — mid blue",
+        "brand": "& Other Stories",
+        "price": "€99",
+        "why": "The barrel leg is the one denim shape that looks current without trying; mid blue stays versatile.",
+        "img": "img/p05_jeans.png",
+        "url": "https://www.stories.com/en-nl/product/barrel-leg-jeans-mid-blue-1283788013/"
+      },
+      {
+        "name": "Samba OG — brown",
+        "brand": "adidas",
+        "why": "The quiet-luxury way to wear a trainer — brown suede and a gum sole dress the whole outfit down.",
+        "img": "img/p05_samba.png",
+        "url": "https://www.adidas.com/us/samba-og-shoes/ID1481.html"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P06",
+    "id": "p06",
+    "category": "Studio Noir",
+    "sub": "The evening, in a single column of black.",
+    "hero": "img/p06_model.png",
+    "note": "The evening, distilled to a single line. A sleeveless high-neck draped maxi falls in one fluid column of black, worn with pointed pumps and a soft gathered clutch — nothing competes with the silhouette. The draped jersey moves as you do and needs no jewellery to finish it. For dinner, a launch, or a night that asks for less, done better.",
+    "occasions": [
+      "Evening",
+      "Dinner",
+      "Occasion"
+    ],
+    "pieces": [
+      {
+        "name": "Draped Gathered Maxi Dress — black",
+        "brand": "COS",
+        "price": "€299",
+        "why": "One sleeveless column of draped jersey that skims and moves — the whole outfit in a single piece.",
+        "img": "img/p06_dress.png",
+        "url": "https://www.cos.com/en-eu/women/womenswear/dresses/longdresses/product/draped-gathered-maxi-dress-carbon-1346926001"
+      },
+      {
+        "name": "Strap-Detail Leather Pumps",
+        "brand": "COS",
+        "price": "€199",
+        "why": "A steady ankle-strap heel that turns the same skirt into an evening look.",
+        "img": "img/p06_pumps.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
+      },
+      {
+        "name": "Envelope Clasp Pouch",
+        "brand": "COS",
+        "price": "€89",
+        "why": "Croc-effect leather, just enough for phone, card and keys — the evening full stop.",
+        "img": "img/p06_clutch.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/envelope-clasp-pouch-croc-effect-leather-black-1363616002"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P09",
+    "id": "p09",
+    "category": "9 to 5 Luxe",
+    "sub": "Soft tailoring, grey on black.",
+    "hero": "img/p09_model.png",
+    "note": "Soft tailoring for the desk-to-dinner day. A grey-mélange cashmere funnel-neck cardigan, buttoned and worn relaxed, half-tucked into a black pleated tailored maxi skirt and cinched with a slim black leather belt so the waist reads sharp. Black leather loafers keep it walkable and a roomy black leather flap bag carries the day — quiet grey-and-black tailoring that looks expensive without trying.",
+    "occasions": [
+      "Workday",
+      "Desk to dinner",
+      "City"
+    ],
+    "pieces": [
+      {
+        "name": "Sculpted Pure Cashmere Funnel-Neck Cardigan",
+        "brand": "COS",
+        "color": "Grey mélange",
+        "price": "$299",
+        "why": "The soft anchor of the look — pure cashmere, a funnel neck and a button front you can wear open or closed. Relaxed enough to half-tuck.",
+        "img": "img/t1_cardigan.png",
+        "url": "https://www.cos.com/en-us/women/womenswear/knitwear/cardigans/cashmere/product/sculpted-cashmere-funnel-neck-cardigan-grey-mlange-1341210001"
+      },
+      {
+        "name": "Pleated Tailored Maxi Skirt",
+        "brand": "COS",
+        "color": "Black",
+        "price": "$159",
+        "why": "A clean black maxi with soft front pleats and a centre slit — tailored enough for work, long enough to feel considered.",
+        "img": "img/t1_skirt.png",
+        "url": "https://www.cos.com/en-us/women/womenswear/skirts/maxiskirts/product/pleated-tailored-maxi-skirt-black-1350866001"
+      },
+      {
+        "name": "Square-Buckle Leather Belt",
+        "brand": "COS",
+        "color": "Black / Silver",
+        "price": "$55",
+        "why": "A slim black leather belt with a square silver buckle — it cinches the cardigan to the waist and sharpens the whole line.",
+        "img": "img/t1_belt.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/belts/product/square-buckle-leather-belt-black-silver-1365207002"
+      },
+      {
+        "name": "Trullo Oversized Flap Bag",
+        "brand": "COS",
+        "color": "Black",
+        "price": "$350",
+        "why": "A roomy soft-leather flap bag that carries the day — structured enough for the office, easy on the shoulder.",
+        "img": "img/t1_bag.png",
+        "url": "https://www.cos.com/en-us/women/accessories/bags/handbags/product/trullo-oversized-flap-bag-leather-black-1361103001"
+      },
+      {
+        "name": "Classic Leather Loafers",
+        "brand": "COS",
+        "color": "Black",
+        "price": "$190",
+        "why": "Clean black leather loafers — the quiet shoe that keeps a maxi grounded and easy to walk in.",
+        "img": "img/sn_loafers.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P10",
+    "id": "p10",
+    "category": "9 to 5 Luxe",
+    "sub": "Herringbone, layered in grey.",
+    "hero": "img/p10_model.png",
+    "note": "Tonal grey, layered and easy. A grey marl short-sleeve knit over a crisp off-white shirt — collar and cuffs left out — tucked into high-waisted herringbone wool suit trousers and belted in chocolate suede. Black penny loafers and a soft black shoulder bag keep it grounded. Smart texture-on-texture that carries from the desk onward.",
+    "occasions": [
+      "Workday",
+      "Desk to dinner",
+      "City"
+    ],
+    "pieces": [
+      {
+        "name": "Short-Sleeve Marl Jumper",
+        "brand": "Mango",
+        "color": "Medium Heather Grey",
+        "price": "$69.99",
+        "why": "A short-sleeve marl knit in heather grey — soft texture that layers cleanly over a shirt for the half-sleeve look.",
+        "img": "img/t2_jumper.png",
+        "url": "https://shop.mango.com/us/en/p/women/sweaters-and-cardigans/sweaters/short-sleeve-marl-jumper/37007811/94/00"
+      },
+      {
+        "name": "Straight Lyocell Shirt",
+        "brand": "Mango",
+        "color": "Off White",
+        "price": "$69.99",
+        "why": "The crisp base layer — a straight lyocell shirt worn under the knit so the collar and cuffs read sharp.",
+        "img": "img/t2_shirt.png",
+        "url": "https://shop.mango.com/us/en/p/women/shirts---blouses/long-sleeve/straight-lyocell-shirt/37024070/02/00"
+      },
+      {
+        "name": "Herringbone Wool Suit Trousers",
+        "brand": "Mango",
+        "color": "Medium Heather Grey",
+        "price": "$99.99",
+        "why": "High-waisted herringbone wool with a straight, slightly flared leg — tailored enough to anchor the whole look.",
+        "img": "img/t2_trousers.png",
+        "url": "https://shop.mango.com/us/en/p/women/trousers/smart/herringbone-wool-suit-trousers/37078287/94/00"
+      },
+      {
+        "name": "Buckle Leather Belt",
+        "brand": "Mango",
+        "color": "Chocolate",
+        "price": "$59.99",
+        "why": "A chocolate suede belt with a warm gold buckle — the one hit of brown that lifts all the grey.",
+        "img": "img/t2_belt.png",
+        "url": "https://shop.mango.com/us/en/p/women/belts/basics/buckle-leather-belt/37034422/32/00"
+      },
+      {
+        "name": "Leather Penny Loafers",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "$129.99",
+        "why": "Classic black penny loafers — the quiet shoe that keeps tailored trousers easy to walk in.",
+        "img": "img/t2_loafers.png",
+        "url": "https://shop.mango.com/us/en/p/women/shoes/flat-shoes/leather-penny-loafers/47011342/99/00"
+      },
+      {
+        "name": "Recycled Leather Handbag",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "$99.99",
+        "why": "A soft black shoulder bag in recycled leather — roomy, unstructured, easy on the shoulder.",
+        "img": "img/t2_bag.png",
+        "url": "https://shop.mango.com/us/en/p/women/bags/crossbody/recycled-leather-handbag/47011360/99/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P11",
+    "id": "p11",
+    "category": "Off-Duty Casual",
+    "sub": "Check, knit and navy.",
+    "hero": "img/p11_model.png",
+    "note": "Autumn layering, done the easy way. A navy fine-knit boat-neck over a navy gingham shirt, a soft diamond neckscarf at the throat, and a tobacco houndstooth blazer thrown over the top. A chocolate suede belt pulls it into dark straight jeans; pointed ankle boots and a slouchy navy suede tote finish it — texture and check, kept to navy and brown.",
+    "occasions": [
+      "Weekend",
+      "Coffee run",
+      "City"
+    ],
+    "pieces": [
+      {
+        "name": "Check-Print Jacket",
+        "brand": "Mango",
+        "color": "Tobacco Brown",
+        "price": "£99.99",
+        "why": "The tobacco houndstooth blazer that makes the whole thing look considered — thrown open over the knit.",
+        "img": "img/t3_blazer.png",
+        "url": "https://shop.mango.com/gb/en/p/women/blazers/check-print-jacket/37045865/31/00"
+      },
+      {
+        "name": "Fine-Knit Boat-Neck Sweater",
+        "brand": "Mango",
+        "color": "Navy",
+        "price": "£22.99",
+        "why": "A clean navy boat-neck — the quiet middle layer that lets the shirt collar and scarf do the talking.",
+        "img": "img/t3_sweater.png",
+        "url": "https://shop.mango.com/gb/en/p/women/sweaters-and-cardigans/plus-sizes/fine-knit-boat-neck-sweater/37024077/56/00"
+      },
+      {
+        "name": "Fitted Check Shirt",
+        "brand": "Mango",
+        "color": "Navy",
+        "price": "£25.99",
+        "why": "A navy gingham shirt worn under the knit so the collar and cuffs peek out — the detail that lifts the layering.",
+        "img": "img/t3_checkshirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shirts---blouses/long-sleeve/fitted-check-shirt/37045989/56/00"
+      },
+      {
+        "name": "Diamond-Patterned Triangular Scarf",
+        "brand": "Mango",
+        "color": "Dark Heather Grey",
+        "price": "£17.99",
+        "why": "A soft diamond-check neckscarf tied at the throat — the warm, old-money finishing touch.",
+        "img": "img/t3_scarf.png",
+        "url": "https://shop.mango.com/gb/en/p/women/scarfs-and-foulards/neckscarves/diamond-patterned-triangular-scarf/37087914/96/00"
+      },
+      {
+        "name": "Mid-Rise Straight Jeans",
+        "brand": "Mango",
+        "color": "Dark Navy",
+        "price": "£39.99",
+        "why": "Dark straight-leg denim — grounds all the check and knit without fuss.",
+        "img": "img/t3_jeans.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jeans/plus-sizes/mid-rise-straight-jeans/37034114/TO/00"
+      },
+      {
+        "name": "Buckle Leather Belt",
+        "brand": "Mango",
+        "color": "Chocolate",
+        "price": "£29.99",
+        "why": "The chocolate suede belt again — one warm brown note that ties the jeans to the blazer.",
+        "img": "img/t3_belt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/belts/basics/buckle-leather-belt/37034422/32/00"
+      },
+      {
+        "name": "Pointed Heel Ankle Boot",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£59.99",
+        "why": "Dark brown pointed ankle boots on a low block heel — sharp enough to lift straight jeans.",
+        "img": "img/t3_boots.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/pointed-heel-ankle-boot/37025986/32/00"
+      },
+      {
+        "name": "Suede Leather Shopper Bag",
+        "brand": "Mango",
+        "color": "Navy",
+        "price": "£55.99",
+        "why": "A slouchy navy suede shopper — roomy, soft, and tonal with the knit.",
+        "img": "img/t3_tote.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/leather-bags/suede-leather-shopper-bag/37072917/56/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P12",
+    "id": "p12",
+    "category": "Off-Duty Casual",
+    "sub": "Knit dress, tall boots.",
+    "hero": "img/p12_model.png",
+    "note": "Knit-dress ease with a preppy edge. A navy funnel-neck knit dress buttoned at the throat, worn over a navy gingham shirt so the collar and cuffs peek out, finished with tall black leather boots and a croc-effect tote. One cold-weather outfit, barely any effort.",
+    "occasions": [
+      "Weekend",
+      "City",
+      "Coffee run"
+    ],
+    "pieces": [
+      {
+        "name": "Short Knitted Dress",
+        "brand": "Mango",
+        "color": "Navy",
+        "price": "£35.99",
+        "why": "A navy funnel-neck knit mini with a button placket — cosy, easy, and does most of the work on its own.",
+        "img": "img/t4_dress.png",
+        "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/short-knitted-dress/37097796/56/00"
+      },
+      {
+        "name": "Fitted Check Shirt",
+        "brand": "Mango",
+        "color": "Navy",
+        "price": "£25.99",
+        "why": "The navy gingham shirt layered underneath — collar at the neck, cuffs at the wrists, the preppy detail that lifts a knit dress.",
+        "img": "img/t4_checkshirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shirts---blouses/long-sleeve/fitted-check-shirt/37045989/56/00"
+      },
+      {
+        "name": "Leather High Boots",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£169.99",
+        "why": "Tall black leather riding boots — the piece that makes a casual knit dress look deliberate.",
+        "img": "img/t4_boots.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/leather-high-boots/37045990/99/00"
+      },
+      {
+        "name": "Coconut-Effect Shoulder Bag",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£39.99",
+        "why": "A black croc / coconut-effect shoulder tote — structured texture against the soft knit.",
+        "img": "img/t4_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/shoppers/coconut-effect-shoulder-bag/37067791/99/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P13",
+    "id": "p13",
+    "category": "Studio Noir",
+    "sub": "All black, leather and shearling.",
+    "hero": "img/p13_model.png",
+    "note": "Black on black, the quiet-luxury way. A funnel-neck cocoon mini dress under a reversible shearling-and-leather coat worn open, leather side out, so the dress shows. Sheer tights, angular heeled loafers and an oversized leather tote keep it sharp. Studio Noir at its most considered.",
+    "occasions": [
+      "Evening",
+      "City",
+      "Dinner"
+    ],
+    "pieces": [
+      {
+        "name": "Reversible Shearling Leather Coat",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€790",
+        "why": "The statement layer — a reversible shearling-and-leather coat worn open, leather side out, to frame the all-black look. (Price to confirm.)",
+        "img": "img/t5_coat.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/coats"
+      },
+      {
+        "name": "Funnel-Neck Cocoon Mini Dress",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€129",
+        "why": "A soft funnel-neck cocoon mini — clean and architectural, the quiet base of the look.",
+        "img": "img/t5_dress.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/dresses/minidresses/product/funnel-neck-cocoon-mini-dress-black-1327390001"
+      },
+      {
+        "name": "Angular Leather Heeled Loafers",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€149",
+        "why": "Angular pointed heeled loafers — the sharp line that lifts the whole thing off the ground.",
+        "img": "img/t5_loafers.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/angular-leather-heeled-loafers-black-1349990001"
+      },
+      {
+        "name": "Journe Oversized Tote Bag",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€299",
+        "why": "The Journe oversized leather tote — roomy, structured, carries the day in one clean shape.",
+        "img": "img/t5_tote.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/oversizedbags/product/journe-oversized-tote-bag-leather-black-1349963001"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P14",
+    "id": "p14",
+    "category": "9 to 5 Luxe",
+    "sub": "Belted knit, checked blazer.",
+    "hero": "img/p14_model.png",
+    "note": "Old-money layering for a working day. A cream fine-knit ruched dress belted at the waist in burgundy leather, with a grey checked double-breasted blazer thrown over and croc-effect knee boots. A faux-leather bucket bag keeps it easy — quiet, tonal, desk-to-dinner.",
+    "occasions": [
+      "Workday",
+      "Desk to dinner",
+      "City"
+    ],
+    "pieces": [
+      {
+        "name": "Fine-Knit Ruched Dress",
+        "brand": "Mango",
+        "color": "Cream",
+        "price": "£32.99",
+        "why": "A cream fine-knit dress ruched down the front with a soft flared skirt — the quiet base that takes a belt and a blazer beautifully.",
+        "img": "img/t6_dress.png",
+        "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/fine-knit-ruched-dress/37074078/07/00"
+      },
+      {
+        "name": "Double-Breasted Wool Suit Blazer",
+        "brand": "Mango",
+        "color": "Grey check",
+        "price": "£99.99",
+        "why": "A grey checked double-breasted wool blazer worn open — the tailored layer that makes the knit dress read sharp.",
+        "img": "img/t6_blazer.png",
+        "url": "https://shop.mango.com/gb/en/p/women/blazers/fitted/double-breasted-wool-suit-blazer/37018289/35/00"
+      },
+      {
+        "name": "100% Bovine Leather Belt",
+        "brand": "Mango",
+        "color": "Burgundy",
+        "price": "£35.99",
+        "why": "A burgundy leather belt with a gold buckle, cinched at the waist over the dress — the one warm detail that pulls it together.",
+        "img": "img/t6_belt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/belts/leather/100-bovine-leather-belt/37022908/78/00"
+      },
+      {
+        "name": "Coco-Effect Heeled Boots",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£79.99",
+        "why": "Brown croc-effect knee-high heeled boots — the polished shoe that lifts a midi hem.",
+        "img": "img/t6_boots.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/coco-effect-heeled-boots/47061336/32/00"
+      },
+      {
+        "name": "Faux-Leather Bucket Handbag",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£29.99",
+        "why": "A compact brown bucket bag — soft, tonal, and easy to carry at the side.",
+        "img": "img/t6_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/faux-leather-bucket-handbag/37083316/32/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P15",
+    "id": "p15",
+    "category": "Off-Duty Casual",
+    "sub": "Knit dress, scarf and suede.",
+    "hero": "img/p15_model.png",
+    "note": "Autumn knit, tied and scarfed. An olive knit tie-detail dress with a soft asymmetric hem, a brown houndstooth blazer thrown over, a paisley scarf knotted at the neck and a slouchy suede drawstring bag. Buckled suede knee boots ground it — easy, warm, and quietly put-together.",
+    "occasions": [
+      "Weekend",
+      "City",
+      "Coffee run"
+    ],
+    "pieces": [
+      {
+        "name": "Knitted Dress with Tie Detail",
+        "brand": "Mango",
+        "color": "Olive",
+        "price": "£49.99",
+        "why": "An olive fine-knit dress with a tie knot at the waist and a soft asymmetric hem — one easy piece that already looks styled.",
+        "img": "img/t7_dress.png",
+        "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/knitted-dress-with-tie-detail/37075880/35/00"
+      },
+      {
+        "name": "Check-Print Jacket",
+        "brand": "Mango",
+        "color": "Tobacco Brown",
+        "price": "£99.99",
+        "why": "The brown houndstooth blazer worn open — the tailored layer that makes a knit dress read considered.",
+        "img": "img/t7_blazer.png",
+        "url": "https://shop.mango.com/gb/en/p/women/blazers/check-print-jacket/37045865/31/00"
+      },
+      {
+        "name": "Paisley Print Scarf",
+        "brand": "Mango",
+        "color": "Navy / Brown",
+        "price": "£12.99",
+        "why": "A paisley silk scarf knotted at the neck — the old-money detail that lifts the whole look.",
+        "img": "img/t7_scarf.png",
+        "url": "https://shop.mango.com/gb/en/p/women/scarfs-and-foulards/neckscarves/paisley-print-scarf/37044413/76/00"
+      },
+      {
+        "name": "Suede Drawstring Bag",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£109.99",
+        "why": "A slouchy brown suede drawstring bag — soft, roomy, and tonal with the boots.",
+        "img": "img/t7_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/shoppers/suede-drawstring-bag/37067132/32/00"
+      },
+      {
+        "name": "Buckled Suede Boots",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£109.99",
+        "why": "Brown buckled suede knee boots — the riding-boot shape that grounds a midi hem.",
+        "img": "img/t7_boots.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/bukled-suede-boots/47041337/09/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P16",
+    "id": "p16",
+    "category": "9 to 5 Luxe",
+    "sub": "The navy suit, softened.",
+    "hero": "img/p16_model.png",
+    "note": "The navy suit, softened. A midnight wool blazer and straight-leg trousers over a grey cashmere funnel-neck cardigan — tailoring with a knit underneath so it never reads stiff. Black slingback kitten heels and a glossy leather tote finish it. Quiet authority, head to toe.",
+    "occasions": [
+      "Workday",
+      "Desk to dinner",
+      "Meetings"
+    ],
+    "pieces": [
+      {
+        "name": "Single-Breasted Wool Blazer",
+        "brand": "COS",
+        "color": "Midnight",
+        "price": "€299",
+        "why": "A clean midnight-navy wool blazer — the tailored anchor of the suit, sharp enough to carry the whole look.",
+        "img": "img/t8_blazer.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/single-breasted-wool-blazer-midnight-1356813001"
+      },
+      {
+        "name": "Tailored Wool Straight-Leg Trousers",
+        "brand": "COS",
+        "color": "Midnight",
+        "price": "€149",
+        "why": "Matching midnight straight-leg wool trousers — a full suit that reads considered, never corporate.",
+        "img": "img/t8_trousers.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/suitsandtailoring/tailoredtrousers/product/tailored-wool-straight-leg-trousers-midnight-1372846001"
+      },
+      {
+        "name": "Sculpted Pure Cashmere Funnel-Neck Cardigan",
+        "brand": "COS",
+        "color": "Grey mélange",
+        "price": "€199",
+        "why": "The grey cashmere funnel-neck layered under the blazer, collar up — softens the tailoring and adds warmth.",
+        "img": "img/t8_cardigan.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/cardigans/cashmere/product/sculpted-cashmere-funnel-neck-cardigan-grey-mlange-1341210001"
+      },
+      {
+        "name": "Pavilion Tote Bag",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€249",
+        "why": "A glossy crinkled-leather tote — roomy, soft, the one shine against all the matte wool.",
+        "img": "img/t8_tote.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/totebags/product/pavilion-tote-bag-leather-black-1349966001"
+      },
+      {
+        "name": "Pointed Leather Slingback Kitten Heels",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€129",
+        "why": "Black pointed slingback kitten heels — a low, sharp heel that lengthens the trouser line.",
+        "img": "img/t8_heels.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/pointed-leather-slingback-kitten-heels-black-1357160001"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P17",
+    "id": "p17",
+    "category": "Studio Noir",
+    "sub": "Evening, in grey and black.",
+    "hero": "img/p17_model.png",
+    "note": "Evening, done in grey and black. A black belt-detail wool midi dress under a grey double-breasted tailored coat worn open, with sheer tights and pointed slingback heels. A slim eel-effect clutch is the only shine — quiet, cold-weather elegance for the dinner after the day.",
+    "occasions": [
+      "Evening",
+      "Dinner",
+      "City"
+    ],
+    "pieces": [
+      {
+        "name": "Belt-Detail Double-Faced Wool Midi Dress",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€149",
+        "why": "A clean black wool midi with a wrap skirt and a small leather buckle at the hip — architectural and easy, the base of the look.",
+        "img": "img/t9_dress.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/belt-detail-double-faced-wool-midi-dress-black-1346337001"
+      },
+      {
+        "name": "Tailored Wool-Blend Double-Breasted Coat",
+        "brand": "COS",
+        "color": "Grey",
+        "price": "€299",
+        "why": "A long grey double-breasted wool coat worn open — the tailored topper that frames the black dress.",
+        "img": "img/t9_coat.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/coats/product/wool-twill-tailored-coat-grey-1350604001"
+      },
+      {
+        "name": "Parquet Clutch Bag",
+        "brand": "COS",
+        "color": "Black eel-effect",
+        "price": "€119",
+        "why": "A slim eel-effect leather clutch — the one glossy, evening note against all the matte wool.",
+        "img": "img/t9_clutch.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/parquet-clutch-bag-eel-effect-leather-black-eel-effect-1343471001"
+      },
+      {
+        "name": "Pointed Leather Slingback Kitten Heels",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€129",
+        "why": "Black pointed slingback kitten heels — a low, sharp heel that keeps an evening look walkable.",
+        "img": "img/t9_heels.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/pointed-leather-slingback-kitten-heels-black-1357160001"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P18",
+    "id": "p18",
+    "category": "Studio Noir",
+    "sub": "All black, with a shimmer of fringe.",
+    "hero": "img/p18_model.png",
+    "note": "The party look, done the quiet-luxury way. A fringed black mini dress that moves, worn over sheer black tights with pointed slingback heels and a slim eel-effect clutch. Silver hoops are the only brightness. All black, all texture — evening dressing without a single loud note.",
+    "occasions": [
+      "Evening",
+      "Party",
+      "Date Night"
+    ],
+    "pieces": [
+      {
+        "name": "Fringed Mini Dress",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€99",
+        "why": "A sleeveless scoop-neck mini covered in soft black fringe — the whole look in one piece, built to move.",
+        "img": "img/t10_dress.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/dresses/minidresses/product/fringed-mini-dress-black-1345295001"
+      },
+      {
+        "name": "Mini Chunky Hoop Earrings",
+        "brand": "COS",
+        "color": "Silver",
+        "price": "€29",
+        "why": "Small chunky silver hoops — the one bright, metallic note against all the black.",
+        "img": "img/t10_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-silver-1369780002"
+      },
+      {
+        "name": "Parquet Clutch Bag",
+        "brand": "COS",
+        "color": "Black eel-effect",
+        "price": "€119",
+        "why": "A slim eel-effect leather clutch, held against the body — the quiet, glossy evening bag.",
+        "img": "img/t10_clutch.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/parquet-clutch-bag-eel-effect-leather-black-eel-effect-1343471001"
+      },
+      {
+        "name": "Pointed Leather Slingback Kitten Heels",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€129",
+        "why": "Black pointed slingback kitten heels — a low, sharp heel that keeps a party look easy to walk in.",
+        "img": "img/t10_heels.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/pointed-leather-slingback-kitten-heels-black-1357160001"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P19",
+    "id": "p19",
+    "category": "9 to 5 Luxe",
+    "sub": "Chocolate & cream, softly tailored.",
+    "hero": "img/p19_model.png",
+    "note": "Warm tailoring without the stiffness. A dark-brown single-breasted twill blazer over a cream wool crew-neck, with high-waisted grey herringbone flared trousers, black loafers and a brown suede drawstring bag. Chocolate and cream is the quiet-luxury way to wear brown to work — rich, soft, and easy to repeat.",
+    "occasions": [
+      "Workday",
+      "Desk to dinner",
+      "Autumn tailoring"
+    ],
+    "pieces": [
+      {
+        "name": "Twill Single-Breasted Blazer",
+        "brand": "COS",
+        "color": "Dark brown",
+        "why": "A dark-brown twill single-breasted blazer — the chocolate anchor of the look, clean and softly tailored.",
+        "img": "img/p19_blazer.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/twill-single-breasted-blazer-dark-brown-1294894003",
+        "price": "€179"
+      },
+      {
+        "name": "Rounded Wool Crew-Neck Jumper — cream",
+        "brand": "COS",
+        "price": "€99",
+        "why": "Fine-gauge cream wool, oversized but never bulky — the soft hero of an easy off-duty look.",
+        "img": "img/p19_jumper.png",
+        "url": "https://www.cos.com/en-eu/women/womenswear/knitwear/jumpers/product/rounded-wool-crew-neck-jumper-cream-1341893002"
+      },
+      {
+        "name": "Herringbone Wool Suit Trousers",
+        "brand": "Mango",
+        "color": "Medium Heather Grey",
+        "price": "$99.99",
+        "why": "High-waisted herringbone wool with a straight, slightly flared leg — tailored enough to anchor the whole look.",
+        "img": "img/p19_trousers.png",
+        "url": "https://shop.mango.com/us/en/p/women/trousers/smart/herringbone-wool-suit-trousers/37078287/94/00"
+      },
+      {
+        "name": "Classic Leather Loafers",
+        "brand": "COS",
+        "color": "Black",
+        "price": "$190",
+        "why": "Clean black leather loafers — the quiet shoe that keeps a maxi grounded and easy to walk in.",
+        "img": "img/p19_loafers.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/loafers/product/classic-leather-loafers-black-1306037001"
+      },
+      {
+        "name": "Suede Drawstring Bag",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£109.99",
+        "why": "A slouchy brown suede drawstring bag — soft, roomy, and tonal with the boots.",
+        "img": "img/p19_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/shoppers/suede-drawstring-bag/37067132/32/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P20",
+    "id": "p20",
+    "category": "Studio Noir",
+    "sub": "Plum knit, under grey wool.",
+    "hero": "img/p20_model.png",
+    "note": "A quietly elegant autumn pairing. A plum ribbed-knit midi dress that skims the body, worn under an open grey double-breasted wool coat, with black leather knee boots and a small black clutch. Plum and grey reads richer than black — soft colour for the evening that starts after the meeting ends.",
+    "occasions": [
+      "Evening",
+      "Dinner",
+      "Autumn colour"
+    ],
+    "pieces": [
+      {
+        "name": "Knitted Midi Bodycon Dress",
+        "brand": "COS",
+        "color": "Purple",
+        "price": "$139",
+        "why": "A fine ribbed-knit midi in a deep plum — the colour that carries the look, cut close and easy to move in.",
+        "img": "img/p20_dress.png",
+        "url": "https://www.cos.com/en-us/women/womenswear/dresses/mididresses/product/knitted-midi-bodycon-dress-purple-1361692001"
+      },
+      {
+        "name": "Tailored Wool-Blend Double-Breasted Coat",
+        "brand": "COS",
+        "color": "Grey",
+        "price": "€299",
+        "why": "A long grey double-breasted wool coat worn open — the tailored topper that frames the black dress.",
+        "img": "img/t9_coat.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/coats/product/wool-twill-tailored-coat-grey-1350604001"
+      },
+      {
+        "name": "Leather High Boots",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£169.99",
+        "why": "Tall black leather riding boots — the piece that makes a casual knit dress look deliberate.",
+        "img": "img/t4_boots.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/leather-high-boots/37045990/99/00"
+      },
+      {
+        "name": "Parquet Clutch Bag",
+        "brand": "COS",
+        "color": "Black eel-effect",
+        "price": "€119",
+        "why": "A slim eel-effect leather clutch — the one glossy, evening note against all the matte wool.",
+        "img": "img/t9_clutch.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/parquet-clutch-bag-eel-effect-leather-black-eel-effect-1343471001"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P22",
+    "id": "p22",
+    "category": "9 to 5 Luxe",
+    "sub": "Grey knit, plum leather.",
+    "hero": "img/p22_model.png",
+    "note": "Grey knit meets plum leather. A light-grey funnel-neck knit cape belted at the waist over a burgundy leather-look midi skirt, with a speckled grey wool blazer slung over the shoulders. Pointed kitten-heel slingbacks finish it. Soft tailoring in two quiet tones.",
+    "occasions": [
+      "Workday",
+      "Desk to dinner",
+      "Meetings"
+    ],
+    "pieces": [
+      {
+        "name": "Speckled Wool Suit Jacket",
+        "brand": "Mango",
+        "color": "Medium Heather Grey",
+        "price": "£99.99",
+        "why": "A speckled grey wool blazer worn cape-style over the shoulders — the tailored grey half of the pairing.",
+        "img": "img/p22_blazer.png",
+        "url": "https://shop.mango.com/gb/en/p/women/blazers/fitted/speckled-wool-suit-jacket/37088287/94/00"
+      },
+      {
+        "name": "Plain Knit Cape",
+        "brand": "Mango",
+        "color": "Light Heather Grey",
+        "price": "£45.99",
+        "why": "A chunky light-grey funnel-neck knit cape — the cosy top layer, belted to give it shape.",
+        "img": "img/p22_cape.png",
+        "url": "https://shop.mango.com/gb/en/p/women/sweaters-and-cardigans/sweaters/plain-knit-cape/37077789/91/00"
+      },
+      {
+        "name": "Straight Leather-Look Skirt",
+        "brand": "Mango",
+        "color": "Burgundy",
+        "price": "£35.99",
+        "why": "A burgundy leather-look straight midi skirt — the plum anchor, rich against all the grey.",
+        "img": "img/p22_skirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/skirts/midi/straight-leather-look-skirt/37025989/78/00"
+      },
+      {
+        "name": "100% Bovine Leather Belt",
+        "brand": "Mango",
+        "color": "Burgundy",
+        "price": "£35.99",
+        "why": "A slim burgundy leather belt cinching the knit at the waist — ties the plum through the top half.",
+        "img": "img/p22_belt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/belts/leather/100-bovine-leather-belt/37022908/78/00"
+      },
+      {
+        "name": "Kitten Heel Pointed Toe Shoe",
+        "brand": "Mango",
+        "color": "Chocolate",
+        "price": "£39.99",
+        "why": "Dark burgundy pointed kitten-heel slingbacks — a low, elegant finish in the plum tone.",
+        "img": "img/p22_heels.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/kitten-heel-pointed-toe-shoe/37084429/32/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P23",
+    "id": "p23",
+    "category": "Off-Duty Casual",
+    "sub": "Plum parka, grey flare.",
+    "hero": "img/p23_model.png",
+    "note": "A plum parka over a grey flare. A maroon cotton parka with a contrasting collar, worn open over a burgundy ribbed turtleneck and a grey marl flared midi skirt. Burgundy socks and black penny loafers keep it easy. Off-duty, in plum and grey.",
+    "occasions": [
+      "Weekend",
+      "Errands",
+      "Casual"
+    ],
+    "pieces": [
+      {
+        "name": "Parka with Contrasting Collar",
+        "brand": "Mango",
+        "color": "Maroon",
+        "price": "£139.99",
+        "why": "A maroon cotton parka with a contrasting collar — the plum outer layer, relaxed and worn open.",
+        "img": "img/p23_parka.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jackets/denim/parka-with-contrasting-collar/37068265/76/00"
+      },
+      {
+        "name": "Turtleneck T-shirt",
+        "brand": "Mango",
+        "color": "Burgundy",
+        "price": "£17.99",
+        "why": "A fine burgundy ribbed turtleneck — the plum base layer under the parka.",
+        "img": "img/p23_turtleneck.png",
+        "url": "https://shop.mango.com/gb/en/p/women/t-shirts/basics/turtleneck-t-shirt/37097782/78/00"
+      },
+      {
+        "name": "Flared Midi-Skirt",
+        "brand": "Mango",
+        "color": "Grey",
+        "price": "£69.99",
+        "why": "A grey marl flared wool midi skirt — the grey half, with easy weekend movement.",
+        "img": "img/p23_skirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/skirts/midi/flared-midi-skirt/37068640/99/00"
+      },
+      {
+        "name": "Ribbed Wool-Blend Socks",
+        "brand": "Mango",
+        "color": "Burgundy",
+        "price": "£12.99",
+        "why": "Burgundy ribbed socks peeking over the loafers — a small plum detail that carries the colour down.",
+        "img": "img/p23_socks.png",
+        "url": "https://shop.mango.com/gb/en/p/women/other-accessories/socks/ribbed-wool-blend-socks/47091381/78/00"
+      },
+      {
+        "name": "Leather Penny Loafers",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£79.99",
+        "why": "Black leather penny loafers — the grounding neutral that keeps the look off-duty.",
+        "img": "img/p23_loafers.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/flat-shoes/leather-penny-loafers/47011342/99/00"
+      },
+      {
+        "name": "Buckle Crossbody Bag",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£39.99",
+        "why": "A small black pebbled-leather crossbody — hands-free and quiet, worn across the body.",
+        "img": "img/p23_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/buckle-crossbody-bag/37034461/99/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P24",
+    "id": "p24",
+    "category": "Studio Noir",
+    "sub": "Plum knit, grey coat.",
+    "hero": "img/p24_model.png",
+    "note": "A plum knit under a grey coat. A wine ruched-side knitted midi dress, layered under an open grey double-breasted wool coat, with a burgundy croc shoulder bag and patent slingback heels. Evening, in plum and grey.",
+    "occasions": [
+      "Evening",
+      "Dinner",
+      "Occasion"
+    ],
+    "pieces": [
+      {
+        "name": "Double-Breasted Wool Coat",
+        "brand": "Mango",
+        "color": "Grey",
+        "price": "£229.99",
+        "why": "A grey double-breasted wool coat worn open — the grey half, draped long over the dress.",
+        "img": "img/p24_coat.png",
+        "url": "https://shop.mango.com/gb/en/p/women/coats/coats/double-breasted-wool-coat/37086342/92/00"
+      },
+      {
+        "name": "Ruched-Side Knitted Dress",
+        "brand": "Mango",
+        "color": "Wine",
+        "price": "£49.99",
+        "why": "A wine ruched-side knitted midi dress — the plum anchor, fluid and quietly elegant.",
+        "img": "img/p24_dress.png",
+        "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/ruched-side-knitted-dress/37067786/77/00"
+      },
+      {
+        "name": "Crocodile-Effect Handbag",
+        "brand": "Mango",
+        "color": "Burgundy",
+        "price": "£35.99",
+        "why": "A burgundy croc-effect shoulder bag — the plum tone picked up in a glossy evening finish.",
+        "img": "img/p24_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/crocodile-effect-handbag/37087794/78/00"
+      },
+      {
+        "name": "Patent Heeled Shoes",
+        "brand": "Mango",
+        "color": "Burgundy",
+        "price": "£39.99",
+        "why": "Burgundy patent slingback heels — a sharp, high-shine finish in the plum shade.",
+        "img": "img/p24_heels.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/patent-heeled-shoes/37065978/78/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P25",
+    "id": "p25",
+    "category": "9 to 5 Luxe",
+    "sub": "Check & cream, softly belted.",
+    "hero": "img/p25_model.png",
+    "note": "A brown houndstooth check jacket worn open over a clean cream A-line midi dress, pulled in at the waist with a slim suede belt. Tall brown suede boots and a small burgundy croc crossbody warm it up. One check jacket and a belt turn an easy cream dress into quiet-luxury workwear — desk to dinner.",
+    "occasions": [
+      "Workday",
+      "Desk to dinner",
+      "Autumn tailoring"
+    ],
+    "pieces": [
+      {
+        "name": "A-Line Dress with Seam Detail",
+        "brand": "Mango",
+        "color": "Off-white",
+        "price": "£39.99",
+        "why": "A clean cream A-line midi with a subtle seam — plain, smooth and the soft base the whole look builds on.",
+        "img": "img/p25_dress.png",
+        "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/a-line-dress-with-seam-detail/37002895/05/00"
+      },
+      {
+        "name": "Check-Print Jacket",
+        "brand": "Mango",
+        "color": "Brown check",
+        "price": "£99.99",
+        "why": "A brown houndstooth double-breasted jacket — the warm, structured layer that makes the dress read as workwear.",
+        "img": "img/p25_blazer.png",
+        "url": "https://shop.mango.com/gb/en/p/women/blazers/check-print-jacket/37045865/31/00"
+      },
+      {
+        "name": "Suede Heeled Boots",
+        "brand": "Mango",
+        "color": "Tan brown",
+        "price": "£119.99",
+        "why": "Tall warm-brown suede boots with a block heel — tonal with the bag and easy to walk in under a midi.",
+        "img": "img/p25_boots.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/suede-ankle-boot-with-heel/37066325/31/00"
+      },
+      {
+        "name": "Square Crossbody Bag",
+        "brand": "Mango",
+        "color": "Burgundy croc",
+        "price": "£22.99",
+        "why": "A small burgundy croc-effect crossbody — the one deeper accent that lifts chocolate and cream.",
+        "img": "img/p25_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/square-crossbody-bag/37094100/78/00"
+      },
+      {
+        "name": "Thin Suede Leather Belt",
+        "brand": "Mango",
+        "color": "Dark brown",
+        "price": "£22.99",
+        "why": "A slim suede belt to cinch the dress at the waist — the small move that makes it look styled, not thrown on.",
+        "img": "img/p25_belt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/belts/leather/thin-suede-leather-belt/27011212/32/00"
+      }
+    ]
+  }
 ]
