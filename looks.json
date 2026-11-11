@@ -960,12 +960,13 @@
   ],
   "pieces": [
    {
-    "name": "The Fluid Double-Breasted Wool Blazer",
+    "name": "Twill Single-Breasted Blazer",
     "brand": "COS",
-    "color": "Chocolate",
-    "why": "A fluid, softly structured double-breasted wool blazer in chocolate brown — the warm anchor of the whole look.",
+    "color": "Dark brown",
+    "why": "A dark-brown twill single-breasted blazer — the chocolate anchor of the look, clean and softly tailored.",
     "img": "img/p19_blazer.png",
-    "url": "https://www.cos.com/en-us/women/womenswear/suitsandtailoring/blazers/product/the-fluid-double-breasted-wool-blazer-chocolate-1271456001"
+    "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/blazers/product/twill-single-breasted-blazer-dark-brown-1294894003",
+    "price": "€179"
    },
    {
     "name": "Rounded Wool Crew-Neck Jumper — cream",
