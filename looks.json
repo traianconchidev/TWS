@@ -1562,5 +1562,74 @@
         "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/contrast-leather-crossbody-bag/37035857/32/00"
       }
     ]
+  },
+  {
+    "n": "TWS-P30",
+    "id": "p30",
+    "category": "Studio Noir",
+    "sub": "Navy column, ivory on the shoulders.",
+    "hero": "img/p30_model.png",
+    "note": "A night-blue deep-V column dress with an ivory tailored jacket worn over the shoulders, a navy-and-cream silk scarf tucked into the breast pocket like a pocket square, and tiny pavé studs at the ear. Ecru slingbacks and a woven grey-and-stone bag held at the side keep it soft. Oat and navy for the evening — long, clean lines with one silk detail.",
+    "occasions": [
+      "Dinner",
+      "Evening out",
+      "Theatre"
+    ],
+    "pieces": [
+      {
+        "name": "V-Neckline Long Dress",
+        "brand": "Mango",
+        "color": "Night blue",
+        "price": "£147.99",
+        "why": "A long night-blue column with a deep V and long sleeves — the clean, elegant base of the look.",
+        "img": "img/p30_dress.png",
+        "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/v-neckline-long-dress/27075992/57/00"
+      },
+      {
+        "name": "Tailored Suit Jacket",
+        "brand": "Mango",
+        "color": "Ivory white",
+        "price": "£89.99",
+        "why": "An ivory tailored jacket worn over the shoulders — it lightens the navy and frames the V.",
+        "img": "img/p30_blazer.png",
+        "url": "https://shop.mango.com/gb/en/p/women/blazers/double-breasted-suit-jacket/27073333/04/00"
+      },
+      {
+        "name": "Melford Mini Silk Scarf",
+        "brand": "Hicks & Brown",
+        "color": "Navy",
+        "price": "€90",
+        "why": "A navy-and-cream silk square tucked into the breast pocket — the one polished detail.",
+        "img": "img/p30_scarf.png",
+        "url": "https://redmillsstore.ie/products/hicks-brown-melford-mini-silk-scarf-in-navy"
+      },
+      {
+        "name": "Pointed Toe Leather Shoes",
+        "brand": "Mango",
+        "color": "Ecru",
+        "price": "£45.99",
+        "why": "Ecru slingback kitten heels with a pointed toe — soft and easy under a long hem.",
+        "img": "img/p30_heels.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/pointed-toe-leather-shoes/37093877/05/00"
+      },
+      {
+        "name": "Braided Leather Crossbody Bag",
+        "brand": "& Other Stories",
+        "color": "Mole / braided",
+        "price": "€159",
+        "why": "A woven grey-and-stone leather bag, held at the side — texture that picks up the ivory and navy.",
+        "img": "img/p30_bag.png",
+        "url": "https://www.stories.com/en-nl/product/braided-leather-crossbody-bag-molebraided-1348631004/"
+      },
+      {
+        "name": "Pack of 2 Mixed Earrings",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£15.99",
+        "why": "Pavé oval studs (worn here) plus crystal drops — small sparkle at the ear.",
+        "img": "img/p30_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pack-of-2-mixed-earrings/37017805/OR/00"
+      }
+    ]
   }
 ]
