@@ -1722,5 +1722,74 @@
         "url": "https://www.cos.com/en-ie/women/accessories/bags/totebags/product/pavilion-tote-bag-leather-brown-1349966002"
       }
     ]
+  },
+  {
+    "n": "TWS-P33",
+    "id": "p33",
+    "category": "Off-Duty Casual",
+    "sub": "Black, grey & white for the airport.",
+    "hero": "img/p33_model.png",
+    "note": "A grey cashmere tee tucked into black scuba barrel trousers, a flash of white T-shirt at the neck, and a black funnel-collar wool coat worn open with the collar up. Glossy penny loafers and a roomy suede tote finish it. Holiday travel, airport-ready: soft, warm and easy to move in.",
+    "occasions": [
+      "Travel",
+      "Airport",
+      "Weekend"
+    ],
+    "pieces": [
+      {
+        "name": "Funnel-Collar Wool Coat",
+        "brand": "& Other Stories",
+        "color": "Black",
+        "price": "£229",
+        "why": "A black wool coat with a tall funnel collar, worn open with the collar up — warm enough for the plane.",
+        "img": "img/p33_coat.png",
+        "url": "https://www.stories.com/en-gb/product/funnel-collar-wool-coat-black-1370825001/"
+      },
+      {
+        "name": "Short-Sleeve Cashmere Top",
+        "brand": "& Other Stories",
+        "color": "Grey",
+        "price": "£97",
+        "why": "Soft grey cashmere, tucked in — the light, warm layer for a long travel day.",
+        "img": "img/p33_cashmere.png",
+        "url": "https://www.stories.com/en-gb/product/short-sleeve-cashmere-top-grey-1343283001/"
+      },
+      {
+        "name": "Cotton Crew-Neck T-Shirt",
+        "brand": "& Other Stories",
+        "color": "White",
+        "price": "£23",
+        "why": "A white tee underneath, showing just a band of white at the neckline.",
+        "img": "img/p33_tee.png",
+        "url": "https://www.stories.com/en-gb/product/cotton-crew-neck-t-shirt-white-1329703001/"
+      },
+      {
+        "name": "Scuba Jersey Trousers",
+        "brand": "& Other Stories",
+        "color": "Black",
+        "price": "£77",
+        "why": "High-waisted barrel trousers in stretch scuba jersey — tailored to look at, comfortable to sit in.",
+        "img": "img/p33_trousers.png",
+        "url": "https://www.stories.com/en-gb/product/scuba-jersey-trousers-black-1352274001/"
+      },
+      {
+        "name": "Leather Penny Loafers",
+        "brand": "& Other Stories",
+        "color": "Black",
+        "price": "£119",
+        "why": "Glossy black penny loafers — easy on, easy off at security.",
+        "img": "img/p33_loafers.png",
+        "url": "https://www.stories.com/en-gb/product/leather-penny-loafers-black-1337229001/"
+      },
+      {
+        "name": "Suede Tote Bag",
+        "brand": "& Other Stories",
+        "color": "Black",
+        "price": "£169",
+        "why": "A roomy black suede tote that fits the essentials for the flight.",
+        "img": "img/p33_tote.png",
+        "url": "https://www.stories.com/en-gb/product/suede-tote-bag-black-1262536002/"
+      }
+    ]
   }
 ]
