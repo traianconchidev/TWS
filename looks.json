@@ -1860,5 +1860,65 @@
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/square-hoop-earrings-gold-1358614001"
       }
     ]
+  },
+  {
+    "n": "TWS-P35",
+    "id": "p35",
+    "category": "Studio Noir",
+    "sub": "Emerald and velvet for the Christmas party.",
+    "hero": "img/p35_model.png",
+    "note": "A bottle-green one-shoulder jersey midi with a ruched knot at the hip, a black velvet blazer draped over the shoulders, d'Orsay pointed pumps with a slim ankle strap, a soft gold pleated clutch and sculptural knot studs. Hair in a low chignon. Festive without trying too hard: quiet-luxury Christmas party dressing.",
+    "occasions": [
+      "Christmas party",
+      "Evening",
+      "Holiday dinner"
+    ],
+    "pieces": [
+      {
+        "name": "Asymmetrical Pleated Dress",
+        "brand": "Mango",
+        "color": "Green",
+        "price": "£55.99",
+        "why": "Deep bottle-green jersey with a draped one-shoulder neckline and a ruched knot at the hip — the festive colour, worn simply.",
+        "img": "img/p35_dress.png",
+        "url": "https://shop.mango.com/gb/en/p/women/dresses-and-jumpsuits/dresses/asymmetrical-pleated-dress/37037940/49/00"
+      },
+      {
+        "name": "Velvet Suit Jacket",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£89.99",
+        "why": "Black velvet tailoring draped over the shoulders — warmth for the walk in and instant evening polish.",
+        "img": "img/p35_blazer.png",
+        "url": "https://shop.mango.com/gb/en/p/women/blazers/party/velvet-suit-jacket/37099114/99/00"
+      },
+      {
+        "name": "Contrasting Pointed-Toe High-Heeled Shoe",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£79.99",
+        "why": "A d'Orsay pump with a slim ankle strap and a contrast toe cap — a sharp, elegant line under a midi hem.",
+        "img": "img/p35_heels.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/contrasting-pointed-toe-high-heeled-shoe/47021350/92/00"
+      },
+      {
+        "name": "Metallic-Thread Handbag",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£49.99",
+        "why": "A soft pleated frame clutch in antique gold — the one bit of shimmer the look needs.",
+        "img": "img/p35_clutch.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/party/metallic-thread-handbag/47031361/OR/00"
+      },
+      {
+        "name": "Intertwined Knot Earrings",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£12.99",
+        "why": "Small sculptural gold knots that catch the light with the hair swept back.",
+        "img": "img/p35_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/intertwined-knot-earrings/37001404/OR/00"
+      }
+    ]
   }
 ]
