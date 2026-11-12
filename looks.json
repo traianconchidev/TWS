@@ -1791,5 +1791,74 @@
         "url": "https://www.stories.com/en-gb/product/suede-tote-bag-black-1262536002/"
       }
     ]
+  },
+  {
+    "n": "TWS-P34",
+    "id": "p34",
+    "category": "9 to 5 Luxe",
+    "sub": "Grey and black, softly tailored.",
+    "hero": "img/p34_model.png",
+    "note": "A chunky charcoal cashmere funnel-neck over a crisp white pintucked blouse — its zigzag-edged collar rising above the knit and its straight cuffs showing at the wrist. Black pleated wide-leg trousers, soft leather slipper loafers, a roomy black leather tote and square gold hoops. Stone and noir, nothing louder: quiet-luxury workwear for the desk-to-dinner day.",
+    "occasions": [
+      "Office",
+      "Meetings",
+      "Desk to dinner"
+    ],
+    "pieces": [
+      {
+        "name": "Chunky Pure Cashmere Funnel-Neck Jumper",
+        "brand": "COS",
+        "color": "Charcoal",
+        "price": "€279",
+        "why": "Thick, soft charcoal cashmere with a stand-up funnel neck — the warm grey layer the whole look is built on.",
+        "img": "img/p34_jumper.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/cashmere/product/chunky-cashmere-funnel-neck-jumper-charcoal-1323214008"
+      },
+      {
+        "name": "Pintucked Cotton Blouse",
+        "brand": "COS",
+        "color": "White",
+        "price": "€89",
+        "why": "Worn underneath so the zigzag-edged stand collar and the clean straight cuffs show — a crisp white line against the grey.",
+        "img": "img/p34_blouse.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/shirts/blouses/product/pintucked-cotton-blouse-white-1336654001"
+      },
+      {
+        "name": "Relaxed Twill Wide-Leg Trousers",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€129",
+        "why": "Pleated, pressed and full length — black wide-leg tailoring that keeps the chunky knit polished.",
+        "img": "img/p34_trousers.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/trousers/wideleg/product/wide-leg-tailored-twill-trousers-black-1248999001"
+      },
+      {
+        "name": "Leather Loafers",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€99",
+        "why": "Soft, unstructured black leather loafers with a slim toe — quiet, flat and easy all day.",
+        "img": "img/p34_loafers.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/flats/product/leather-loafers-black-1356875002"
+      },
+      {
+        "name": "Journe Tote Bag - Leather",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€199",
+        "why": "A roomy grained-leather tote with long handles — carries the laptop and still looks minimal.",
+        "img": "img/p34_tote.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/totebags/product/journe-tote-bag-leather-black-1357228001"
+      },
+      {
+        "name": "Square Hoop Earrings",
+        "brand": "COS",
+        "color": "Gold",
+        "price": "€29",
+        "why": "Chunky polished gold square hoops — the one warm accent in a grey-and-black look.",
+        "img": "img/p34_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/square-hoop-earrings-gold-1358614001"
+      }
+    ]
   }
 ]

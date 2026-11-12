@@ -175,7 +175,7 @@
   "type": "palette",
   "eyebrow": "Colour Story",
   "title": "Stone & Noir",
-  "intro": "Grey and black, nothing louder — a stone-and-noir colour story for quiet-luxury autumn dressing. Four ways to wear the pairing, from soft tailoring to the navy suit. Every piece linked to the retailer.",
+  "intro": "Grey and black, nothing louder — a stone-and-noir colour story for quiet-luxury autumn dressing. Five ways to wear the pairing, from soft tailoring to the navy suit. Every piece linked to the retailer.",
   "hero": "img/p09_model.png",
   "swatches": [
    {
@@ -191,7 +191,8 @@
    "p09",
    "p10",
    "p16",
-   "p17"
+   "p17",
+   "p34"
   ]
  },
  {
