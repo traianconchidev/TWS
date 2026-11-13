@@ -2,7 +2,6 @@
   "note": "Backlog de tinute pre-facute (deja in looks.json cu produse reale) de postat ca IG CARUSEL pe sloturile de zi (Luni/Marti/Joi/Vineri) INAINTE de a genera tinute noi. Economiseste credite Higgsfield. Consuma 'pending' in ordine, 1 pe zi-slot; dupa postare muta id-ul in 'posted' si comite queue.json. Cat timp exista 'pending': Marti/Joi/Vineri = CARUSEL (nu Reel, zero credite video). Cand 'pending' e gol, reia generarea normala + Reels.",
   "mode": "carousel",
   "pending": [
-    "p13",
     "p16",
     "p12",
     "p17",
@@ -13,6 +12,7 @@
   ],
   "posted": [
     "p09",
-    "p11"
+    "p11",
+    "p13"
   ]
 }
