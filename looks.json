@@ -1980,5 +1980,74 @@
         "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/double-hoop-stainless-steel-earrings/37035993/PL/00"
       }
     ]
+  },
+  {
+    "n": "TWS-P37",
+    "id": "p37",
+    "category": "Studio Noir",
+    "sub": "The city hall suit, softened in satin.",
+    "hero": "img/p37_model.png",
+    "note": "A bluish-grey satin shirt worn open at the collar and tucked into a chocolate satin midi skirt, a brown wool blazer draped over the shoulders, cut-out pointed pumps, a croc-embossed leather pouch and silver domed earrings. Hair worn down and brushed back. Soft sheen, sharp tailoring: the quiet-luxury way to dress for a city hall wedding in winter.",
+    "occasions": [
+      "Wedding guest",
+      "City hall ceremony",
+      "Winter celebration"
+    ],
+    "pieces": [
+      {
+        "name": "Flowing Satin Shirt",
+        "brand": "Massimo Dutti",
+        "color": "Bluish grey",
+        "price": "£60",
+        "why": "Fluid satin in a soft grey-blue, worn open at the collar and tucked in — the cool, luminous note against all that chocolate.",
+        "img": "img/p37_shirt.png",
+        "url": "https://www.massimodutti.com/gb/flowing-satin-shirt-l05157557?pelement=62067347"
+      },
+      {
+        "name": "Satin Midi Skirt",
+        "brand": "Massimo Dutti",
+        "color": "Brown",
+        "price": "£90",
+        "why": "A chocolate satin midi that moves and catches the light — elegant enough for the ceremony, easy enough for the lunch after.",
+        "img": "img/p37_skirt.png",
+        "url": "https://www.massimodutti.com/gb/satin-midi-skirt-l05297510?pelement=61814833"
+      },
+      {
+        "name": "100% Wool Button Detail Blazer - Limited Edition",
+        "brand": "Massimo Dutti",
+        "color": "Brown",
+        "price": "£300",
+        "why": "A sharply cut brown wool blazer, worn over the shoulders for warmth and structure without hiding the satin.",
+        "img": "img/p37_blazer.png",
+        "url": "https://www.massimodutti.com/gb/100-wool-button-detail-blazer--limited-edition-l06003555?pelement=65777582"
+      },
+      {
+        "name": "Cut-Out Heeled Shoe",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£49.99",
+        "why": "Pointed d'Orsay pumps with cut-out sides — a long, elegant line under a midi hem.",
+        "img": "img/p37_shoes.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/cut-out-heeled-shoe/37097774/30/00"
+      },
+      {
+        "name": "Crocodile-Embossed Leather Belt Bag",
+        "brand": "Massimo Dutti",
+        "color": "Brown",
+        "price": "£90",
+        "why": "A small croc-embossed leather pouch with a metallic sheen, carried in hand like a clutch.",
+        "img": "img/p37_bag.png",
+        "url": "https://www.massimodutti.com/gb/crocodileembossed-leather-belt-bag-l04637635?pelement=62198778"
+      },
+      {
+        "name": "Curved Domed Earrings",
+        "brand": "COS",
+        "color": "Silver",
+        "price": "€29",
+        "why": "Chunky polished silver domes — modern, quiet and bright with the hair swept back.",
+        "img": "img/p37_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/curved-domed-earrings-silver-1363977001"
+      }
+    ]
   }
 ]
