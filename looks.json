@@ -2109,5 +2109,74 @@
         "url": "https://www.massimodutti.com/gb/pinstripe-dangle-earrings-l04605861?pelement=64090828"
       }
     ]
+  },
+  {
+    "n": "TWS-P39",
+    "id": "p39",
+    "category": "Off-Duty Casual",
+    "sub": "The classic shirt & denim.",
+    "hero": "img/p39_model.png",
+    "note": "A sky-blue linen shirt tucked into light vintage straight-leg jeans with a brown leather belt, a tobacco cashmere V-neck thrown over the shoulders, soft penny loafers and a brown leather mini duffle. The easiest formula there is: shirt, denim, brown leather — polished enough for the office, relaxed enough for the weekend.",
+    "occasions": [
+      "Everyday",
+      "Casual Friday",
+      "Weekend"
+    ],
+    "pieces": [
+      {
+        "name": "Flowing 100% Linen Shirt",
+        "brand": "Massimo Dutti",
+        "color": "Sky blue",
+        "price": "£60",
+        "why": "A soft sky-blue linen shirt, tucked in with the sleeves rolled once — the fresh, classic base of the look.",
+        "img": "img/p39_shirt.png",
+        "url": "https://www.massimodutti.com/gb/flowing-100-linen-shirt-l05140730?pelement=62900552"
+      },
+      {
+        "name": "Chord Straight-Leg Jeans",
+        "brand": "COS",
+        "color": "Light blue",
+        "price": "€89",
+        "why": "Light vintage-wash straight jeans with a high waist — clean, timeless denim that works with everything.",
+        "img": "img/p39_jeans.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/jeans/straightleg/product/chord-straight-leg-jeans-light-blue-1298075012"
+      },
+      {
+        "name": "100% Cashmere Knit Sweater",
+        "brand": "Massimo Dutti",
+        "color": "Tobacco brown",
+        "price": "£170",
+        "why": "A tobacco-brown cashmere V-neck worn over the shoulders — warmth on standby and the brown that ties it all together.",
+        "img": "img/p39_sweater.png",
+        "url": "https://www.massimodutti.com/gb/100-cashmere-knit-sweater-l05603565?pelement=62177032"
+      },
+      {
+        "name": "Soft Leather Penny Loafer",
+        "brand": "Massimo Dutti",
+        "color": "Brown",
+        "price": "£120",
+        "why": "Unstructured brown leather penny loafers — comfortable all day and a polished finish with denim.",
+        "img": "img/p39_loafers.png",
+        "url": "https://www.massimodutti.com/gb/soft-leather-penny-loafer-l11517850?pelement=61733836"
+      },
+      {
+        "name": "Nappa Leather Mini Duffle Bag",
+        "brand": "Massimo Dutti",
+        "color": "Brown",
+        "price": "£170",
+        "why": "A structured brown nappa mini duffle with slim handles — a ladylike counterpoint to the jeans.",
+        "img": "img/p39_bag.png",
+        "url": "https://www.massimodutti.com/gb/nappa-leather-mini-duffle-bag-l06981606?pelement=61734185"
+      },
+      {
+        "name": "Nappa Leather Belt with Rounded Buckle",
+        "brand": "Massimo Dutti",
+        "color": "Brown",
+        "price": "£60",
+        "why": "A slim brown leather belt with a rounded silver buckle — it defines the waist and matches the loafers and bag.",
+        "img": "img/p39_belt.png",
+        "url": "https://www.massimodutti.com/gb/nappa-leather-belt-with-rounded-buckle-l06110675?pelement=63675245"
+      }
+    ]
   }
 ]
