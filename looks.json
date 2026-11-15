@@ -1920,5 +1920,65 @@
         "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/intertwined-knot-earrings/37001404/OR/00"
       }
     ]
+  },
+  {
+    "n": "TWS-P36",
+    "id": "p36",
+    "category": "Studio Noir",
+    "sub": "A winter wedding, by day.",
+    "hero": "img/p36_model.png",
+    "note": "A dusty-blue twist-knot jersey midi under a long collarless taupe wool coat worn open, taupe patent slingback kitten heels, an oversized raffia clutch and small silver double hoops. Sleek, centre-parted hair. Soft colour, clean lines, nothing overdone: the quiet-luxury way to be a winter wedding guest for a daytime ceremony.",
+    "occasions": [
+      "Wedding guest",
+      "Day ceremony",
+      "Winter celebration"
+    ],
+    "pieces": [
+      {
+        "name": "Twist-Detail Jersey Midi Dress",
+        "brand": "COS",
+        "color": "Blue",
+        "price": "€89",
+        "why": "Dusty steel-blue jersey with a twisted knot at the waist and a soft cascade of drape — elegant, comfortable and never too much.",
+        "img": "img/p36_dress.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/dresses/mididresses/product/twist-detail-jersey-midi-dress-blue-1327026002"
+      },
+      {
+        "name": "Belted Double-Faced Wool-Blend Long Coat",
+        "brand": "COS",
+        "color": "Brown",
+        "price": "€279",
+        "why": "A long collarless taupe coat in double-faced wool, worn open over the dress — warm for the church steps, clean over a midi.",
+        "img": "img/p36_coat.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/coatsjackets/coats/product/belted-double-faced-wool-blend-long-coat-brown-1350646002"
+      },
+      {
+        "name": "Patent Leather Slingback Pumps",
+        "brand": "& Other Stories",
+        "color": "Dark grey",
+        "price": "£109",
+        "why": "Taupe-grey patent slingbacks on a low kitten heel — polished enough for the ceremony, easy enough for the whole day.",
+        "img": "img/p36_shoes.png",
+        "url": "https://www.stories.com/en-gb/product/patent-leather-slingback-pumps-dark-grey-1320558003/"
+      },
+      {
+        "name": "Oversized Folded Clutch Bag - Straw",
+        "brand": "COS",
+        "color": "Brown",
+        "price": "€89",
+        "why": "An oversized dark raffia clutch that adds texture and warmth against the blue.",
+        "img": "img/p36_clutch.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/clutches/product/oversized-folded-clutch-bag-straw-brown-1332796001"
+      },
+      {
+        "name": "Double Hoop Stainless Steel Earrings",
+        "brand": "Mango",
+        "color": "Silver",
+        "price": "£22.99",
+        "why": "Small polished silver double hoops — a cool, quiet finish that suits the blue.",
+        "img": "img/p36_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/double-hoop-stainless-steel-earrings/37035993/PL/00"
+      }
+    ]
   }
 ]
