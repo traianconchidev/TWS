@@ -2,6 +2,18 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<script>
+/* Clean pin links (12-15 nov): /look/<id>, /edit/<slug>, ?look=<id>, ?edit=<slug> -> hash route.
+   Some apps (Pinterest mobile, browser extensions) drop the "#..." part of a link, so pins use
+   path links; this redirect runs before any relative asset loads. */
+(function(){try{
+  var m=location.pathname.match(/^\/(look|edit)\/([A-Za-z0-9_-]+)\/?$/), q=new URLSearchParams(location.search), t=null;
+  if(m) t=m[1]+"/"+m[2];
+  else if(q.get("look")) t="look/"+q.get("look").replace(/[^A-Za-z0-9_-]/g,"");
+  else if(q.get("edit")) t="edit/"+q.get("edit").replace(/[^A-Za-z0-9_-]/g,"");
+  if(t && !location.hash) location.replace("/#/"+t);
+}catch(e){}})();
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="mitgo-verification" content="e42afc6e-94b1-41b6-b32c-7d409293bef4">
 <meta name="p:domain_verify" content="53ade30c5ecf6946c94928c14d5f5d2f">
