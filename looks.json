@@ -2049,5 +2049,65 @@
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/curved-domed-earrings-silver-1363977001"
       }
     ]
+  },
+  {
+    "n": "TWS-P38",
+    "id": "p38",
+    "category": "Studio Noir",
+    "sub": "Midnight reception, in navy satin and fur.",
+    "hero": "img/p38_model.png",
+    "note": "A navy double-strap satin slip dress under a cropped chocolate faux fur jacket worn on the shoulders, chocolate satin ankle-strap courts, a beaded drawstring pouch carried by its cords and long silver bar earrings. Hair in a soft braided side ponytail. Navy and chocolate, satin and fur: quiet-luxury dressing for a winter wedding reception that runs past midnight.",
+    "occasions": [
+      "Wedding guest",
+      "Evening reception",
+      "Winter celebration"
+    ],
+    "pieces": [
+      {
+        "name": "Double-Strap Slip Dress",
+        "brand": "& Other Stories",
+        "color": "Dark blue",
+        "price": "£109",
+        "why": "A navy satin slip with a square neckline and double straps — fluid, simple and made for the evening.",
+        "img": "img/p38_dress.png",
+        "url": "https://www.stories.com/en-gb/product/double-strap-midi-slip-dress-dark-blue-1334472001/"
+      },
+      {
+        "name": "Jacket with Faux Fur Collar and Shirt-Style Collar",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£89.99",
+        "why": "A cropped chocolate faux fur jacket, worn over the shoulders — instant warmth and glamour over bare shoulders.",
+        "img": "img/p38_jacket.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jackets/faux-fur/jacket-with-faux-fur-collar-and-shirt-style-collar/37047781/30/01"
+      },
+      {
+        "name": "Satin Court Shoes with Ankle Straps",
+        "brand": "Mango",
+        "color": "Chocolate",
+        "price": "£39.99",
+        "why": "Chocolate satin courts with a fine ankle strap — they tie the fur to the satin and lengthen the leg.",
+        "img": "img/p38_shoes.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/satin-court-shoes-with-ankle-straps/47051333/32/00"
+      },
+      {
+        "name": "Embroidered Beaded Handbag",
+        "brand": "Mango",
+        "color": "Night blue",
+        "price": "£49.99",
+        "why": "A navy satin drawstring pouch with silver beaded fringe — carried by its cords, it catches the light on the dance floor.",
+        "img": "img/p38_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/party/embroidered-beaded-handbag/47041352/57/00"
+      },
+      {
+        "name": "Pinstripe Dangle Earrings",
+        "brand": "Massimo Dutti",
+        "color": "Silver",
+        "price": "£40",
+        "why": "Long ribbed silver bars that sway with the braid — a clean, modern line of shine.",
+        "img": "img/p38_earrings.png",
+        "url": "https://www.massimodutti.com/gb/pinstripe-dangle-earrings-l04605861?pelement=64090828"
+      }
+    ]
   }
 ]
