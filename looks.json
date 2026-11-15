@@ -2178,5 +2178,92 @@
         "url": "https://www.massimodutti.com/gb/nappa-leather-belt-with-rounded-buckle-l06110675?pelement=63675245"
       }
     ]
+  },
+  {
+    "n": "TWS-P40",
+    "id": "p40",
+    "category": "Off-Duty Casual",
+    "sub": "The grey cardigan.",
+    "hero": "img/p40_model.png",
+    "note": "A heather-grey wool cardigan buttoned to the neck and tucked into dark rinse cropped jeans, a white tee collar peeking out, a slim brown belt, charcoal ribbed socks with soft penny loafers, a monogram shoulder bag and tortoiseshell sunglasses. The cardigan worn as a sweater — neat, warm and quietly French.",
+    "occasions": [
+      "Weekend",
+      "Everyday",
+      "Coffee & errands"
+    ],
+    "pieces": [
+      {
+        "name": "100% Wool Cardigan with Buttons",
+        "brand": "Mango",
+        "color": "Heather grey",
+        "price": "£89.99",
+        "why": "A soft grey wool cardigan with mother-of-pearl buttons, done up to the neck and tucked in — the star of the look.",
+        "img": "img/p40_cardigan.png",
+        "url": "https://shop.mango.com/gb/en/p/women/sweaters-and-cardigans/cardigans/100-wool-cardigan-with-buttons/47091360/94/00"
+      },
+      {
+        "name": "Rounded Neck Cotton T-Shirt",
+        "brand": "Mango",
+        "color": "White",
+        "price": "£19.99",
+        "why": "A crisp white tee underneath — just its collar shows above the knit for a fresh, layered finish.",
+        "img": "img/p40_tee.png",
+        "url": "https://shop.mango.com/gb/en/p/women/t-shirts/basics/rounded-neck-cotton-t-shirt/37054112/01/00"
+      },
+      {
+        "name": "High-Waist Cropped Straight-Leg Jeans",
+        "brand": "Massimo Dutti",
+        "color": "Dark blue",
+        "price": "£60",
+        "why": "Dark rinse straight jeans cropped at the ankle — clean denim that shows off the socks and loafers.",
+        "img": "img/p40_jeans.png",
+        "url": "https://www.massimodutti.com/gb/highwaist-cropped-straightleg-jeans-l05050850?pelement=63150484"
+      },
+      {
+        "name": "Soft Leather Penny Loafer",
+        "brand": "Massimo Dutti",
+        "color": "Brown",
+        "price": "£120",
+        "why": "Unstructured brown leather loafers — comfortable all day and polished with denim.",
+        "img": "img/p40_loafers.png",
+        "url": "https://www.massimodutti.com/gb/soft-leather-penny-loafer-l11517850?pelement=61733836"
+      },
+      {
+        "name": "Ribbed Socks",
+        "brand": "Mango",
+        "color": "Charcoal",
+        "price": "£12.99",
+        "why": "Charcoal ribbed socks peeking between hem and loafer — the small detail that makes the look feel styled.",
+        "img": "img/p40_socks.png",
+        "url": "https://shop.mango.com/gb/en/p/women/more-accessories/socks/ribbed-socks/37072935/95/00"
+      },
+      {
+        "name": "Nappa Leather Belt with Rounded Buckle",
+        "brand": "Massimo Dutti",
+        "color": "Brown",
+        "price": "£60",
+        "why": "A slim brown belt with a rounded silver buckle — it defines the tucked-in waist and echoes the loafers.",
+        "img": "img/p40_belt.png",
+        "url": "https://www.massimodutti.com/gb/nappa-leather-belt-with-rounded-buckle-l06110675?pelement=63675245"
+      },
+      {
+        "name": "Small Logo Shoulder Bag",
+        "brand": "Mango",
+        "color": "Dark grey",
+        "price": "£39.99",
+        "why": "A compact monogram shoulder bag with brown leather trims — tucked under the arm, it ties grey and brown together.",
+        "img": "img/p40_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/shoulder/small-logo-shoulder-bag/37052540/56/00"
+      },
+      {
+        "name": "Tortoiseshell Sunglasses",
+        "brand": "Massimo Dutti",
+        "color": "Brown",
+        "price": "£70",
+        "why": "Slim oval tortoiseshell frames — an off-duty finishing touch with a hint of retro.",
+        "img": "img/p40_sunglasses.png",
+        "url": "https://www.massimodutti.com/gb/tortoiseshell-sunglasses-l07015648?pelement=63979870"
+      }
+    ]
   }
 ]
