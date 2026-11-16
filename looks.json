@@ -2325,5 +2325,74 @@
         "url": "https://www.massimodutti.com/gb/narrow-sunglasses-l07015643?pelement=63979871"
       }
     ]
+  },
+  {
+    "n": "TWS-P42",
+    "id": "p42",
+    "category": "9 to 5 Luxe",
+    "sub": "The Fair Isle & maxi skirt.",
+    "hero": "img/p42_model.png",
+    "note": "A camel and black Fair Isle jumper layered over a black turtleneck, tucked into a long pleated black maxi skirt and cinched with a slim gold-buckle belt, with pointed knee-high boots and a small black leather bag. Cosy knitwear made sharp enough for the city.",
+    "occasions": [
+      "Office",
+      "City days",
+      "Weekend"
+    ],
+    "pieces": [
+      {
+        "name": "Jacquard Mock Neck Knit Sweater",
+        "brand": "Massimo Dutti",
+        "color": "Camel",
+        "price": "£120",
+        "why": "A camel and black Fair Isle knit with a patterned yoke — the cosy statement piece, worn tucked in.",
+        "img": "img/p42_sweater.png",
+        "url": "https://www.massimodutti.com/gb/jacquard-mock-neck-knit-sweater-l05862556?pelement=68234072"
+      },
+      {
+        "name": "Turtleneck Knitted Sweater",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£29.99",
+        "why": "A fine black turtleneck underneath — its high collar frames the face and sharpens the pattern.",
+        "img": "img/p42_turtleneck.png",
+        "url": "https://shop.mango.com/gb/en/p/women/sweaters-and-cardigans/sweaters/turtleneck-knitted-sweater/37017793/99/00"
+      },
+      {
+        "name": "Pleated Tailored Maxi Skirt",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€129",
+        "why": "A long tailored skirt with front pleats and a slit — it turns the knit into a polished city look.",
+        "img": "img/p42_skirt.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/skirts/maxiskirts/product/pleated-tailored-maxi-skirt-black-1350866001"
+      },
+      {
+        "name": "Nappa Leather Belt with Square Golden Buckle",
+        "brand": "Massimo Dutti",
+        "color": "Black",
+        "price": "£50",
+        "why": "A slim black belt worn over the jumper — it defines the waist and adds a touch of gold.",
+        "img": "img/p42_belt.png",
+        "url": "https://www.massimodutti.com/gb/nappa-leather-belt-with-square-golden-buckle-l06117694?pelement=68499295"
+      },
+      {
+        "name": "Boot with Buckle Detail",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£79.99",
+        "why": "Pointed knee-high boots with a fine buckle strap — they show through the slit with every step.",
+        "img": "img/p42_boots.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/boot-with-block-heel-and-buckle-detail/37068279/99/00"
+      },
+      {
+        "name": "Mini Nappa Leather Satchel",
+        "brand": "Massimo Dutti",
+        "color": "Black",
+        "price": "£170",
+        "why": "A small soft black leather bag carried by hand — minimal, so the knit stays the focus.",
+        "img": "img/p42_bag.png",
+        "url": "https://www.massimodutti.com/gb/mini-nappa-leather-satchel-l06991646?pelement=65198083"
+      }
+    ]
   }
 ]
