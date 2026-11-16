@@ -2394,5 +2394,65 @@
         "url": "https://www.massimodutti.com/gb/mini-nappa-leather-satchel-l06991646?pelement=65198083"
       }
     ]
+  },
+  {
+    "n": "TWS-P43",
+    "id": "p43",
+    "category": "Off-Duty Casual",
+    "sub": "The cream knit bomber.",
+    "hero": "img/p43_model.png",
+    "note": "A cream knitted bomber with a high snap-button collar, cinched at the waist, a black satin shirt popping out at the collar and cuffs, a black faux-leather wrap midi skirt, pointed knee-high boots and a small black leather bag. Soft knit meets sharp leather — city-chic for the weekend.",
+    "occasions": [
+      "Weekend",
+      "City days",
+      "Lunch"
+    ],
+    "pieces": [
+      {
+        "name": "Knitted Bomber Jacket",
+        "brand": "Mango",
+        "color": "Cream",
+        "price": "£59.99",
+        "why": "A cream knit bomber with a high snap collar and balloon sleeves, cinched at the waist — the statement piece.",
+        "img": "img/p43_bomber.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jackets/bombers/knitted-bomber-jacket/37075879/05/00"
+      },
+      {
+        "name": "Satin Buttoned Shirt",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£29.99",
+        "why": "A black satin shirt underneath — the collar and cuffs pop out over the knit for a sharp contrast.",
+        "img": "img/p43_shirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shirts---blouses/long-sleeve/satin-buttoned-shirt/37014081/99/00"
+      },
+      {
+        "name": "Wrap-Over Faux Leather Skirt",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£49.99",
+        "why": "A black faux-leather wrap midi with a buckle strap — it adds edge against the soft cream knit.",
+        "img": "img/p43_skirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/skirts/midi/wrap-over-faux-leather-skirt/37097787/99/00"
+      },
+      {
+        "name": "Boot with Buckle Detail",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£79.99",
+        "why": "Pointed knee-high boots with a fine side buckle strap — sleek under the midi length.",
+        "img": "img/p43_boots.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/boot-with-block-heel-and-buckle-detail/37068279/99/00"
+      },
+      {
+        "name": "Mini Nappa Leather Shoulder Bag",
+        "brand": "Massimo Dutti",
+        "color": "Black",
+        "price": "£130",
+        "why": "A small soft black leather shoulder bag — clean and minimal, it ties back to the skirt and boots.",
+        "img": "img/p43_bag.png",
+        "url": "https://www.massimodutti.com/gb/mini-nappa-leather-shoulder-bag-l06992646?pelement=66914879"
+      }
+    ]
   }
 ]
