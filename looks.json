@@ -2265,5 +2265,65 @@
         "url": "https://www.massimodutti.com/gb/tortoiseshell-sunglasses-l07015648?pelement=63979870"
       }
     ]
+  },
+  {
+    "n": "TWS-P41",
+    "id": "p41",
+    "category": "Studio Noir",
+    "sub": "The black leather jacket.",
+    "hero": "img/p41_model.png",
+    "note": "A black leather jacket with a high funnel neck, worn closed over long, wide black suit trousers that skim pointed stilettos, a small black bag held like a clutch and narrow black sunglasses. All black, sharp and effortless — straight off the street-style pages.",
+    "occasions": [
+      "City days",
+      "Dinner",
+      "Weekend"
+    ],
+    "pieces": [
+      {
+        "name": "Leather Jacket with Funnel Neck",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£149.99",
+        "why": "Soft black leather, a high funnel neck and a cropped, double-breasted cut — the statement piece of the look.",
+        "img": "img/p41_jacket.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jackets/bombers/leather-jacket-with-funnel-neck/37045839/99/00"
+      },
+      {
+        "name": "Straight-Fit Suit Trousers",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£49.99",
+        "why": "Long, wide pleated trousers that fall over the shoes — they balance the cropped jacket and lengthen the leg.",
+        "img": "img/p41_trousers.png",
+        "url": "https://shop.mango.com/gb/en/p/women/trousers/smart/straight-fit-suit-trousers/37087898/99/00"
+      },
+      {
+        "name": "Pointed-Toe Heeled Shoe",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£49.99",
+        "why": "Glossy pointed stilettos — only the toe peeks out under the trousers, sharp and elegant.",
+        "img": "img/p41_heels.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/pointed-toe-heeled-shoe/47051336/99/00"
+      },
+      {
+        "name": "Small Crossbody Bag",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£22.99",
+        "why": "A small black flap bag carried as a clutch with the chain tucked away — the street-style way to hold it.",
+        "img": "img/p41_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/crossbody/small-crossbody-bag/37082931/99/00"
+      },
+      {
+        "name": "Narrow Sunglasses",
+        "brand": "Massimo Dutti",
+        "color": "Black",
+        "price": "£70",
+        "why": "Slim black oval frames — the finishing touch that makes all-black feel instantly off-duty chic.",
+        "img": "img/p41_sunglasses.png",
+        "url": "https://www.massimodutti.com/gb/narrow-sunglasses-l07015643?pelement=63979871"
+      }
+    ]
   }
 ]
