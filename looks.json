@@ -2592,5 +2592,65 @@
         "url": "https://www.aldoshoes.com/products/merialaa-brown"
       }
     ]
+  },
+  {
+    "n": "TWS-P46",
+    "id": "p46",
+    "category": "Studio Noir",
+    "sub": "The oversize knit & satin maxi skirt.",
+    "hero": "img/p46_model.png",
+    "note": "A dark brown oversize wool turtleneck with long wide sleeves, loosely tucked into a soft brown satin maxi skirt, knotted stiletto mules, a slim patchwork clutch and small chunky gold hoops. Cosy knit meets fluid satin — the easy evening look of the season.",
+    "occasions": [
+      "Dinner",
+      "Evening out",
+      "Holiday drinks"
+    ],
+    "pieces": [
+      {
+        "name": "100% Wool Oversize Knit Sweater",
+        "brand": "Massimo Dutti",
+        "color": "Brown",
+        "price": "£120",
+        "why": "A chunky dark brown wool turtleneck with a tall funnel neck and long, wide ribbed sleeves — tucked in loosely at the front.",
+        "img": "img/p46_sweater.png",
+        "url": "https://www.massimodutti.com/gb/100-wool-oversize-knit-sweater-l05853535?pelement=64264687"
+      },
+      {
+        "name": "Satin Maxi Skirt",
+        "brand": "& Other Stories",
+        "color": "Dark brown",
+        "price": "€79",
+        "why": "A fluid bias-cut satin maxi in a soft brown, a shade lighter than the knit — subtle sheen, long and easy.",
+        "img": "img/p46_skirt.png",
+        "url": "https://www.stories.com/en-eu/product/satin-maxi-skirt-dark-brown-1340067002/"
+      },
+      {
+        "name": "Moralie Heeled Mule",
+        "brand": "ALDO",
+        "color": "Dark brown",
+        "price": "$59.97",
+        "why": "Dark brown stiletto mules with thin knotted straps — delicate under the long satin.",
+        "img": "img/p46_sandals.png",
+        "url": "https://www.aldoshoes.com/products/moralie-dark-brown"
+      },
+      {
+        "name": "Deandryaa Shoulder Bag",
+        "brand": "ALDO",
+        "color": "Brown",
+        "price": "$70",
+        "why": "A slim patchwork clutch in croc, snake and suede stripes with a gold chain — carried in the hand.",
+        "img": "img/p46_bag.png",
+        "url": "https://www.aldoshoes.com/products/deandryaa-brown"
+      },
+      {
+        "name": "Mini Chunky Hoop Earrings",
+        "brand": "COS",
+        "color": "Gold",
+        "price": "€29",
+        "why": "Small, thick polished gold hoops — they shine with the hair pulled back.",
+        "img": "img/p44_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
+      }
+    ]
   }
 ]
