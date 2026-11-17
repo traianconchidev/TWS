@@ -2532,5 +2532,65 @@
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
       }
     ]
+  },
+  {
+    "n": "TWS-P45",
+    "id": "p45",
+    "category": "9 to 5 Luxe",
+    "sub": "The chocolate knit & check wrap skirt.",
+    "hero": "img/p45_model.png",
+    "note": "A chocolate-brown turtleneck with wide sleeves, tucked into a glen-check wool wrap midi skirt and cinched with a gold-buckle brown belt, dark brown stiletto knee boots and a structured brown tote. Tonal browns, polished from desk to dinner.",
+    "occasions": [
+      "Office",
+      "City days",
+      "Dinner"
+    ],
+    "pieces": [
+      {
+        "name": "Turtleneck Knit Sweater",
+        "brand": "Mango",
+        "color": "Chocolate",
+        "price": "£35.99",
+        "why": "A soft chocolate turtleneck with wide, flared sleeves — tucked in, it gives the look its shape.",
+        "img": "img/p45_sweater.png",
+        "url": "https://shop.mango.com/gb/en/p/women/pyjamas/knitwear/turtleneck-knit-sweater/37031441/32/00"
+      },
+      {
+        "name": "Button-Detail Wrap Midi Skirt",
+        "brand": "Massimo Dutti",
+        "color": "Mole brown check",
+        "price": "£120",
+        "why": "A dark glen-check wool wrap skirt with buttons at the hip — the slit moves as you walk.",
+        "img": "img/p45_skirt.png",
+        "url": "https://www.massimodutti.com/gb/buttondetail-wrap-midi-skirt-l05693510?pelement=65321725"
+      },
+      {
+        "name": "Embossed Buckle Belt",
+        "brand": "Mango",
+        "color": "Chocolate / gold",
+        "price": "£17.99",
+        "why": "A brown leather belt with a gold square buckle — it marks the waist over the tucked knit.",
+        "img": "img/p45_belt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/belts/basics/embossed-buckle-belt/37071332/32/00"
+      },
+      {
+        "name": "Saphiria Knee-High Boot",
+        "brand": "ALDO",
+        "color": "Dark brown",
+        "price": "$225",
+        "why": "Dark brown leather stiletto knee boots with a pointed toe — sleek under the slit.",
+        "img": "img/p45_boots.png",
+        "url": "https://www.aldoshoes.com/products/saphiria-dark-brown-14545419"
+      },
+      {
+        "name": "Merialaa Tote Bag",
+        "brand": "ALDO",
+        "color": "Brown",
+        "price": "$64.90",
+        "why": "A structured brown tote with knotted handles and a gold charm — carried low by the handles.",
+        "img": "img/p45_bag.png",
+        "url": "https://www.aldoshoes.com/products/merialaa-brown"
+      }
+    ]
   }
 ]
