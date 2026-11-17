@@ -2454,5 +2454,83 @@
         "url": "https://www.massimodutti.com/gb/mini-nappa-leather-shoulder-bag-l06992646?pelement=66914879"
       }
     ]
+  },
+  {
+    "n": "TWS-P44",
+    "id": "p44",
+    "category": "Off-Duty Casual",
+    "sub": "The long brown coat & mini skirt.",
+    "hero": "img/p44_model.png",
+    "note": "A long dark mole wool coat worn open over a soft wool-cashmere mock-neck jumper, tucked into a black mini skirt with a slim brown gold-buckle belt, sheer black tights, track-sole knee boots, a big soft brown leather tote and chunky gold hoops. The cosy-chic city look everyone is saving this season.",
+    "occasions": [
+      "Weekend",
+      "Coffee & errands",
+      "City days"
+    ],
+    "pieces": [
+      {
+        "name": "Long Wool Coat",
+        "brand": "& Other Stories",
+        "color": "Dark mole",
+        "price": "€299",
+        "why": "A long double-breasted wool coat in deep mole brown — worn open, it frames the whole look.",
+        "img": "img/p44_coat.png",
+        "url": "https://www.stories.com/en-eu/product/long-wool-coat-dark-mole-1238969006/"
+      },
+      {
+        "name": "Wool-Cashmere Mock Neck Jumper",
+        "brand": "& Other Stories",
+        "color": "Dark mole",
+        "price": "€179",
+        "why": "A soft wool-cashmere mock neck in the same mole tone — tonal with the coat, tucked in for shape.",
+        "img": "img/p44_jumper.png",
+        "url": "https://www.stories.com/en-eu/product/wool-cashmere-mock-neck-jumper-dark-mole-1351847001/"
+      },
+      {
+        "name": "Mini Skirt",
+        "brand": "& Other Stories",
+        "color": "Black",
+        "price": "€59",
+        "why": "A clean black A-line mini — with tights and knee boots it turns the knit and coat into a polished city look.",
+        "img": "img/p44_skirt.png",
+        "url": "https://www.stories.com/en-eu/product/mini-skirt-black-1340581001/"
+      },
+      {
+        "name": "Oval-Buckle Leather Belt",
+        "brand": "COS",
+        "color": "Brown / gold",
+        "price": "€69",
+        "why": "A slim brown belt with a gold oval buckle — it defines the waist and ties in the brown accessories.",
+        "img": "img/p44_belt.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/belts/product/oval-buckle-leather-belt-brown-gold-1357134002"
+      },
+      {
+        "name": "Flat Track Sole Boot",
+        "brand": "Massimo Dutti",
+        "color": "Black",
+        "price": "£240",
+        "why": "Black leather knee boots on a chunky track sole — easy to walk in, sharp with a mini.",
+        "img": "img/p44_boots.png",
+        "url": "https://www.massimodutti.com/gb/flat-track-sole-boot-l11017850?pelement=64613124"
+      },
+      {
+        "name": "Pavilion Tote Bag",
+        "brand": "COS",
+        "color": "Brown",
+        "price": "€249",
+        "why": "A big soft brown leather tote — slouchy, practical and the warmest note of the outfit.",
+        "img": "img/p44_bag.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/bags/totebags/product/pavilion-tote-bag-leather-brown-1349966002"
+      },
+      {
+        "name": "Mini Chunky Hoop Earrings",
+        "brand": "COS",
+        "color": "Gold",
+        "price": "€29",
+        "why": "Small chunky gold hoops — a touch of shine that echoes the belt buckle.",
+        "img": "img/p44_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
+      }
+    ]
   }
 ]
