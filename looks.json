@@ -2652,5 +2652,65 @@
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
       }
     ]
+  },
+  {
+    "n": "TWS-P47",
+    "id": "p47",
+    "category": "9 to 5 Luxe",
+    "sub": "Camel coat, all black under.",
+    "hero": "img/p47_model.png",
+    "note": "A camel double-faced wool coat draped over the shoulders, over an all-black base: a soft merino chenille crew-neck and straight-leg merino trousers, eel-effect leather loafers and small chunky gold hoops. Warm camel against deep ink — polished for the desk, easy all day.",
+    "occasions": [
+      "Office",
+      "City days",
+      "Autumn commute"
+    ],
+    "pieces": [
+      {
+        "name": "Camel Julia Wool Double-Faced Coat",
+        "brand": "Whistles",
+        "color": "Camel",
+        "price": "—",
+        "why": "Double-faced wool that falls clean, worn over the shoulders — the camel half of the palette.",
+        "img": "img/p47_coat.png",
+        "url": "https://whistles.com/us/product/julia-wool-double-faced-coat-37221.html"
+      },
+      {
+        "name": "Merino Wool Chenille Crew-Neck Jumper",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€129",
+        "why": "A soft black merino chenille crew-neck — texture that keeps all-black from looking flat.",
+        "img": "img/p47_jumper.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/wool/product/merino-wool-chenille-crew-neck-jumper-black-1360303001"
+      },
+      {
+        "name": "Merino Wool Blend Straight-Leg Trousers",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€129",
+        "why": "Clean straight-leg merino trousers — the long ink line under the camel coat.",
+        "img": "img/p47_trousers.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/trousers/straight-fit/product/merino-wool-blend-straight-leg-trousers-black-1351376001"
+      },
+      {
+        "name": "Eel-Effect Leather Loafers",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€149",
+        "why": "Glossy black eel-effect loafers — sharp enough for the office, easy to walk in.",
+        "img": "img/p47_loafers.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/flats/product/eel-effect-leather-loafers-black-1365036001"
+      },
+      {
+        "name": "Mini Chunky Hoop Earrings",
+        "brand": "COS",
+        "color": "Gold",
+        "price": "€29",
+        "why": "Small, thick gold hoops — a warm metal note that ties back to the camel.",
+        "img": "img/p44_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
+      }
+    ]
   }
 ]
