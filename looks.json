@@ -2712,5 +2712,57 @@
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
       }
     ]
+  },
+  {
+    "n": "TWS-P48",
+    "id": "p48",
+    "category": "Studio Noir",
+    "sub": "The black velvet dress.",
+    "hero": "img/p48_model.png",
+    "note": "A sleeveless black velvet midi with a high round neck and a soft flared skirt, finished with a gold chain clutch, black suede slingbacks and sculptural gold-and-pearl earrings. One dark, rich texture and a touch of warm gold — the easiest holiday party look there is.",
+    "occasions": [
+      "Holiday party",
+      "Christmas dinner",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Sleeveless Velvet Midi Dress",
+        "brand": "& Other Stories",
+        "color": "Black",
+        "price": "€99",
+        "why": "Deep black velvet with a high neck and a flared midi skirt — the whole look rests on this texture.",
+        "img": "img/p48_dress.png",
+        "url": "https://www.stories.com/en-eu/product/sleeveless-satin-midi-dress-black-1257049041/"
+      },
+      {
+        "name": "Deandriaax Clutch",
+        "brand": "ALDO",
+        "color": "Gold",
+        "price": "$60",
+        "why": "A soft gold clutch on a fine chain — the warm metal note against black velvet.",
+        "img": "img/p48_clutch.png",
+        "url": "https://www.aldoshoes.com/products/deandriaax-gold"
+      },
+      {
+        "name": "Berolden Slingback Pumps",
+        "brand": "ALDO",
+        "color": "Black",
+        "price": "$59.97",
+        "why": "Pointed black suede slingbacks — sleek, light and easy to stand in all evening.",
+        "img": "img/p48_heels.png",
+        "url": "https://www.aldoshoes.com/products/berolden-black"
+      },
+      {
+        "name": "Sculptural Pearl Earrings",
+        "brand": "COS",
+        "color": "Gold / Pearl",
+        "price": "€39",
+        "why": "A gold bar with a pearl set in a ring — the one statement piece the dress needs.",
+        "img": "img/p48_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/sculptural-pearl-earrings-gold-pearl-1355241001"
+      }
+    ]
   }
 ]
