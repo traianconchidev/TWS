@@ -2771,7 +2771,7 @@
     "category": "9 to 5 Luxe",
     "sub": "The office party suit.",
     "hero": "img/p49_model.png",
-    "note": "A black velvet suit — single-breasted blazer worn open over matching flared trousers — softened by an ecru silk tie-neck blouse, with pointed suede slingbacks and a black envelope clutch on a gold chain. Desk-to-party in one change of blouse: polished, warm and quietly festive.",
+    "note": "A black velvet suit — single-breasted blazer worn open over matching flared trousers — softened by an ecru silk tie-neck blouse, with pointed suede slingbacks and a black envelope clutch on a gold chain, finished with crystal pavé earrings. Desk-to-party in one change of blouse: polished, warm and quietly festive.",
     "occasions": [
       "Office party",
       "Holiday drinks",
@@ -2823,6 +2823,15 @@
         "why": "A black envelope clutch on a gold chain — small, clean and party-ready.",
         "img": "img/p49_clutch.png",
         "url": "https://www.aldoshoes.com/products/aliceiaa-black"
+      },
+      {
+        "name": "Pack of 2 Mixed Earrings",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£15.99",
+        "why": "Crystal pavé domes for the party, plus a pair of square-crystal drops — a little sparkle against black velvet.",
+        "img": "img/p49_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pack-of-2-mixed-earrings/37017805/OR/00"
       }
     ]
   }
