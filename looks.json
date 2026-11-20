@@ -2764,5 +2764,66 @@
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/sculptural-pearl-earrings-gold-pearl-1355241001"
       }
     ]
+  },
+  {
+    "n": "TWS-P49",
+    "id": "p49",
+    "category": "9 to 5 Luxe",
+    "sub": "The office party suit.",
+    "hero": "img/p49_model.png",
+    "note": "A black velvet suit — single-breasted blazer worn open over matching flared trousers — softened by an ecru silk tie-neck blouse, with pointed suede slingbacks and a black envelope clutch on a gold chain. Desk-to-party in one change of blouse: polished, warm and quietly festive.",
+    "occasions": [
+      "Office party",
+      "Holiday drinks",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Velvet Suit Jacket",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£89.99",
+        "why": "Single-breasted black velvet with notch lapels — wear it open over silk for the party.",
+        "img": "img/p49_blazer.png",
+        "url": "https://shop.mango.com/gb/en/p/women/blazers/party/velvet-suit-jacket/37099114/99/00"
+      },
+      {
+        "name": "Flared Velvet Trousers",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£29.99",
+        "why": "The matching velvet flare — a long, unbroken line that falls over the heel.",
+        "img": "img/p49_trousers.png",
+        "url": "https://shop.mango.com/gb/en/p/women/trousers/party/flared-velvet-trousers/37067795/99/00"
+      },
+      {
+        "name": "100% Silk Tie-Neck Blouse",
+        "brand": "Mango",
+        "color": "Ecru",
+        "price": "£99.99",
+        "why": "Ecru silk satin with a draped tie-neck — the soft, light contrast against black velvet.",
+        "img": "img/p49_blouse.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shirts---blouses/blouses/100-silk-tie-neck-blouse/37056353/05/00"
+      },
+      {
+        "name": "Strap-Detail Leather Pumps",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€199",
+        "why": "Pointed black slingbacks on a slim heel — sharp under the flare.",
+        "img": "img/p49_pumps.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/shoes/heels/product/strap-detail-leather-pumps-black-1327732001"
+      },
+      {
+        "name": "Aliceiaa Clutch",
+        "brand": "ALDO",
+        "color": "Black",
+        "price": "$39.98",
+        "why": "A black envelope clutch on a gold chain — small, clean and party-ready.",
+        "img": "img/p49_clutch.png",
+        "url": "https://www.aldoshoes.com/products/aliceiaa-black"
+      }
+    ]
   }
 ]
