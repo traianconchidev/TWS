@@ -2954,5 +2954,188 @@
         "url": "https://www.next.ie/en/style/sv184805/c51526"
       }
     ]
+  },
+  {
+    "n": "TWS-P52",
+    "id": "p52",
+    "category": "Studio Noir",
+    "sub": "Silver knit & the ruffle skirt.",
+    "hero": "img/p52_model.png",
+    "note": "A silver lurex knit camisole over a black midi skirt with a draped ruffle and front slit, sharp black patent slingbacks, a sparkling metallic-thread clutch and long twisted silver drops. Black and silver, clean and festive — made for midnight.",
+    "occasions": [
+      "New Year's Eve",
+      "Holiday party",
+      "Cocktails"
+    ],
+    "validUntil": "2026-12-31",
+    "pieces": [
+      {
+        "name": "Skirt With Slit and Ruffle Detail",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£69.99",
+        "img": "img/p52_skirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/skirts/long/skirt-with-slit-and-ruffle-detail/37036014/99/00",
+        "why": "High-waisted black midi with a draped ruffle at the hip and a front slit — drama without excess."
+      },
+      {
+        "name": "Metallic Knit Camisole Top",
+        "brand": "Mango",
+        "color": "Silver",
+        "price": "£22.99",
+        "why": "A fine silver lurex knit with a high neck — the sparkle, kept close to the body.",
+        "img": "img/p52_cami.png",
+        "url": "https://shop.mango.com/gb/en/p/women/tops/knitwear/metallic-knit-camisole-top/37069126/PL/00"
+      },
+      {
+        "name": "Amilie Slingback Pumps",
+        "brand": "ALDO",
+        "color": "Black",
+        "price": "",
+        "why": "Glossy crinkled-patent pointed slingbacks on a slim stiletto.",
+        "img": "img/p52_heels.png",
+        "url": "https://www.aldoshoes.com/products/amilie-black"
+      },
+      {
+        "name": "Metallic-Thread Handbag",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£49.99",
+        "img": "img/p52_clutch.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/party/metallic-thread-handbag/47031361/99/00",
+        "why": "A soft frame clutch in sparkling black bouclé — carried in the hand."
+      },
+      {
+        "name": "Drop Teardrop Earrings",
+        "brand": "Mango",
+        "color": "Silver",
+        "price": "£15.99",
+        "why": "Long twisted silver drops that catch the light with every turn.",
+        "img": "img/p52_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/drop-teardrop-earrings/37006018/PL/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P53",
+    "id": "p53",
+    "category": "Studio Noir",
+    "sub": "Cream bouclé & gold.",
+    "hero": "img/p53_model.png",
+    "note": "The same black ruffle skirt, softened: an ecru bouclé short-sleeve knit, crystal-strap gold sandals, a black velvet pouch with a gold cuff and sculpted gold earrings. Warm cream, black and gold for a candlelit New Year.",
+    "occasions": [
+      "New Year's Eve",
+      "Holiday dinner",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-31",
+    "pieces": [
+      {
+        "name": "Short Sleeve Sweater",
+        "brand": "Mango",
+        "color": "Ecru",
+        "price": "£36.99",
+        "why": "A textured ecru bouclé knit — soft and light against black.",
+        "img": "img/p53_sweater.png",
+        "url": "https://shop.mango.com/gb/en/p/women/sweaters-and-cardigans/sweaters/short-sleeve-sweater/37009148/05/00"
+      },
+      {
+        "name": "Skirt With Slit and Ruffle Detail",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£69.99",
+        "img": "img/p52_skirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/skirts/long/skirt-with-slit-and-ruffle-detail/37036014/99/00",
+        "why": "The ruffle-and-slit midi again — one skirt, two New Year looks."
+      },
+      {
+        "name": "Manaelden Strappy Heeled Sandal",
+        "brand": "ALDO",
+        "color": "Gold",
+        "price": "$140",
+        "why": "Gold sandals with crystal straps and a mirrored heel — the party note.",
+        "img": "img/p53_sandals.png",
+        "url": "https://www.aldoshoes.com/products/manaelden-gold-13816572"
+      },
+      {
+        "name": "Velvet Handbag With Metallic Detail",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£35.99",
+        "why": "A black velvet pouch with a polished gold cuff, worn on the wrist.",
+        "img": "img/p53_bag.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/party/velvet-handbag-with-metallic-detail/37077805/99/00"
+      },
+      {
+        "name": "Relief Earrings",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£15.99",
+        "why": "Bold, organic gold studs — sculptural and simple.",
+        "img": "img/p53_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/relief-earrings/37017804/OR/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P54",
+    "id": "p54",
+    "category": "Studio Noir",
+    "sub": "The blazer & the sequin skirt.",
+    "hero": "img/p54_model.png",
+    "note": "A black belted suit blazer worn loose with nothing underneath, its sash tied at the neck, over a silver-and-black sequin midi skirt, with satin slingbacks, a sparkling clutch and elongated silver hoops. Tailoring meets sparkle.",
+    "occasions": [
+      "New Year's Eve",
+      "Party",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-31",
+    "pieces": [
+      {
+        "name": "Double-Breasted Belted Suit Blazer",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£69.99",
+        "why": "Worn open-necked and loose, the self-belt tied at the throat like a skinny scarf.",
+        "img": "img/p54_blazer.png",
+        "url": "https://shop.mango.com/gb/en/p/women/blazers/fitted/double-breasted-belted-suit-blazer/37074093/99/00"
+      },
+      {
+        "name": "Sequin Midi Skirt",
+        "brand": "Mango",
+        "color": "Silver",
+        "price": "£39.99",
+        "why": "A straight midi in streaky silver and black sequins — all the sparkle in one piece.",
+        "img": "img/p54_skirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/skirts/party/sequin-midi-skirt/37059124/PL/00"
+      },
+      {
+        "name": "Stiletto Heel Shoe",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£39.99",
+        "why": "Black satin pointed slingbacks — sleek under the sequins.",
+        "img": "img/p54_heels.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/stiletto-heel-shoe/37027779/99/00"
+      },
+      {
+        "name": "Metallic-Thread Handbag",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£49.99",
+        "img": "img/p52_clutch.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/party/metallic-thread-handbag/47031361/99/00",
+        "why": "The sparkling black frame clutch, chain tucked away."
+      },
+      {
+        "name": "Twisted Hoop Earrings",
+        "brand": "Mango",
+        "color": "Silver",
+        "price": "£12.99",
+        "why": "Elongated silver hoops with a soft twist.",
+        "img": "img/p54_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/twisted-hoop-earrings/37011554/PL/00"
+      }
+    ]
   }
 ]

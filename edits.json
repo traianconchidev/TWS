@@ -299,5 +299,18 @@
    "p50",
    "p51"
   ]
+ },
+ {
+  "slug": "nye-three-ways",
+  "type": "guide",
+  "eyebrow": "New Year's Eve",
+  "title": "Three Ways to Shine",
+  "intro": "Three New Year's Eve outfits, black at the core: a silver lurex knit with a draped ruffle skirt, the same skirt softened with cream bouclé and gold, and a loose belted blazer over a sequin midi. Pick your sparkle — every piece is linked to the retailer.",
+  "hero": "img/nye3_hero.png",
+  "lookIds": [
+   "p52",
+   "p53",
+   "p54"
+  ]
  }
 ]
