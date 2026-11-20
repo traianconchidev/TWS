@@ -287,5 +287,17 @@
    "p23",
    "p24"
   ]
+ },
+ {
+  "slug": "two-ways-one-palette",
+  "type": "guide",
+  "eyebrow": "Two Ways, One Palette",
+  "title": "One Print, Two Ways",
+  "intro": "One muted leopard print in grey-taupe and black, worn two ways — as a sheer wrap midi skirt with a fine black merino jumper, or as a tie-neck blouse tucked into black tapered trousers. The same black penny loafers, mocha cashmere socks and long brown suede bag finish both. Tap any look to shop every piece.",
+  "hero": "img/twoways_s1s2.png",
+  "lookIds": [
+   "p50",
+   "p51"
+  ]
  }
 ]
