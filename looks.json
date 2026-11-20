@@ -2894,5 +2894,65 @@
         "url": "https://www.next.ie/en/style/sv184805/c51526"
       }
     ]
+  },
+  {
+    "n": "TWS-P51",
+    "id": "p51",
+    "category": "Off-Duty",
+    "sub": "Leopard silk-touch blouse & black trousers.",
+    "hero": "img/p51_model.png",
+    "note": "The same muted leopard, worn the other way: a sheer tie-neck blouse tucked into black pleated tapered trousers, with mocha ribbed cashmere socks, glossy black penny loafers and the long brown suede top-handle bag. Polished enough for lunch, easy enough for a slow café morning.",
+    "occasions": [
+      "Café weekends",
+      "Lunch in town",
+      "Autumn days"
+    ],
+    "pieces": [
+      {
+        "name": "Alfa V-Neck Blouse With Tie Sash",
+        "brand": "Religion",
+        "color": "Leopard",
+        "price": "€79.50",
+        "why": "Sheer grey-taupe leopard with a long tie sash and gathered cuffs — the print, worn on top.",
+        "img": "img/p51_blouse.png",
+        "url": "https://www.next.ie/en/style/sv307544/182667"
+      },
+      {
+        "name": "Pleated Wool-Blend Tapered Trousers",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€129",
+        "why": "High-rise, pleated and tapered — a clean black line under the soft blouse.",
+        "img": "img/p51_trousers.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/trousers/tapered-fit/product/pleated-wool-blend-tapered-trousers-black-1317056001"
+      },
+      {
+        "name": "Leather Penny Loafers",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£79.99",
+        "why": "The same glossy black loafers as the skirt look — one pair, two outfits.",
+        "img": "img/p50_loafers.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/flat-shoes/leather-penny-loafers/47011342/99/00"
+      },
+      {
+        "name": "Ribbed Cashmere Socks",
+        "brand": "COS",
+        "color": "Mocha mélange",
+        "price": "€39",
+        "why": "A flash of mocha cashmere at the ankle — the warm note that ties to the bag.",
+        "img": "img/p50_socks.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/sockstights/cashmere/product/ribbed-cashmere-socks-mocha-mlange-0804674024"
+      },
+      {
+        "name": "Alma Bag",
+        "brand": "Katie Loxton",
+        "color": "Brown suede",
+        "price": "€49",
+        "why": "The long brown suede top-handle bag, shared with the skirt look.",
+        "img": "img/p50_bag.png",
+        "url": "https://www.next.ie/en/style/sv184805/c51526"
+      }
+    ]
   }
 ]
