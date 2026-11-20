@@ -2834,5 +2834,74 @@
         "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pack-of-2-mixed-earrings/37017805/OR/00"
       }
     ]
+  },
+  {
+    "n": "TWS-P50",
+    "id": "p50",
+    "category": "Off-Duty",
+    "sub": "Leopard chiffon & black merino.",
+    "hero": "img/p50_model.png",
+    "note": "A soft grey-taupe leopard chiffon wrap midi, tied at the side, under a fitted black merino funnel-neck. Sheer black tights, ribbed mocha cashmere socks and glossy black penny loafers keep it Parisian and easy; swap in flat black riding boots for colder days. A long brown suede top-handle bag ties the palette together.",
+    "occasions": [
+      "Café weekends",
+      "City walks",
+      "Autumn days"
+    ],
+    "pieces": [
+      {
+        "name": "Merino Wool Funnel-Neck Jumper",
+        "brand": "COS",
+        "color": "Black",
+        "price": "€59",
+        "why": "Fine black merino, slim raglan sleeves and a soft funnel neck — the clean half of the look.",
+        "img": "img/p50_jumper.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/knitwear/jumpers/merino/product/merino-wool-funnel-neck-jumper-black-1342221002"
+      },
+      {
+        "name": "Leopard Print Midi Wrap Asymmetric Skirt",
+        "brand": "Religion",
+        "color": "Leopard",
+        "price": "€77",
+        "why": "Sheer chiffon in a muted grey-taupe leopard, wrapped and tied at the side with a ruffled high-low hem.",
+        "img": "img/p50_skirt.png",
+        "url": "https://www.next.ie/en/style/sv308029/182978"
+      },
+      {
+        "name": "Leather Penny Loafers",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£79.99",
+        "why": "Glossy black penny loafers — worn over socks and sheer tights for the Parisian take.",
+        "img": "img/p50_loafers.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/flat-shoes/leather-penny-loafers/47011342/99/00"
+      },
+      {
+        "name": "Ribbed Cashmere Socks",
+        "brand": "COS",
+        "color": "Mocha mélange",
+        "price": "€39",
+        "why": "Mocha ribbed cashmere pulled up over black tights — the warm brown note between skirt and shoe.",
+        "img": "img/p50_socks.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/sockstights/cashmere/product/ribbed-cashmere-socks-mocha-mlange-0804674024"
+      },
+      {
+        "name": "Alma Bag",
+        "brand": "Katie Loxton",
+        "color": "Brown suede",
+        "price": "€49",
+        "why": "A long, slim brown suede top-handle bag — carried in the hand, it echoes the browns in the print.",
+        "img": "img/p50_bag.png",
+        "url": "https://www.next.ie/en/style/sv184805/c51526"
+      },
+      {
+        "name": "Leather High Boots (alternative)",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£169.99",
+        "why": "The cold-day swap: flat black leather riding boots under the same skirt.",
+        "img": "img/p50_boots.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/leather-high-boots/37045990/99/00"
+      }
+    ]
   }
 ]
