@@ -312,5 +312,18 @@
    "p53",
    "p54"
   ]
+ },
+ {
+  "slug": "holiday-travel",
+  "type": "guide",
+  "eyebrow": "Holiday Travel",
+  "title": "Holiday Travel, Three Ways",
+  "intro": "Three holiday travel outfits built for long days on the move: black, grey and white for the airport, with a soft cashmere tee and slip-on penny loafers; denim on denim with a houndstooth blazer on the shoulders for the train; and forest green over a brown roll-neck with rolled jeans and ankle boots for the road trip. Wear the heaviest layer, keep the shoes easy. Tap any look to shop every piece.",
+  "hero": "https://d2ol7oe51mr4n9.cloudfront.net/user_3KoP1BW6iBXAXAbJzuSxqbTReAb/5537c5a3-3987-415a-988f-0566fa5143d0.jpg",
+  "lookIds": [
+   "p33",
+   "p32",
+   "p31"
+  ]
  }
 ]
