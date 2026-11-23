@@ -3415,5 +3415,66 @@
         "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pendant-earrings/37017800/PL/00"
       }
     ]
+  },
+  {
+    "n": "TWS-P60",
+    "id": "p60",
+    "category": "Studio Noir",
+    "sub": "Ecru lace, satin & faux fur.",
+    "hero": "img/p60_model.png",
+    "note": "An ecru asymmetric lace top with a frayed ruffle, tucked into a cream satin midi with a lace hem, under a cropped ivory faux-fur jacket, with bronze strappy sandals and long crystal drops. Winter white for a Christmas night in the city.",
+    "occasions": [
+      "Christmas party",
+      "Evening out",
+      "Holiday dinner"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Asymmetric Lace Top",
+        "brand": "Mango",
+        "color": "Ecru",
+        "price": "£35.99",
+        "why": "Ruched ecru lace with a frayed ruffle down one side.",
+        "img": "img/p60_top.png",
+        "url": "https://shop.mango.com/gb/en/p/women/tops/party/asymmetric-lace-top/37049122/05/00"
+      },
+      {
+        "name": "Satin Lace Skirt",
+        "brand": "Mango",
+        "color": "Ecru",
+        "price": "£49.99",
+        "why": "Bias-cut cream satin finished with a delicate lace hem.",
+        "img": "img/p60_skirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/skirts/midi/satin-lace-skirt/47061531/05/00"
+      },
+      {
+        "name": "Faux-Fur Jacket With Lapels",
+        "brand": "Mango",
+        "color": "White",
+        "price": "£109.99",
+        "why": "Cropped and fluffy, held closed at the chest for the cold.",
+        "img": "img/p60_fur.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jackets/cropped/faux-fur-jacket-with-lapels/37089126/01/00"
+      },
+      {
+        "name": "Solania Strappy Heeled Sandal",
+        "brand": "ALDO",
+        "color": "Bronze",
+        "price": "$79.98",
+        "why": "Mirror-bronze straps on a 3.75-inch stiletto.",
+        "img": "img/p60_sandals.png",
+        "url": "https://www.aldoshoes.com/products/solania-bronze"
+      },
+      {
+        "name": "Long Crystal Earrings",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£15.99",
+        "why": "A line of graduated champagne crystals.",
+        "img": "img/p60_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/long-crystal-earrings/37019139/OR/00"
+      }
+    ]
   }
 ]
