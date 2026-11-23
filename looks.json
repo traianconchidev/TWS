@@ -3302,5 +3302,57 @@
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/sculptural-half-hoop-earrings-gold-1373353001"
       }
     ]
+  },
+  {
+    "n": "TWS-P58",
+    "id": "p58",
+    "category": "Studio Noir",
+    "sub": "Chocolate satin & beaded mesh.",
+    "hero": "img/p58_model.png",
+    "note": "A one-shoulder chocolate mesh blouse scattered with bronze beads, tucked into a fluid brown satin midi skirt, with embellished mesh mules and a metallic copper clutch. Tonal brown with a candlelit glow — the Christmas party look that isn't black.",
+    "occasions": [
+      "Christmas party",
+      "Office party",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Embroidered Asymmetric Blouse",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£35.99",
+        "why": "Sheer chocolate mesh, beaded all over, slipping off one shoulder.",
+        "img": "img/p58_blouse.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shirts---blouses/blouses/embroidered-asymmetric-blouse/37089124/30/00"
+      },
+      {
+        "name": "Flowing Satin Skirt",
+        "brand": "Massimo Dutti",
+        "color": "Brown",
+        "price": "£90",
+        "why": "A fluid brown satin midi that moves and catches the light.",
+        "img": "img/p58_skirt.png",
+        "url": "https://www.massimodutti.com/gb/flowing-satin-skirt-l05216509?pelement=61729704"
+      },
+      {
+        "name": "Embellished Heeled Mules",
+        "brand": "H&M",
+        "color": "Brown",
+        "price": "$47.99",
+        "why": "Brown suede with a beaded mesh sunburst on the vamp, on a 6.7 cm heel.",
+        "img": "img/p58_mules.png",
+        "url": "https://www2.hm.com/en_us/productpage.1368244001.html"
+      },
+      {
+        "name": "Alexzandraax Clutch",
+        "brand": "ALDO",
+        "color": "Copper",
+        "price": "$65",
+        "why": "Crinkled metallic copper with a gold geometric clasp and a chain to tuck away.",
+        "img": "img/p58_clutch.png",
+        "url": "https://www.aldoshoes.com/products/alexzandraax-copper"
+      }
+    ]
   }
 ]
