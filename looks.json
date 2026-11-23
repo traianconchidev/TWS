@@ -3137,5 +3137,66 @@
         "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/twisted-hoop-earrings/37011554/PL/00"
       }
     ]
+  },
+  {
+    "n": "TWS-P55",
+    "id": "p55",
+    "category": "Off-Duty",
+    "sub": "Fur collar & winter white.",
+    "hero": "img/p55_model.png",
+    "note": "An off-white ribbed cardigan with a fluffy faux-fur collar, buttoned to the neck and tucked into pleated winter-white trousers, cinched with a slim brown belt. Burgundy patent slingbacks and crystal pavé studs make it Christmas-ready — soft, bright and polished for the whole day at home.",
+    "occasions": [
+      "Christmas Day",
+      "Holiday lunch",
+      "Festive at home"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Cardigan Detachable Fur-Effect Collar",
+        "brand": "Mango",
+        "color": "Off White",
+        "price": "£49.99",
+        "why": "Buttoned up and tucked in, the fluffy collar frames the face like a winter scarf.",
+        "img": "img/p55_cardigan.png",
+        "url": "https://shop.mango.com/gb/en/p/women/sweaters-and-cardigans/cardigans/cardigan-detachable-fur-effect-collar/37027789/02/00"
+      },
+      {
+        "name": "Straight-Fit Pleated Trousers",
+        "brand": "Mango",
+        "color": "Off White",
+        "price": "£49.99",
+        "why": "Front pleats and a long straight leg — winter white head to toe.",
+        "img": "img/p55_trousers.png",
+        "url": "https://shop.mango.com/gb/en/p/women/trousers/smart/straight-fit-pleated-trousers/37058641/02/00"
+      },
+      {
+        "name": "Square Buckle Belt",
+        "brand": "Mango",
+        "color": "Brown",
+        "price": "£15.99",
+        "why": "A slim brown line at the waist with a squared gold buckle.",
+        "img": "img/p55_belt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/belts/basics/square-buckle-belt/37051336/30/00"
+      },
+      {
+        "name": "Kitten-Heel Patent Leather Shoes",
+        "brand": "Mango",
+        "color": "Burgundy",
+        "price": "£27.99",
+        "why": "Burgundy patent slingbacks on a 5 cm heel — the festive colour, at your feet.",
+        "img": "img/p55_heels.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/kitten-heel-patent-leather-shoes/37072904/78/00"
+      },
+      {
+        "name": "Pack of 2 Mixed Earrings",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£15.99",
+        "why": "The crystal pavé domes — a little sparkle next to the fur.",
+        "img": "img/p49_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pack-of-2-mixed-earrings/37017805/OR/00"
+      }
+    ]
   }
 ]
