@@ -3198,5 +3198,109 @@
         "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pack-of-2-mixed-earrings/37017805/OR/00"
       }
     ]
+  },
+  {
+    "n": "TWS-P56",
+    "id": "p56",
+    "category": "Off-Duty",
+    "sub": "Crystal knit & the red circle skirt.",
+    "hero": "img/p56_model.png",
+    "note": "An ecru crew-neck sweatshirt with a spray of crystals on the shoulder over a voluminous red circle-cut midi skirt, with burgundy patent kitten-heel slingbacks and crystal pavé studs. Cosy enough for opening presents, festive enough for Christmas lunch.",
+    "occasions": [
+      "Christmas Day",
+      "Holiday lunch",
+      "Festive at home"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Crystal Detail Sweatshirt",
+        "brand": "Mango",
+        "color": "Ecru",
+        "price": "£49.99",
+        "why": "A soft ecru crew neck with a crystal spray on one shoulder — the sparkle is built in.",
+        "img": "img/p56_sweater.png",
+        "url": "https://shop.mango.com/gb/en/p/women/sweaters-and-cardigans/party/crystal-detail-sweatshirt/37009153/05/00"
+      },
+      {
+        "name": "Circle-Cut Midi Skirt",
+        "brand": "COS",
+        "color": "Red",
+        "price": "€99",
+        "why": "Saturated red and full of movement — Christmas in one piece.",
+        "img": "img/p56_skirt.png",
+        "url": "https://www.cos.com/en-ie/women/womenswear/skirts/alineskirts/product/circle-cut-midi-skirt-red-1277475003"
+      },
+      {
+        "name": "Kitten-Heel Patent Leather Shoes",
+        "brand": "Mango",
+        "color": "Burgundy",
+        "price": "£27.99",
+        "why": "Burgundy patent slingbacks on a low 5 cm heel — easy all day.",
+        "img": "img/p56_heels.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/kitten-heel-patent-leather-shoes/37072904/78/00"
+      },
+      {
+        "name": "Pack of 2 Mixed Earrings",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£15.99",
+        "why": "The crystal pavé domes echo the sparkle on the shoulder.",
+        "img": "img/p49_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pack-of-2-mixed-earrings/37017805/OR/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P57",
+    "id": "p57",
+    "category": "Off-Duty",
+    "sub": "Cable knit & burgundy mesh.",
+    "hero": "img/p57_model.png",
+    "note": "An oversized ivory cable-knit sweater over a burgundy mesh midi skirt with a gathered waist and handkerchief hem, finished with burgundy knee-high leather boots and polished gold half-hoops. Fireside-cosy, with just enough drama for Christmas morning.",
+    "occasions": [
+      "Christmas Day",
+      "Christmas morning",
+      "Festive at home"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Braided Knitted Sweater",
+        "brand": "Mango",
+        "color": "Ivory White",
+        "price": "£49.99",
+        "why": "Chunky ivory cables, loosely tucked at the front.",
+        "img": "img/p57_sweater.png",
+        "url": "https://shop.mango.com/gb/en/p/women/pyjamas/knitwear/braided-knitted-sweater/37046354/04/00"
+      },
+      {
+        "name": "Skirt With Gathers and an Asymmetrical Hemline",
+        "brand": "Mango",
+        "color": "Burgundy",
+        "price": "£28.79",
+        "why": "A wide gathered waist and a pointed mesh hem that floats over the boots.",
+        "img": "img/p57_skirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/skirts/midi/skirt-with-gathers-and-an-asymmetrical-hemline/37066014/78/00"
+      },
+      {
+        "name": "Leather Heeled Boots",
+        "brand": "Mango",
+        "color": "Burgundy",
+        "price": "£149.99",
+        "why": "Knee-high burgundy leather with a pointed toe — tone on tone with the skirt.",
+        "img": "img/p57_boots.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/boots-and-ankle-boots/leather-heeled-boots/47041338/78/00"
+      },
+      {
+        "name": "Sculptural Half-Hoop Earrings",
+        "brand": "COS",
+        "color": "Gold",
+        "price": "€19",
+        "why": "Chunky polished gold domes that catch the firelight.",
+        "img": "img/p57_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/sculptural-half-hoop-earrings-gold-1373353001"
+      }
+    ]
   }
 ]
