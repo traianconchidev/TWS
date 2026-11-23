@@ -3476,5 +3476,75 @@
         "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/long-crystal-earrings/37019139/OR/00"
       }
     ]
+  },
+  {
+    "n": "TWS-P61",
+    "id": "p61",
+    "category": "Studio Noir",
+    "sub": "Red satin & cream fur.",
+    "hero": "img/p61_model.png",
+    "note": "A deep red satin shirt tucked into a matching red satin midi, under a cropped cream faux-fur jacket, with cream strappy sandals, a pearl-effect clutch and chunky gold mini hoops. Head-to-toe Christmas red, softened with winter cream.",
+    "occasions": [
+      "Christmas party",
+      "Christmas dinner",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Flowing Satin Shirt",
+        "brand": "Massimo Dutti",
+        "color": "Red",
+        "price": "£60",
+        "why": "Fluid red satin, tucked in with the top button open.",
+        "img": "img/p61_shirt.png",
+        "url": "https://www.massimodutti.com/gb/flowing-satin-shirt-l05159559?pelement=62059641"
+      },
+      {
+        "name": "Satin Midi Skirt",
+        "brand": "Massimo Dutti",
+        "color": "Red",
+        "price": "£90",
+        "why": "The matching red satin midi — one colour, top to bottom.",
+        "img": "img/p61_skirt.png",
+        "url": "https://www.massimodutti.com/gb/satin-midi-skirt-l05297510?pelement=67671015"
+      },
+      {
+        "name": "Faux-Fur Jacket With Lapels",
+        "brand": "Mango",
+        "color": "White",
+        "price": "£109.99",
+        "why": "Cropped cream fur that softens all that red.",
+        "img": "img/p60_fur.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jackets/cropped/faux-fur-jacket-with-lapels/37089126/01/00"
+      },
+      {
+        "name": "Solania Strappy Heeled Sandal",
+        "brand": "ALDO",
+        "color": "Light Beige",
+        "price": "$54.97",
+        "why": "Light beige straps on a slim stiletto.",
+        "img": "img/p61_sandals.png",
+        "url": "https://www.aldoshoes.com/products/solania-light-beige"
+      },
+      {
+        "name": "Pearl-Effect Clutch Bag",
+        "brand": "Mango",
+        "color": "Off White",
+        "price": "£49.99",
+        "why": "An oval mother-of-pearl minaudière with a gold clasp.",
+        "img": "img/p61_clutch.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/party/pearl-effect-clutch-bag/47091389/02/00"
+      },
+      {
+        "name": "Mini Chunky Hoop Earrings",
+        "brand": "COS",
+        "color": "Gold",
+        "price": "€29",
+        "why": "Thick polished gold hoops — a little old-money shine.",
+        "img": "img/p61_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
+      }
+    ]
   }
 ]
