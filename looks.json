@@ -3354,5 +3354,66 @@
         "url": "https://www.aldoshoes.com/products/alexzandraax-copper"
       }
     ]
+  },
+  {
+    "n": "TWS-P59",
+    "id": "p59",
+    "category": "Studio Noir",
+    "sub": "Midnight devoré & lace-trim satin.",
+    "hero": "img/p59_model.png",
+    "note": "A sheer navy devoré top with velvet roses, tucked into a slate-navy satin midi with a deep black lace hem, finished with beaded kitten-heel slingbacks, a black metallic-thread pouch and long smoky crystal drops. Midnight tones, candlelit and quietly expensive.",
+    "occasions": [
+      "Christmas party",
+      "Evening out",
+      "Office party"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Semi-Transparent Devoré Top",
+        "brand": "Mango",
+        "color": "Dark Navy",
+        "price": "£22.99",
+        "why": "Sheer navy mesh with velvet roses and a high neck.",
+        "img": "img/p59_top.png",
+        "url": "https://shop.mango.com/gb/en/p/women/tops/party/semi-transparent-devore-top/37097790/56/00"
+      },
+      {
+        "name": "Satin Skirt With Lace Trim",
+        "brand": "Mango",
+        "color": "Navy",
+        "price": "£24.99",
+        "why": "Slate-navy satin that ends in a deep band of black lace.",
+        "img": "img/p59_skirt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/skirts/party/satin-skirt-with-lace-trim/37057942/56/00"
+      },
+      {
+        "name": "Bead-Embellished Kitten-Heeled Slingbacks",
+        "brand": "H&M",
+        "color": "Black",
+        "price": "$39.99",
+        "why": "Navy beads in a diamond pattern on a 5.5 cm heel.",
+        "img": "img/p59_slingbacks.png",
+        "url": "https://www2.hm.com/en_us/productpage.1363638001.html"
+      },
+      {
+        "name": "Metallic-Thread Handbag",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£49.99",
+        "why": "A soft sparkling pouch to carry by hand.",
+        "img": "img/p52_clutch.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/party/metallic-thread-handbag/47031361/99/00"
+      },
+      {
+        "name": "Pendant Earrings",
+        "brand": "Mango",
+        "color": "Silver",
+        "price": "£17.99",
+        "why": "Long smoky crystal drops framed in black pavé.",
+        "img": "img/p59_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pendant-earrings/37017800/PL/00"
+      }
+    ]
   }
 ]
