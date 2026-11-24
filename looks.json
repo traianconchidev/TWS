@@ -3860,5 +3860,179 @@
         "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pearl-dangle-earrings/37004450/OR/00"
       }
     ]
+  },
+  {
+    "n": "TWS-P67",
+    "id": "p67",
+    "category": "Studio Noir",
+    "sub": "Sequined lace, touched with silver.",
+    "hero": "img/p67_model.png",
+    "note": "A floor-length white sequined lace gown with a ruffled high collar and strong shoulders, cinched with a thin silver ball-clasp belt, with beige patent slingbacks and a mirror-silver envelope clutch. A quiet, luminous Christmas gala look.",
+    "occasions": [
+      "Christmas party",
+      "Christmas gala",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Sequined Shoulder-Pad Dress",
+        "brand": "H&M",
+        "color": "White",
+        "price": "$649",
+        "why": "Floor-length sequined lace with a high ruffled collar, strong shoulders and a soft train.",
+        "img": "img/p67_dress.png",
+        "url": "https://www2.hm.com/en_us/productpage.1369844001.html"
+      },
+      {
+        "name": "Skinny Metal Belt",
+        "brand": "Mango",
+        "color": "Silver",
+        "price": "£17.99",
+        "why": "A fine flexible silver band with a double-sphere clasp.",
+        "img": "img/p67_belt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/belts/skinny-metal-belt/37057905/PL/00"
+      },
+      {
+        "name": "Seralina Slingback Heels",
+        "brand": "ALDO",
+        "color": "Light beige",
+        "price": "$110",
+        "why": "Pointed beige patent slingbacks on a slim heel.",
+        "img": "img/p67_shoes.png",
+        "url": "https://www.aldoshoes.com/products/seralina-light-beige"
+      },
+      {
+        "name": "Iilianaa Clutch",
+        "brand": "ALDO",
+        "color": "Silver",
+        "price": "$55",
+        "why": "Mirror-silver envelope with a turn-lock and wrist strap.",
+        "img": "img/p67_clutch.png",
+        "url": "https://www.aldoshoes.com/products/iilianaa-silver"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P68",
+    "id": "p68",
+    "category": "Studio Noir",
+    "sub": "Lace gown, brown fur & gold.",
+    "hero": "img/p68_model.png",
+    "note": "The white sequined lace gown under a cropped chocolate faux-fur jacket, left slightly open and belted with a fine gold ball-clasp belt, with a marbled brown clutch, long burgundy beaded earrings and beige slingbacks. Warm brown and gold for a winter evening.",
+    "occasions": [
+      "Christmas party",
+      "Christmas gala",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Sequined Shoulder-Pad Dress",
+        "brand": "H&M",
+        "color": "White",
+        "price": "$649",
+        "why": "Floor-length sequined lace with a high ruffled collar, strong shoulders and a soft train.",
+        "img": "img/p67_dress.png",
+        "url": "https://www2.hm.com/en_us/productpage.1369844001.html"
+      },
+      {
+        "name": "Fluffy Jacket with Funnel Collar",
+        "brand": "H&M",
+        "color": "Brown",
+        "price": "$44.99",
+        "why": "Cropped, soft chocolate faux fur with a funnel collar.",
+        "img": "img/p68_jacket.png",
+        "url": "https://www2.hm.com/en_us/productpage.1347544002.html"
+      },
+      {
+        "name": "Chain Belt Buckle",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£10.79",
+        "why": "A fine gold band with a double-sphere clasp, worn over the fur.",
+        "img": "img/p68_belt.png",
+        "url": "https://shop.mango.com/gb/en/p/women/belts/party/chain-belt-buckle/37024425/OR/00"
+      },
+      {
+        "name": "Shella Clutch",
+        "brand": "ALDO",
+        "color": "Brown",
+        "price": "$59.98",
+        "why": "Glossy marbled brown resin with a gold kiss-lock.",
+        "img": "img/p68_clutch.png",
+        "url": "https://www.aldoshoes.com/products/shella-brown"
+      },
+      {
+        "name": "Long Beaded Earrings",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£19.99",
+        "why": "Burgundy teardrop beads on gold, long and swinging.",
+        "img": "img/p68_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/long-beaded-earrings/47041468/OR/00"
+      },
+      {
+        "name": "Seralina Slingback Heels",
+        "brand": "ALDO",
+        "color": "Light beige",
+        "price": "$110",
+        "why": "Pointed beige patent slingbacks on a slim heel.",
+        "img": "img/p67_shoes.png",
+        "url": "https://www.aldoshoes.com/products/seralina-light-beige"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P69",
+    "id": "p69",
+    "category": "Studio Noir",
+    "sub": "Sequined lace & pearl drops.",
+    "hero": "img/p69_model.png",
+    "note": "The white sequined lace gown worn simply, with long gold-capped teardrop pearl earrings, a pearly oval clutch and beige patent slingbacks. Pearls and lace for a refined Christmas evening.",
+    "occasions": [
+      "Christmas gala",
+      "Christmas party",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Sequined Shoulder-Pad Dress",
+        "brand": "H&M",
+        "color": "White",
+        "price": "$649",
+        "why": "Floor-length sequined lace with a high ruffled collar, strong shoulders and a soft train.",
+        "img": "img/p67_dress.png",
+        "url": "https://www2.hm.com/en_us/productpage.1369844001.html"
+      },
+      {
+        "name": "Teardrop Pendant Earrings",
+        "brand": "H&M",
+        "color": "Gold/Ivory",
+        "price": "$18.99",
+        "why": "A pearl stud, a gold leaf cap and a long teardrop pearl.",
+        "img": "img/p69_earrings.png",
+        "url": "https://www2.hm.com/en_us/productpage.1375931001.html"
+      },
+      {
+        "name": "Pearl-Effect Clutch Bag",
+        "brand": "Mango",
+        "color": "Off White",
+        "price": "£49.99",
+        "why": "A small pearly oval with a gold clasp.",
+        "img": "img/p61_clutch.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/party/pearl-effect-clutch-bag/47091389/02/00"
+      },
+      {
+        "name": "Seralina Slingback Heels",
+        "brand": "ALDO",
+        "color": "Light beige",
+        "price": "$110",
+        "why": "Pointed beige patent slingbacks on a slim heel.",
+        "img": "img/p67_shoes.png",
+        "url": "https://www.aldoshoes.com/products/seralina-light-beige"
+      }
+    ]
   }
 ]
