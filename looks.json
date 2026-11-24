@@ -3616,5 +3616,249 @@
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
       }
     ]
+  },
+  {
+    "n": "TWS-P63",
+    "id": "p63",
+    "category": "Studio Noir",
+    "sub": "Ivory ruffles & a crystal collar.",
+    "hero": "img/p63_model.png",
+    "note": "A white ruffled V-neck top tucked into a white satin midi, with bone stiletto sandals, a fine gold open collar tipped with crystals and a pearly oval clutch. All-white Christmas, on an affordable budget.",
+    "occasions": [
+      "Christmas party",
+      "Christmas dinner",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Flounce-Trimmed V-Neck Top",
+        "brand": "H&M",
+        "color": "White",
+        "price": "$17.99",
+        "why": "Big sculpted ruffles framing a deep V.",
+        "img": "img/p63_top.png",
+        "url": "https://www2.hm.com/en_us/productpage.1313674001.html"
+      },
+      {
+        "name": "Midi Skirt",
+        "brand": "H&M",
+        "color": "White",
+        "price": "$15.99",
+        "why": "Fluid white satin to mid-calf.",
+        "img": "img/p63_skirt.png",
+        "url": "https://www2.hm.com/en_us/productpage.1184662031.html"
+      },
+      {
+        "name": "Leandra Heeled Sandals",
+        "brand": "ALDO",
+        "color": "White/Bone",
+        "price": "$84.98",
+        "why": "Pointed bone sandals on a slim stiletto, with a fine ankle strap.",
+        "img": "img/p63_sandals.png",
+        "url": "https://www.aldoshoes.com/products/leandra-white-bone"
+      },
+      {
+        "name": "Naomia Necklace",
+        "brand": "ALDO",
+        "color": "Gold/Clear",
+        "price": "$22",
+        "why": "A fine open gold collar with crystal drops at the ends.",
+        "img": "img/p63_necklace.png",
+        "url": "https://www.aldoshoes.com/products/naomia-gold-clear-multi"
+      },
+      {
+        "name": "Pearl-Effect Clutch Bag",
+        "brand": "Mango",
+        "color": "Off White",
+        "price": "£49.99",
+        "why": "A small pearly oval with a gold clasp.",
+        "img": "img/p61_clutch.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/party/pearl-effect-clutch-bag/47091389/02/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P64",
+    "id": "p64",
+    "category": "Studio Noir",
+    "sub": "Sequin puff sleeves & gold.",
+    "hero": "img/p64_model.png",
+    "note": "A cream sequined top with puff sleeves and a stand-up collar, tucked into a light beige satin midi, with bone stiletto sandals, a mirror-gold top-handle bag and pearl-drop earrings. Champagne tones for a Christmas party.",
+    "occasions": [
+      "Christmas party",
+      "Christmas dinner",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Sequined Fluffy-Knit Top",
+        "brand": "H&M",
+        "color": "Cream",
+        "price": "$35.99",
+        "why": "Soft knit under iridescent sequins, puff sleeves, high collar.",
+        "img": "img/p64_top.png",
+        "url": "https://www2.hm.com/en_us/productpage.1365094001.html"
+      },
+      {
+        "name": "Midi Skirt",
+        "brand": "H&M",
+        "color": "Light beige",
+        "price": "$21.99",
+        "why": "Light beige satin with a soft flare at the hem.",
+        "img": "img/p64_skirt.png",
+        "url": "https://www2.hm.com/en_us/productpage.1246922033.html"
+      },
+      {
+        "name": "Leandra Heeled Sandals",
+        "brand": "ALDO",
+        "color": "White/Bone",
+        "price": "$84.98",
+        "why": "Pointed bone sandals on a slim stiletto, with a fine ankle strap.",
+        "img": "img/p63_sandals.png",
+        "url": "https://www.aldoshoes.com/products/leandra-white-bone"
+      },
+      {
+        "name": "Aellaxiaax Top Handle Bag",
+        "brand": "ALDO",
+        "color": "Gold",
+        "price": "$60",
+        "why": "Mirror gold with an asymmetric flap and a round handle.",
+        "img": "img/p64_bag.png",
+        "url": "https://www.aldoshoes.com/products/aellaxiaax-gold"
+      },
+      {
+        "name": "Pearl Dangle Earrings",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£11.19",
+        "why": "A gold knot with a pearl drop.",
+        "img": "img/p64_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pearl-dangle-earrings/37004450/OR/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P65",
+    "id": "p65",
+    "category": "Studio Noir",
+    "sub": "Fringe, satin & mother-of-pearl.",
+    "hero": "img/p65_model.png",
+    "note": "A cream fringed top with elbow sleeves over a light beige satin midi, with bone stiletto sandals, a mother-of-pearl paillette bag with a gold knot handle and pearl-drop earrings. Soft texture for a candlelit Christmas dinner.",
+    "occasions": [
+      "Christmas dinner",
+      "Christmas party",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Fringed Top",
+        "brand": "H&M",
+        "color": "Cream",
+        "price": "$39.99",
+        "why": "Covered in soft, flowing fringe that moves as you walk.",
+        "img": "img/p65_top.png",
+        "url": "https://www2.hm.com/en_us/productpage.1370832001.html"
+      },
+      {
+        "name": "Midi Skirt",
+        "brand": "H&M",
+        "color": "Light beige",
+        "price": "$21.99",
+        "why": "The same light beige satin midi, fluid and calf-length.",
+        "img": "img/p64_skirt.png",
+        "url": "https://www2.hm.com/en_us/productpage.1246922033.html"
+      },
+      {
+        "name": "Leandra Heeled Sandals",
+        "brand": "ALDO",
+        "color": "White/Bone",
+        "price": "$84.98",
+        "why": "Pointed bone sandals on a slim stiletto, with a fine ankle strap.",
+        "img": "img/p63_sandals.png",
+        "url": "https://www.aldoshoes.com/products/leandra-white-bone"
+      },
+      {
+        "name": "Adyaa Top Handle Bag",
+        "brand": "ALDO",
+        "color": "Bone",
+        "price": "$95",
+        "why": "Mother-of-pearl paillettes under a gold knot handle.",
+        "img": "img/p65_bag.png",
+        "url": "https://www.aldoshoes.com/products/adyaa-bone"
+      },
+      {
+        "name": "Pearl Dangle Earrings",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£11.19",
+        "why": "A gold knot with a pearl drop.",
+        "img": "img/p64_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pearl-dangle-earrings/37004450/OR/00"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P66",
+    "id": "p66",
+    "category": "Studio Noir",
+    "sub": "Sequin cardigan & black satin.",
+    "hero": "img/p66_model.png",
+    "note": "A cream sequined cardigan with black velvet trim, worn closed as a top over a light beige satin midi, with black satin ankle-strap court shoes, a pearly oval clutch and pearl-drop earrings. A little black-and-cream Christmas classic.",
+    "occasions": [
+      "Christmas party",
+      "Christmas dinner",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Sequined Cardigan",
+        "brand": "H&M",
+        "color": "Cream",
+        "price": "$31.99",
+        "why": "Cropped sequins edged in black velvet, closed at the front.",
+        "img": "img/p66_cardigan.png",
+        "url": "https://www2.hm.com/en_us/productpage.1364916002.html"
+      },
+      {
+        "name": "Midi Skirt",
+        "brand": "H&M",
+        "color": "Light beige",
+        "price": "$21.99",
+        "why": "Light beige satin that softens the black trim.",
+        "img": "img/p64_skirt.png",
+        "url": "https://www2.hm.com/en_us/productpage.1246922033.html"
+      },
+      {
+        "name": "Satin Court Shoes With Ankle Straps",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£19.99",
+        "why": "Pointed black satin on a slim heel, picking up the trim.",
+        "img": "img/p66_shoes.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/heeled-shoes/satin-court-shoes-with-ankle-straps/37075983/99/00"
+      },
+      {
+        "name": "Pearl-Effect Clutch Bag",
+        "brand": "Mango",
+        "color": "Off White",
+        "price": "£49.99",
+        "why": "A small pearly oval with a gold clasp.",
+        "img": "img/p61_clutch.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/party/pearl-effect-clutch-bag/47091389/02/00"
+      },
+      {
+        "name": "Pearl Dangle Earrings",
+        "brand": "Mango",
+        "color": "Gold",
+        "price": "£11.19",
+        "why": "A gold knot with a pearl drop.",
+        "img": "img/p64_earrings.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pearl-dangle-earrings/37004450/OR/00"
+      }
+    ]
   }
 ]
