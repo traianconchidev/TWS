@@ -3546,5 +3546,75 @@
         "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
       }
     ]
+  },
+  {
+    "n": "TWS-P62",
+    "id": "p62",
+    "category": "Studio Noir",
+    "sub": "Red satin & black fur.",
+    "hero": "img/p62_model.png",
+    "note": "A deep red satin shirt tucked into a matching red satin midi, under a cropped black faux-fur jacket with a soft collar, with black satin strappy sandals, a glossy black clutch with a gold flower clasp and chunky gold mini hoops. Christmas red, sharpened with black.",
+    "occasions": [
+      "Christmas party",
+      "Christmas dinner",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-20",
+    "pieces": [
+      {
+        "name": "Flowing Satin Shirt",
+        "brand": "Massimo Dutti",
+        "color": "Red",
+        "price": "£60",
+        "why": "Fluid red satin, tucked in with the top button open.",
+        "img": "img/p61_shirt.png",
+        "url": "https://www.massimodutti.com/gb/flowing-satin-shirt-l05159559?pelement=62059641"
+      },
+      {
+        "name": "Satin Midi Skirt",
+        "brand": "Massimo Dutti",
+        "color": "Red",
+        "price": "£90",
+        "why": "The matching red satin midi — one colour, top to bottom.",
+        "img": "img/p61_skirt.png",
+        "url": "https://www.massimodutti.com/gb/satin-midi-skirt-l05297510?pelement=67671015"
+      },
+      {
+        "name": "Fur Jacket With Lapel Collar",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£89.99",
+        "why": "Cropped, boxy black faux fur with a soft collar.",
+        "img": "img/p62_fur.png",
+        "url": "https://shop.mango.com/gb/en/p/women/jackets/faux-fur/fur-jacket-with-lapel-collar/37047781/99/00"
+      },
+      {
+        "name": "Strappy Heeled Sandals",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£25.99",
+        "why": "Minimal black satin straps on a slim heel.",
+        "img": "img/p62_sandals.png",
+        "url": "https://shop.mango.com/gb/en/p/women/shoes/party/strappy-heeled-sandals/37001355/99/00"
+      },
+      {
+        "name": "Flower-Closure Clutch Bag",
+        "brand": "Mango",
+        "color": "Black",
+        "price": "£59.99",
+        "why": "Glossy black with a gold flower clasp.",
+        "img": "img/p62_clutch.png",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/party/flower-closure-clutch-bag/47051344/99/00"
+      },
+      {
+        "name": "Mini Chunky Hoop Earrings",
+        "brand": "COS",
+        "color": "Gold",
+        "price": "€29",
+        "why": "Thick polished gold hoops.",
+        "img": "img/p61_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
+      }
+    ]
   }
 ]
