@@ -325,5 +325,69 @@
    "p32",
    "p31"
   ]
+ },
+ {
+  "slug": "one-dress-three-ways",
+  "type": "guide",
+  "eyebrow": "Christmas Eve",
+  "title": "One Dress, Three Ways",
+  "intro": "One white sequined lace gown for Christmas Eve, styled three ways: cool silver, warm brown fur and gold, or simply pearls. Keep the gown; change the story around it.",
+  "hero": "img/ce_dress3ways.jpg",
+  "lookIds": [
+   "p67",
+   "p68",
+   "p69"
+  ]
+ },
+ {
+  "slug": "one-satin-skirt-three-ways",
+  "type": "guide",
+  "eyebrow": "Christmas Party",
+  "title": "One Skirt, Three Ways",
+  "intro": "One light beige satin midi skirt under $25, three festive tops: sequin puff sleeves with gold, soft fringe with mother-of-pearl, or a sequin cardigan with black satin.",
+  "hero": "img/ce_skirt3ways.jpg",
+  "lookIds": [
+   "p64",
+   "p65",
+   "p66"
+  ]
+ },
+ {
+  "slug": "red-christmas-two-ways",
+  "type": "guide",
+  "eyebrow": "Christmas Party",
+  "title": "One Red Outfit, Two Ways",
+  "intro": "A matching red satin shirt and midi skirt, styled two ways: softened with cream faux fur, or sharpened with black.",
+  "hero": "img/ce_red2ways.jpg",
+  "lookIds": [
+   "p61",
+   "p62"
+  ]
+ },
+ {
+  "slug": "christmas-party-three-colours",
+  "type": "guide",
+  "eyebrow": "Christmas Party",
+  "title": "Navy, Brown or Cream?",
+  "intro": "Three Christmas party looks built on a satin midi skirt, one in each quiet-luxury colour: midnight navy, chocolate brown and ivory.",
+  "hero": "img/ce_3colours.jpg",
+  "lookIds": [
+   "p59",
+   "p58",
+   "p63"
+  ]
+ },
+ {
+  "slug": "christmas-day-cream-burgundy",
+  "type": "guide",
+  "eyebrow": "Christmas Day",
+  "title": "Cream & Burgundy, Three Ways",
+  "intro": "Relaxed Christmas Day dressing in cream and burgundy: winter-white with a fur collar, a crystal sweatshirt with a red circle skirt, or a cable knit with a burgundy mesh skirt.",
+  "hero": "img/ce_creambordo.jpg",
+  "lookIds": [
+   "p55",
+   "p56",
+   "p57"
+  ]
  }
 ]
