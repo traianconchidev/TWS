@@ -389,5 +389,18 @@
    "p56",
    "p57"
   ]
+ },
+ {
+  "slug": "winter-wedding-three-styles",
+  "type": "guide",
+  "eyebrow": "Winter Wedding Guest",
+  "title": "One Wedding, Three Styles",
+  "intro": "What to wear to a winter wedding, from the day ceremony to the city hall evening and the midnight reception: a blue midi under a long coat, a satin shirt and skirt with a blazer, and navy satin with faux fur.",
+  "hero": "img/ww_3styles.jpg",
+  "lookIds": [
+   "p36",
+   "p37",
+   "p38"
+  ]
  }
 ]
