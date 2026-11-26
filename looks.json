@@ -4171,5 +4171,120 @@
         "url": "https://www.aldoshoes.com/products/zailah-black"
       }
     ]
+  },
+  {
+    "n": "TWS-P72",
+    "id": "p72",
+    "category": "Studio Noir",
+    "sub": "Mauve jacquard, wrapped & tied.",
+    "hero": "img/p72_model.png",
+    "note": "A dark mauve satin-jacquard wrap jacket with shawl lapels, deep cuffs and a side bow, worn with the matching asymmetric midi skirt and burgundy patent slingbacks. A co-ord that does all the work for a Christmas evening.",
+    "occasions": [
+      "Christmas party",
+      "Christmas dinner",
+      "Holiday evening"
+    ],
+    "validUntil": "2026-12-31",
+    "affordable": true,
+    "pieces": [
+      {
+        "name": "Tie-Detail Jacquard-Weave Jacket",
+        "brand": "H&M",
+        "color": "Dark mauve",
+        "price": "$36.99",
+        "why": "A short wrap jacket in satin jacquard with shawl lapels, strong shoulders, deep cuffs and a wide side tie.",
+        "img": "img/p72_jacket.png",
+        "url": "https://www2.hm.com/en_us/productpage.1364506001.html"
+      },
+      {
+        "name": "Asymmetric Jacquard-Weave Skirt",
+        "brand": "H&M",
+        "color": "Dark taupe",
+        "price": "$18.99",
+        "why": "The matching jacquard midi skirt with a high waist and a diagonal handkerchief hem.",
+        "img": "img/p72_skirt.png",
+        "url": "https://www2.hm.com/en_us/productpage.1364453001.html"
+      },
+      {
+        "name": "Zailah Slingback Heels",
+        "brand": "ALDO",
+        "color": "Burgundy",
+        "price": "$74.98",
+        "why": "Glossy burgundy patent slingbacks on a slim stiletto.",
+        "img": "img/p72_shoes.png",
+        "url": "https://www.aldoshoes.com/products/zailah-burgundy"
+      }
+    ]
+  },
+  {
+    "n": "TWS-P74",
+    "id": "p74",
+    "category": "Studio Noir",
+    "sub": "Paisley velvet & a black midi.",
+    "hero": "img/p74_model.png",
+    "note": "A caramel paisley jacquard-velvet bandeau over a black flared midi skirt, with a four-strand gold choker, tiny gold knot studs, a slim black envelope clutch and black slingbacks. Warm, modern and festive on a budget.",
+    "occasions": [
+      "Christmas party",
+      "Holiday dinner",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-31",
+    "affordable": true,
+    "pieces": [
+      {
+        "name": "Jacquard-Velvet Bandeau Top",
+        "brand": "H&M",
+        "color": "Dark beige/paisley",
+        "price": "$32.99",
+        "why": "A fitted, boned bandeau in caramel paisley jacquard velvet.",
+        "img": "img/p74_corset.png",
+        "url": "https://www2.hm.com/en_us/productpage.1368708001.html"
+      },
+      {
+        "name": "Flared Midi Skirt",
+        "brand": "H&M",
+        "color": "Black",
+        "price": "$29.99",
+        "why": "A high-waist black midi with a gathered seam below the hips for a soft flare.",
+        "img": "img/p74_skirt.png",
+        "url": "https://www2.hm.com/en_us/productpage.1351759001.html"
+      },
+      {
+        "name": "Four-Strand Necklace",
+        "brand": "H&M",
+        "color": "Gold",
+        "price": "$14.99",
+        "why": "Four flat herringbone chains worn close at the base of the neck.",
+        "img": "img/p74_necklace.png",
+        "url": "https://www2.hm.com/en_us/productpage.1319517001.html"
+      },
+      {
+        "name": "Yelajar Earrings",
+        "brand": "ALDO",
+        "color": "Gold",
+        "price": "$12",
+        "why": "Small polished gold knot studs.",
+        "img": "img/p74_earrings.png",
+        "url": "https://www.aldoshoes.com/products/yelajar-gold-14521429"
+      },
+      {
+        "name": "Aliceiaa Crossbody Bag",
+        "brand": "ALDO",
+        "color": "Black",
+        "price": "$39.98",
+        "why": "A slim black envelope clutch; the fine gold chain tucks inside.",
+        "img": "img/p74_bag.png",
+        "url": "https://www.aldoshoes.com/products/aliceiaa-black"
+      },
+      {
+        "name": "Heeled Slingbacks",
+        "brand": "H&M",
+        "color": "Black",
+        "price": "$23.99",
+        "why": "Black pointed slingbacks with a slim gold buckle.",
+        "img": "img/p74_shoes.png",
+        "url": "https://www2.hm.com/en_us/productpage.1356801001.html"
+      }
+    ]
   }
 ]
