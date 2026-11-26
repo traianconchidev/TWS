@@ -3676,7 +3676,8 @@
         "img": "img/p61_clutch.png",
         "url": "https://shop.mango.com/gb/en/p/women/bags/party/pearl-effect-clutch-bag/47091389/02/00"
       }
-    ]
+    ],
+    "affordable": true
   },
   {
     "n": "TWS-P64",
@@ -3737,7 +3738,8 @@
         "img": "img/p64_earrings.png",
         "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pearl-dangle-earrings/37004450/OR/00"
       }
-    ]
+    ],
+    "affordable": true
   },
   {
     "n": "TWS-P65",
@@ -3798,7 +3800,8 @@
         "img": "img/p64_earrings.png",
         "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pearl-dangle-earrings/37004450/OR/00"
       }
-    ]
+    ],
+    "affordable": true
   },
   {
     "n": "TWS-P66",
@@ -3859,7 +3862,8 @@
         "img": "img/p64_earrings.png",
         "url": "https://shop.mango.com/gb/en/p/women/jewellery/earrings/pearl-dangle-earrings/37004450/OR/00"
       }
-    ]
+    ],
+    "affordable": true
   },
   {
     "n": "TWS-P67",
@@ -4103,6 +4107,7 @@
         "img": "img/p70_shoes.png",
         "url": "https://www2.hm.com/en_us/productpage.1352482001.html"
       }
-    ]
+    ],
+    "affordable": true
   }
 ]
