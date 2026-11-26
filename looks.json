@@ -4286,5 +4286,67 @@
         "url": "https://www2.hm.com/en_us/productpage.1356801001.html"
       }
     ]
+  },
+  {
+    "n": "TWS-P71",
+    "id": "p71",
+    "category": "Studio Noir",
+    "sub": "Velvet bow & black jacquard.",
+    "hero": "img/p71_model.png",
+    "note": "A black velvet one-shoulder top with a big bow, black floral jacquard wide-leg trousers, a gold rope belt knotted to the side with tassels, gold teardrop earrings and black slingbacks. All black, lifted with gold, for a holiday evening.",
+    "occasions": [
+      "Christmas party",
+      "New Year's Eve",
+      "Holiday evening"
+    ],
+    "validUntil": "2026-12-31",
+    "affordable": true,
+    "pieces": [
+      {
+        "name": "One-Shoulder Velour Top",
+        "brand": "H&M",
+        "color": "Black",
+        "price": "$15.99",
+        "why": "A fitted velvet top with one wide strap finished in a big bow.",
+        "img": "img/p71_top.png",
+        "url": "https://www2.hm.com/en_us/productpage.1365093001.html"
+      },
+      {
+        "name": "Jacquard Dress Pants",
+        "brand": "H&M",
+        "color": "Black",
+        "price": "$39.99",
+        "why": "High-waist wide-leg trousers in softly sheened floral jacquard, with pleats and pressed creases.",
+        "img": "img/p71_trousers.png",
+        "url": "https://www2.hm.com/en_us/productpage.1372085001.html"
+      },
+      {
+        "name": "Tasseled Chain Belt",
+        "brand": "H&M",
+        "color": "Gold",
+        "price": "$18.99",
+        "why": "A twisted gold rope-chain tie belt with tassels; knot it to the side.",
+        "img": "img/p71_belt.png",
+        "url": "https://www2.hm.com/en_us/productpage.1382708001.html"
+      },
+      {
+        "name": "Waterproof Earrings",
+        "brand": "H&M",
+        "color": "Gold",
+        "price": "$19.99",
+        "why": "Polished gold teardrops.",
+        "img": "img/p71_earrings.png",
+        "url": "https://www2.hm.com/en_us/productpage.1373393001.html"
+      },
+      {
+        "name": "Heeled Slingbacks",
+        "brand": "H&M",
+        "color": "Black",
+        "price": "$23.99",
+        "why": "Black pointed slingbacks with a slim gold buckle.",
+        "img": "img/p71_shoes.png",
+        "url": "https://www2.hm.com/en_us/productpage.1356801001.html"
+      }
+    ]
   }
 ]
