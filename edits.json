@@ -402,5 +402,30 @@
    "p37",
    "p38"
   ]
+ },
+ {
+  "slug": "affordable-christmas-party",
+  "type": "guide",
+  "eyebrow": "Affordable Christmas Party",
+  "title": "Three Looks Under $250",
+  "intro": "Christmas party outfits from H&M, ALDO and Mango that look far more expensive than they are: a red knit off one shoulder with liquid satin, a mauve jacquard co-ord, and paisley velvet with a black midi.",
+  "hero": "img/ac_christmas3.jpg",
+  "lookIds": [
+   "p70",
+   "p72",
+   "p74"
+  ]
+ },
+ {
+  "slug": "affordable-new-years-eve",
+  "type": "guide",
+  "eyebrow": "Affordable New Year's Eve",
+  "title": "All Black, Two Ways",
+  "intro": "Two affordable New Year's Eve outfits in head-to-toe black: a velvet bow top with jacquard trousers and a gold rope belt, or a feather-fringe halter with matching feather-trimmed crepe trousers.",
+  "hero": "img/ac_nye2.jpg",
+  "lookIds": [
+   "p71",
+   "p73"
+  ]
  }
 ]
