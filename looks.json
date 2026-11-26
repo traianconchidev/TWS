@@ -4109,5 +4109,67 @@
       }
     ],
     "affordable": true
+  },
+  {
+    "n": "TWS-P73",
+    "id": "p73",
+    "category": "Studio Noir",
+    "sub": "Feathers, black crepe & gold pavé.",
+    "hero": "img/p73_model.png",
+    "note": "A black halterneck top with a feather-fringe hem over matching feather-trimmed crepe trousers, black pointed slingbacks, a glossy python-embossed clutch with a gold clasp and gold pavé hoops. Head-to-toe black with movement, made for New Year's Eve.",
+    "occasions": [
+      "New Year's Eve",
+      "Holiday party",
+      "Evening out"
+    ],
+    "validUntil": "2026-12-31",
+    "affordable": true,
+    "pieces": [
+      {
+        "name": "Halterneck Top with Fringe",
+        "brand": "H&M",
+        "color": "Black",
+        "price": "$18.99",
+        "why": "An A-line halterneck top with a wide feather-fringe hem.",
+        "img": "img/p73_top.png",
+        "url": "https://www2.hm.com/en_us/productpage.1367659001.html"
+      },
+      {
+        "name": "Sequin-Fringed Crêpe Pants",
+        "brand": "H&M",
+        "color": "Black",
+        "price": "$31.99",
+        "why": "Relaxed straight-leg crepe trousers with a fringed hem that echoes the top.",
+        "img": "img/p73_trousers.png",
+        "url": "https://www2.hm.com/en_us/productpage.1370245003.html"
+      },
+      {
+        "name": "Alexzandraax Clutch",
+        "brand": "ALDO",
+        "color": "Black",
+        "price": "$65",
+        "why": "A glossy python-embossed clutch with a top handle and a gold geometric clasp.",
+        "img": "img/p73_bag.png",
+        "url": "https://www.aldoshoes.com/products/alexzandraax-black"
+      },
+      {
+        "name": "Vitoriia Hoop Earrings",
+        "brand": "ALDO",
+        "color": "Gold/clear",
+        "price": "$25",
+        "why": "Soft oval gold hoops covered in pavé crystals.",
+        "img": "img/p73_earrings.png",
+        "url": "https://www.aldoshoes.com/products/vitoriia-gold-clear-multi"
+      },
+      {
+        "name": "Zailah Slingback Heels",
+        "brand": "ALDO",
+        "color": "Black",
+        "price": "$74.98",
+        "why": "Sleek black pointed slingbacks on a stiletto heel.",
+        "img": "img/p73_shoes.png",
+        "url": "https://www.aldoshoes.com/products/zailah-black"
+      }
+    ]
   }
 ]
