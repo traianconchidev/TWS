@@ -4348,5 +4348,191 @@
         "url": "https://www2.hm.com/en_us/productpage.1356801001.html"
       }
     ]
+  },
+  {
+    "id": "p75",
+    "n": "TWS-P75",
+    "category": "Studio Noir",
+    "sub": "Red off-shoulder & embroidered black.",
+    "hero": "img/p75_model.png",
+    "note": "A red off-the-shoulder sweater tucked into a black embroidered crêpe midi skirt, with black pointed pumps, a slim black clutch and tiny gold knot studs. Bare shoulders, one bold colour, made for a holiday party.",
+    "occasions": [
+      "Christmas party",
+      "Holiday dinner",
+      "Evening out"
+    ],
+    "pieces": [
+      {
+        "brand": "H&M",
+        "color": "Red",
+        "img": "img/p75_top.png",
+        "name": "Off-the-Shoulder Sweater",
+        "price": "$17.99",
+        "url": "https://www2.hm.com/en_us/productpage.1303065002.html",
+        "why": "A soft red knit with a folded off-shoulder neckline and long sleeves; tuck it in."
+      },
+      {
+        "brand": "H&M",
+        "color": "Black",
+        "img": "img/p75_skirt.png",
+        "name": "Embroidered Crêpe Skirt",
+        "price": "$169",
+        "url": "https://www2.hm.com/en_us/productpage.1358191001.html",
+        "why": "A black crêpe midi with tonal paisley cord embroidery, an asymmetric wrap hem and a front slit."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Black",
+        "img": "img/p75_shoes.png",
+        "name": "Somaya Pumps",
+        "price": "$69.98",
+        "url": "https://www.aldoshoes.com/products/somaya-black",
+        "why": "Black leather pointed pumps on a slim stiletto."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Black",
+        "img": "img/p75_bag.png",
+        "name": "Aliceiaa Crossbody Bag",
+        "price": "$39.98",
+        "url": "https://www.aldoshoes.com/products/aliceiaa-black",
+        "why": "A slim black envelope clutch; the fine gold chain tucks inside."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Gold",
+        "img": "img/p75_earrings.png",
+        "name": "Yelajar Earrings",
+        "price": "$12",
+        "url": "https://www.aldoshoes.com/products/yelajar-gold-14521429",
+        "why": "Small polished gold knot studs."
+      }
+    ],
+    "validUntil": "2026-12-31",
+    "affordable": true
+  },
+  {
+    "id": "p76",
+    "n": "TWS-P76",
+    "category": "Studio Noir",
+    "sub": "Ivory fluff & embroidered crêpe.",
+    "hero": "img/p76_model.png",
+    "note": "An ivory fluffy-knit sleeveless mock-neck top tucked into the same black embroidered crêpe skirt, with light beige patent slingbacks, a pearl-effect oval clutch and tiny gold knot studs. Soft, bright and festive.",
+    "occasions": [
+      "Christmas party",
+      "Holiday dinner",
+      "Evening out"
+    ],
+    "pieces": [
+      {
+        "brand": "H&M",
+        "color": "Cream",
+        "img": "img/p76_top.png",
+        "name": "Fluffy-Knit Mock Turtleneck Top",
+        "price": "$40.99",
+        "url": "https://www2.hm.com/en_us/productpage.1367696001.html",
+        "why": "A sleeveless ivory top in a fluffy, textured knit with a mock neck; tuck it in."
+      },
+      {
+        "brand": "H&M",
+        "color": "Black",
+        "img": "img/p76_skirt.png",
+        "name": "Embroidered Crêpe Skirt",
+        "price": "$169",
+        "url": "https://www2.hm.com/en_us/productpage.1358191001.html",
+        "why": "A black crêpe midi with tonal paisley cord embroidery, an asymmetric wrap hem and a front slit."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Light beige",
+        "img": "img/p76_shoes.png",
+        "name": "Seralina Slingback Heels",
+        "price": "$110",
+        "url": "https://www.aldoshoes.com/products/seralina-light-beige",
+        "why": "Light beige patent pointed slingbacks."
+      },
+      {
+        "brand": "Mango",
+        "color": "Off-white",
+        "img": "img/p76_bag.png",
+        "name": "Pearl-Effect Clutch Bag",
+        "price": "£49.99",
+        "url": "https://shop.mango.com/gb/en/p/women/bags/party/pearl-effect-clutch-bag/47091389/02/00",
+        "why": "A rigid oval clutch with a pearly finish and a gold clasp."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Gold",
+        "img": "img/p76_earrings.png",
+        "name": "Yelajar Earrings",
+        "price": "$12",
+        "url": "https://www.aldoshoes.com/products/yelajar-gold-14521429",
+        "why": "Small polished gold knot studs."
+      }
+    ],
+    "validUntil": "2026-12-31",
+    "affordable": true
+  },
+  {
+    "id": "p77",
+    "n": "TWS-P77",
+    "category": "Studio Noir",
+    "sub": "Chocolate square-neck & black paisley.",
+    "hero": "img/p77_model.png",
+    "note": "A dark brown square-neck top tucked into the black embroidered crêpe skirt, with a brown croc-effect clutch, dark brown kitten-heel slingbacks and tiny gold knot studs. Warm chocolate against black, quietly elegant.",
+    "occasions": [
+      "Christmas party",
+      "Holiday dinner",
+      "Evening out"
+    ],
+    "pieces": [
+      {
+        "brand": "H&M",
+        "color": "Dark brown",
+        "img": "img/p77_top.png",
+        "name": "Open-Back Square-Neck Top",
+        "price": "$19.99",
+        "url": "https://www2.hm.com/en_us/productpage.1383338001.html",
+        "why": "A fitted dark brown top with a square neckline, wide straps and seaming under the bust."
+      },
+      {
+        "brand": "H&M",
+        "color": "Black",
+        "img": "img/p77_skirt.png",
+        "name": "Embroidered Crêpe Skirt",
+        "price": "$169",
+        "url": "https://www2.hm.com/en_us/productpage.1358191001.html",
+        "why": "A black crêpe midi with tonal paisley cord embroidery, an asymmetric wrap hem and a front slit."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Dark brown",
+        "img": "img/p77_bag.png",
+        "name": "Alexzandraax Clutch",
+        "price": "$49.98",
+        "url": "https://www.aldoshoes.com/products/alexzandraax-dark-brown",
+        "why": "A structured brown croc-effect clutch with a gold triangle clasp."
+      },
+      {
+        "brand": "H&M",
+        "color": "Dark brown",
+        "img": "img/p77_shoes.png",
+        "name": "Heeled Slingbacks",
+        "price": "$23.99",
+        "url": "https://www2.hm.com/en_us/productpage.1356801002.html",
+        "why": "Dark brown pointed kitten-heel slingbacks."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Gold",
+        "img": "img/p77_earrings.png",
+        "name": "Yelajar Earrings",
+        "price": "$12",
+        "url": "https://www.aldoshoes.com/products/yelajar-gold-14521429",
+        "why": "Small polished gold knot studs."
+      }
+    ],
+    "validUntil": "2026-12-31",
+    "affordable": true
   }
 ]

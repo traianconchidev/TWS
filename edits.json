@@ -427,5 +427,18 @@
    "p71",
    "p73"
   ]
+ },
+ {
+  "slug": "one-embroidered-skirt-three-ways",
+  "type": "guide",
+  "eyebrow": "Holiday Party",
+  "title": "One Skirt, Three Styles",
+  "intro": "One black embroidered crêpe skirt, styled three ways for the holidays: a red off-shoulder sweater with black pumps, an ivory fluffy knit with pale slingbacks and a pearl clutch, or a chocolate square-neck top with brown accents. Tuck the top in, keep the studs small. Tap any look to shop every piece.",
+  "hero": "img/os_skirt3.jpg",
+  "lookIds": [
+   "p75",
+   "p76",
+   "p77"
+  ]
  }
 ]
