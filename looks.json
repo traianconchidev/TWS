@@ -4534,5 +4534,67 @@
     ],
     "validUntil": "2026-12-31",
     "affordable": true
+  },
+  {
+    "id": "p78",
+    "n": "TWS-P78",
+    "category": "Studio Noir",
+    "sub": "Cherry halter & black velvet.",
+    "hero": "img/p78_model.png",
+    "note": "A dark cherry halter top with a pleated stand-up collar, tucked into high-waist black velvet wide-leg trousers, with black satin slingbacks on gold heels, a small fringed bag on a gold chain and tiny gold knot studs. Polished and festive for the office Christmas party.",
+    "occasions": [
+      "Office Christmas party",
+      "Christmas party",
+      "Holiday evening"
+    ],
+    "pieces": [
+      {
+        "brand": "H&M",
+        "color": "Dark red",
+        "img": "img/p78_top.png",
+        "name": "Tie-Detail Viscose-Blend Top",
+        "price": "$14.99",
+        "url": "https://www2.hm.com/en_us/productpage.1361566003.html",
+        "why": "A sleeveless halter in softly sheened viscose with a pleated stand-up collar; tuck it in."
+      },
+      {
+        "brand": "H&M",
+        "color": "Black",
+        "img": "img/p78_trousers.png",
+        "name": "Wide-Leg Pants",
+        "price": "$43.99",
+        "url": "https://www2.hm.com/en_us/productpage.1368447001.html",
+        "why": "High-waist black velvet-touch trousers with front pleats and long, straight wide legs."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Black",
+        "img": "img/p78_shoes.png",
+        "name": "Puckerup Slingback Heels",
+        "price": "$110",
+        "url": "https://www.aldoshoes.com/products/puckerup-other-black",
+        "why": "Black satin pointed slingbacks on a slim gold stiletto heel."
+      },
+      {
+        "brand": "H&M",
+        "color": "Black",
+        "img": "img/p78_bag.png",
+        "name": "Fringed Shoulder Bag",
+        "price": "$29.99",
+        "url": "https://www2.hm.com/en_us/productpage.1363077001.html",
+        "why": "A small satin bag covered in long fringe, on a gold snake-chain strap."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Gold",
+        "img": "img/p78_earrings.png",
+        "name": "Yelajar Earrings",
+        "price": "$12",
+        "url": "https://www.aldoshoes.com/products/yelajar-gold-14521429",
+        "why": "Small polished gold knot studs."
+      }
+    ],
+    "validUntil": "2026-12-31",
+    "affordable": true
   }
 ]
