@@ -4931,5 +4931,66 @@
       }
     ],
     "validUntil": "2026-12-31"
+  },
+  {
+    "id": "p84",
+    "n": "TWS-P84",
+    "category": "Studio Noir",
+    "sub": "White one-shoulder & a black velvet bow.",
+    "hero": "img/p84_model.png",
+    "note": "A crisp white one-shoulder peplum top tied with a long black velvet bow, slim straight black dress pants, black ankle-strap pumps, a suede half-moon bag with a hammered gold ring handle and black velvet button earrings. Black and white, polished for New Year's Eve.",
+    "occasions": [
+      "New Year's Eve",
+      "Holiday party",
+      "Evening out"
+    ],
+    "pieces": [
+      {
+        "brand": "H&M",
+        "color": "White/black",
+        "img": "img/p84_top.png",
+        "name": "Bow-Detail One-Shoulder Top",
+        "price": "$17.99",
+        "url": "https://www2.hm.com/en_us/productpage.1310382004.html",
+        "why": "A fitted white one-shoulder top with a peplum and a long black velvet bow at the shoulder."
+      },
+      {
+        "brand": "H&M",
+        "color": "Black",
+        "img": "img/p84_trousers.png",
+        "name": "Dress Pants with Belt",
+        "price": "$39.99",
+        "url": "https://www2.hm.com/en_us/productpage.1370291001.html",
+        "why": "Straight-leg black twill trousers with pressed creases; they come with a studded belt, worn here without it."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Black",
+        "img": "img/p84_shoes.png",
+        "name": "Carolling Pumps",
+        "price": "$110",
+        "url": "https://www.aldoshoes.com/products/carolling-other-black-14506284",
+        "why": "Black pointed pumps with a wrapped ankle strap and gold buckle."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Black",
+        "img": "img/p84_bag.png",
+        "name": "Foxsyyx Bag",
+        "price": "$65",
+        "url": "https://www.aldoshoes.com/products/foxsyyx-black",
+        "why": "A small black suede half-moon bag with a sculpted, hammered gold ring handle."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Black/gold",
+        "img": "img/p84_earrings.png",
+        "name": "Velvetti Earrings",
+        "price": "$25",
+        "url": "https://www.aldoshoes.com/products/velvetti-black-gold-multi",
+        "why": "Cushion-shaped black velvet buttons framed in thin gold."
+      }
+    ],
+    "validUntil": "2026-12-31"
   }
 ]
