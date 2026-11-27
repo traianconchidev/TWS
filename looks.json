@@ -4596,5 +4596,76 @@
     ],
     "validUntil": "2026-12-31",
     "affordable": true
+  },
+  {
+    "id": "p79",
+    "n": "TWS-P79",
+    "category": "Studio Noir",
+    "sub": "Cream peplum & Christmas red.",
+    "hero": "img/p79_model.png",
+    "note": "A cream strapless bandeau with an asymmetric peplum over bright red flared trousers, with red velvet kitten-heel slingbacks, a white beaded crescent bag, a four-strand gold choker and tiny gold knot studs. Festive red and winter cream for a Christmas party.",
+    "occasions": [
+      "Christmas party",
+      "Holiday evening",
+      "New Year's Eve"
+    ],
+    "pieces": [
+      {
+        "brand": "H&M",
+        "color": "Cream",
+        "img": "img/p79_top.png",
+        "name": "Asymmetric Bandeau Top",
+        "price": "$21.99",
+        "url": "https://www2.hm.com/en_us/productpage.1368250001.html",
+        "why": "A strapless crêpe-jersey bandeau with a fold-over edge and an asymmetric peplum hem."
+      },
+      {
+        "brand": "H&M",
+        "color": "Red",
+        "img": "img/p79_trousers.png",
+        "name": "Flared Dress Pants",
+        "price": "$23.99",
+        "url": "https://www2.hm.com/en_us/productpage.1309339002.html",
+        "why": "Bright red tailored trousers with pressed creases and a soft flare."
+      },
+      {
+        "brand": "H&M",
+        "color": "Red",
+        "img": "img/p79_shoes.png",
+        "name": "Heeled Slingbacks",
+        "price": "$23.99",
+        "url": "https://www2.hm.com/en_us/productpage.1356801003.html",
+        "why": "Red velvet pointed slingbacks on a low kitten heel."
+      },
+      {
+        "brand": "ALDO",
+        "color": "White",
+        "img": "img/p79_bag.png",
+        "name": "Sireniaa Shoulder Bag",
+        "price": "$54.98",
+        "url": "https://www.aldoshoes.com/products/sireniaa-other-white",
+        "why": "A small crescent bag in clear beading with a chunky gold chain handle; carry it in hand."
+      },
+      {
+        "brand": "H&M",
+        "color": "Gold",
+        "img": "img/p79_necklace.png",
+        "name": "Four-Strand Necklace",
+        "price": "$14.99",
+        "url": "https://www2.hm.com/en_us/productpage.1319517001.html",
+        "why": "Four flat herringbone chains worn close at the base of the neck."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Gold",
+        "img": "img/p79_earrings.png",
+        "name": "Yelajar Earrings",
+        "price": "$12",
+        "url": "https://www.aldoshoes.com/products/yelajar-gold-14521429",
+        "why": "Small polished gold knot studs."
+      }
+    ],
+    "validUntil": "2026-12-31",
+    "affordable": true
   }
 ]
