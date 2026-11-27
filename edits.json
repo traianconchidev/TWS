@@ -440,5 +440,19 @@
    "p76",
    "p77"
   ]
+ },
+ {
+  "slug": "affordable-party-trousers",
+  "type": "guide",
+  "eyebrow": "Affordable Party Edit",
+  "title": "Party Trousers, Four Ways",
+  "intro": "Four affordable party outfits built on trousers: a cherry halter with black velvet for the office party, a cream peplum with Christmas red, navy sequins with oxblood, and black velvet with ivory for New Year's Eve. Tap any look to shop every piece.",
+  "hero": "img/ap_trousers4.jpg",
+  "lookIds": [
+   "p78",
+   "p79",
+   "p80",
+   "p81"
+  ]
  }
 ]

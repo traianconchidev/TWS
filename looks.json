@@ -4667,5 +4667,147 @@
     ],
     "validUntil": "2026-12-31",
     "affordable": true
+  },
+  {
+    "id": "p80",
+    "n": "TWS-P80",
+    "category": "Studio Noir",
+    "sub": "Navy sequins & oxblood trousers.",
+    "hero": "img/p80_model.png",
+    "note": "A midnight-navy sequined bustier worn over high-waist oxblood pleated trousers, cinched with a slim black belt and gold buckle, with black patent slingbacks, a patent envelope clutch, a four-strand gold choker and tiny gold knot studs. Sparkle and deep red for a Christmas party.",
+    "occasions": [
+      "Christmas party",
+      "Holiday evening",
+      "New Year's Eve"
+    ],
+    "pieces": [
+      {
+        "brand": "H&M",
+        "color": "Navy blue",
+        "img": "img/p80_top.png",
+        "name": "Sequined Bustier Top",
+        "price": "$23.99",
+        "url": "https://www2.hm.com/en_us/productpage.1370427001.html",
+        "why": "A fitted sequined bustier with a sweetheart neckline and thin straps."
+      },
+      {
+        "brand": "H&M",
+        "color": "Oxblood",
+        "img": "img/p80_trousers.png",
+        "name": "Dress Pants",
+        "price": "$19.99",
+        "url": "https://www2.hm.com/en_us/productpage.1302434003.html",
+        "why": "High-waist pleated trousers in deep oxblood with pressed creases."
+      },
+      {
+        "brand": "H&M",
+        "color": "Black",
+        "img": "img/p80_belt.png",
+        "name": "Belt",
+        "price": "$11.99",
+        "url": "https://www2.hm.com/en_us/productpage.1315700001.html",
+        "why": "A narrow black belt with a sculpted gold buckle, worn at the waist."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Black",
+        "img": "img/p80_shoes.png",
+        "name": "Seralina Slingback Heels",
+        "price": "$110",
+        "url": "https://www.aldoshoes.com/products/seralina-black",
+        "why": "Black patent pointed slingbacks with a slim heel."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Black",
+        "img": "img/p80_bag.png",
+        "name": "Iilianaa Clutch",
+        "price": "$55",
+        "url": "https://www.aldoshoes.com/products/iilianaa-black",
+        "why": "A slim black patent envelope clutch with a gold turn-lock and wrist strap."
+      },
+      {
+        "brand": "H&M",
+        "color": "Gold",
+        "img": "img/p80_necklace.png",
+        "name": "Four-Strand Necklace",
+        "price": "$14.99",
+        "url": "https://www2.hm.com/en_us/productpage.1319517001.html",
+        "why": "Four flat herringbone chains worn close at the base of the neck."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Gold",
+        "img": "img/p80_earrings.png",
+        "name": "Yelajar Earrings",
+        "price": "$12",
+        "url": "https://www.aldoshoes.com/products/yelajar-gold-14521429",
+        "why": "Small polished gold knot studs."
+      }
+    ],
+    "validUntil": "2026-12-31",
+    "affordable": true
+  },
+  {
+    "id": "p81",
+    "n": "TWS-P81",
+    "category": "Studio Noir",
+    "sub": "Black velvet peplum & ivory trousers.",
+    "hero": "img/p81_model.png",
+    "note": "A black velour bandeau with a flared peplum over ivory pleated trousers, with a gold open collar tipped in pear-cut crystals, black patent slingbacks and a patent envelope clutch. Black and winter white for New Year's Eve.",
+    "occasions": [
+      "New Year's Eve",
+      "Holiday party",
+      "Evening out"
+    ],
+    "pieces": [
+      {
+        "brand": "H&M",
+        "color": "Black",
+        "img": "img/p81_top.png",
+        "name": "Velour Bandeau Top",
+        "price": "$18.99",
+        "url": "https://www2.hm.com/en_us/productpage.1370835001.html",
+        "why": "A strapless velour bandeau with visible seams and a flared peplum."
+      },
+      {
+        "brand": "H&M",
+        "color": "White",
+        "img": "img/p81_trousers.png",
+        "name": "Dress Pants",
+        "price": "$19.99",
+        "url": "https://www2.hm.com/en_us/productpage.1302434002.html",
+        "why": "High-waist ivory pleated trousers with pressed creases."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Gold/clear",
+        "img": "img/p81_necklace.png",
+        "name": "Naomia Necklace",
+        "price": "$22",
+        "url": "https://www.aldoshoes.com/products/naomia-gold-clear-multi",
+        "why": "A slim gold open collar finished with graduated pear-cut crystals."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Black",
+        "img": "img/p81_shoes.png",
+        "name": "Seralina Slingback Heels",
+        "price": "$110",
+        "url": "https://www.aldoshoes.com/products/seralina-black",
+        "why": "Black patent pointed slingbacks with a slim heel."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Black",
+        "img": "img/p81_bag.png",
+        "name": "Iilianaa Clutch",
+        "price": "$55",
+        "url": "https://www.aldoshoes.com/products/iilianaa-black",
+        "why": "A slim black patent envelope clutch with a gold turn-lock and wrist strap."
+      }
+    ],
+    "validUntil": "2026-12-31",
+    "affordable": true
   }
 ]
