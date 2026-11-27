@@ -4869,7 +4869,8 @@
         "why": "Gold chandelier earrings with smoky faceted stones and amber drops."
       }
     ],
-    "validUntil": "2026-12-31"
+    "validUntil": "2026-12-31",
+    "affordable": true
   },
   {
     "id": "p83",
@@ -4930,7 +4931,8 @@
         "why": "Fine bronze snake-chain tassels falling from a small gold stud."
       }
     ],
-    "validUntil": "2026-12-31"
+    "validUntil": "2026-12-31",
+    "affordable": true
   },
   {
     "id": "p84",
@@ -4991,6 +4993,7 @@
         "why": "Cushion-shaped black velvet buttons framed in thin gold."
       }
     ],
-    "validUntil": "2026-12-31"
+    "validUntil": "2026-12-31",
+    "affordable": true
   }
 ]

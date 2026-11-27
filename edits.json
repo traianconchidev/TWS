@@ -454,5 +454,19 @@
    "p80",
    "p81"
   ]
+ },
+ {
+  "slug": "affordable-nye-trousers",
+  "type": "guide",
+  "eyebrow": "Affordable New Year's Eve",
+  "title": "New Year's Eve in Trousers",
+  "intro": "Four affordable New Year's Eve outfits built on trousers: black velvet with ivory, champagne shimmer with a fold-over waist, a cream cape top with bronze heels, and a white one-shoulder top tied with a black velvet bow. Tap any look to shop every piece.",
+  "hero": "img/an_nye4.jpg",
+  "lookIds": [
+   "p81",
+   "p82",
+   "p83",
+   "p84"
+  ]
  }
 ]
