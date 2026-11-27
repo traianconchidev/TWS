@@ -4809,5 +4809,66 @@
     ],
     "validUntil": "2026-12-31",
     "affordable": true
+  },
+  {
+    "id": "p82",
+    "n": "TWS-P82",
+    "category": "Studio Noir",
+    "sub": "Champagne lace-up & black foldover trousers.",
+    "hero": "img/p82_model.png",
+    "note": "A champagne shimmer strappy top with front lacing, tucked into black foldover-waist wide-leg trousers, with black satin cross-strap pumps, a small fringed bag on a gold chain and amber statement chandelier earrings. Warm gold glow for New Year's Eve.",
+    "occasions": [
+      "New Year's Eve",
+      "Holiday party",
+      "Evening out"
+    ],
+    "pieces": [
+      {
+        "brand": "H&M",
+        "color": "Beige",
+        "img": "img/p82_top.png",
+        "name": "Lace-Up Strappy Top",
+        "price": "$31.99",
+        "url": "https://www2.hm.com/en_us/productpage.1370232001.html",
+        "why": "A fitted shimmering rib top with a low V-neck, thin straps and front lacing."
+      },
+      {
+        "brand": "H&M",
+        "color": "Black",
+        "img": "img/p82_trousers.png",
+        "name": "Dressy Foldover-Waist Pants",
+        "price": "$23.99",
+        "url": "https://www2.hm.com/en_us/productpage.1365374002.html",
+        "why": "High-waist wide-leg trousers with a wide fold-over waistband and front pleats."
+      },
+      {
+        "brand": "H&M",
+        "color": "Black",
+        "img": "img/p82_shoes.png",
+        "name": "Pointed Satin Pumps",
+        "price": "$21.99",
+        "url": "https://www2.hm.com/en_us/productpage.1304321001.html",
+        "why": "Black satin pointed pumps with a crossing ankle strap and gold buckle."
+      },
+      {
+        "brand": "H&M",
+        "color": "Black",
+        "img": "img/p82_bag.png",
+        "name": "Fringed Shoulder Bag",
+        "price": "$29.99",
+        "url": "https://www2.hm.com/en_us/productpage.1363077001.html",
+        "why": "A small satin bag covered in long fringe, on a gold snake-chain strap."
+      },
+      {
+        "brand": "H&M",
+        "color": "Gold/amber",
+        "img": "img/p82_earrings.png",
+        "name": "Statement Dangle Earrings",
+        "price": "$23.99",
+        "url": "https://www2.hm.com/en_us/productpage.1381882001.html",
+        "why": "Gold chandelier earrings with smoky faceted stones and amber drops."
+      }
+    ],
+    "validUntil": "2026-12-31"
   }
 ]
