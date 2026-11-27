@@ -4870,5 +4870,66 @@
       }
     ],
     "validUntil": "2026-12-31"
+  },
+  {
+    "id": "p83",
+    "n": "TWS-P83",
+    "category": "Studio Noir",
+    "sub": "Cream cape top & bronze heels.",
+    "hero": "img/p83_model.png",
+    "note": "A cream crêpe top with an asymmetric cape over one shoulder, black cropped flared trousers, metallic bronze pumps, a slim black envelope clutch and bronze chain tassel earrings. Clean, sculptural and festive for a New Year's Eve dinner.",
+    "occasions": [
+      "New Year's Eve",
+      "Holiday dinner",
+      "Evening out"
+    ],
+    "pieces": [
+      {
+        "brand": "H&M",
+        "color": "Cream",
+        "img": "img/p83_top.png",
+        "name": "Cape-Detail Crêpe Top",
+        "price": "$18.99",
+        "url": "https://www2.hm.com/en_us/productpage.1349001001.html",
+        "why": "A sleeveless crêpe top with a high neck and an asymmetric cape layer over one shoulder."
+      },
+      {
+        "brand": "H&M",
+        "color": "Black",
+        "img": "img/p83_trousers.png",
+        "name": "Flared Dress Pants",
+        "price": "$31.99",
+        "url": "https://www2.hm.com/en_us/productpage.1371427001.html",
+        "why": "Fitted, ankle-length black trousers with a soft flare and pressed creases."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Bronze",
+        "img": "img/p83_shoes.png",
+        "name": "Stazya Pumps",
+        "price": "$120",
+        "url": "https://www.aldoshoes.com/products/stazya-bronze",
+        "why": "Metallic bronze pointed stiletto pumps with a crinkled shine."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Black",
+        "img": "img/p83_bag.png",
+        "name": "Aliceiaa Crossbody Bag",
+        "price": "$39.98",
+        "url": "https://www.aldoshoes.com/products/aliceiaa-black",
+        "why": "A slim black envelope clutch; the fine gold chain tucks inside."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Light brown",
+        "img": "img/p83_earrings.png",
+        "name": "Dallorynmini Earrings",
+        "price": "$12",
+        "url": "https://www.aldoshoes.com/products/dallorynmini-light-brown",
+        "why": "Fine bronze snake-chain tassels falling from a small gold stud."
+      }
+    ],
+    "validUntil": "2026-12-31"
   }
 ]
