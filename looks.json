@@ -4995,5 +4995,423 @@
     ],
     "validUntil": "2026-12-31",
     "affordable": true
+  },
+  {
+    "id": "p85",
+    "n": "TWS-P85",
+    "category": "9 to 5 Luxe",
+    "sub": "Sky blue knit & dark navy.",
+    "hero": "img/p85_model.png",
+    "note": "A sky blue wool sweater over a crisp white poplin shirt, dark navy straight suit trousers, a slim chocolate leather belt and chocolate penny loafers, with small gold hoops. A bright Monday morning at the office, coffee in hand.",
+    "occasions": [
+      "Office",
+      "Workday",
+      "Business casual"
+    ],
+    "pieces": [
+      {
+        "brand": "Mango",
+        "color": "Sky blue",
+        "img": "img/p85_top.png",
+        "name": "100% Wool Round-Neck Sweater",
+        "price": "£39.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37015843/50/00",
+        "why": "A fine 100% wool crew neck in soft sky blue; wear it over the shirt with the collar out."
+      },
+      {
+        "brand": "Mango",
+        "color": "White",
+        "img": "img/p85_shirt.png",
+        "name": "Slim-Fit Poplin Shirt",
+        "price": "£25.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37084067/01/00",
+        "why": "A crisp white cotton poplin shirt, collar and cuffs showing."
+      },
+      {
+        "brand": "Mango",
+        "color": "Dark navy",
+        "img": "img/p85_trousers.png",
+        "name": "Straight Suit Trousers",
+        "price": "£35.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37095858/69/00",
+        "why": "Straight-leg dark navy suit trousers with a pressed crease."
+      },
+      {
+        "brand": "Mango",
+        "color": "Chocolate",
+        "img": "img/p85_belt.png",
+        "name": "Leather Belt with Oval Buckle",
+        "price": "£17.99",
+        "url": "https://shop.mango.com/gb/en/p/women/27051334/32/00",
+        "why": "A slim chocolate leather belt with an oval gold buckle."
+      },
+      {
+        "brand": "Mango",
+        "color": "Chocolate",
+        "img": "img/p85_shoes.png",
+        "name": "Leather Penny Loafers",
+        "price": "£89.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37095148/32/00",
+        "why": "Glossy chocolate leather penny loafers."
+      },
+      {
+        "name": "Mini Chunky Hoop Earrings",
+        "brand": "COS",
+        "color": "Gold",
+        "price": "€29",
+        "why": "Small chunky gold hoops — a touch of shine that echoes the belt buckle.",
+        "img": "img/p85_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
+      }
+    ],
+    "validUntil": "2027-02-28"
+  },
+  {
+    "id": "p86",
+    "n": "TWS-P86",
+    "category": "Off-Duty Casual",
+    "sub": "Houndstooth & a florist stop.",
+    "hero": "img/p86_model.png",
+    "note": "A frayed black-and-white houndstooth blazer over a black turtleneck, dark straight jeans, a black square-buckle belt, black penny loafers and a structured black top-handle bag. A crisp city morning, a bunch of pink peonies from the florist on the way home.",
+    "occasions": [
+      "Weekend in the city",
+      "Errands",
+      "Brunch"
+    ],
+    "pieces": [
+      {
+        "brand": "Mango",
+        "color": "Black/white",
+        "img": "img/p86_blazer.png",
+        "name": "Frayed Houndstooth Blazer",
+        "price": "£79.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37018291/99/00",
+        "why": "A houndstooth tweed blazer with frayed edges; the statement piece."
+      },
+      {
+        "brand": "Mango",
+        "color": "Black",
+        "img": "img/p86_top.png",
+        "name": "Turtleneck Knitted Sweater",
+        "price": "£20.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37017793/99/00",
+        "why": "A fine black turtleneck to sit under the blazer."
+      },
+      {
+        "brand": "Mango",
+        "color": "Dark blue",
+        "img": "img/p86_jeans.png",
+        "name": "Mid-Rise Straight Jeans",
+        "price": "£23.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37034114/TO/00",
+        "why": "Dark straight-leg jeans, full length."
+      },
+      {
+        "brand": "Mango",
+        "color": "Black",
+        "img": "img/p86_belt.png",
+        "name": "Square Buckle Belt",
+        "price": "£17.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37064420/99/00",
+        "why": "A slim black leather belt with a square gold buckle."
+      },
+      {
+        "brand": "Mango",
+        "color": "Black",
+        "img": "img/p86_shoes.png",
+        "name": "Leather Penny Loafers",
+        "price": "£89.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37095148/99/00",
+        "why": "Glossy black leather penny loafers."
+      },
+      {
+        "brand": "ALDO",
+        "color": "Black",
+        "img": "img/p86_bag.png",
+        "name": "Veincee Top Handle Bag",
+        "price": "$39.98",
+        "url": "https://www.aldoshoes.com/products/veincee-black",
+        "why": "A structured black croc-effect top-handle bag with a gold clasp."
+      },
+      {
+        "name": "Mini Chunky Hoop Earrings",
+        "brand": "COS",
+        "color": "Gold",
+        "price": "€29",
+        "why": "Small chunky gold hoops — a touch of shine that echoes the belt buckle.",
+        "img": "img/p86_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
+      }
+    ],
+    "validUntil": "2027-02-15"
+  },
+  {
+    "id": "p87",
+    "n": "TWS-P87",
+    "category": "Off-Duty Casual",
+    "sub": "The riding edit.",
+    "hero": "img/p87_model.png",
+    "note": "A camel 100% wool turtleneck under a khaki quilted riding gilet, black stirrup leggings, a black square-buckle belt and black leather knee-high boots, with small gold hoops. An autumn morning at the stables, leading the horse out of the yard.",
+    "occasions": [
+      "Countryside weekend",
+      "Equestrian",
+      "Autumn morning"
+    ],
+    "pieces": [
+      {
+        "brand": "Mango",
+        "color": "Camel",
+        "img": "img/p87_top.png",
+        "name": "100% Wool Turtleneck Sweater",
+        "price": "£79.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37022924/30/00",
+        "why": "A relaxed camel turtleneck in pure wool."
+      },
+      {
+        "brand": "H&M",
+        "color": "Khaki green",
+        "img": "img/p87_gilet.png",
+        "name": "Slim Fit Padded Riding Gilet",
+        "price": "£60",
+        "url": "https://www2.hm.com/en_gb/productpage.1314808001.html",
+        "why": "A diamond-quilted khaki riding gilet with press studs and a contrast trim."
+      },
+      {
+        "brand": "Mango",
+        "color": "Black",
+        "img": "img/p87_leggings.png",
+        "name": "Stirrup Leggings",
+        "price": "£29.99",
+        "url": "https://shop.mango.com/gb/en/p/women/47051437/99/00",
+        "why": "Black stirrup leggings, a clean riding line."
+      },
+      {
+        "brand": "Mango",
+        "color": "Black",
+        "img": "img/p87_belt.png",
+        "name": "Square Buckle Belt",
+        "price": "£9.99",
+        "url": "https://shop.mango.com/gb/en/p/women/27021216/99/00",
+        "why": "A black leather belt with a square gold buckle."
+      },
+      {
+        "brand": "Mango",
+        "color": "Black",
+        "img": "img/p87_boots.png",
+        "name": "Leather High Boots",
+        "price": "£169.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37045990/99/00",
+        "why": "Black leather knee-high riding boots."
+      },
+      {
+        "name": "Mini Chunky Hoop Earrings",
+        "brand": "COS",
+        "color": "Gold",
+        "price": "€29",
+        "why": "Small chunky gold hoops — a touch of shine that echoes the belt buckle.",
+        "img": "img/p87_earrings.png",
+        "url": "https://www.cos.com/en-ie/women/accessories/jewellery/earrings/product/mini-chunky-hoop-earrings-gold-1369780001"
+      }
+    ],
+    "validUntil": "2027-02-15"
+  },
+  {
+    "id": "p88",
+    "n": "TWS-P88",
+    "category": "Off-Duty Casual",
+    "sub": "Chocolate coat & a red sweater.",
+    "hero": "img/p88_model.png",
+    "note": "A chocolate wool coat with a wide collar and belt, a red 100% wool crew neck, dark straight jeans and chocolate penny loafers. A cold Saturday morning at the Christmas market, a hot cup in both hands.",
+    "occasions": [
+      "Christmas market",
+      "Weekend",
+      "Winter morning"
+    ],
+    "pieces": [
+      {
+        "brand": "Mango",
+        "color": "Chocolate",
+        "img": "img/p88_coat.png",
+        "name": "Woollen Coat with Belt",
+        "price": "£135.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37028279/32/00",
+        "why": "A long chocolate wool coat with a wide shawl collar and a tie belt."
+      },
+      {
+        "brand": "Mango",
+        "color": "Red",
+        "img": "img/p88_top.png",
+        "name": "100% Wool Round-Neck Sweater",
+        "price": "£49.99",
+        "url": "https://shop.mango.com/gb/en/p/women/47011368/70/00",
+        "why": "A pure wool crew neck in Christmas red."
+      },
+      {
+        "brand": "Mango",
+        "color": "Dark blue",
+        "img": "img/p88_jeans.png",
+        "name": "High Waist Straight Jeans",
+        "price": "£25.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37085851/TO/00",
+        "why": "High-waist dark straight jeans."
+      },
+      {
+        "brand": "Mango",
+        "color": "Chocolate",
+        "img": "img/p88_shoes.png",
+        "name": "Leather Penny Loafers",
+        "price": "£89.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37095148/32/00",
+        "why": "Glossy chocolate leather penny loafers."
+      }
+    ],
+    "validUntil": "2026-12-31"
+  },
+  {
+    "id": "p89",
+    "n": "TWS-P89",
+    "category": "Off-Duty Casual",
+    "sub": "Ecru turtleneck & brown cords.",
+    "hero": "img/p89_model.png",
+    "note": "An ecru ribbed turtleneck, brown flared corduroy trousers and chocolate suede block-heel ankle boots. A slow Sunday at the gallery, light falling through the skylight.",
+    "occasions": [
+      "Sunday gallery",
+      "Weekend",
+      "Museum"
+    ],
+    "pieces": [
+      {
+        "brand": "Mango",
+        "color": "Ecru",
+        "img": "img/p89_top.png",
+        "name": "Turtleneck Ribbed Sweater",
+        "price": "£22.19",
+        "url": "https://shop.mango.com/gb/en/p/women/37007813/05/00",
+        "why": "A soft ecru ribbed turtleneck with a relaxed shape."
+      },
+      {
+        "brand": "Mango",
+        "color": "Brown",
+        "img": "img/p89_trousers.png",
+        "name": "Flared Corduroy Trousers",
+        "price": "£39.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37037790/30/00",
+        "why": "Brown corduroy trousers with a gentle flare."
+      },
+      {
+        "brand": "Mango",
+        "color": "Chocolate",
+        "img": "img/p89_boots.png",
+        "name": "Suede Block-Heel Boots",
+        "price": "£59.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37015989/32/00",
+        "why": "Chocolate suede ankle boots with a block heel and pointed toe."
+      }
+    ],
+    "validUntil": "2027-02-15"
+  },
+  {
+    "id": "p90",
+    "n": "TWS-P90",
+    "category": "Off-Duty Casual",
+    "sub": "Light grey coat & black trousers.",
+    "hero": "img/p90_model.png",
+    "note": "A long light grey Manteco wool coat over a heather grey V-neck jumper, black high-waist suit trousers and black pointed stilettos. Arriving for Sunday brunch at a Parisian café, waving to a friend.",
+    "occasions": [
+      "Sunday brunch",
+      "Weekend in the city",
+      "Winter"
+    ],
+    "pieces": [
+      {
+        "brand": "Mango",
+        "color": "Light grey",
+        "img": "img/p90_coat.png",
+        "name": "Manteco Wool Coat",
+        "price": "£179.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37017808/06/00",
+        "why": "A long double-breasted wool coat with a funnel neck and tie belt."
+      },
+      {
+        "brand": "Mango",
+        "color": "Heather grey",
+        "img": "img/p90_top.png",
+        "name": "Ribbed V-Neck Jumper",
+        "price": "£18.49",
+        "url": "https://shop.mango.com/gb/en/p/women/37007797/94/00",
+        "why": "A soft heather grey ribbed V-neck."
+      },
+      {
+        "brand": "Mango",
+        "color": "Black",
+        "img": "img/p90_trousers.png",
+        "name": "High-Waist Suit Trousers",
+        "price": "£49.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37075841/99/00",
+        "why": "High-waist black suit trousers with a long, flared leg."
+      },
+      {
+        "brand": "Mango",
+        "color": "Black",
+        "img": "img/p90_shoes.png",
+        "name": "Stiletto Heel Shoe",
+        "price": "£49.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37064404/99/00",
+        "why": "Black pointed stiletto pumps."
+      }
+    ],
+    "validUntil": "2027-02-15"
+  },
+  {
+    "id": "p91",
+    "n": "TWS-P91",
+    "category": "Studio Noir",
+    "sub": "Maroon velvet & black lace.",
+    "hero": "img/p91_model.png",
+    "note": "A maroon velvet suit jacket over a black long-sleeve lace bodysuit, black velvet suit trousers and black pointed stilettos. A candlelit dinner with friends, raising a glass for a toast.",
+    "occasions": [
+      "Candlelit dinner",
+      "Evening out",
+      "Holiday evening"
+    ],
+    "pieces": [
+      {
+        "brand": "Mango",
+        "color": "Maroon",
+        "img": "img/p91_jacket.png",
+        "name": "Velvet Suit Jacket",
+        "price": "£89.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37099114/76/00",
+        "why": "A single-breasted velvet blazer in deep maroon."
+      },
+      {
+        "brand": "Mango",
+        "color": "Black",
+        "img": "img/p91_top.png",
+        "name": "Long-Sleeve Lace Bodysuit",
+        "price": "£45.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37079137/99/00",
+        "why": "A black lace bodysuit with a high neck and long sleeves."
+      },
+      {
+        "brand": "Mango",
+        "color": "Black",
+        "img": "img/p91_trousers.png",
+        "name": "Velvet Suit Trousers",
+        "price": "£49.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37088284/99/00",
+        "why": "Wide black velvet suit trousers."
+      },
+      {
+        "brand": "Mango",
+        "color": "Black",
+        "img": "img/p91_shoes.png",
+        "name": "Stiletto Heel Shoe",
+        "price": "£49.99",
+        "url": "https://shop.mango.com/gb/en/p/women/37064404/99/00",
+        "why": "Black pointed stiletto pumps."
+      }
+    ],
+    "validUntil": "2027-02-15"
   }
 ]
